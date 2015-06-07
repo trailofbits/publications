@@ -1,0 +1,197 @@
+/**
+ * Slippy
+ * Copyright (C) 2010, Jordi Boggiano
+ * http://seld.be/ - j.boggiano@seld.be
+ *
+ * Licensed under the new BSD License
+ * See the LICENSE file for details
+ */
+/** CSS Reset - Credits to Eric Meyer*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse; border-spacing:0}
+
+/** Core */
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    background: inherit;
+    overflow: hidden;
+}
+
+body.overview {
+    overflow: auto;
+}
+
+a, a:link, a:active, a:visited {
+    cursor: pointer;
+}
+
+a.eval {
+    float: right;
+    margin-right: .3em;
+    font-size: .8em;
+}
+
+.slide {
+    width: 620px;
+    height: 476px;
+    margin-left: -310px;
+    margin-top: -238px;
+    position: absolute;
+    top: 50%;
+    left: -100%;
+}
+
+body.slide-background .footer {
+    display: none;
+}
+
+#slippy-slide-background {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 0;
+}
+
+body.overview #slippy-slide-background {
+    display: none;
+}
+
+.layout {
+    display:none;
+}
+
+/** Overview screen */
+.overview .slide {
+    float: left;
+    position: relative;
+    top: auto !important;
+    left: auto !important;
+    margin: 2% !important;
+    -moz-transform: scale(0.2, 0.2);
+    -moz-transform-origin: 0 0;
+    -webkit-transform: scale(0.2, 0.2);
+    -webkit-transform-origin: 0 0;
+    -o-transform: scale(0.2, 0.2);
+    -o-transform-origin: 0 0;
+}
+
+.overviewWrapper {
+    float: left;
+    position: relative;
+}
+
+/** Footer */
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+/** Helper classes */
+.left {
+    float: left;
+    clear: left;
+}
+
+.right {
+    float: right;
+    clear: right;
+}
+
+.defloat {
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.vcenter {
+    position:absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+}
+
+.hcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/** Current slide indicator */
+.slideDisplay {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 5;
+}
+
+.overview .slideDisplay {
+    display: none;
+}
+
+/** Slide content div */
+.slideContent {
+    padding: 0 5%;
+    position: relative;
+}
+
+.slideContent .syntaxhighlighter {
+    clear: both;
+}
+.slideContent .syntaxhighlighter .line .number {
+    width: 1.5em !important;
+}
+.slideContent .syntaxhighlighter .line .number code {
+    width: 1.3em !important;
+    padding-right: .2em !important;
+}
+
+/** Alerts */
+.alertWrapper {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    width: 15%;
+    z-index: 10;
+}
+* html .alertWrapper {
+    position: absolute;
+}
+
+.alert {
+    position: relative;
+    display: block;
+}
+.alert p {
+    margin: 0;
+}
+
+/** Print */
+@media print {
+    @page {
+        size: landscape;
+    }
+
+    body, html {
+        margin: 0 0 0 0 !important;
+    }
+
+    a.eval, .slideDisplay {
+        display: none;
+    }
+
+    .backcode {
+        display: none;
+    }
+}

@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta name="generator" content="jekyll" />
+    <meta name="author" content="{{ page.author }}" />
+    <meta name="email" content="{{ page.email }}" />
+    <meta name="date" content="{{ page.date }}" />
+    <meta name="venue" content="{{ page.venue }}" />
+
+    <link rel="stylesheet" type="text/css" href="../css/slippy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/slippy-pure.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <script type="text/javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.history.js"></script>
+    <script type="text/javascript" src="../js/slippy.js"></script>
+
+    <style type="text/css">
+      #slides pre {
+        margin: 0.5em 0 0.5em 0;
+        padding: 0.5em;
+        background-color: black;
+        color: white;
+        white-space: pre;
+        overflow: auto;
+      }
+    </style>
+    <script type="text/javascript">
+      $(function() {
+        // settings go here
+        // possible values are:
+        //  - animLen, duration for default animations (0 = disabled)
+        //  - animInForward, receives a slide and animates it
+        //  - animInRewind, receives a slide and animates it
+        //  - animOutForward, receives a slide and animates it
+        //  - animOutRewind, receives a slide and animates it
+        //  - baseWidth, defines the base for img resizing, if you don't want only
+        //    full-width images, specify this as the pixel width of a slide so that
+        //    images are scaled properly (default is 620px wide)
+        //  - ratio, defines the width/height ratio of the slides, defaults to 1.3 (620x476)
+        //  - margin, the fraction of screen to use as slide margin, defaults to 0.15
+        $("#slides > .slide").slippy({animLen: 0});
+      });
+    </script>
+  </head>
+
+  <body>
+    <div id="slides">
+      {{ content }}
+    </div>
+
+    <div class="layout" data-name="default">
+      <content></content>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,153 @@
+/**
+ * Slippy
+ * Copyright (C) 2010, Jordi Boggiano
+ * http://seld.be/ - j.boggiano@seld.be
+ *
+ * Licensed under the new BSD License
+ * See the LICENSE file for details
+ */
+/**
+ * Slippy Dark Theme
+ */
+/** Core */
+html, body {
+    background: #000;
+    color: #fff;
+}
+
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+a, a:link, a:active, a:visited {
+    color: #ff8;
+    text-decoration: none;
+}
+
+a.eval {
+    background-color: #eb1b1b;
+    color: #000;
+    margin: .2em .4em 0 0;
+}
+
+.slide {
+    -moz-border-radius: 2em 0;
+    -webkit-border-radius: 2em 0;
+    border-radius: 2em 0;
+    border: .1em solid #ccc;
+    background: #242f53;
+}
+
+/** Overview screen */
+.overview .slide.active {
+    border: 0.5em solid #ffa;
+}
+.overviewWrapper:hover {
+    position: relative;
+    top: -.1em;
+    left: -.1em;
+}
+
+/** Footer */
+.footer {
+    -moz-border-radius: .8em 0 2em;
+    -webkit-border-radius: .8em 0 2em;
+    border-radius: .8em 0 2em;
+    border-top: .1em solid #ccc;
+    border-left: .1em solid #ccc;
+    left: -.1em;
+    text-align: center;
+    background: #1b233f;
+}
+.footerContent {
+    font-size: .85em;
+    padding: .5em 1em;
+}
+.footer span {
+    margin: .25em 0;
+}
+
+/** Specific element styling */
+.slide.big .slideContent > *:not(.footer) {
+    font-size: 1.7em;
+}
+
+h1, h2, h3, h4 {
+    margin: 0 0 .5em;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 1em;
+}
+
+.vcenter h1 {
+    margin-top: 0;
+}
+
+h2 {
+    margin-bottom: .25em;
+    font-size: 1.4em;
+}
+
+h3 {
+    margin-bottom: .25em;
+    font-size: 1.2em;
+}
+
+h4 {
+    margin-bottom: .25em;
+    font-size: 1.1em;
+}
+
+li {
+    font-size: 1.2em;
+}
+
+p {
+    margin:.25em 0;
+}
+
+ol, ul {
+    list-style: disc outside none;
+    margin-left: 2em;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+/** References links */
+a[rel=src] {
+    font-size: .6em;
+}
+a[rel=src]:before {
+    content: "ref:";
+}
+
+/** Current slide indicator */
+.slideDisplay {
+    color: #aaa;
+    padding: 1em;
+}
+
+/** TV Switcher */
+.switcherDigits {
+    color: #00ff00;
+    font: bold 2em "Courier New", Courier, fixed, sans-serif;
+    margin: .3em;
+}
+
+/** Alerts */
+.alert {
+    padding: .3em;
+    margin: 0 0 12px 0;
+    border: 2px solid #ccc;
+    background: #242f53;
+    color: #fff;
+    -webkit-border-radius: .3em;
+    -moz-border-radius: .3em;
+    border-radius: .3em;
+}
