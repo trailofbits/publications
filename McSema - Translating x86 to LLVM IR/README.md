@@ -14,3 +14,7 @@ More info
 * [A Preview of McSema](https://blog.trailofbits.com/2014/06/23/a-preview-of-mcsema/)
 * [Close Encounters with Symbolic Execution (Part 1)](https://blog.trailofbits.com/2014/11/25/close-encounters-with-symbolic-execution/)
 * [Close Encounters with Symbolic Execution (Part 2)](https://blog.trailofbits.com/2014/12/04/close-encounters-with-symbolic-execution-part-2/)
+
+Authors
+* Andrew Ruef
+* Artem Dinaburg
