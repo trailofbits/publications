@@ -15,4 +15,3 @@ More info
 Authors
 * Sophia D'Antoine
 * Dan Guido
-* Car Bauer
