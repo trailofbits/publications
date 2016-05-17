@@ -5,7 +5,7 @@ iOS applications have become an increasingly popular targets for hackers, revers
 Resources
 * [Slides](/iOS%20Application%20Security/iOS%20Application%20Security_notes.pdf) and [Video](http://original.livestream.com/etsycodeascraft/video?clipId=pla_d62e2a22-e7b8-4140-9b92-44c41c07c1cb)
 * [MAST](https://www.appsecuritytoolkit.com/), the Mobile Application Security Toolkit
-* * [ReMASTering Applications by Obfuscating during Compilation](https://blog.trailofbits.com/2014/08/20/remastering-applications-by-obfuscating-during-compilation/)
+* [ReMASTering Applications by Obfuscating during Compilation](https://blog.trailofbits.com/2014/08/20/remastering-applications-by-obfuscating-during-compilation/)
 
 Presented at
 * Etsy [Code as Craft](https://codeascraft.com/speakers/sophia-dantoine-modern-application-security-for-ios/) 
