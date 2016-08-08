@@ -17,6 +17,7 @@ Second, I’ll talk about how to patch bugs by translating binaries to LLVM bitc
 Finally, I will talk about how researchers should fundamentally change the way bug finding tools are developed. Currently each tools is its own discrete island. However, there are quantifiable benefits to be gained by applying the Unix philosophy of discrete, communicating tools to the problem of bug finding.
 
 Resources
+* [Video from ShakaCon](https://www.youtube.com/watch?v=pOuO5m1ljRI), July 2016
 * [Slides from Infiltrate](/Cyber%20Grand%20Challenge/Dinaburg_INFILTRATE_2016.pdf), April 2016
 * [Slides from Empire Hacking](/Cyber%20Grand%20Challenge/cgcempirehacking_wide.pdf), August 2015
 * [mcsema](https://github.com/trailofbits/mcsema)
