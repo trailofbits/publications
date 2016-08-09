@@ -21,6 +21,7 @@ Resources
 * [Slides from Infiltrate](/Cyber%20Grand%20Challenge/Dinaburg_INFILTRATE_2016.pdf), April 2016
 * [Slides from Empire Hacking](/Cyber%20Grand%20Challenge/cgcempirehacking_wide.pdf), August 2015
 * [mcsema](https://github.com/trailofbits/mcsema)
+* [cb-multios](https://github.com/trailofbits/cb-multios)
 
 Presented at
 * [ShakaCon](https://www.shakacon.org/making-a-scalable-automated-hacking-system-by-artem-dinaburg/), July 2016
@@ -43,3 +44,5 @@ Team
 * Car Bauer
 * Ryan Stortz
 * Andrew Ruef
+* Kareem El-Faramawi
+* Loren Maggiore
