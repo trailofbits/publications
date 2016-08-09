@@ -14,7 +14,7 @@ The story will describe how our small team of internationally distributed engine
 
 Second, I’ll talk about how to patch bugs by translating binaries to LLVM bitcode, patching the bitcode, and re-emitting working patched binaries. I will cover different patching strategies and the requirements for each approach. I will also discuss instrumentation techniques, transformation operations, and analysis passes that are enabled by LLVM translation.
 
-Finally, I will talk about how researchers should fundamentally change the way bug finding tools are developed. Currently each tools is its own discrete island. However, there are quantifiable benefits to be gained by applying the Unix philosophy of discrete, communicating tools to the problem of bug finding.
+Finally, I will talk about how researchers should fundamentally change the way bug finding tools are developed. Currently each tool is its own discrete island. However, there are quantifiable benefits to be gained by applying the Unix philosophy of discrete, communicating tools to the problem of bug finding.
 
 Resources
 * [Video from ShakaCon](https://www.youtube.com/watch?v=pOuO5m1ljRI), July 2016
@@ -33,6 +33,8 @@ More info
 * [Dear DARPA: Challenge Accepted](http://blog.trailofbits.com/2014/06/03/dear-darpa-challenge-accepted/)
 * [How We Fared in the Cyber Grand Challenge](https://blog.trailofbits.com/2015/07/15/how-we-fared-in-the-cyber-grand-challenge/)
 * [Hacking for Charity: Automated Bug-finding in LibOTR](http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr/)
+* [A fuzzer and a symbolic executor walk into a cloud](https://blog.trailofbits.com/2016/08/02/engineering-solutions-to-hard-program-analysis-problems/)
+* [Your tool works better than mine? Prove it.](https://blog.trailofbits.com/2016/08/01/your-tool-works-better-than-mine-prove-it/)
 
 Team
 * Artem Dinaburg
