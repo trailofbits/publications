@@ -14,7 +14,7 @@ Presented at
 
 Resources
 
-* Slides: [sophia.re](http://www.sophia.re/AEG/index.html)
+* Slides: [abfftb.pdf](https://github.com/trailofbits/presentations/blob/master/Automatic%20Bug-Finding%20for%20the%20Blockchain/abfftb.pdf)
 
 Authors
 * Josselin Feist 
