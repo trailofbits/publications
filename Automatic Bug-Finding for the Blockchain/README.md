@@ -14,7 +14,8 @@ Presented at
 
 Resources
 
-* Slides: [abfftb.pdf](https://github.com/trailofbits/presentations/blob/master/Automatic%20Bug-Finding%20for%20the%20Blockchain/abfftb.pdf)
+* [Slides](https://github.com/trailofbits/presentations/blob/master/Automatic%20Bug-Finding%20for%20the%20Blockchain/abfftb.pdf)
+* [Video](https://www.youtube.com/watch?v=r0cvQhBBw1w)
 
 Authors
 * Josselin Feist 
