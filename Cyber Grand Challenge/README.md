@@ -1,5 +1,13 @@
 # The DARPA Cyber Grand Challenge
 
+## COUNTERMEASURE Abstract
+
+Creating a scalable, distributed bug-finding system that is more than just the sum of its parts is challenging. Finding bugs that occur deep within a program's execution requires the application of multiple bug-finding approaches (e.g. fuzzing, symbolic execution, static analysis). How to profitably combine multiple bug-finding techniques is not obvious. This talk will describe the practical aspects of how to design and implement such a system, using Cyberdyne as a running example.
+
+Cyberdyne is a distributed, automatic bug-finding system, originally developed to compete in the DARPA Cyber Grand Challenge (CGC). Cyberdyne finds and fixes bugs in program binaries, without human intervention. Cyberdyne combines off-the-shelf and custom bug-finding tools into a unified, scalable system.
+
+The first half of this talk describes Cyberdyne's exoskeleton: the service-oriented architecture (SOA) that coordinates Cyberdyne's bug-finding tools, triages and patches bugs, and validates that patches maintain program functionality. The second half of this talk describes Cyberdyne's "machine intelligence": the individual bug-finding tools, and the mechanism by which they cooperate to find deep program bugs.
+
 ## Empire Hacking Abstract
 
 We built an autonomous robot to fight and destroy insecure software as part of a DARPA competition. It uses symbolic execution, fuzzing, binary translation, dynamic instrumentation, and more to identify and fix vulnerabilities without any human guidance. We will describe the high-level architecture of our system, how well it works, and difficulties we overcame during the development process.
@@ -17,6 +25,7 @@ Second, I’ll talk about how to patch bugs by translating binaries to LLVM bitc
 Finally, I will talk about how researchers should fundamentally change the way bug finding tools are developed. Currently each tool is its own discrete island. However, there are quantifiable benefits to be gained by applying the Unix philosophy of discrete, communicating tools to the problem of bug finding.
 
 Resources
+* [Video from COUNTERMEASURE](https://www.youtube.com/watch?v=ugMd3-yea40), November 2016
 * [Video from ShakaCon](https://www.youtube.com/watch?v=pOuO5m1ljRI), July 2016
 * [Slides from Infiltrate](/Cyber%20Grand%20Challenge/Dinaburg_INFILTRATE_2016.pdf), April 2016
 * [Slides from Empire Hacking](/Cyber%20Grand%20Challenge/cgcempirehacking_wide.pdf), August 2015
@@ -24,6 +33,7 @@ Resources
 * [cb-multios](https://github.com/trailofbits/cb-multios)
 
 Presented at
+* [COUNTERMEASURE](https://www.countermeasure.ca/program-2016/presentations/261-Cyberdyne-Automatic-bug-finding-at-scale), November 2016
 * [ShakaCon](https://www.shakacon.org/making-a-scalable-automated-hacking-system-by-artem-dinaburg/), July 2016
 * [NCC Group Open Forum Chicago](http://www.meetup.com/NCCGroupChicago/events/229972651/), June 2016
 * [High Confidence Software and Systems (HCSS)](http://cps-vo.org/node/25057), May 2016
