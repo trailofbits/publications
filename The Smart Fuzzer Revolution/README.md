@@ -7,7 +7,7 @@ The last 2 years have seen greater advances in automated security testing than t
 How do these tools work and what sets them apart from past approaches? Where do they excel and what are their limitations? How can I use these tools today? How will these technologies advance and what further developed is needed? And finally, how much longer do humans have as part of the secure development lifecycle?
 
 Resources
-* [Slides](https://docs.google.com/presentation/d/1FgcMRv_pwgOh1yL5y4GFsl1ozFwd6PMNGlMi2ONkGec/edit?usp=sharing and [video](https://www.youtube.com/watch?v=g1E2Ce5cBhI) from BSidesLisbon, November 2016
+* [Slides](https://docs.google.com/presentation/d/1FgcMRv_pwgOh1yL5y4GFsl1ozFwd6PMNGlMi2ONkGec/edit?usp=sharing) and [video](https://www.youtube.com/watch?v=g1E2Ce5cBhI) from BSidesLisbon, November 2016
 
 Presented at
 * [BSidesLisbon](https://www.bsideslisbon.org/2016/speakers/#1), November 2016
@@ -15,7 +15,7 @@ Presented at
 * Mandarin Appreciation Society, February 2017
 
 More info
-* [Trail of Bits Blog](https://blog.trailofbits.com/2017/02/16/the-smart-fuzzer-revolution/)
+* [The Smart Fuzzer Revolution - Trail of Bits Blog](https://blog.trailofbits.com/2017/02/16/the-smart-fuzzer-revolution/)
 
 Team
 * Dan Guido with help from Artem Dinaburg, Ryan Stortz, and Peter Goodman
