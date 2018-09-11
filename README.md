@@ -4,8 +4,8 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Cyberdyne](papers/cyberdyne.pdf) | IEEE S&P | April 2018 |
-| [DeepState](papers/deepstate-bar18.pdf) | BAR 2018 | February 2018 |
+| [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | IEEE S&P | April 2018 |
+| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | BAR 2018 | February 2018 |
 | [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | FOSINT-SI 2015 | July 2015 |
 
 ## Conference Presentations
