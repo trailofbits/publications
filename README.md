@@ -27,7 +27,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Be a binary rockstar](presentations/) | Sophia D'Antoine | 2017 |
+| [Be a binary rockstar](https://vimeo.com/215511922#t=27m33s) | Sophia D'Antoine | 2017 |
 | [Symbolic Execution for Humans](presentations/Symbolic%20Execution%20for%20Humans) | Mark Mossberg | 2017 |
 | [The spirit of the 90s is still alive in Brooklyn](presentations/The%20spirit%20of%20the%2090s%20is%20alive%20in%20Brooklyn) | Ryan Stortz, Sophia D'Antoine | 2017 |
 | [The dream of a static and dynamic analysis shootout](presentations/The%20dream%20of%20a%20static%20and%20dynamic%20analysis%20shootout) | Ryan Stortz | 2016 |
