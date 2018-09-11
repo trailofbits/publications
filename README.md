@@ -97,5 +97,5 @@
 
 | Workshop Title | Venue | Date |
 | --- | --- | --- |
-| [Manticore EVM Workshop] | EthCC 2018 | March 2018 |
-| [Manticore Workshop] | GreHack 2017 | October 2017 |
+| [Manticore EVM Workshop]() | EthCC 2018 | March 2018 |
+| [Manticore Workshop]() | GreHack 2017 | October 2017 |
