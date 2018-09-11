@@ -1,5 +1,18 @@
 # Publications from Trail of Bits
 
+* [Academic Papers](#academic-papers)
+* [Conference Presentations](#conference-presentations)
+  * [Automated bug finding and exploitation](#automatic-bug-finding-and-exploitation)
+  * [Blockchain](#blockchain)
+  * [Cryptography](#cryptography)
+  * [Engineering](#engineering)
+  * [Education](#education)
+  * [Mobile security](#mobile-security)
+  * [Side channels](#side-channels)
+  * [Threat analysis](#threat-analysis)
+* [Security Reviews](#security-reviews)
+* [Workshops](#workshops)
+
 ## Academic Papers
 
 | Paper Title | Venue | Publication Date |
@@ -9,15 +22,6 @@
 | [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | FOSINT-SI 2015 | July 2015 |
 
 ## Conference Presentations
-
-### Mobile security
-
-| Presentation Title | Author(s) | Year |
-| --- | --- | --- |
-| [Swift Reversing](presentations/) | Ryan Stortz | 2016 |
-| [Modern iOS Application Security](presentations/) | Sophia D'Antoine, Dan Guido | 2016 |
-| [The Mobile Exploit Intelligence Project](presentations/) | Dan Guido | 2012 |
-| [A Tale of Mobile Threats](presentations/) | Vincenzo Iozzo | 2012 |
 
 ### Automated bug finding and exploitation
 
@@ -42,7 +46,7 @@
 | [Rattle - an Ethereum EVM binary analysis framework](presentations/) | Ryan Stortz | 2018 |
 | [Automatic bug finding for the blockchain](presentations/) | Felipe Manzano | 2017 |
 
-### Crypto
+### Cryptography
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
@@ -66,6 +70,15 @@
 | [Security and Your Business](presentations/) | Andrew Ruef | 2014 |
 | [From One Ivory Tower to Another](presentations/) | Vincenzo Iozzo | 2012 |
 
+### Mobile security
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [Swift Reversing](presentations/) | Ryan Stortz | 2016 |
+| [Modern iOS Application Security](presentations/) | Sophia D'Antoine, Dan Guido | 2016 |
+| [The Mobile Exploit Intelligence Project](presentations/) | Dan Guido | 2012 |
+| [A Tale of Mobile Threats](presentations/) | Vincenzo Iozzo | 2012 |
+
 ### Side channels
 
 | Presentation Title | Author(s) | Year |
@@ -85,7 +98,7 @@
 | --- | --- |
 | [NuCypher](reviews/nucypher.pdf) | August 2018 |
 | [Parity](reviews/parity.pdf) | July 2018 |
-| [Gemini](reviews/gemini-dollar.pdf) | June 2018 |
+| [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 |
 | [Golem](reviews/golem.pdf) | April 2018 |
 | [LivePeer](reviews/livepeer.pdf) | March 2018 |
 | [DappHub](reviews/dapphub.pdf) | December 2017 |
