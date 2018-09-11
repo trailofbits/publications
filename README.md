@@ -41,56 +41,56 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Blackhat Ethereum](presentations/) | Ryan Stortz, Jay Little | 2018 |
-| [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/) | Jay Little | 2018 |
-| [Rattle - an Ethereum EVM binary analysis framework](presentations/) | Ryan Stortz | 2018 |
-| [Automatic bug finding for the blockchain](presentations/) | Felipe Manzano | 2017 |
+| [Blackhat Ethereum](presentations/Blackhat%20Ethereum) | Ryan Stortz, Jay Little | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Jay Little | 2018 |
+| [Rattle - an Ethereum EVM binary analysis framework](#) | Ryan Stortz | 2018 |
+| [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano | 2017 |
 
 ### Cryptography
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Analyzing the MD5 collision in Flame](presentations/) | Alex Sotirov | 2012 |
+| [Analyzing the MD5 collision in Flame](presentations/Analyzing%20the%20MD5%20Collision%20in%20Flame) | Alex Sotirov | 2012 |
 
 ### Engineering
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [osquery Super Features](presentations/) | Lauren Pearl | 2018 |
-| [osquery Extension Skunkworks](presentations/) | Mike Myers | 2018 |
-| [Build it Break it Fix it](presentations/) | Andrew Ruef | 2014 |
+| [osquery Super Features](presentations/osquery%20Super%20Features) | Lauren Pearl | 2018 |
+| [osquery Extension Skunkworks](presentations/osquery%20Extension%20Skunkworks) | Mike Myers | 2018 |
+| [Build it Break it Fix it](presentations/Build%20it%20Break%20it%20Fix%20it) | Andrew Ruef | 2014 |
 
 ### Education
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [The Joy of Pwning](presentations/) | Sophia D'Antoine | 2017 |
-| [How to CTF - Getting and using Other People's Computers (OPC)](presentations/) | Jay Little | 2014 |
-| [Low-level Security](presentations/) | Andrew Ruef | 2014 |
-| [Security and Your Business](presentations/) | Andrew Ruef | 2014 |
-| [From One Ivory Tower to Another](presentations/) | Vincenzo Iozzo | 2012 |
+| [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
+| [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
+| [Low-level Security](presentations/Low-level%20Security) | Andrew Ruef | 2014 |
+| [Security and Your Business](presentations/Security%20and%20Your%20Business) | Andrew Ruef | 2014 |
+| [From One Ivory Tower to Another](presentations/From%20One%20Ivory%20Tower%20to%20Another) | Vincenzo Iozzo | 2012 |
 
 ### Mobile security
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Swift Reversing](presentations/) | Ryan Stortz | 2016 |
-| [Modern iOS Application Security](presentations/) | Sophia D'Antoine, Dan Guido | 2016 |
-| [The Mobile Exploit Intelligence Project](presentations/) | Dan Guido | 2012 |
-| [A Tale of Mobile Threats](presentations/) | Vincenzo Iozzo | 2012 |
+| [Swift Reversing](presentations/Swift%20Reversing) | Ryan Stortz | 2016 |
+| [Modern iOS Application Security](presentations/Modern%20iOS%20Application%20Security) | Sophia D'Antoine, Dan Guido | 2016 |
+| [The Mobile Exploit Intelligence Project](presentations/The%20Mobile%20Exploit%20Intelligence%20Project) | Dan Guido | 2012 |
+| [A Tale of Mobile Threats](presentations/A%20Tale%20of%20Mobile%20Threats) | Vincenzo Iozzo | 2012 |
 
 ### Side channels
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Hardware side channels in virtualized environments](presentations/) | Sophia D'Antoine | 2015 |
-| [Exploiting Out-of-Order Execution](presentations/) | Sophia D'Antoine | 2015 |
+| [Hardware side channels in virtualized environments](presentations/Hardware%20side%20channels%20in%20virtualized%20environments) | Sophia D'Antoine | 2015 |
+| [Exploiting Out-of-Order Execution](presentations/Exploiting%20Out-of-Order%20Execution) | Sophia D'Antoine | 2015 |
 
 ### Threat analysis
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [The Exploit Intelligence Project Revisited](presentations) | Dan Guido | 2013 |
+| [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
 ## Security Reviews
 
