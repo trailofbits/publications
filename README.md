@@ -2,7 +2,7 @@
 
 * [Academic Papers](#academic-papers)
 * [Conference Presentations](#conference-presentations)
-  * [Automated bug finding and exploitation](#automatic-bug-finding-and-exploitation)
+  * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
   * [Blockchain](#blockchain)
   * [Cryptography](#cryptography)
   * [Engineering](#engineering)
