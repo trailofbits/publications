@@ -68,6 +68,7 @@
 | [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
 | [Low-level Security](presentations/Low-level%20Security) | Andrew Ruef | 2014 |
 | [Security and Your Business](presentations/Security%20and%20Your%20Business) | Andrew Ruef | 2014 |
+| [Bringing nothing to the party](presentations/Bringing%20nothing%20to%20the%20party) | Vincenzo Iozzo | 2013 |
 | [From One Ivory Tower to Another](presentations/From%20One%20Ivory%20Tower%20to%20Another) | Vincenzo Iozzo | 2012 |
 
 ### Mobile security
