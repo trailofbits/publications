@@ -28,14 +28,14 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Be a binary rockstar](presentations/) | Sophia D'Antoine | 2017 |
-| [Symbolic Execution for Humans](presentations/) | Mark Mossberg | 2017 |
-| [The spirit of the 90s is still alive in Brooklyn](presentations/) | Ryan Stortz, Sophia D'Antoine | 2017 |
-| [The dream of a static and dynamic analysis shootout](presentations/) | Ryan Stortz | 2016 |
-| [Binary constraint solving for automatic exploit generation](presentations/) | Sophia D'Antoine | 2016 |
-| [The Smart Fuzzer Revolution](presentations/) | Dan Guido | 2016 |
-| [Making a scaleable automated hacking system](presentations/) | Artem Dinaburg | 2016 |
-| [Cyberdyne - Automatic bug-finding at scale](presentations/) | Peter Goodman | 2016 |
-| [McSema - Static translation of x86 instructions to LLVM IR](presentations/) | Andrew Ruef, Artem Dinaburg | 2014 |
+| [Symbolic Execution for Humans](presentations/Symbolic%20Execution%20for%20Humans) | Mark Mossberg | 2017 |
+| [The spirit of the 90s is still alive in Brooklyn](presentations/The%20spirit%20of%20the%2090s%20is%20alive%20in%20Brooklyn) | Ryan Stortz, Sophia D'Antoine | 2017 |
+| [The dream of a static and dynamic analysis shootout](presentations/The%20dream%20of%20a%20static%20and%20dynamic%20analysis%20shootout) | Ryan Stortz | 2016 |
+| [Binary constraint solving for automatic exploit generation](presentations/Binary%20constraint%20solving%20for%20automatic%20exploit%20generation) | Sophia D'Antoine | 2016 |
+| [The Smart Fuzzer Revolution](presentations/The%20Smart%20Fuzzer%20Revolution) | Dan Guido | 2016 |
+| [Making a scaleable automated hacking system](presentations/Cyber%20Grand%20Challenge) | Artem Dinaburg | 2016 |
+| [Cyberdyne - Automatic bug-finding at scale](presentations/Cyber%20Grand%20Challenge) | Peter Goodman | 2016 |
+| [McSema - Static translation of x86 instructions to LLVM IR](presentations/McSema%20-%20Static%20Translation%20of%20x86%20instructions%20to%20LLVM%20IR) | Andrew Ruef, Artem Dinaburg | 2014 |
 
 ### Blockchain
 
