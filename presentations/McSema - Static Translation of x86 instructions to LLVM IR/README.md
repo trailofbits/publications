@@ -3,7 +3,7 @@
 We have developed McSema, a new framework for analyzing and transforming machine-code programs. McSema translates x86 instructions into LLVM bitcode, with a translation strategy that allows for analysis by standard compiler algorithms. We will demonstrate McSema by adding control flow integrity to existing Windows DLLs. McSema is open source, permissively licensed, and is now available for use and modification.
 
 Resources
-* [Slides](/McSema%20-%20Translating%20x86%20to%20LLVM%20IR/McSema.pdf)
+* [Slides](McSema.pdf)
 * [Video](https://www.youtube.com/watch?v=nW9bE5tUVYg)
 * [Source Code](https://github.com/trailofbits/mcsema)
 

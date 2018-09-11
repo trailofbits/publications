@@ -12,7 +12,7 @@ Presented at
 
 Resources
 
-* [Slides](https://github.com/trailofbits/presentations/blob/master/Automatic%20Bug-Finding%20for%20the%20Blockchain/abfftb.pdf)
+* [Slides](abfftb.pdf)
 * [Video](https://www.youtube.com/watch?v=r0cvQhBBw1w)
 
 Authors

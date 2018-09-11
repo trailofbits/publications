@@ -22,7 +22,7 @@ Second, I’ll talk about how to patch bugs by translating binaries to LLVM bitc
 
 Finally, I will talk about how researchers should fundamentally change the way bug finding tools are developed. Currently each tool is its own discrete island. However, there are quantifiable benefits to be gained by applying the Unix philosophy of discrete, communicating tools to the problem of bug finding.
 
-* [Slides](/Cyber%20Grand%20Challenge/Dinaburg_INFILTRATE_2016.pdf) from [Infiltrate](http://infiltratecon.com/archives.html), April 2016
+* [Slides](Dinaburg_INFILTRATE_2016.pdf) from [Infiltrate](http://infiltratecon.com/archives.html), April 2016
 * [High Confidence Software and Systems (HCSS)](http://cps-vo.org/node/25057), May 2016
 * [NCC Group Open Forum Chicago](http://www.meetup.com/NCCGroupChicago/events/229972651/), June 2016
 * [Video](https://www.youtube.com/watch?v=pOuO5m1ljRI) from [ShakaCon](https://www.shakacon.org/making-a-scalable-automated-hacking-system-by-artem-dinaburg/), July 2016
@@ -31,7 +31,7 @@ Finally, I will talk about how researchers should fundamentally change the way b
 
 We built an autonomous robot to fight and destroy insecure software as part of a DARPA competition. It uses symbolic execution, fuzzing, binary translation, dynamic instrumentation, and more to identify and fix vulnerabilities without any human guidance. We will describe the high-level architecture of our system, how well it works, and difficulties we overcame during the development process.
 
-* [Slides](/Cyber%20Grand%20Challenge/cgcempirehacking_wide.pdf) from [Empire Hacking](http://www.meetup.com/Empire-Hacking/events/223128682/), August 2015
+* [Slides](cgcempirehacking_wide.pdf) from [Empire Hacking](http://www.meetup.com/Empire-Hacking/events/223128682/), August 2015
 
 Resources
 

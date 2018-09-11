@@ -9,7 +9,7 @@ Presented at
 Resources
 
 * [Hardware Side Channels in the Cloud](https://blog.trailofbits.com/2015/07/21/hardware-side-channels-in-the-cloud/)
-* [The Bad Neighbor.pptx](/presentations/The%20Bad%20Neighbor/The%20Bad%20Neighbor.pptx)
+* [The Bad Neighbor.pptx](The%20Bad%20Neighbor.pptx)
 
 Author
 * Sophia D'Antoine
