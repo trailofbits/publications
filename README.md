@@ -44,6 +44,8 @@
 | [Blackhat Ethereum](presentations/Blackhat%20Ethereum) | Ryan Stortz, Jay Little | 2018 |
 | [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Jay Little | 2018 |
 | [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/) | Ryan Stortz | 2018 |
+| [Binary analysis, meet the blockchain](presentations/Binary%20analysis%2C%20meet%20the%20blockchain) | Mark Mossberg | 2018 |
+| [Applying Symbolic Execution to Blockchain Applications](presentations/Applying%20Symbolic%20Execution%20to%20Blockchain%20Applications) | Mark Mossberg | 2018 |
 | [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano, Josselin Feist | 2017 |
 
 ### Cryptography
