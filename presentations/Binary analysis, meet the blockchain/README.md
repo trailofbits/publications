@@ -7,6 +7,7 @@ In this talk, we describe our work towards smart contract analysis tooling for E
 Presented at
 
 * [Northsec 2018](https://northsec.io)
+* [High Confidence Software and Systems Conference 2018](https://cps-vo.org/hcss18/mossberg)
 
 Authored by
 
