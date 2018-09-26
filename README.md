@@ -96,17 +96,17 @@
 
 ## Security Reviews
 
-| Product | Review Date |
-| --- | --- |
-| [NuCypher](reviews/nucypher.pdf) | August 2018 |
-| [Parity](reviews/parity.pdf) | July 2018 |
-| [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 |
-| [Golem](reviews/golem.pdf) | April 2018 |
-| [LivePeer](reviews/livepeer.pdf) | March 2018 |
-| [DappHub](reviews/dapphub.pdf) | December 2017 |
-| [RSKj](reviews/RSKj.pdf) | November 2017 |
-| [Sai](reviews/sai.pdf) | October 2017 |
-| [zlib](reviews/zlib.pdf) | September 2016 |
+| Product | Review Date | Level of Effort |
+| --- | --- | --- |
+| [NuCypher](reviews/nucypher.pdf) | August 2018 | 12 person-weeks |
+| [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks |
+| [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 | 8 person-weeks |
+| [Golem](reviews/golem.pdf) | April 2018 | 4 person-weeks |
+| [LivePeer](reviews/livepeer.pdf) | March 2018 | 4 person-weeks |
+| [DappHub](reviews/dapphub.pdf) | December 2017 | 8 person-weeks |
+| [RSKj](reviews/RSKj.pdf) | November 2017 | 6 person-weeks |
+| [Sai](reviews/sai.pdf) | October 2017 | 8 person-weeks |
+| [zlib](reviews/zlib.pdf) | September 2016 | 1 person-week |
 
 ## Workshops
 
