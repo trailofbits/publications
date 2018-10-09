@@ -57,6 +57,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
 | [osquery Super Features](presentations/osquery%20Super%20Features) | Lauren Pearl | 2018 |
 | [osquery Extension Skunkworks](presentations/osquery%20Extension%20Skunkworks) | Mike Myers | 2018 |
 | [Build it Break it Fix it](presentations/Build%20it%20Break%20it%20Fix%20it) | Andrew Ruef | 2014 |
