@@ -113,6 +113,7 @@
 
 | Workshop Title | Venue | Date |
 | --- | --- | --- |
-| [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETHBerlin 2018 | September 2018 |
+| [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202018) | TruffleCon 2018 | October 2018 |
+| [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | September 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | March 2018 |
 | [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | October 2017 |
