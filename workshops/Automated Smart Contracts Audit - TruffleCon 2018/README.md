@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-1. Download these exercises. `git clone https://github.com/trailofbits/trufflecon`
+1. Download these exercises. `git clone https://github.com/trailofbits/publications`
 2. Install [Echidna](https://github.com/trailofbits/echidna). `docker pull trailofbits/echidna` or try to use [Stack](https://docs.haskellstack.org/en/stable/README/) (don't use Stack).
 3. Install [Manticore](https://github.com/trailofbits/manticore). `docker pull trailofbits/manticore` or `pip3 install manticore --user`
 4. Bonus! Not necessary for today, but consider trying [Slither](https://github.com/trailofbits/slither) too.
