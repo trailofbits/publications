@@ -7,6 +7,7 @@ This presentation will introduce Ethereum smart contracts, explain how to revers
 Presented at
 
 * [Black Hat USA 2018](https://www.blackhat.com/us-18/briefings.html#blockchain-autopsies-analyzing-ethereum-smart-contract-deaths)
+* [Devcon 4](https://guidebook.com/guide/117233/event/21956130/)
 
 Authored by
 
