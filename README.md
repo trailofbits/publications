@@ -116,6 +116,7 @@
 | Workshop Title | Venue | Date |
 | --- | --- | --- |
 | [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | November 2018 |
+| [DeepState: Bringing Vulnerability Detection Tools into the Development Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | October 2018 |
 | [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202018) | TruffleCon 2018 | October 2018 |
 | [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | September 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | March 2018 |
