@@ -2,7 +2,7 @@
 
 
 ### Prerequisites
-1. Download these exercises: `git clone https://github.com/publications`
+1. Download these exercises: `git clone https://github.com/trailofbits/publications`
 2. Go to the workshop directory: `cd "publications/workshops/Using Manticore and Symbolic Execution to Find Smart Contracts Bugs - Devcon 4"`
 3. Install [Manticore](https://github.com/trailofbits/manticore): `pip3 install manticore --user` or `docker pull trailofbits/manticore`
 
