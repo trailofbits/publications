@@ -100,6 +100,7 @@
 
 | Product | Review Date | Level of Effort |
 | --- | --- | --- |
+| [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks |
 | [Paxos](reviews/paxos.pdf) | October 2018 | 4 person-weeks |
 | [NuCypher](reviews/nucypher.pdf) | August 2018 | 12 person-weeks |
 | [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks |
