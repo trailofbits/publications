@@ -28,6 +28,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Vulnerability Modeling with Binary Ninja](presentations/Vulnerability%20Modeling%20with%20Binary%20Ninja) | Josh Watson | 2018 |
 | [Be a binary rockstar](https://vimeo.com/215511922#t=27m33s) | Sophia D'Antoine | 2017 |
 | [Symbolic Execution for Humans](presentations/Symbolic%20Execution%20for%20Humans) | Mark Mossberg | 2017 |
 | [The spirit of the 90s is still alive in Brooklyn](presentations/The%20spirit%20of%20the%2090s%20is%20alive%20in%20Brooklyn) | Ryan Stortz, Sophia D'Antoine | 2017 |
