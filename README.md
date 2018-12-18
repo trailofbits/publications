@@ -99,17 +99,21 @@
 
 ## Security Reviews
 
-| Product | Review Date | Level of Effort |
-| --- | --- | --- |
-| [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks |
+| Product | Review Date | Level of Effort | Announcement |
+| --- | --- | --- | --- |
+| [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
 | [Paxos](reviews/paxos.pdf) | October 2018 | 4 person-weeks |
-| [NuCypher](reviews/nucypher.pdf) | August 2018 | 12 person-weeks |
-| [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks |
+| Compound | September 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
+| [NuCypher](reviews/nucypher.pdf) | August 2018 | 12 person-weeks | [Security audits: round 1](https://blog.nucypher.com/security-audits-round-1-c662bdf957c)
+| [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
+| Tezori | July 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
 | [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 | 8 person-weeks |
-| [Golem](reviews/golem.pdf) | April 2018 | 4 person-weeks |
-| [LivePeer](reviews/livepeer.pdf) | March 2018 | 4 person-weeks |
+| Dharma | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
+| [Golem](reviews/golem.pdf) | April 2018 | 4 person-weeks | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
+| [LivePeer](reviews/livepeer.pdf) | March 2018 | 4 person-weeks | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
+| [Web3](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | March 2018 | 2 person-weeks| [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [DappHub](reviews/dapphub.pdf) | December 2017 | 8 person-weeks |
-| [RSKj](reviews/RSKj.pdf) | November 2017 | 6 person-weeks |
+| [RSKj](reviews/RSKj.pdf) | November 2017 | 6 person-weeks | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
 | [Sai](reviews/sai.pdf) | October 2017 | 8 person-weeks |
 | [zlib](reviews/zlib.pdf) | September 2016 | 1 person-week |
 
