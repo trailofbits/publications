@@ -103,6 +103,7 @@
 | --- | --- | --- | --- |
 | [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
 | [Paxos](reviews/paxos.pdf) | October 2018 | 4 person-weeks |
+| Basecoin | October 2018 | 12 person-weeks |
 | Compound | September 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
 | [NuCypher](reviews/nucypher.pdf) | August 2018 | 12 person-weeks | [Security audits: round 1](https://blog.nucypher.com/security-audits-round-1-c662bdf957c)
 | [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
