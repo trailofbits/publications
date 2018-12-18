@@ -101,12 +101,14 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| Bitcoin SV | November 2018 | 12 person-weeks |
 | [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
 | [Paxos](reviews/paxos.pdf) | October 2018 | 4 person-weeks |
 | Basecoin | October 2018 | 12 person-weeks |
 | Compound | September 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
 | [NuCypher](reviews/nucypher.pdf) | August 2018 | 12 person-weeks | [Security audits: round 1](https://blog.nucypher.com/security-audits-round-1-c662bdf957c)
 | [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
+| Bloom | July 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
 | Tezori | July 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
 | [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 | 8 person-weeks |
 | Dharma | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
