@@ -118,7 +118,7 @@
 | [Web3](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | March 2018 | 2 person-weeks| [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [DappHub](reviews/dapphub.pdf) | December 2017 | 8 person-weeks |
 | [RSKj](reviews/RSKj.pdf) | November 2017 | 6 person-weeks | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
-| [Sai](reviews/sai.pdf) | October 2017 | 8 person-weeks |
+| [Sai](reviews/sai.pdf) | October 2017 | 8 person-weeks | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
 | [zlib](reviews/zlib.pdf) | September 2016 | 1 person-week |
 
 ## Workshops
