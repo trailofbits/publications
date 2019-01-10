@@ -101,6 +101,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Ampleforth](reviews/ampleforth.pdf) | November 2018 | 4 person-weeks |
 | Bitcoin SV | November 2018 | 12 person-weeks |
 | [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
 | [Paxos](reviews/paxos.pdf) | October 2018 | 4 person-weeks |
