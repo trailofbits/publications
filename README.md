@@ -101,6 +101,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [EIP-1283](reviews/EIP-1283.pdf] | January 2019 | 1 person-week | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
 | [Ampleforth](reviews/ampleforth.pdf) | November 2018 | 4 person-weeks | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
 | Bitcoin SV | November 2018 | 12 person-weeks |
 | [Pantheon](reviews/pantheon.pdf) | October 2018 | 8 person-weeks | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
@@ -112,7 +113,7 @@
 | Bloom | July 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
 | Tezori | July 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
 | CENTRE | July 2018 | 4 person-weeks | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794)
-| [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 | 8 person-weeks | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | 
+| [Gemini Dollar](reviews/gemini-dollar.pdf) | June 2018 | 8 person-weeks | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) 
 | Dharma | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
 | [Golem](reviews/golem.pdf) | April 2018 | 4 person-weeks | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
 | [LivePeer](reviews/livepeer.pdf) | March 2018 | 4 person-weeks | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
