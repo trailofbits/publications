@@ -16,7 +16,7 @@ Presented at
 
 Resources
 
-* [Slides](Anatomy%20of%20an%20Unsafe%20Smart%20Contract%20Programming%20Language%20(Sultanik%20EH%202018-12-12.pdf))
+* [Slides](Anatomy%20of%20an%20Unsafe%20Smart%20Contract%20Programming%20Language%20(Sultanik%20EH%202018-12-12).pdf)
 * [Video](https://www.youtube.com/watch?v=JaUIxMJAOsA)
 
 Authored by
