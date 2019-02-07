@@ -104,7 +104,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| Current Credit | January 2019 | 1 person-week | |
+| StableWire by AMP | January 2019 | 1 person-week | |
 | [EIP-1283](reviews/EIP-1283.pdf) | January 2019 | 1 person-week | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
 | [Ampleforth](reviews/ampleforth.pdf) | November 2018 | 4 person-weeks | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
 | Bitcoin SV | November 2018 | 12 person-weeks |
