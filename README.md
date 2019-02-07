@@ -123,7 +123,7 @@
 | [LivePeer](https://livepeer.org/) | March 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
 | [Web3](https://web3.foundation/) | March 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [DappHub](https://dapphub.com/) | December 2017 | [8 person-weeks](reviews/dapphub.pdf) |
-| [RSKj](https://www.rsk.co/) | [November 2017](reviews/RSKj.pdf) | 6 person-weeks | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
+| [RSKj](https://www.rsk.co/) | November 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
 | [MakerDAO Sai](https://makerdao.com/en/) | October 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
 | [zlib](https://www.zlib.net/) | September 2016 | [1 person-week](reviews/zlib.pdf) |
 
