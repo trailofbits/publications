@@ -28,6 +28,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Going sicko mode on the Linux Kernel](presentations/Going%20sicko%20mode%20on%20the%20Linux%20Kernel) | William Woodruff | 2019 |
 | [Vulnerability Modeling with Binary Ninja](presentations/Vulnerability%20Modeling%20with%20Binary%20Ninja) | Josh Watson | 2018 |
 | [Be a binary rockstar](https://vimeo.com/215511922#t=27m33s) | Sophia D'Antoine | 2017 |
 | [Symbolic Execution for Humans](presentations/Symbolic%20Execution%20for%20Humans) | Mark Mossberg | 2017 |
@@ -44,7 +45,7 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Property-testing of smart contracts](presentations/Property-based%20testing%20of%20smart%20contracts) | JP Smith | 2018 |
-| [Anatomy of an unsafe programming language](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2018 | 
+| [Anatomy of an unsafe programming language](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2018 |
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
 | [Blackhat Ethereum](presentations/Blackhat%20Ethereum) | Ryan Stortz, Jay Little | 2018 |
 | [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Jay Little | 2018 |
@@ -117,7 +118,7 @@
 | [Bloom](https://bloom.co/) | July 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
 | [Tezori](https://github.com/Cryptonomic/Tezori) | July 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
 | [CENTRE](https://www.centre.io/) | July 2018 | 4 person-weeks | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794)
-| [Gemini Dollar](https://gemini.com/dollar/) | June 2018 | [8 person-weeks](reviews/gemini-dollar.pdf) | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) 
+| [Gemini Dollar](https://gemini.com/dollar/) | June 2018 | [8 person-weeks](reviews/gemini-dollar.pdf) | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392)
 | [Dharma](https://dharma.io/) | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
 | [Golem](https://golem.network/) | April 2018 | [4 person-weeks](reviews/golem.pdf) | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
 | [LivePeer](https://livepeer.org/) | March 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
