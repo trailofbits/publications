@@ -113,6 +113,7 @@
 | [Paxos Standard](https://www.paxos.com/standard/) | October 2018 | [4 person-weeks](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | October 2018 | [12 person-weeks](reviews/basis.pdf) |
 | [Compound](https://compound.finance/) | September 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
+| Building Blocks | August 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
 | [NuCypher](https://www.nucypher.com/) | August 2018 | [12 person-weeks](reviews/nucypher.pdf) | [Security audits: round 1](https://blog.nucypher.com/security-audits-round-1-c662bdf957c)
 | [Parity](reviews/parity.pdf) | July 2018 | 12 person-weeks | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
 | [Bloom](https://bloom.co/) | July 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
