@@ -44,6 +44,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Slither: A Static Analysis Framework for Smart Contracts](presentations/Slither:%20A%20Static%20Analysis%20Framework%20for%20Smart%20Contracts) | Josselin Feist | 2019 |
 | [Property-testing of smart contracts](presentations/Property-based%20testing%20of%20smart%20contracts) | JP Smith | 2018 |
 | [Anatomy of an unsafe programming language](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2018 |
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
