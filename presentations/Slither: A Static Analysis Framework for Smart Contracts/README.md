@@ -5,7 +5,7 @@ Takeaways
 
 * Slither is fast and precise and will find vulnerabilities and optimizations in smart contracts.
 * Slither's printers will help to review contracts.
-* It's Python API allows building custom static analyses.
+* It has an easy-to-use Python API that allows building custom static analyses.
 
 Presented at
 * [EthCC 2019](https://ethcc.io)
