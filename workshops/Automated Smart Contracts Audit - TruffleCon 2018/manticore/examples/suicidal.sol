@@ -1,6 +1,6 @@
 contract Suicidal {
 
-  function backdoor() {
+  function backdoor() public {
     selfdestruct(msg.sender);
   }
 
