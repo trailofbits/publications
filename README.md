@@ -107,6 +107,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Reserve Protocol](https://reserve.org/) | March 2019 | 1 person-week | |
 | [Set Protocol](https://www.setprotocol.com/) | March 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
 | [AMP StableWire](https://stablewire.com/) | January 2019 | 1 person-week | |
 | [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | January 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
