@@ -145,8 +145,8 @@
 | [DappHub](https://dapphub.com/) | Dec 2017 | [8 person-weeks](reviews/dapphub.pdf) |
 | [RSKj](https://www.rsk.co/) | Nov 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
-| [zlib](https://www.zlib.net/) | Sep 2016 | [1 person-week](reviews/zlib.pdf) | |
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 person-weeks | |
+| [zlib](https://www.zlib.net/) | Sep 2016 | [1 person-week](reviews/zlib.pdf) | |
 
 ## Workshops
 
