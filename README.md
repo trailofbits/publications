@@ -108,41 +108,51 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Reserve Protocol](https://reserve.org/) | March 2019 | 1 person-week | |
-| [Set Protocol](https://www.setprotocol.com/) | March 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
-| [AMP StableWire](https://amp.credit/) | January 2019 | 1 person-week | |
-| [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | January 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
-| [Ampleforth](https://www.ampleforth.org/) | November 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
-| [Bitcoin SV](https://bitcoinsv.io/) | November 2018 | 12 person-weeks |
-| [Origin Protocol](https://www.originprotocol.com/en) | November 2018 | 4 person-weeks |
-| [Pantheon](https://pegasys.tech/) | October 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
-| [Paxos Standard](https://www.paxos.com/standard/) | October 2018 | [4 person-weeks](reviews/paxos.pdf) |
-| [Basecoin](https://www.basis.io/) | October 2018 | [12 person-weeks](reviews/basis.pdf) |
-| [Compound](https://compound.finance/) | September 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
-| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | August 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
-| [NuCypher](https://www.nucypher.com/) | August 2018 | [12 person-weeks](reviews/nucypher.pdf) | [Security audits: round 1](https://blog.nucypher.com/security-audits-round-1-c662bdf957c)
-| [Project Callisto](https://www.projectcallisto.org/) | August 2018 | 4 person-weeks | 
-| [Parity](https://www.parity.io/) | July 2018 | [12 person-weeks](reviews/parity.pdf) | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
-| [Bloom](https://bloom.co/) | July 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
-| [Tezori](https://github.com/Cryptonomic/Tezori) | July 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
-| [CENTRE](https://www.centre.io/) | July 2018 | 4 person-weeks | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794)
-| [Gemini Dollar](https://gemini.com/dollar/) | June 2018 | [8 person-weeks](reviews/gemini-dollar.pdf) | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392)
-| [Project Callisto](https://www.projectcallisto.org/) | August 2018 | 1 person-week | 
+| [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
+| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | |
+| [TokenCard](https://tokencard.io/) | May 2019 | 5 person-weeks | |
+| [Compound](https://compound.finance/) | Apr 2019 | 8 person-weeks | |
+| Unity Coin | Apr 2019 | 1 person-week | |
+| [UMA Project](https://umaproject.org/) | Mar 2019 | 3 person-weeks | |
+| [Nomisma](http://nomisma.org/) | Mar 2019 | 1 person-week | |
+| [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
+| [Tendermint](https://interchain.io/) | Mar 2019 | 12 person-weeks | |
+| [Reserve Protocol](https://reserve.org/) | Mar 2019 | 1 person-week | |
+| [Set Protocol](https://www.setprotocol.com/) | Mar 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
+| [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 person-week | |
+| [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
+| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
+| [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 person-weeks |
+| [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 person-weeks |
+| [Pantheon](https://pegasys.tech/) | Oct 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
+| [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | [4 person-weeks](reviews/paxos.pdf) |
+| [Basecoin](https://www.basis.io/) | Oct 2018 | [12 person-weeks](reviews/basis.pdf) |
+| [Compound](https://compound.finance/) | Sep 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
+| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
+| [NuCypher](https://www.nucypher.com/) | Aug 2018 | [12 person-weeks](reviews/nucypher.pdf) | [Security audits: round 1](https://blog.nucypher.com/security-audits-round-1-c662bdf957c)
+| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 4 person-weeks | 
+| [Parity](https://www.parity.io/) | Jul 2018 | [12 person-weeks](reviews/parity.pdf) | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
+| [Bloom](https://bloom.co/) | Jul 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
+| [CENTRE](https://www.centre.io/) | Jul 2018 | 4 person-weeks | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794)
+| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | [8 person-weeks](reviews/gemini-dollar.pdf) | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392)
+| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 1 person-week | 
 | [Dharma](https://dharma.io/) | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
-| [Golem](https://golem.network/) | April 2018 | [4 person-weeks](reviews/golem.pdf) | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
-| [LivePeer](https://livepeer.org/) | March 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
-| [Web3](https://web3.foundation/) | March 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
-| [DappHub](https://dapphub.com/) | December 2017 | [8 person-weeks](reviews/dapphub.pdf) |
-| [RSKj](https://www.rsk.co/) | November 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
-| [MakerDAO Sai](https://makerdao.com/en/) | October 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
-| [zlib](https://www.zlib.net/) | September 2016 | [1 person-week](reviews/zlib.pdf) |
+| [Golem](https://golem.network/) | Apr 2018 | [4 person-weeks](reviews/golem.pdf) | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
+| [LivePeer](https://livepeer.org/) | Mar 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
+| [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
+| [DappHub](https://dapphub.com/) | Dec 2017 | [8 person-weeks](reviews/dapphub.pdf) |
+| [RSKj](https://www.rsk.co/) | Nov 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
+| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
+| [zlib](https://www.zlib.net/) | Sep 2016 | [1 person-week](reviews/zlib.pdf) | |
+| [Omega One](https://dark.omega.one/) | Aug 2017 | 6 person-weeks | |
 
 ## Workshops
 
 | Workshop Title | Venue | Date |
 | --- | --- | --- |
 | [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | November 2018 |
-| [DeepState: Bringing Vulnerability Detection Tools into the Development Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | October 2018 |
+| [DeepState: Bringing Vulnerability Detection Tools into the Dev Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | October 2018 |
 | [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202018) | TruffleCon 2018 | October 2018 |
 | [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | September 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | March 2018 |
