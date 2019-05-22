@@ -17,6 +17,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | WETSEB 2019 | May 2019 |
 | [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | AISec 2018 | October 2018 |
 | [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | IEEE S&P | April 2018 |
 | [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | BAR 2018 | February 2018 |
