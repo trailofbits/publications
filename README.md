@@ -108,6 +108,15 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | |
+| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | |
+| [TokenCard](https://tokencard.io/) | May 2019 | 5 person-weeks | |
+| [Compound](https://compound.finance/) | April 2019 | 8 person-weeks | |
+| Unity Coin | April 2019 | 1 person-week | |
+| [UMA Project](https://umaproject.org/) | March 2019 | 3 person-weeks | |
+| [Nomisma](http://nomisma.org/) | March 2019 | 1 person-week | |
+| [Centrifuge](https://centrifuge.io/) | March 2019 | 5 person-weeks | |
+| [Tendermint](https://interchain.io/) | March 2019 | 12 person-weeks | |
 | [Reserve Protocol](https://reserve.org/) | March 2019 | 1 person-week | |
 | [Set Protocol](https://www.setprotocol.com/) | March 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
 | [AMP StableWire](https://amp.credit/) | January 2019 | 1 person-week | |
@@ -130,12 +139,14 @@
 | [Project Callisto](https://www.projectcallisto.org/) | August 2018 | 1 person-week | 
 | [Dharma](https://dharma.io/) | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
 | [Golem](https://golem.network/) | April 2018 | [4 person-weeks](reviews/golem.pdf) | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
+| SweetBridge | April 2018 | 8 person-weeks | |
 | [LivePeer](https://livepeer.org/) | March 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
 | [Web3](https://web3.foundation/) | March 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [DappHub](https://dapphub.com/) | December 2017 | [8 person-weeks](reviews/dapphub.pdf) |
 | [RSKj](https://www.rsk.co/) | November 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://media.rsk.co/rsk-security-audit-results/)
 | [MakerDAO Sai](https://makerdao.com/en/) | October 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
-| [zlib](https://www.zlib.net/) | September 2016 | [1 person-week](reviews/zlib.pdf) |
+| [zlib](https://www.zlib.net/) | September 2016 | [1 person-week](reviews/zlib.pdf) | |
+| [Omega One](https://dark.omega.one/) | August 2017 | 6 person-weeks | |
 
 ## Workshops
 
