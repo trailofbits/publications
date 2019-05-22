@@ -139,7 +139,6 @@
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 1 person-week | 
 | [Dharma](https://dharma.io/) | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
 | [Golem](https://golem.network/) | Apr 2018 | [4 person-weeks](reviews/golem.pdf) | [Smart contracts: audit report](https://blog.golemproject.net/smart-contracts-audit-report-ad41fdd5085b)
-| SweetBridge | Apr 2018 | 8 person-weeks | |
 | [LivePeer](https://livepeer.org/) | Mar 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
 | [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [DappHub](https://dapphub.com/) | Dec 2017 | [8 person-weeks](reviews/dapphub.pdf) |
