@@ -109,7 +109,7 @@
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
-| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | |
+| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
 | [TokenCard](https://tokencard.io/) | May 2019 | 5 person-weeks | |
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
 | [Compound](https://compound.finance/) | Apr 2019 | 8 person-weeks | |
