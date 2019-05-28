@@ -124,7 +124,7 @@
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 person-week | |
 | [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
 | [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
-| [ndau](https://oneiro.io/) | Nov 2018 | 8 person-weeks | [ndau Holders Elect Inaugural Policy Council, Votes to be Listed on BitMart Exchange](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) |
+| [ndau](https://oneiro.io/) | Nov 2018 | 8 person-weeks | [ndau Holders Elect Inaugural Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) |
 | [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 person-weeks |
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 person-weeks |
 | [Pantheon](https://pegasys.tech/) | Oct 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
