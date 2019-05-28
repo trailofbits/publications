@@ -114,6 +114,7 @@
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
 | [Compound](https://compound.finance/) | Apr 2019 | 8 person-weeks | |
 | Unity Coin | Apr 2019 | 1 person-week | |
+| [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 person-weeks | [One Protocol. One Network. One Community.](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) |
 | [UMA Project](https://umaproject.org/) | Mar 2019 | 3 person-weeks | |
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 person-week | |
 | [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
@@ -123,6 +124,7 @@
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 person-week | |
 | [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
 | [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
+| [ndau](https://oneiro.io/) | Nov 2018 | 8 person-weeks | [ndau Holders Elect Inaugural Policy Council, Votes to be Listed on BitMart Exchange](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) |
 | [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 person-weeks |
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 person-weeks |
 | [Pantheon](https://pegasys.tech/) | Oct 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
