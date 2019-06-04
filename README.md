@@ -109,8 +109,8 @@
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | 2 person-weeks | [Monero and Arweave to Validate the Proof-of-Work Algorithm RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
-| [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks | 
-| [Interest Token](https://www.protocoltechnology.com)  | May 2019 | 2 days | |
+| [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
+| [Interest Token](https://www.protocoltechnology.com)  | May 2019 | 2 person-days | |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
 | [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
 | [TokenCard](https://tokencard.io/) | May 2019 | 5 person-weeks | |
