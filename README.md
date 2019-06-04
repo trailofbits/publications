@@ -109,7 +109,7 @@
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | 2 person-weeks | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Kubernetes Security Audit Working Group](Security Audit Working Group) |
+| [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Kubernetes Security Audit Working Group](https://github.com/kubernetes/community/tree/master/wg-security-audit) |
 | [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
 | [Interest Token](https://www.protocoltechnology.com)  | May 2019 | 2 person-days | |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
