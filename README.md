@@ -47,12 +47,14 @@
 | --- | --- | --- |
 | [SlithIR: High-Precision Security Analysis with an IR for Solidity](presentations/SlithIR%2C%20An%20Intermediate%20Representation%20of%20Solidity%20to%20enable%20High%20Precision%20Security%20Analysis) | Josselin Feist | 2019 |
 | [Slither: A Static Analysis Framework for Smart Contracts](presentations/Slither:%20A%20Static%20Analysis%20Framework%20for%20Smart%20Contracts) | Josselin Feist | 2019 |
+| [What blockchain got right](presentations/What%20blockchain%20got%20right) | Dan Guido | 2019 |
 | [Property-testing of smart contracts](presentations/Property-based%20testing%20of%20smart%20contracts) | JP Smith | 2018 |
 | [Anatomy of an unsafe programming language](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2018 |
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
 | [Blackhat Ethereum](presentations/Blackhat%20Ethereum) | Ryan Stortz, Jay Little | 2018 |
 | [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Jay Little | 2018 |
 | [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/) | Ryan Stortz | 2018 |
+| [Securing value on the Ethereum blockchain](presentations/Securing%20value%20on%20the%20Ethereum%20blockchain) | Dan Guido | 2018 |
 | [Binary analysis, meet the blockchain](presentations/Binary%20analysis%2C%20meet%20the%20blockchain) | Mark Mossberg | 2018 |
 | [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano, Josselin Feist | 2017 |
 
@@ -111,7 +113,7 @@
 | [RandomX](https://www.arweave.org/) | Jun 2019 | 2 person-weeks | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Kubernetes Security Audit Working Group](https://github.com/kubernetes/community/tree/master/wg-security-audit) |
 | [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
-| [Interest Token](https://www.protocoltechnology.com)  | May 2019 | 2 person-days | |
+| [Interest Token](https://www.protocoltechnology.com)  | May 2019 | [2 person-days](reviews/Protocol_Technology_LOA.pdf) | |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
 | [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
 | [TokenCard](https://tokencard.io/) | May 2019 | 5 person-weeks | |
@@ -124,7 +126,7 @@
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 person-week | |
 | [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
 | [Tendermint](https://interchain.io/) | Mar 2019 | 12 person-weeks | |
-| [Reserve Protocol](https://reserve.org/) | Mar 2019 | 1 person-week | |
+| [Reserve Protocol](https://reserve.org/) | Mar 2019 | [1 person-week](reviews/Reserve_LOA.pdf) | |
 | [Set Protocol](https://www.setprotocol.com/) | Mar 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
 | [NuCypher](https://www.nucypher.com/) | Feb 2019 | 4 person-weeks | |
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 person-week | |
