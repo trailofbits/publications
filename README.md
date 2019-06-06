@@ -120,7 +120,7 @@
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
 | [Compound](https://compound.finance/) | Apr 2019 | 8 person-weeks | |
 | Unity Coin | Apr 2019 | 1 person-week | |
-| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | |
+| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) |
 | [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 person-weeks | [One Protocol. One Network. One Community.](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) |
 | [UMA Project](https://umaproject.org/) | Mar 2019 | 3 person-weeks | |
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 person-week | |
