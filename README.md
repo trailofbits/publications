@@ -128,7 +128,7 @@
 | [Tendermint](https://interchain.io/) | Mar 2019 | 12 person-weeks | |
 | [Reserve Protocol](https://reserve.org/) | Mar 2019 | [1 person-week](reviews/Reserve_LOA.pdf) | |
 | [Set Protocol](https://www.setprotocol.com/) | Mar 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
-| [NuCypher](https://www.nucypher.com/) | Feb 2019 | 4 person-weeks | |
+| [NuCypher](https://www.nucypher.com/) | Feb 2019 | [4 person-weeks](reviews/nucypher-2.pdf) | |
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 person-week | |
 | [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
 | [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
