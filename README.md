@@ -68,6 +68,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
 | [osquery Super Features](presentations/osquery%20Super%20Features) | Lauren Pearl | 2018 |
 | [osquery Extension Skunkworks](presentations/osquery%20Extension%20Skunkworks) | Mike Myers | 2018 |
