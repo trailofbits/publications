@@ -4,7 +4,8 @@ In this talk, we reviewed a user feature wishlist gathered from interviews with 
 
 Presented at
 
-* [QueryCon](https://querycon.io/)
+* [QueryCon 2018](https://querycon.io/)
+* [Video of the presentation](https://www.youtube.com/watch?v=k7AKxFIujjY&list=PLlSdCcsTOu5STvaoPlr-PJE-zbYmlAGrX&index=7&t=0s)
 
 Resources
 

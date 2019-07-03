@@ -68,6 +68,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
 | [osquery Super Features](presentations/osquery%20Super%20Features) | Lauren Pearl | 2018 |
