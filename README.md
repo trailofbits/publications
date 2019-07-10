@@ -17,7 +17,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts](papers/manticore.pdf) | *Under Review* | June 2019 |
+| [Manticore: Symbolic Execution Framework for Binaries and Smart Contracts](papers/manticore.pdf) | *Under Review* | June 2019 |
 | [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | WETSEB 2019 | May 2019 |
 | [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | AISec 2018 | October 2018 |
 | [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | IEEE S&P | April 2018 |
