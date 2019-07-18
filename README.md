@@ -10,6 +10,7 @@
   * [Mobile security](#mobile-security)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
+* [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
 * [Workshops](#workshops)
 
@@ -108,6 +109,29 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
+
+## Podcasts
+
+| Podcast | Guest | Date | Topic(s) |
+| --- | --- | --- | --- |
+| [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
+| [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android security, programming languages |
+| [Absolute AppSec 55](https://www.youtube.com/watch?v=Q0pKAlGLFtY) | Stefan Edwards | Apr 2019 | Security testing |
+| [Hashing it Out 35](https://thebitcoinpodcast.com/hashing-it-out-35/) | Dan Guido, Josselin Feist | Jan 2019 | Ethereum's failed EIP-1283 |
+| [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbolic execution |
+| [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing, blockchain software |
+| [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | How security audits work for smart contracts |
+| [Risky Business 488](https://risky.biz/RB488/) | JP Smith | Feb 2018 | Smart contract testing with Manticore |
+| [Risky Business 474](https://risky.biz/RB474/) | Dan Guido | Oct 2017 | How to engineer secure software |
+| [Georgian Partners 47](https://georgianpartners.com/the-problem-with-the-tor-network-and-commercial-vpns/) | Dan Guido | May 2017 | [AlgoVPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) and Tor |
+| [VUC 643](https://www.youtube.com/watch?v=r_FV-uHYDgs) | Dan Guido | Apr 2017 | [AlgoVPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) |
+| [Risky Business 449](https://risky.biz/RB449/) | Dan Guido | Mar 2017 | Control Flow Integrity |
+| [Risky Business 425](https://risky.biz/RB425/) | Dan Guido | Sep 2016 | Recap the week's news |
+| [Risky Business 421](https://risky.biz/RB421/) | Dan Guido | Aug 2016 | Car hacking and the week's news |
+| [Risky Business 416](https://risky.biz/RB416/) | Dan Guido | Jul 2016 | DARPA Cyber Grand Challenge |
+| [Risky Business 399](https://risky.biz/RB399/) | Dan Guido | Feb 2016 | [Apple vs the FBI](https://blog.trailofbits.com/2016/02/17/apple-can-comply-with-the-fbi-court-order/) |
+| [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
+| [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
 ## Security Reviews
 
