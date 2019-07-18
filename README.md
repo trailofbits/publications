@@ -112,7 +112,7 @@
 
 ## Podcasts
 
-| Podcast | Guest | Date | Topic |
+| Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
 | [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
 | [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android security and programming languages |
