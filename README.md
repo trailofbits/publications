@@ -10,6 +10,7 @@
   * [Mobile security](#mobile-security)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
+* [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
 * [Workshops](#workshops)
 
