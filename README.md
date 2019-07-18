@@ -109,6 +109,29 @@
 | --- | --- | --- |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
+## Podcasts
+
+| Podcast | Guest | Date | Topic |
+| --- | --- | --- | --- |
+| [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
+| [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android security and programming languages |
+| [Absolute AppSec 55](https://www.youtube.com/watch?v=Q0pKAlGLFtY) | Stefan Edwards | Apr 2019 | Security testing |
+| [Hashing it Out 35](https://thebitcoinpodcast.com/hashing-it-out-35/) | Dan Guido, Josselin Fiest | Jan 2019 | Ethereum's EIP-1283 |
+| [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages and symbolic execution |
+| [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing and blockchain software |
+| [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | How a security audit works for smart contracts |
+| [Risky Business 488](https://risky.biz/RB488/) | JP Smith | Feb 2018 | Smart contract testing with Manticore |
+| [Risky Business 474](https://risky.biz/RB474/) | Dan Guido | Oct 2017 | How to engineer secure software |
+| [Georgian Partners 47](https://georgianpartners.com/the-problem-with-the-tor-network-and-commercial-vpns/) | Dan Guido | May 2017 | AlgoVPN and Tor |
+| [VUC 643](https://www.youtube.com/watch?v=r_FV-uHYDgs) | Dan Guido | Apr 2017 | AlgoVPN |
+| [Risky Business 449](https://risky.biz/RB449/) | Dan Guido | Mar 2017 | Control Flow Integrity |
+| [Risky Business 425](https://risky.biz/RB425/) | Dan Guido | Sep 2016 | Recap the week's news |
+| [Risky Business 421](https://risky.biz/RB421/) | Dan Guido | Aug 2016 | Car hacking and the week's news |
+| [Risky Business 416](https://risky.biz/RB416/) | Dan Guido | Jul 2016 | DARPA Cyber Grand Challenge |
+| [Risky Business 399](https://risky.biz/RB399/) | Dan Guido | Feb 2016 | Apple vs the FBI |
+| [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
+| [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
+
 ## Security Reviews
 
 | Product | Review Date | Level of Effort | Announcement |
