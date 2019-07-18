@@ -117,7 +117,7 @@
 | [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
 | [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android security and programming languages |
 | [Absolute AppSec 55](https://www.youtube.com/watch?v=Q0pKAlGLFtY) | Stefan Edwards | Apr 2019 | Security testing |
-| [Hashing it Out 35](https://thebitcoinpodcast.com/hashing-it-out-35/) | Dan Guido, Josselin Feist | Jan 2019 | Ethereum's EIP-1283 |
+| [Hashing it Out 35](https://thebitcoinpodcast.com/hashing-it-out-35/) | Dan Guido, Josselin Feist | Jan 2019 | Ethereum's failed EIP-1283 |
 | [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbolic execution |
 | [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing and blockchain software |
 | [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | How a security audit works for smart contracts |
