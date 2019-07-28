@@ -148,7 +148,7 @@
 | [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
 | [TokenCard](https://tokencard.io/) | May 2019 | 5 person-weeks | |
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
-| [Compound](https://compound.finance/) | Apr 2019 | [8 person-weeks](reviews/compound-2.pdf) | |
+| [Compound](https://compound.finance/) | Apr 2019 | [8 person-weeks](reviews/compound-2.pdf) | [Compound v2 is Live](https://medium.com/compound-finance/compound-v2-is-live-157db0b7cfc8) |
 | Unity Coin | Apr 2019 | 1 person-week | |
 | [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) |
 | [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 person-weeks | [One Protocol. One Network. One Community.](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) |
