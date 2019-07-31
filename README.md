@@ -140,7 +140,7 @@
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
-| [NMR 2.0](https://numer.ai/homepage) | May 2019 | 3 person-weeks | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
+| [NMR 2.0](https://numer.ai/homepage) | May 2019 | [3 person-weeks](reviews/numerai.pdf) | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Kubernetes Security Audit Working Group](https://github.com/kubernetes/community/tree/master/wg-security-audit) |
 | [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
 | Interest Token  | May 2019 | 2 person-days | |
