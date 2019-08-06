@@ -10,6 +10,7 @@
   * [Mobile security](#mobile-security)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
+* [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
 * [Workshops](#workshops)
@@ -109,6 +110,12 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
+
+## Datasets
+
+| Dataset |
+| --- |
+| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) |
 
 ## Podcasts
 
