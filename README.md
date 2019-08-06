@@ -113,9 +113,9 @@
 
 ## Datasets
 
-| Dataset |
-| --- |
-| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) |
+| Dataset | Date |
+| --- |---|
+| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) | August 2019 |
 
 ## Podcasts
 
