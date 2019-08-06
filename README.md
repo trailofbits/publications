@@ -10,10 +10,10 @@
   * [Mobile security](#mobile-security)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
+* [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
 * [Workshops](#workshops)
-* [Datasets](#datasets)
 
 ## Academic Papers
 
@@ -111,6 +111,12 @@
 | --- | --- | --- |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
+## Datasets
+
+| Dataset |
+| --- |
+| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) |
+
 ## Podcasts
 
 | Podcast | Guest | Date | Topic(s) |
@@ -199,9 +205,3 @@
 | [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | September 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | March 2018 |
 | [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | October 2017 |
-
-## Datasets
-
-| Dataset |
-| --- |
-| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings/) |
