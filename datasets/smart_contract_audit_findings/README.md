@@ -1,6 +1,6 @@
 # Smart Contract Audit Findings
 
-Format of findings files is CSV containing:
+Audit findings are presented in a CSV with the following fields:
 
 - *type*: category of the finding
 - *severity*: high - low, estimate of impact of the finding
