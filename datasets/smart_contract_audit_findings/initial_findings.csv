@@ -25,7 +25,7 @@ data validation,high,low,0,1,1
 access controls,high,low,0,1,0
 data validation,informational,medium,0,1,0
 access controls,high,low,0,1,0
-access controls,high,low,0,0,0
+access controls,high,low,0,1,0
 access controls,low,high,0,0,0
 access controls,low,high,0,0,0
 data validation,high,low,1,1,0
@@ -54,7 +54,7 @@ data validation,medium,low,0,0,0
 documentation,undetermined,undetermined,0,0,0
 authentication,medium,high,0,0,0
 missing-logic,informational,low,0,1,0
-patching,low,undetermined,0,0,0
+patching,low,undetermined,1,0,0
 denial of service,high,low,0,1,0
 race condition,high,high,0,0,0
 numerics,low,low,0,0,0
@@ -71,7 +71,7 @@ data validation,informational,low,0,0,1
 missing-logic,low,low,0,0,1
 API-inconsistency,informational,low,0,0,1
 data validation,medium,low,1,1,1
-patching,informational,undetermined,0,0,0
+patching,informational,undetermined,1,0,0
 race condition,medium,high,1,0,1
 patching,low,low,0,0,0
 data validation,low,high,0,0,1
@@ -91,14 +91,14 @@ numerics,low,low,0,0,0
 denial of service,informational,undetermined,0,0,0
 timing,low,high,0,1,1
 data validation,informational,high,0,1,1
-reentrancy,medium,high,0,0,1
+reentrancy,medium,high,1,0,1
 data validation,medium,high,0,0,1
-access controls,high,low,0,1,0
-undefined behavior,high,medium,0,0,0
+access controls,high,low,1,1,0
+undefined behavior,high,medium,1,0,0
 data validation,high,medium,1,1,0
 error reporting,high,medium,0,0,0
 error reporting,high,high,0,0,0
-patching,high,high,0,0,0
+patching,high,high,1,0,0
 reentrancy,high,undetermined,1,1,0
 access controls,medium,high,0,1,0
 data exposure,medium,medium,0,0,0
@@ -107,9 +107,9 @@ data validation,low,low,0,0,1
 data validation,medium,medium,0,1,0
 coding-bug,low,low,0,0,0
 data validation,low,low,1,0,0
-auditing and logging,informational,low,0,0,0
-auditing and logging,informational,low,0,0,0
+auditing and logging,informational,low,1,0,0
 code-quality,informational,low,0,0,0
+code-quality,informational,low,1,0,0
 documentation,informational,low,0,0,0
 access controls,high,medium,0,1,0
 data validation,medium,undetermined,0,0,0
@@ -135,7 +135,7 @@ data validation,medium,low,1,1,0
 data validation,medium,high,0,1,0
 data validation,low,low,0,0,0
 coding-bug,low,high,1,0,0
-patching,low,undetermined,0,0,0
+patching,low,undetermined,1,0,0
 auditing and logging,undetermined,low,0,0,0
 access controls,high,low,0,1,0
 front-running,medium,high,0,0,0
@@ -166,9 +166,9 @@ data validation,low,low,1,1,0
 data validation,low,low,1,1,0
 data validation,low,low,1,1,0
 data validation,informational,low,0,1,0
-patching,informational,undetermined,0,0,0
+patching,informational,undetermined,1,0,0
 error reporting,informational,low,0,0,0
-code-quality,informational,low,0,0,0
+code-quality,informational,low,1,0,0
 undefined behavior,high,low,0,0,1
 front-running,medium,high,0,0,0
 configuration,informational,high,0,0,1
@@ -179,7 +179,7 @@ access controls,informational,high,0,0,0
 data exposure,informational,low,0,0,0
 data validation,low,high,0,0,0
 access controls,informational,low,0,0,0
-auditing and logging,low,high,0,0,0
+auditing and logging,low,high,1,0,0
 numerics,high,low,1,1,0
 authentication,high,high,0,0,0
 patching,informational,medium,1,1,0
@@ -234,7 +234,7 @@ denial of service,high,high,0,1,0
 numerics,low,high,1,1,0
 data validation,high,high,1,1,0
 numerics,low,high,1,1,0
-auditing and logging,informational,low,0,0,0
+auditing and logging,informational,low,1,0,0
 timing,low,high,0,1,0
 data validation,high,high,0,0,0
 numerics,low,high,0,0,0
