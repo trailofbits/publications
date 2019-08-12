@@ -121,6 +121,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Absolute AppSec 68](https://www.youtube.com/watch?v=S8dMqLQBXV0) | Stefan Edwards, Bobby Tonic | Aug 2019 | Kubernetes |
 | [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
 | [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android security, programming languages |
 | [Absolute AppSec 55](https://www.youtube.com/watch?v=Q0pKAlGLFtY) | Stefan Edwards | Apr 2019 | Security testing |
@@ -148,7 +149,8 @@
 | --- | --- | --- | --- |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
 | [Numerai](https://numer.ai/homepage) | May 2019 | [3 person-weeks](reviews/numerai.pdf) | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | [12 person-weeks](https://github.com/trailofbits/audit-kubernetes) | [Kubernetes Security Audit Working Group](https://github.com/kubernetes/community/tree/master/wg-security-audit) |
+| [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) | 
+| [Kubernetes](https://kubernetes.io/) | May 2019 | [12 person-weeks](https://github.com/trailofbits/audit-kubernetes) | [Kubernetes security matures: Inside the project’s first audit](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) |
 | [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
 | Interest Token  | May 2019 | 2 person-days | |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
