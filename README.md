@@ -147,6 +147,8 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Staked](https://staked.us/) | Aug 2019 | 4 person-weeks |  |
+| [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
 | [Numerai](https://numer.ai/homepage) | May 2019 | [3 person-weeks](reviews/numerai.pdf) | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) | 
