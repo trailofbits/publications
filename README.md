@@ -127,7 +127,7 @@
 | [Absolute AppSec 55](https://www.youtube.com/watch?v=Q0pKAlGLFtY) | Stefan Edwards | Apr 2019 | Security testing |
 | [Hashing it Out 35](https://thebitcoinpodcast.com/hashing-it-out-35/) | Dan Guido, Josselin Feist | Jan 2019 | Ethereum's failed EIP-1283 |
 | [Risky Business](https://risky.biz/RB526/) | JP Smith | Jan 2019 | Post-quantum cryptography in CTFs |
-| [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbolic execution |
+| [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbex |
 | [Risky Business 510](https://risky.biz/RB510/) | Lauren Pearl | Aug 2018 | Open source security engineering |
 | [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing, blockchain software |
 | [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | How security audits work for smart contracts |
