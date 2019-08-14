@@ -19,12 +19,12 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | [ASE 2019](https://2019.ase-conferences.org/) | June 2019 |
+| [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | [ASE 2019](https://2019.ase-conferences.org/) | Jun 2019 |
 | [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | [WETSEB 2019](http://www.agilegroup.eu/wetseb2019/) | May 2019 |
-| [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | [AISec 2018](http://aisec2018.icsi.berkeley.edu/aisec2018/index.html) | October 2018 |
-| [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | [IEEE S&P](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8328963) | April 2018 |
-| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | February 2018 |
-| [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | [FOSINT-SI 2015](http://fosint-si.cpsc.ucalgary.ca/2015/) | July 2015 |
+| [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | [AISec 2018](http://aisec2018.icsi.berkeley.edu/aisec2018/index.html) | Oct 2018 |
+| [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | [IEEE S&P](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8328963) | Apr 2018 |
+| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | Feb 2018 |
+| [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | [FOSINT-SI 2015](http://fosint-si.cpsc.ucalgary.ca/2015/) | Jul 2015 |
 
 ## Conference Presentations
 
@@ -115,7 +115,7 @@
 
 | Dataset | Date |
 | --- |---|
-| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) | August 2019 |
+| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) | Aug 2019 |
 
 ## Podcasts
 
@@ -204,9 +204,9 @@
 
 | Workshop Title | Venue | Date |
 | --- | --- | --- |
-| [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | November 2018 |
-| [DeepState: Bringing Vulnerability Detection Tools into the Dev Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | October 2018 |
-| [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202018) | TruffleCon 2018 | October 2018 |
-| [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | September 2018 |
-| [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | March 2018 |
-| [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | October 2017 |
+| [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | Nov 2018 |
+| [DeepState: Bringing Vulnerability Detection Tools into the Dev Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | Oct 2018 |
+| [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202018) | TruffleCon 2018 | Oct 2018 |
+| [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | Sep 2018 |
+| [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | Mar 2018 |
+| [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | Oct 2017 |
