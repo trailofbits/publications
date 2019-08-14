@@ -19,11 +19,11 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | *Under Review* | June 2019 |
-| [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | WETSEB 2019 | May 2019 |
-| [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | AISec 2018 | October 2018 |
+| [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | [ASE 2019](https://2019.ase-conferences.org/) | June 2019 |
+| [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | [WETSEB 2019](http://www.agilegroup.eu/wetseb2019/) | May 2019 |
+| [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | [AISec 2018](http://aisec2018.icsi.berkeley.edu/aisec2018/index.html) | October 2018 |
 | [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | IEEE S&P | April 2018 |
-| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | BAR 2018 | February 2018 |
+| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | February 2018 |
 | [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | FOSINT-SI 2015 | July 2015 |
 
 ## Conference Presentations
