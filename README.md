@@ -123,7 +123,7 @@
 | --- | --- | --- | --- |
 | [Absolute AppSec 68](https://www.youtube.com/watch?v=bOR21l96zz4) | Stefan Edwards, Bobby Tonic | Aug 2019 | Kubernetes |
 | [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
-| [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android security, programming languages |
+| [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android, programming languages |
 | [Absolute AppSec 55](https://www.youtube.com/watch?v=Q0pKAlGLFtY) | Stefan Edwards | Apr 2019 | Security testing |
 | [Hashing it Out 35](https://thebitcoinpodcast.com/hashing-it-out-35/) | Dan Guido, Josselin Feist | Jan 2019 | Ethereum's failed EIP-1283 |
 | [Risky Business](https://risky.biz/RB526/) | JP Smith | Jan 2019 | Post-quantum cryptography in CTFs |
