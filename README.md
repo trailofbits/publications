@@ -32,6 +32,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Binary Symbolic Execution With KLEE-Native](presentations/Binary%20Symbolic%20Execution%20with%20KLEE-Native) | Sai Vegasena | 2019
 | [Going sicko mode on the Linux Kernel](presentations/Going%20sicko%20mode%20on%20the%20Linux%20Kernel) | William Woodruff | 2019 |
 | [Vulnerability Modeling with Binary Ninja](presentations/Vulnerability%20Modeling%20with%20Binary%20Ninja) | Josh Watson | 2018 |
 | [Be a binary rockstar](https://vimeo.com/215511922#t=27m33s) | Sophia D'Antoine | 2017 |
@@ -88,7 +89,6 @@
 | [Security and Your Business](presentations/Security%20and%20Your%20Business) | Andrew Ruef | 2014 |
 | [Bringing nothing to the party](presentations/Bringing%20nothing%20to%20the%20party) | Vincenzo Iozzo | 2013 |
 | [From One Ivory Tower to Another](presentations/From%20One%20Ivory%20Tower%20to%20Another) | Vincenzo Iozzo | 2012 |
-| [Binary Symbolic Execution With KLEE-Native]() | Sai Vegasena | 2019
 
 ### Mobile security
 
