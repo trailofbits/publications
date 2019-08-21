@@ -32,6 +32,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [It's coming from inside the house: kernel space fault injection with KRF](presentations/It%27s%20coming%20from%20inside%20the%20house%3A%20kernel%20space%20fault%20injection%20with%20KRF) | William Woodruff | 2019 |
 | [Binary Symbolic Execution With KLEE-Native](presentations/Binary%20Symbolic%20Execution%20With%20KLEE-Native) | Sai Vegasena | 2019 |
 | [Going sicko mode on the Linux Kernel](presentations/Going%20sicko%20mode%20on%20the%20Linux%20Kernel) | William Woodruff | 2019 |
 | [Vulnerability Modeling with Binary Ninja](presentations/Vulnerability%20Modeling%20with%20Binary%20Ninja) | Josh Watson | 2018 |
@@ -152,8 +153,8 @@
 | [Blockchain](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
 | [Numerai](https://numer.ai/homepage) | May 2019 | [3 person-weeks](reviews/numerai.pdf) | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) | 
-| [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) | 
+| [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
+| [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [12 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf) | [Kubernetes security matures: Inside the project’s first audit](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) |
 | [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
 | Interest Token  | May 2019 | 2 person-days | |
