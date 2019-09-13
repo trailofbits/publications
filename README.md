@@ -124,7 +124,7 @@
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
 | [FOSS Weekly 545](https://www.youtube.com/watch?v=mkjoTAdZd3Q) | William Woodruff | Sep 2019 | PyPI security improvements |
-| [`Podcast.__init__` 225](https://www.pythonpodcast.com/pypi-improvements-episode-225/) | William Woodruff | Aug 2019 | PyPI security, usability, and sustainability |
+| [`Podcast.__init__` 225](https://www.pythonpodcast.com/pypi-improvements-episode-225/) | William Woodruff | Aug 2019 | PyPI security, UX, and sustainability |
 | [Absolute AppSec 68](https://www.youtube.com/watch?v=bOR21l96zz4) | Stefan Edwards, Bobby Tonic | Aug 2019 | Kubernetes |
 | [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
 | [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android, programming languages |
