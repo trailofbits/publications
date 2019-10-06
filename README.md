@@ -73,6 +73,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -90,6 +91,12 @@
 | [Security and Your Business](presentations/Security%20and%20Your%20Business) | Andrew Ruef | 2014 |
 | [Bringing nothing to the party](presentations/Bringing%20nothing%20to%20the%20party) | Vincenzo Iozzo | 2013 |
 | [From One Ivory Tower to Another](presentations/From%20One%20Ivory%20Tower%20to%20Another) | Vincenzo Iozzo | 2012 |
+
+### Infrastructure
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [Swimming with the kubectl fish](presentations/Swimming%20with%20the%20kubectl%20fish) | Stefan Edwards | 2019 |
 
 ### Mobile security
 
