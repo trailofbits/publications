@@ -141,7 +141,7 @@
 | [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbex |
 | [Risky Business 510](https://risky.biz/RB510/) | Lauren Pearl | Aug 2018 | Open source security engineering |
 | [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing, blockchain software |
-| [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | How security audits work for smart contracts |
+| [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | Smart contracts security audits |
 | [Risky Business 488](https://risky.biz/RB488/) | JP Smith | Feb 2018 | Smart contract testing with Manticore |
 | [Risky Business 474](https://risky.biz/RB474/) | Dan Guido | Oct 2017 | How to engineer secure software |
 | [Georgian Partners 47](https://georgianpartners.com/the-problem-with-the-tor-network-and-commercial-vpns/) | Dan Guido | May 2017 | [AlgoVPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) and Tor |
