@@ -160,7 +160,7 @@
 | --- | --- | --- | --- |
 | [Oasis Labs](https://www.oasislabs.com/) | Sept 2019 | 13 person-weeks |  |
 | [AZTEC Protocol](https://www.aztecprotocol.com/) | Sept 2019 | 10 person-weeks |  |
-| [Flexa](https://flexa.network/) | Sept 2019 | [2 person-weeks](reviews/flexa.pdf) |  |
+| [Flexa](https://flexa.network/) | Sept 2019 | [2 person-weeks](reviews/Flexa.pdf) |  |
 | [Aave DLPs](https://aave.com/) | Sept 2019 | 4 person-weeks |  |
 | [Celo](https://celo.org/) | Sept 2019 | 8 person-weeks |  |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
