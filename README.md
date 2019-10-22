@@ -73,6 +73,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -90,6 +91,12 @@
 | [Security and Your Business](presentations/Security%20and%20Your%20Business) | Andrew Ruef | 2014 |
 | [Bringing nothing to the party](presentations/Bringing%20nothing%20to%20the%20party) | Vincenzo Iozzo | 2013 |
 | [From One Ivory Tower to Another](presentations/From%20One%20Ivory%20Tower%20to%20Another) | Vincenzo Iozzo | 2012 |
+
+### Infrastructure
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [Swimming with the kubectl fish](presentations/Swimming%20with%20the%20kubectl%20fish) | Stefan Edwards | 2019 |
 
 ### Mobile security
 
@@ -123,6 +130,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [FOSS Weekly 545](https://www.youtube.com/watch?v=mkjoTAdZd3Q) | William Woodruff | Sep 2019 | PyPI security improvements |
+| [`Podcast.__init__` 225](https://www.pythonpodcast.com/pypi-improvements-episode-225/) | William Woodruff | Aug 2019 | PyPI security, UX, and sustainability |
 | [Absolute AppSec 68](https://www.youtube.com/watch?v=bOR21l96zz4) | Stefan Edwards, Bobby Tonic | Aug 2019 | Kubernetes |
 | [Hashing it Out 53](https://thebitcoinpodcast.com/hashing-it-out-53/) | Dan Guido | Jul 2019 | Smart contract testing |
 | [Absolute AppSec 60](https://www.youtube.com/watch?v=BZ0U7K0IxNQ) | Stefan Edwards | May 2019 | Android, programming languages |
@@ -132,7 +141,7 @@
 | [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbex |
 | [Risky Business 510](https://risky.biz/RB510/) | Lauren Pearl | Aug 2018 | Open source security engineering |
 | [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing, blockchain software |
-| [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | How security audits work for smart contracts |
+| [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | Smart contracts security audits |
 | [Risky Business 488](https://risky.biz/RB488/) | JP Smith | Feb 2018 | Smart contract testing with Manticore |
 | [Risky Business 474](https://risky.biz/RB474/) | Dan Guido | Oct 2017 | How to engineer secure software |
 | [Georgian Partners 47](https://georgianpartners.com/the-problem-with-the-tor-network-and-commercial-vpns/) | Dan Guido | May 2017 | [AlgoVPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) and Tor |
@@ -149,6 +158,16 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Smart Wallet](https://www.dharma.io/) | Oct 2019 | 4 person-weeks |  |
+| [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
+| [0x Protocol](https://0x.org/) | Oct 2019 | 10 person-weeks |  |
+| [Oasis Labs](https://www.oasislabs.com/) | Sept 2019 | 13 person-weeks |  |
+| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sept 2019 | 10 person-weeks |  |
+| [Flexa](https://flexa.network/) | Sept 2019 | [2 person-weeks](reviews/Flexa.pdf) |  |
+| [Aave DLPs](https://aave.com/) | Sept 2019 | 4 person-weeks |  |
+| [Celo](https://celo.org/) | Sept 2019 | 8 person-weeks |  |
+| [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
+| [MC Dai](https://makerdao.com) | Aug 2019 | 13 person-weeks |  |
 | [Staked](https://staked.us/) | Aug 2019 | 4 person-weeks |  |
 | [Blockchain](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [Compound](https://compound.finance/) | Aug 2019 | [2 person-weeks](reviews/compound-3.pdf) |  |
