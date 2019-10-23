@@ -158,7 +158,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Smart Wallet](https://www.dharma.io/) | Oct 2019 | 4 person-weeks |  |
+| [Smart Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
 | [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
 | [0x Protocol](https://0x.org/) | Oct 2019 | 10 person-weeks |  |
 | [Oasis Labs](https://www.oasislabs.com/) | Sept 2019 | 13 person-weeks |  |
