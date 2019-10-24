@@ -130,6 +130,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Risky Business 559](https://risky.biz/RB559/) | Stefan Edwards | Oct 2019 | Kubernetes |
 | [FOSS Weekly 545](https://www.youtube.com/watch?v=mkjoTAdZd3Q) | William Woodruff | Sep 2019 | PyPI security improvements |
 | [`Podcast.__init__` 225](https://www.pythonpodcast.com/pypi-improvements-episode-225/) | William Woodruff | Aug 2019 | PyPI security, UX, and sustainability |
 | [Absolute AppSec 68](https://www.youtube.com/watch?v=bOR21l96zz4) | Stefan Edwards, Bobby Tonic | Aug 2019 | Kubernetes |
@@ -167,7 +168,7 @@
 | [Aave Protocol](https://aave.com/) | Sept 2019 | [4 person-weeks](reviews/aaveprotocol.pdf) |  |
 | [Celo](https://celo.org/) | Sept 2019 | 8 person-weeks |  |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
-| [MC Dai](https://makerdao.com) | Aug 2019 | 13 person-weeks |  |
+| [MC Dai](https://makerdao.com) | Aug 2019 | 13 person-weeks | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) |
 | [Staked](https://staked.us/) | Aug 2019 | 4 person-weeks |  |
 | [Blockchain](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [Compound](https://compound.finance/) | Aug 2019 | [2 person-weeks](reviews/compound-3.pdf) |  |
