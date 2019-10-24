@@ -168,7 +168,7 @@
 | [Aave Protocol](https://aave.com/) | Sept 2019 | [4 person-weeks](reviews/aaveprotocol.pdf) |  |
 | [Celo](https://celo.org/) | Sept 2019 | 8 person-weeks |  |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
-| [MC Dai](https://makerdao.com) | Aug 2019 | 13 person-weeks | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) |
+| [MC Dai](https://makerdao.com) | Aug 2019 | [13 person-weeks](reviews/mc-dai.pdf) | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) |
 | [Staked](https://staked.us/) | Aug 2019 | 4 person-weeks |  |
 | [Blockchain](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [Compound](https://compound.finance/) | Aug 2019 | [2 person-weeks](reviews/compound-3.pdf) |  |
