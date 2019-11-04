@@ -159,6 +159,8 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Status-go](https://status.im/) | Oct 2019 | 9 person-weeks |  |
+| [SLP](https://simpleledger.cash/) | Oct 2019 | 3 person-weeks |  |
 | [Livepeer](https://livepeer.org/) | Oct 2019 | 3 person-weeks |  |
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
 | [Smart Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
