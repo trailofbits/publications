@@ -159,74 +159,83 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Status-go](https://status.im/) | Oct 2019 | 9 person-weeks |  |
-| [SLP](https://simpleledger.cash/) | Oct 2019 | 3 person-weeks |  |
-| [Livepeer](https://livepeer.org/) | Oct 2019 | 3 person-weeks |  |
-| [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
-| [Smart Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
-| [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
-| [0x Protocol](https://0x.org/) | Oct 2019 | [10 person-weeks](reviews/0x-protocol.pdf) |  |
-| [Oasis Labs](https://www.oasislabs.com/) | Sept 2019 | 13 person-weeks |  |
-| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sept 2019 | 10 person-weeks |  |
-| [Flexa](https://flexa.network/) | Sept 2019 | [2 person-weeks](reviews/Flexa.pdf) |  |
-| [Aave Protocol](https://aave.com/) | Sept 2019 | [4 person-weeks](reviews/aaveprotocol.pdf) |  |
-| [Celo](https://celo.org/) | Sept 2019 | 8 person-weeks |  |
-| [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
-| [MC Dai](https://makerdao.com) | Aug 2019 | [13 person-weeks](reviews/mc-dai.pdf) | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) |
-| [Staked](https://staked.us/) | Aug 2019 | 4 person-weeks |  |
-| [Blockchain](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
-| [Compound](https://compound.finance/) | Aug 2019 | [2 person-weeks](reviews/compound-3.pdf) |  |
-| [Computable](https://www.computable.io/) | Jul 2019 | [8 person-weeks](reviews/computable.pdf) | [Computable Contract Audit](https://medium.com/computable-blog/computable-contract-audit-771e3d39ea7) |
-| [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
-| [Numerai](https://numer.ai/homepage) | May 2019 | [3 person-weeks](reviews/numerai.pdf) | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [12 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf) | [Kubernetes security matures: Inside the project’s first audit](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) |
-| [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
-| Interest Token  | May 2019 | 2 person-days | |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
-| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
-| [TokenCard](https://tokencard.io/) | May 2019 | [5 person-weeks](reviews/TokenCard.pdf) | |
-| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
+| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
+| [zlib](https://www.zlib.net/) | Sep 2016 | [1 person-week](reviews/zlib.pdf) | |
+
+### Ethereum Smart Contracts
+
+| Product | Review Date | Level of Effort | Announcement |
+| --- | --- | --- | --- |
+| [Livepeer](https://livepeer.org/) | Oct 2019 | 3 person-weeks |  |
+| [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
+| [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
+| [0x Protocol](https://0x.org/) | Oct 2019 | [10 person-weeks](reviews/0x-protocol.pdf) |  |
+| [Flexa](https://flexa.network/) | Sept 2019 | [2 person-weeks](reviews/Flexa.pdf) |  |
+| [Aave Protocol](https://aave.com/) | Sept 2019 | [4 person-weeks](reviews/aaveprotocol.pdf) |  |
+| [MC Dai](https://makerdao.com) | Aug 2019 | [13 person-weeks](reviews/mc-dai.pdf) | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) |
+| [Compound](https://compound.finance/) | Aug 2019 | [2 person-weeks](reviews/compound-3.pdf) |  |
+| [Computable](https://www.computable.io/) | Jul 2019 | [8 person-weeks](reviews/computable.pdf) | [Computable Contract Audit](https://medium.com/computable-blog/computable-contract-audit-771e3d39ea7) |
+| [Numerai](https://numer.ai/homepage) | May 2019 | [3 person-weeks](reviews/numerai.pdf) | [NMR 2.0 is now live!](https://medium.com/numerai/nmr2point0-66a45a9a5e70) |
+| [MerkleX](https://merklex.io/) | May 2019 | 4 person-weeks |  |
+| [Staked](https://staked.us/) | Aug 2019 | 4 person-weeks |  |
+| Interest Token  | May 2019 | 2 person-days | |
 | [Compound](https://compound.finance/) | Apr 2019 | [8 person-weeks](reviews/compound-2.pdf) | [Compound v2 is Live](https://medium.com/compound-finance/compound-v2-is-live-157db0b7cfc8) |
 | Unity Coin | Apr 2019 | 1 person-week | |
-| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) |
 | [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 person-weeks | [One Protocol. One Network. One Community.](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) |
 | [UMA Project](https://umaproject.org/) | Mar 2019 | 3 person-weeks | |
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 person-week | |
-| [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
-| [Tendermint](https://interchain.io/) | Mar 2019 | 12 person-weeks | |
+| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
+| [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
+| [TokenCard](https://tokencard.io/) | May 2019 | [5 person-weeks](reviews/TokenCard.pdf) | |
 | [Reserve Protocol](https://reserve.org/) | Mar 2019 | [1 person-week](reviews/Reserve_LOA.pdf) | |
 | [Set Protocol](https://www.setprotocol.com/) | Mar 2019 | [5 person-weeks](reviews/setprotocol.pdf) | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) |
-| [NuCypher](https://www.nucypher.com/) | Feb 2019 | [4 person-weeks](reviews/nucypher-2.pdf) | [Security Audits (Round 2)](https://blog.nucypher.com/security-audits-round-2/) |
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 person-week | |
-| [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | [1 person-week](reviews/EIP-1283.pdf) | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2)
-| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | [4 person-weeks](reviews/ampleforth.pdf) | [Source Code and Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31)
-| [ndau](https://oneiro.io/) | Nov 2018 | 8 person-weeks | [ndau Holders Elect Inaugural Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) |
-| [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 person-weeks |
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | [4 person-weeks](reviews/origin.pdf) | [How We Approach Security at Origin](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71)
-| [Pantheon](https://pegasys.tech/) | Oct 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
 | [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | [4 person-weeks](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | Oct 2018 | [12 person-weeks](reviews/basis.pdf) |
 | [Compound](https://compound.finance/) | Sep 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
-| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
-| [NuCypher](https://www.nucypher.com/) | Aug 2018 | [12 person-weeks](reviews/nucypher.pdf) | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) |
-| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 4 person-weeks |
-| [Parity](https://www.parity.io/) | Jul 2018 | [12 person-weeks](reviews/parity.pdf) | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
-| [Bloom](https://bloom.co/) | Jul 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
-| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 person-weeks | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794)
 | [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | [8 person-weeks](reviews/gemini-dollar.pdf) | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392)
-| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 1 person-week |
+| [Bloom](https://bloom.co/) | Jul 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
 | [Dharma](https://dharma.io/) | May 2018 | 1 person-week | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c)
 | [Golem](https://golem.network/) | Apr 2018 | [4 person-weeks](reviews/golem.pdf) | [Smart contracts: audit report](https://medium.com/golem-project/smart-contracts-audit-report-ad41fdd5085b)
 | [LivePeer](https://livepeer.org/) | Mar 2018 | [4 person-weeks](reviews/livepeer.pdf) | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4)
-| [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [DappHub](https://dapphub.com/) | Dec 2017 | [8 person-weeks](reviews/dapphub.pdf) |
-| [RSKj](https://www.rsk.co/) | Nov 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/)
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai source code and security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 person-weeks | |
-| [zlib](https://www.zlib.net/) | Sep 2016 | [1 person-week](reviews/zlib.pdf) | |
+
+### Blockchain Protocols and Software
+
+| Product | Review Date | Level of Effort | Announcement |
+| --- | --- | --- | --- |
+| [Status-go](https://status.im/) | Oct 2019 | 9 person-weeks |  |
+| [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 person-weeks |  |
+| [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
+| [Oasis Labs](https://www.oasislabs.com/) | Sept 2019 | 13 person-weeks |  |
+| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sept 2019 | 10 person-weeks |  |
+| [Celo](https://celo.org/) | Sept 2019 | 8 person-weeks |  |
+| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) |
+| [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
+| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
+| [Tendermint](https://interchain.io/) | Mar 2019 | 12 person-weeks | |
+| [NuCypher](https://www.nucypher.com/) | Feb 2019 | [4 person-weeks](reviews/nucypher-2.pdf) | [Security Audits (Round 2)](https://blog.nucypher.com/security-audits-round-2/) |
+| [ndau](https://oneiro.io/) | Nov 2018 | 8 person-weeks | [ndau Holders Elect Inaugural Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) |
+| [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 person-weeks |
+| [Pantheon](https://pegasys.tech/) | Oct 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
+| [Parity](https://www.parity.io/) | Jul 2018 | [12 person-weeks](reviews/parity.pdf) | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
+| [NuCypher](https://www.nucypher.com/) | Aug 2018 | [12 person-weeks](reviews/nucypher.pdf) | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) |
+| [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
+| [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
+| [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
+| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
+| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
+| [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
+| [RSKj](https://www.rsk.co/) | Nov 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/)=
 
 ## Workshops
 
