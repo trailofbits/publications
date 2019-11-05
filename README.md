@@ -165,7 +165,7 @@
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
 | [Smart Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
 | [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
-| [0x Protocol](https://0x.org/) | Oct 2019 | 10 person-weeks |  |
+| [0x Protocol](https://0x.org/) | Oct 2019 | [10 person-weeks](reviews/0x-protocol.pdf) |  |
 | [Oasis Labs](https://www.oasislabs.com/) | Sept 2019 | 13 person-weeks |  |
 | [AZTEC Protocol](https://www.aztecprotocol.com/) | Sept 2019 | 10 person-weeks |  |
 | [Flexa](https://flexa.network/) | Sept 2019 | [2 person-weeks](reviews/Flexa.pdf) |  |
