@@ -14,6 +14,7 @@ fault injector open-sourced by Trail of Bits.
 Presented at:
 
 * [Linux Security Summit](https://events.linuxfoundation.org/events/linux-security-summit-north-america-2019/), August 2019
+* [CSAW C2](https://csaw.engineering.nyu.edu/global/nyu-tandon/c2workshop), November 2019
 
 Authored by:
 
