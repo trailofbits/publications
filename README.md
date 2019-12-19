@@ -98,6 +98,7 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Swimming with the kubectl fish](presentations/Swimming%20with%20the%20kubectl%20fish) | Stefan Edwards | 2019 |
+| [Return to the 100 Acre Woods](presentations/Return%20to%20the%20100%20Acre%20Woods) | Stefan Edwards | 2019 |
 
 ### Mobile security
 
@@ -215,6 +216,10 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
+| [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 person-weeks |  |
+| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 person-weeks |  |
+| [NEAR Protocol](https://nearprotocol.com/) | Nov 2019 | 8 person-weeks |  |
 | [Status-go](https://status.im/) | Oct 2019 | 9 person-weeks |  |
 | [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 person-weeks |  |
 | [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
