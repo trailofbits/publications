@@ -1,0 +1,15 @@
+digraph statesearch {
+    contract[label="contract Adder",shape=Mdiamond]
+    s0[label="{stack|value: 0}", shape="record"]
+    s1[label="{stack|value: 1}", shape="record", color=red]
+    s2[label="{stack|value: 2}", shape="record"]
+    s3[label="{stack|value: 3}", shape="record"]
+    sN[label="{stack|value: ...}", shape="record"]
+    search[label="state.can_be_true(value == 1)", shape=box, color=red]
+    contract->s0
+    contract->s1
+    contract->s2
+    contract->s3
+    contract->sN
+    s1->search
+}
