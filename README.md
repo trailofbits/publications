@@ -176,7 +176,7 @@
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
 | [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
 | [0x Protocol](https://0x.org/) | Oct 2019 | [10 person-weeks](reviews/0x-protocol.pdf) |  |
-| [Flexa](https://flexa.network/) | Sep 2019 | [2 person-weeks](reviews/Flexa.pdf) |  |
+| [Flexa](https://flexa.network/) | Sep 2019 | [2 person-weeks](reviews/Flexa.pdf) | [Announcing Flexa Capacity](https://medium.com/flexa/announcing-flexa-capacity-35c62ade9522) |
 | [Aave Protocol](https://aave.com/) | Sep 2019 | [4 person-weeks](reviews/aaveprotocol.pdf) |  |
 | [MC Dai](https://makerdao.com) | Aug 2019 | [13 person-weeks](reviews/mc-dai.pdf) | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) |
 | [Compound](https://compound.finance/) | Aug 2019 | [2 person-weeks](reviews/compound-3.pdf) |  |
