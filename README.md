@@ -218,7 +218,8 @@
 | --- | --- | --- | --- |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 person-weeks |  |
-| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 person-weeks |  |
+| [Zcash](https://electriccoin.co/) | Nov 2019 | [6 person-weeks](reviews/Zcash.pdf) |  |
+| [Zcash](https://electriccoin.co/) | Nov 2019 | [6 person-weeks](reviews/ZcashWP.pdf) |  |
 | [NEAR Protocol](https://nearprotocol.com/) | Nov 2019 | 8 person-weeks |  |
 | [Status-go](https://status.im/) | Oct 2019 | 9 person-weeks |  |
 | [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 person-weeks |  |
