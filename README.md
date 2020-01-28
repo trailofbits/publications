@@ -132,6 +132,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Changelog](https://changelog.com/podcast/377) | Dan Guido | Jan 2020 | AlgoVPN |
 | [Risky Business 559](https://risky.biz/RB559/) | Stefan Edwards | Oct 2019 | Kubernetes |
 | [FOSS Weekly 545](https://www.youtube.com/watch?v=mkjoTAdZd3Q) | William Woodruff | Sep 2019 | PyPI security improvements |
 | [`Podcast.__init__` 225](https://www.pythonpodcast.com/pypi-improvements-episode-225/) | William Woodruff | Aug 2019 | PyPI security, UX, and sustainability |
