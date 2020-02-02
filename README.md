@@ -173,6 +173,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Curve.fi](https://compound.curve.fi/) | Jan 2020 | [1 person-week](reviews/curve-loa.pdf) |  |
 | [Livepeer](https://livepeer.org/) | Oct 2019 | 3 person-weeks |  |
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
 | [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | [4 person-weeks](reviews/dharma-smartwallet.pdf) |  |
@@ -231,7 +232,7 @@
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
 | [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
-| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 person-weeks | |
+| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | [2 person-weeks](reviews/zelwallet.pdf) | |
 | [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [The Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
 | [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) |
 | [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
