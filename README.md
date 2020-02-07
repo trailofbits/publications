@@ -162,6 +162,8 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Voice Infrastructure](http://block.one/) | Jan 2020 | [4 person-weeks] |  |
+| [SweetB](https://www.westerndigital.com/) | Jan 2020 | [4 person-weeks] |  |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [12 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf) | [Kubernetes security matures: Inside the project’s first audit](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) |
@@ -218,6 +220,9 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [EOSIO SDK](http://block.one/) | Jan 2020 | 4 person-weeks |  |
+| [Balancer](https://balancer.finance/) | Jan 2020 | 4 person-weeks |  |
+| [WorkLock](https://www.nucypher.com/) | Jan 2020 | 2 person-weeks |  |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 person-weeks |  |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | [6 person-weeks](reviews/Zcash.pdf) | [Security assessments: NU3 specs, Blossom, and Sapling](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)|
