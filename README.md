@@ -175,6 +175,8 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [WorkLock](https://www.nucypher.com/) | Jan 2020 | [2 person-weeks](reviews/WorkLock-Summary.pdf) | [WorkLock Security Audit](https://blog.nucypher.com/worklock-security-audit/) |
+| [Balancer](https://balancer.finance/) | Jan 2020 | 4 person-weeks |  |
 | [Curve.fi](https://compound.curve.fi/) | Jan 2020 | [1 person-week](reviews/curve-loa.pdf) |  |
 | [Livepeer](https://livepeer.org/) | Oct 2019 | 3 person-weeks |  |
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
@@ -221,8 +223,6 @@
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 person-weeks |  |
-| [Balancer](https://balancer.finance/) | Jan 2020 | 4 person-weeks |  |
-| [WorkLock](https://www.nucypher.com/) | Jan 2020 | [2 person-weeks](reviews/WorkLock-Summary.pdf) | [WorkLock Security Audit](https://blog.nucypher.com/worklock-security-audit/) |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 person-weeks |  |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | [6 person-weeks](reviews/Zcash.pdf) | [Security assessments: NU3 specs, Blossom, and Sapling](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)|
