@@ -162,7 +162,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Voice Infrastructure](http://block.one/) | Jan 2020 | 4 person-weeks |  |
+| [Voice](http://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) |
