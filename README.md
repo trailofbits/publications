@@ -176,6 +176,7 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Chai](https://chai.money/) | Feb 2020 | [2 person-days](reviews/chai-loa.pdf) | |
 | [WorkLock](https://www.nucypher.com/) | Jan 2020 | [2 person-weeks](reviews/WorkLock-Summary.pdf) | [WorkLock Security Audit](https://blog.nucypher.com/worklock-security-audit/) |
 | [Balancer](https://balancer.finance/) | Jan 2020 | 4 person-weeks |  |
 | [Curve.fi](https://compound.curve.fi/) | Jan 2020 | [1 person-week](reviews/curve-loa.pdf) |  |
