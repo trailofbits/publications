@@ -19,6 +19,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | February 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | February 2020 |
 | [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | [ASE 2019](https://2019.ase-conferences.org/) | Jun 2019 |
 | [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | [WETSEB 2019](http://www.agilegroup.eu/wetseb2019/) | May 2019 |
