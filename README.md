@@ -232,7 +232,7 @@
 | [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 person-weeks |  |
 | [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 person-weeks |  |
 | [Oasis Labs](https://www.oasislabs.com/) | Sep 2019 | 13 person-weeks |  |
-| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | 10 person-weeks |  |
+| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | [10 person-weeks](reviews/aztec.pdf) |  |
 | [Celo](https://celo.org/) | Sep 2019 | 8 person-weeks |  |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 person-weeks |  |
 | [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
