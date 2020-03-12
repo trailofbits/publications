@@ -177,11 +177,10 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Balancer](https://balancer.finance/) | Feb 2020 | [4 person-weeks](reviews/BalancerCore.pdf) |  |
 | [Compound](https://compound.finance/) | Feb 2020 | [2 person-weeks](reviews/compound-governance.pdf) |  |
 | [Chai](https://chai.money/) | Feb 2020 | [2 person-days](reviews/chai-loa.pdf) | |
 | [WorkLock](https://www.nucypher.com/) | Jan 2020 | [2 person-weeks](reviews/WorkLock-Summary.pdf) | [WorkLock Security Audit](https://blog.nucypher.com/worklock-security-audit/) |
-| [Balancer](https://balancer.finance/) | Jan 2020 | 4 person-weeks |  |
+| [Balancer](https://balancer.finance/) | Jan 2020 | [4 person-weeks](reviews/BalancerCore.pdf) |  |
 | [Curve.fi](https://compound.curve.fi/) | Jan 2020 | [1 person-week](reviews/curve-summary.pdf) |  |
 | [Livepeer](https://livepeer.org/) | Oct 2019 | 3 person-weeks |  |
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 person-weeks |  |
