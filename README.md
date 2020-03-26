@@ -163,13 +163,15 @@
 
 ## Security Reviews
 
+Companies that have allowed us to speak about our work with them can be found here.
+
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Security Review](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf), [Threat Model](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf), [Whitepaper](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) | [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/)
-| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review]((https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf)) | [Western Digital](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
+| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review](reviews/sandiskx600.pdf) | [Western Digital](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 person-week | [Security Review](reviews/zlib.pdf)|
 
