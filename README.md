@@ -134,6 +134,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Zero Knowledge 122](https://www.zeroknowledge.fm/122) | Ben Perez | March 2020 | Cryptography reviews |
 | [Changelog](https://changelog.com/podcast/377) | Dan Guido | Jan 2020 | AlgoVPN |
 | [Risky Business 559](https://risky.biz/RB559/) | Stefan Edwards | Oct 2019 | Kubernetes |
 | [FOSS Weekly 545](https://www.youtube.com/watch?v=mkjoTAdZd3Q) | William Woodruff | Sep 2019 | PyPI security improvements |
@@ -164,10 +165,12 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Voice](http://block.one/) | Jan 2020 | 4 person-weeks |  |
+| [Voatz](https://voatz.com/) | Feb 2020 | [threat model](reviews/voatz-threatmodel.pdf) | [A note on security](https://mobilevoting.org/2020/03/a-note-on-security/) |
+| [Voatz](https://voatz.com/) | Feb 2020 | [12 person-weeks](reviews/voatz-securityreview) | [Charting A New Forward Course in Election Security](https://blog.voatz.com/?p=1287) |
+| [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | [3 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) |
+| [Kubernetes](https://kubernetes.io/) | May 2019 | [threat model](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
+| [Kubernetes](https://kubernetes.io/) | May 2019 | [whitepaper](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [12 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf) | [Kubernetes security matures: Inside the project’s first audit](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) |
 | [Western Digital](https://www.westerndigital.com/) | May 2019 | [6 person-weeks](https://www.westerndigital.com/content/dam/western-digital/en-us/assets/support/sandisk-x600-sed-security-assessment-public.pdf) | [Multiple vulnerabilities in SanDisk X600 SATA SED SSD](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) |
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
