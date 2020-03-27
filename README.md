@@ -134,7 +134,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Zero Knowledge 122](https://www.zeroknowledge.fm/122) | Ben Perez | March 2020 | Cryptography reviews, ZKPs |
+| [Zero Knowledge 122](https://www.zeroknowledge.fm/122) | Ben Perez | Mar 2020 | Cryptography reviews, ZKPs |
 | [Changelog](https://changelog.com/podcast/377) | Dan Guido | Jan 2020 | AlgoVPN |
 | [Risky Business 559](https://risky.biz/RB559/) | Stefan Edwards | Oct 2019 | Kubernetes |
 | [FOSS Weekly 545](https://www.youtube.com/watch?v=mkjoTAdZd3Q) | William Woodruff | Sep 2019 | PyPI security improvements |
