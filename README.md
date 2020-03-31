@@ -70,9 +70,9 @@
 ### Cryptography
 
 | Presentation Title | Author(s) | Year |
-| [Seriously, stop using RSA](https://www.youtube.com/watch?v=lElHzac8DDI&t=555s) | Ben Perez | 2019 |
-| [Best Practices for Cryptography in Python](presentations/Best%20Practices%20for%20Cryptography%20in%20Python) | Paul Kehrer | 2019 |
 | --- | --- | --- |
+| [Seriously, stop using RSA](presentations/Seriously%2C%20stop%20using%20RSA) | Ben Perez | 2019 |
+| [Best Practices for Cryptography in Python](presentations/Best%20Practices%20for%20Cryptography%20in%20Python) | Paul Kehrer | 2019 |
 | [Analyzing the MD5 collision in Flame](presentations/Analyzing%20the%20MD5%20Collision%20in%20Flame) | Alex Sotirov | 2012 |
 
 ### Engineering
