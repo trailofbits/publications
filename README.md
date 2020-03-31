@@ -72,6 +72,7 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Analyzing the MD5 collision in Flame](presentations/Analyzing%20the%20MD5%20Collision%20in%20Flame) | Alex Sotirov | 2012 |
+| [Fuck RSA](https://www.youtube.com/watch?v=lElHzac8DDI&t=555s) | Ben Perez | 2019 |
 
 ### Engineering
 
