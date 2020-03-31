@@ -88,6 +88,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Differential fuzzing, or: how to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
 | [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
 | [Low-level Security](presentations/Low-level%20Security) | Andrew Ruef | 2014 |
