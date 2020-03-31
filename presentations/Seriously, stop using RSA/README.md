@@ -9,7 +9,7 @@ Resources
 Presented at
 
 * [Summercon 2019](https://www.youtube.com/watch?v=lElHzac8DDI)
-* [Empire Hacking, June 2019]
+* Empire Hacking, June 2019
 
 Authored by
 
