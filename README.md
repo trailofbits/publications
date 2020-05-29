@@ -10,6 +10,7 @@
   * [Mobile security](#mobile-security)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
+  * [File format exploitation](#file-format-exploitation)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
@@ -126,6 +127,13 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
+
+### File format exploitation
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik, Carson Harmon, Brad Larsen | 2019 |
+| [File Polyglottery; or, This Proof of Concept is Also a Picture of Cats](presentations/The%20Treachery%20of%20Files) | Evan Sultanik | 2017 |
 
 ## Datasets
 
