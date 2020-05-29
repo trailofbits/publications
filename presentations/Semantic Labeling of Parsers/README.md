@@ -6,6 +6,8 @@ Resources
 
 * [Recording of the talk](https://www.youtube.com/watch?v=N2QYMUPKQRE).
 * [Blog post](https://blog.trailofbits.com/2019/11/01/two-new-tools-that-tame-the-treachery-of-files/) describing the project and tooling.
+* https://github.com/trailofbits/polyfile
+* https://github.com/trailofbits/polytracker
 
 Presented at
 
