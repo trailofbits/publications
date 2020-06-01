@@ -39,7 +39,7 @@
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik, Carson Harmon, Brad Larsen | 2019 |
 | [Symbolically Executing a Fuzzy Tyrant](presentations/Symbolically%20Executing%20a%20Fuzzy%20Tyrant) | Stefan Edwards | 2019 |
-| [It's coming from inside the house: kernel space fault injection with KRF](presentations/It%27s%20coming%20from%20inside%20the%20house%3A%20kernel%20space%20fault%20injection%20with%20KRF) | William Woodruff | 2019 |
+| [Kernel space fault injection with KRF](presentations/It%27s%20coming%20from%20inside%20the%20house%3A%20kernel%20space%20fault%20injection%20with%20KRF) | William Woodruff | 2019 |
 | [Binary Symbolic Execution With KLEE-Native](presentations/Binary%20Symbolic%20Execution%20With%20KLEE-Native) | Sai Vegasena | 2019 |
 | [Going sicko mode on the Linux Kernel](presentations/Going%20sicko%20mode%20on%20the%20Linux%20Kernel) | William Woodruff | 2019 |
 | [Vulnerability Modeling with Binary Ninja](presentations/Vulnerability%20Modeling%20with%20Binary%20Ninja) | Josh Watson | 2018 |
