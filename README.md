@@ -21,6 +21,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](papers/semantic_labeling_langsec2020.pdf) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
 | [RSA GTFO](papers/rsagtfo.pdf) | [PoC||GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20) | Jan 2020 |
@@ -37,6 +38,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [Differential fuzzing, or: how to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
 | [Symbolically Executing a Fuzzy Tyrant](presentations/Symbolically%20Executing%20a%20Fuzzy%20Tyrant) | Stefan Edwards | 2019 |
 | [It's coming from inside the house: kernel space fault injection with KRF](presentations/It%27s%20coming%20from%20inside%20the%20house%3A%20kernel%20space%20fault%20injection%20with%20KRF) | William Woodruff | 2019 |
