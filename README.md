@@ -1,7 +1,5 @@
 # Publications from Trail of Bits
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
 * [Academic Papers](#academic-papers)
 * [Conference Presentations](#conference-presentations)
   * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
@@ -144,7 +142,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Absolutely AppSec 97](https://www.youtube.com/watch?v=GvNXxOc30lM) | Stefan Edwards | May 2020 | Thread modeling |
+| [Absolute AppSec 97](https://www.youtube.com/watch?v=GvNXxOc30lM) | Stefan Edwards | May 2020 | Threat modeling |
 | [Unchained 170](https://unchainedpodcast.com/defi-security-with-so-many-hacks-will-it-ever-be-safe/) | Dan Guido | May 2020 | DeFi security |
 | [Risky Business 580](https://risky.biz/RB580/) | Dan Guido | Apr 2020 | Mobile voting | 
 | [Absolute AppSec 91](https://www.youtube.com/watch?v=HlGcJRhgNG0) | Stefan Edwards | Apr 2020 | Mobile voting |
