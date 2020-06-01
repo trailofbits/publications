@@ -10,7 +10,6 @@
   * [Mobile security](#mobile-security)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
-  * [File format exploitation](#file-format-exploitation)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
