@@ -5,7 +5,7 @@ RSA is an intrinsically fragile cryptosystem containing countless foot-guns whic
 Resources
 
 * [Blog post](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
-* [Article](../../papers/rsagtfo.pdf) published in [PoC||GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20)
+* [Article](/papers/rsagtfo.pdf) published in [PoC||GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20)
 
 Presented at
 
