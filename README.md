@@ -21,7 +21,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Automated Grammar Extraction via Semantic Labeling of Parsers](papers/semantic_labeling_langsec2020.pdf) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
+| [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
 | [RSA GTFO](papers/rsagtfo.pdf) | [PoC\|\|GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20) | Jan 2020 |
@@ -38,7 +38,6 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [Differential fuzzing, or: how to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik, Carson Harmon, Brad Larsen | 2019 |
 | [Symbolically Executing a Fuzzy Tyrant](presentations/Symbolically%20Executing%20a%20Fuzzy%20Tyrant) | Stefan Edwards | 2019 |
@@ -145,6 +144,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Absolutely AppSec 97](https://www.youtube.com/watch?v=GvNXxOc30lM) | Stefan Edwards | May 2020 | Thread modeling |
+| [Unchained 170](https://unchainedpodcast.com/defi-security-with-so-many-hacks-will-it-ever-be-safe/) | Dan Guido | May 2020 | DeFi security |
 | [Risky Business 580](https://risky.biz/RB580/) | Dan Guido | Apr 2020 | Mobile voting | 
 | [Absolute AppSec 91](https://www.youtube.com/watch?v=HlGcJRhgNG0) | Stefan Edwards | Apr 2020 | Mobile voting |
 | [Zero Knowledge 122](https://www.zeroknowledge.fm/122) | Ben Perez | Mar 2020 | Cryptography reviews, ZKPs |
