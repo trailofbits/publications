@@ -179,7 +179,10 @@ Companies that have allowed us to speak about our work with them can be found he
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks |  |
+| [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
+| [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |   |
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Security Review](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf), [Threat Model](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf), [Whitepaper](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) | [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/)
@@ -191,7 +194,9 @@ Companies that have allowed us to speak about our work with them can be found he
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Hegic](https://www.hegic.co/) | Apr 2020 | [3 person-days](reviews/hegic-summary.pdf) | |
+| [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/qtum_loa.pdf) | |
+| [Hegic](https://www.hegic.co/) | Apr 2020 | [3 person-days](reviews/hegic-summary.pdf) |  |
+| [Golem Network](https://golem.network/) | Mar 2020 | 2 person-weeks |  |
 | [Compound](https://compound.finance/) | Feb 2020 | [2 person-weeks](reviews/compound-governance.pdf) |  |
 | [Chai](https://chai.money/) | Feb 2020 | [2 person-days](reviews/chai-loa.pdf) | |
 | [WorkLock](https://www.nucypher.com/) | Jan 2020 | [2 person-weeks](reviews/WorkLock-Summary.pdf) | [WorkLock Security Audit](https://blog.nucypher.com/worklock-security-audit/) |
@@ -241,6 +246,11 @@ Companies that have allowed us to speak about our work with them can be found he
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
+| [tBTC](https://thesis.co/) | May 2020 | 6 person-weeks |  |
+| [Flux Monitor & Aggregator](https://chain.link/) | May 2020 | 4 person-weeks |  |
+| [Zcash](https://electriccoin.co/) | Apr 2020| 3 person-weeks |  |
+| [Elrond](https://elrond.com/) | Mar 2020 | 6 person-weeks |  |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 person-weeks |  |
