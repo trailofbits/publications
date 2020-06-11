@@ -195,7 +195,7 @@ Companies that have allowed us to speak about our work with them can be found he
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [Hegic](https://www.hegic.co/) | Apr 2020 | [3 person-days](reviews/hegic-summary.pdf) |  |
-| [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/QTUM.pdf) | |
+| [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/qtum_loa.pdf) | |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 person-weeks |  |
 | [Compound](https://compound.finance/) | Feb 2020 | [2 person-weeks](reviews/compound-governance.pdf) |  |
 | [Chai](https://chai.money/) | Feb 2020 | [2 person-days](reviews/chai-loa.pdf) | |
