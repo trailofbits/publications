@@ -96,6 +96,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018/2019 |
 | [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
 | [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
