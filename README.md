@@ -142,6 +142,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Epicenter 346](https://epicenter.tv/episodes/346) | Dan Guido | June 2020 | Blockchain and smart contract security |
 | [Absolute AppSec 97](https://www.youtube.com/watch?v=GvNXxOc30lM) | Stefan Edwards | May 2020 | Threat modeling |
 | [Unchained 170](https://unchainedpodcast.com/defi-security-with-so-many-hacks-will-it-ever-be-safe/) | Dan Guido | May 2020 | DeFi security |
 | [Risky Business 580](https://risky.biz/RB580/) | Dan Guido | Apr 2020 | Mobile voting | 
