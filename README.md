@@ -96,6 +96,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Python internals - let's talk about dicts](presentations/Python internals - lets talk about dicts) | Dominik Czarnota | 2019 |
 | [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018/2019 |
 | [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
