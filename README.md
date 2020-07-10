@@ -241,7 +241,7 @@ Companies that have allowed us to speak about our work with them can be found he
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | [4 person-weeks](reviews/origin.pdf) | [How We Approach Security at Origin](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71)
 | [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | [4 person-weeks](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | Oct 2018 | [12 person-weeks](reviews/basis.pdf) |
-| [Compound](https://compound.finance/) | Sep 2018 | 12 person-weeks | [Compound launches money markets for Ethereum assets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
+| [Compound](https://compound.finance/) | Sep 2018 | 12 person-weeks | [Compound launches money markets for Ethereum](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488)
 | [NuCypher](https://www.nucypher.com/) | Aug 2018 | [12 person-weeks](reviews/nucypher.pdf) | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) |
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 person-weeks | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794)
 | [Bloom](https://bloom.co/) | Jul 2018 | 1 person-week | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83)
