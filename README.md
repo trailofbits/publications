@@ -125,7 +125,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Python internals - let's talk about dicts](presentations/Python internals - lets talk about dicts) | Dominik Czarnota | 2019 |
+| [Python internals - let's talk about dicts](presentations/Python%20internals%20-%20lets%20talk%20about%20dicts) | Dominik Czarnota | 2019 |
 | [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018 |
 | [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
 
@@ -260,7 +260,7 @@ Companies that have allowed us to speak about our work with them can be found he
 | [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
 | [tBTC](https://thesis.co/) | May 2020 | [6 person-weeks](reviews/thesis-summary.pdf) |  |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 person-weeks |  |
-| [Zcash](https://electriccoin.co/) | Apr 2020| [3 person-weeks](reviews/Zcash2.pdf) | [Heartwood security assessment turns up no major issues](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) |
+| [Zcash](https://electriccoin.co/) | Apr 2020| [3 person-weeks](reviews/Zcash2.pdf) | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) |
 | [Elrond](https://elrond.com/) | Mar 2020 | 6 person-weeks |  |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
