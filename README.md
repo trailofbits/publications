@@ -8,6 +8,7 @@
   * [Engineering](#engineering)
   * [Education](#education)
   * [Mobile security](#mobile-security)
+  * [Programming](#programming)
   * [Side channels](#side-channels)
   * [Threat analysis](#threat-analysis)
 * [Datasets](#datasets)
@@ -97,9 +98,6 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Python internals - let's talk about dicts](presentations/Python internals - lets talk about dicts) | Dominik Czarnota | 2019 |
-| [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018/2019 |
-| [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
 | [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
 | [Low-level Security](presentations/Low-level%20Security) | Andrew Ruef | 2014 |
@@ -122,6 +120,14 @@
 | [Modern iOS Application Security](presentations/Modern%20iOS%20Application%20Security) | Sophia D'Antoine, Dan Guido | 2016 |
 | [The Mobile Exploit Intelligence Project](presentations/The%20Mobile%20Exploit%20Intelligence%20Project) | Dan Guido | 2012 |
 | [A Tale of Mobile Threats](presentations/A%20Tale%20of%20Mobile%20Threats) | Vincenzo Iozzo | 2012 |
+
+### Programming
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [Python internals - let's talk about dicts](presentations/Python internals - lets talk about dicts) | Dominik Czarnota | 2019 |
+| [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018 |
+| [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
 
 ### Side channels
 
