@@ -186,7 +186,7 @@
 
 ## Security Reviews
 
-Companies that have allowed us to speak about our work with them can be found here.
+Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
