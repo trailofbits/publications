@@ -288,7 +288,7 @@ Companies that have allowed us to speak about our work with them can be found he
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
 | [Parity](https://www.parity.io/) | Jul 2018 | [12 person-weeks](reviews/parity.pdf) | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
 | [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
-| [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB release hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
+| [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [RSKj](https://www.rsk.co/) | Nov 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/)
 
 ## Workshops
