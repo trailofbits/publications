@@ -205,6 +205,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [dForce dToken](https://dforce.network/) | Jul 2020 | [2 person-weeks](reviews/dtoken.pdf) | |
 | [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/qtum_loa.pdf) | |
 | [Hegic](https://www.hegic.co/) | Apr 2020 | [3 person-days](reviews/hegic-summary.pdf) |  |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 person-weeks |  |
