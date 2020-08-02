@@ -196,6 +196,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
+| [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | [Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks |  |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
@@ -213,9 +214,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [dForce dToken](https://dforce.network/) | Jul 2020 | [2 person-weeks](reviews/dtoken.pdf) | |
+| [Dexter](https://dex.camlcase.io/) | Jun 2020 | 4 person-weeks | | 
 | [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/qtum_loa.pdf) | |
 | [Hegic](https://www.hegic.co/) | Apr 2020 | [3 person-days](reviews/hegic-summary.pdf) |  |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 person-weeks |  |
+| [Reddit](https://www.reddit.com/community-points/) | Mar 2020 | 1 person-week | [A New Frontier](https://www.reddit.com/community-points/) |
 | [Compound](https://compound.finance/) | Feb 2020 | [2 person-weeks](reviews/compound-governance.pdf) |  |
 | [Chai](https://chai.money/) | Feb 2020 | [2 person-days](reviews/chai-loa.pdf) | |
 | [WorkLock](https://www.nucypher.com/) | Jan 2020 | [2 person-weeks](reviews/WorkLock-Summary.pdf) | [WorkLock Security Audit](https://blog.nucypher.com/worklock-security-audit/) |
@@ -265,6 +268,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Magma](https://magmawallet.com/) | Jun 2020 | 1 person-week | |
+| [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
 | [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
 | [tBTC](https://thesis.co/) | May 2020 | [6 person-weeks](reviews/thesis-summary.pdf) |  |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 person-weeks |  |
