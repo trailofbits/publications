@@ -14,9 +14,12 @@
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
+  * [Technology products](#technology-products)
+  * [Smart contracts](#smart-contracts)
+  * [Blockchain protocols and software](#blockchain-protocols-and-software)
 * [Workshops](#workshops)
 
-## Academic Papers
+## Academic papers
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
@@ -31,7 +34,7 @@
 | [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | Feb 2018 |
 | [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | [FOSINT-SI 2015](http://fosint-si.cpsc.ucalgary.ca/2015/) | Jul 2015 |
 
-## Conference Presentations
+## Conference presentations
 
 ### Automated bug finding and exploitation
 
@@ -188,20 +191,24 @@
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
+### Technology products
+
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks |  |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |   |
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
+| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 person-weeks |  |  |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Security Review](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf), [Threat Model](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf), [Whitepaper](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) | [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/)
 | [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review](reviews/sandiskx600.pdf) | [Western Digital](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 person-week | [Security Review](reviews/zlib.pdf)|
 
-### Ethereum Smart Contracts
+### Smart contracts
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
@@ -254,7 +261,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | [8 person-weeks](reviews/sai.pdf) | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 person-weeks | |
 
-### Blockchain Protocols and Software
+### Blockchain protocols and software
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
