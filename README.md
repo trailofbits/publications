@@ -214,7 +214,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |  |
-| [etcd](https://etcd.io/) | Jan 2020 | 4 person-weeks | |
+| [etcd](https://etcd.io/) | Jan 2020 | 4 person-weeks | [Security Review](reviews/etcd.pdf) | [CNCF](https://www.cncf.io/blog/2020/08/05/etcd-security-audit/) |
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 person-weeks | |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 person-weeks | [Security Review](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf), [Threat Model](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf), [Whitepaper](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) | [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/)
 
