@@ -278,6 +278,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-week](reviews/zcoin-lelantus-summary.pdf) | |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 person-week | |
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
 | [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
