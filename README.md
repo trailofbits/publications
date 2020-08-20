@@ -24,6 +24,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | July 2020 |
 | [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
@@ -156,11 +157,11 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Risky Business 594](https://risky.biz/RB594/) | Dan Guido | Aug 2020 | Apple security | 
+| [Risky Business 594](https://risky.biz/RB594/) | Dan Guido | Aug 2020 | Apple security |
 | [Epicenter 346](https://epicenter.tv/episodes/346) | Dan Guido | Jun 2020 | Smart contract security |
 | [Absolute AppSec 97](https://www.youtube.com/watch?v=GvNXxOc30lM) | Stefan Edwards | May 2020 | Threat modeling |
 | [Unchained 170](https://unchainedpodcast.com/defi-security-with-so-many-hacks-will-it-ever-be-safe/) | Dan Guido | May 2020 | DeFi security |
-| [Risky Business 580](https://risky.biz/RB580/) | Dan Guido | Apr 2020 | Mobile voting | 
+| [Risky Business 580](https://risky.biz/RB580/) | Dan Guido | Apr 2020 | Mobile voting |
 | [Absolute AppSec 91](https://www.youtube.com/watch?v=HlGcJRhgNG0) | Stefan Edwards | Apr 2020 | Mobile voting |
 | [Zero Knowledge 122](https://www.zeroknowledge.fm/122) | Ben Perez | Mar 2020 | Cryptography reviews, ZKPs |
 | [Changelog](https://changelog.com/podcast/377) | Dan Guido | Jan 2020 | AlgoVPN |
@@ -224,7 +225,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [dForce dToken](https://dforce.network/) | Jul 2020 | [2 person-weeks](reviews/dtoken.pdf) | |
-| [Dexter](https://dex.camlcase.io/) | Jun 2020 | 4 person-weeks | | 
+| [Dexter](https://dex.camlcase.io/) | Jun 2020 | 4 person-weeks | |
 | [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/qtum_loa.pdf) | |
 | [Hegic](https://www.hegic.co/) | Apr 2020 | [3 person-days](reviews/hegic-summary.pdf) |  |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 person-weeks |  |
