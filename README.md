@@ -279,7 +279,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Ren](https://renproject.io/) | Aug 2020 | [4 person-weeks](reviews/renvm.pdf) | |
+| [Ren](https://renproject.io/) | Aug 2020 | [4 person-weeks](reviews/renvm.pdf) | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-weeks](reviews/zcoin-lelantus-summary.pdf) | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 person-week | |
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
