@@ -204,7 +204,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
-| [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks | [Security Review](reviews/SweetB.pdf) | [New ArmorLock Platform](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) |
+| [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 person-weeks | [Security Review](reviews/SweetB.pdf) | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 person-weeks |  |  |
 | [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review](reviews/sandiskx600.pdf) | [Western Digital](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
