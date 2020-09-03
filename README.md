@@ -201,10 +201,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- | --- |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | [Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
-| [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks |  |
+| [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
-| [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
+| [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks | [Security Review](reviews/SweetB.pdf) | [New ArmorLock Platform](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 person-weeks |  |  |
 | [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review](reviews/sandiskx600.pdf) | [Western Digital](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
