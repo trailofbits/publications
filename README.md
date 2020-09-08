@@ -230,6 +230,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DeFiner Protocol](https://definer.org/) | Aug 2020 | 1 person-week | |
 | [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 person-week | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 person-weeks | |
+| [CurveDAO]() | Jul 2020 | [6 person-weeks](reviews/CurveDAO.pdf) | |
 | [Amp](https://amptoken.org/) | Jul 2020 | [3 person-weeks](reviews/amp.pdf) | |
 | [Federated Bridge](https://www.rsk.co/) | Jul 2020 | 1 person-week | |
 | [dForce dToken](https://dforce.network/) | Jul 2020 | [2 person-weeks](reviews/dtoken.pdf) | |
