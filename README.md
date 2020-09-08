@@ -199,7 +199,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | [Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
@@ -227,8 +226,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [DeFiner Protocol](https://definer.org/) | Aug 2020 | 1 person-week | |
+| [DeFiner](https://definer.org/) | Aug 2020 | 1 person-week | |
 | [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 person-week | |
+| [Argent](https://www.argent.xyz/) | Aug 2020 | 4 person-weeks | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 person-weeks | |
 | [CurveDAO](https://dao.curve.fi/) | Jul 2020 | [6 person-weeks](reviews/CurveDAO.pdf) | |
 | [Amp](https://amptoken.org/) | Jul 2020 | [3 person-weeks](reviews/amp.pdf) | |
@@ -289,11 +289,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 person-weeks |
-| [Verifiable Random Functions](https://chain.link/) | Aug 2020 | 2 person-weeks | |
-| [Argent](https://www.argent.xyz/) | Aug 2020 | 4 person-weeks | |
+| [VRFs](https://chain.link/) | Aug 2020 | 2 person-weeks | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 person-weeks | |
 | [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | 6 person-weeks | |
 | [Ren](https://renproject.io/) | Aug 2020 | [4 person-weeks](reviews/renvm.pdf) | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) |
+| [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 person-weeks | |
 | [Symbol](https://symbolplatform.com/) | Jul 2020 | 4 person-weeks | |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-weeks](reviews/zcoin-lelantus-summary.pdf) | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) |
