@@ -214,6 +214,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Helm](https://helm.sh/) | Aug 2020 | 4 person-weeks | |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |  |
@@ -225,7 +226,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [DeFiner](https://definer.org/) | Aug 2020 | 1 person-week | |
+| [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 person-week | |
+| [Argent](https://www.argent.xyz/) | Aug 2020 | 4 person-weeks | |
+| [MYKEY](https://mykey.org/en) | Jul 2020 | 4 person-weeks | |
+| [CurveDAO](https://dao.curve.fi/) | Jul 2020 | [6 person-weeks](reviews/CurveDAO.pdf) | |
 | [Amp](https://amptoken.org/) | Jul 2020 | [3 person-weeks](reviews/amp.pdf) | |
+| [Federated Bridge](https://www.rsk.co/) | Jul 2020 | 1 person-week | |
 | [dForce dToken](https://dforce.network/) | Jul 2020 | [2 person-weeks](reviews/dtoken.pdf) | |
 | [Dexter](https://dex.camlcase.io/) | Jun 2020 | 4 person-weeks | |
 | [QTUM](https://qtum.org/en) | Apr 2020 | [3 person-days](reviews/qtum_loa.pdf) | |
@@ -281,7 +288,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 person-weeks |
+| [VRFs](https://chain.link/) | Aug 2020 | 2 person-weeks | |
+| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 person-weeks | |
+| [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | 6 person-weeks | |
 | [Ren](https://renproject.io/) | Aug 2020 | [4 person-weeks](reviews/renvm.pdf) | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) |
+| [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
+| [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 person-weeks | |
+| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4 person-weeks | |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-weeks](reviews/zcoin-lelantus-summary.pdf) | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 person-week | |
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
