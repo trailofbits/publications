@@ -320,7 +320,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 person-weeks |  |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | [2 person-weeks](reviews/arweave-randomx.pdf) | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) |
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | [2 person-weeks](reviews/zecwallet.pdf) | |
-| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [Loom SDK Q1 2019 Security Audit is now complete!](https://twitter.com/loomnetwork/status/1126748703530766336) |
+| [Loom](https://loomx.io/) | May 2019 | 10 person-weeks | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) |
 | [Algorand](https://www.algorand.com/) | Mar 2019 | 14 person-weeks | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) |
 | [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 person-weeks | |
 | [Tendermint](https://interchain.io/) | Mar 2019 | 12 person-weeks | |
