@@ -288,7 +288,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 person-weeks |
+| [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | [4 person-weeks](reviews/ETH2DepositCLI.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 person-weeks | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 person-weeks | |
 | [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | 6 person-weeks | |
