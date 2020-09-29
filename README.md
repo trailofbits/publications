@@ -226,6 +226,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [DODO](https://dodoex.io/) | Sep 2020 | [3 person-weeks](reviews/dodo.pdf) | |
 | [DeFiner](https://definer.org/) | Aug 2020 | 1 person-week | |
 | [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 person-week | |
 | [Argent](https://www.argent.xyz/) | Aug 2020 | 4 person-weeks | |
