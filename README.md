@@ -121,7 +121,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [PrivacyRaven](https://www.youtube.com/watch?v=F46lX5VIoas&t=2h21m50s) | Suha Hussain | 2020 |
+| [PrivacyRaven](presentations/PrivacyRaven) | Suha Hussain | 2020 |
 
 ### Mobile security
 
