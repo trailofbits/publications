@@ -117,6 +117,12 @@
 | [Return to the 100 Acre Woods](presentations/Return%20to%20the%20100%20Acre%20Woods) | Stefan Edwards | 2019 |
 | [Swimming with the kubectl fish](presentations/Swimming%20with%20the%20kubectl%20fish) | Stefan Edwards | 2019 |
 
+### Machine Learning
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [PrivacyRaven](https://www.youtube.com/watch?v=F46lX5VIoas&t=2h21m50s) | Suha Hussain | 2020 |
+
 ### Mobile security
 
 | Presentation Title | Author(s) | Year |
