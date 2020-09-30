@@ -121,7 +121,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [PrivacyRaven](presentations/PrivacyRaven) | Suha Hussain | 2020 |
+| [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven) | Suha Hussain | 2020 |
 
 ### Mobile security
 
