@@ -163,7 +163,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [WCBS 880](https://www.radio.com/wcbs880/podcasts/small-business-report-with-joe-connolly-196/cyber-security-firms-remote-internships-supplement-school-324838158) | Dan Guido | Sep 2020 | Gap years and intern hiring |
+| [WCBS 880](https://www.radio.com/podcasts/wcbs-880-small-business-spotlight-32986/pandemic-gap-year-leads-to-career-development-322317063) | Dan Guido | Sep 2020 | Gap years and intern hiring |
 | [Risky Business 594](https://risky.biz/RB594/) | Dan Guido | Aug 2020 | Apple security |
 | [Epicenter 346](https://epicenter.tv/episodes/346) | Dan Guido | Jun 2020 | Smart contract security |
 | [Absolute AppSec 97](https://www.youtube.com/watch?v=GvNXxOc30lM) | Stefan Edwards | May 2020 | Threat modeling |
