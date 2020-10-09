@@ -295,6 +295,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Stacks V2](https://www.blockstack.org/) | Sept 2020 | 6 person-weeks | |
+| [Prysm](https://prysmaticlabs.com/) | Sept 2020 | 6 person-weeks | |
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | [4 person-weeks](reviews/ETH2DepositCLI.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 person-weeks | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 person-weeks | |
@@ -309,6 +311,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
 | [tBTC](https://thesis.co/) | May 2020 | [6 person-weeks](reviews/thesis-summary.pdf) |  |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 person-weeks |  |
+| [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | [2 person-weeks](reviews/ZeroTierProtocol.pdf) | [Phase 1: Conceptual Cryptographic Review](https://mobile.twitter.com/zerotier/status/1314343535303446531) |
 | [Zcash](https://electriccoin.co/) | Apr 2020| [3 person-weeks](reviews/Zcash2.pdf) | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) |
 | [Elrond](https://elrond.com/) | Mar 2020 | 6 person-weeks |  |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 person-weeks |  |
