@@ -205,6 +205,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 person-weeks | [Security Review](reviews/LedgerFilecoin.pdf) | |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | [Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
