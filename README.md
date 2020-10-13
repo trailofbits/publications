@@ -302,7 +302,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | [4 person-weeks](reviews/ETH2DepositCLI.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 person-weeks | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 person-weeks | |
-| [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | 6 person-weeks | |
+| [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | [6 person-weeks](reviews/YieldProtocol.pdf) | |
 | [Ren](https://renproject.io/) | Aug 2020 | [4 person-weeks](reviews/renvm.pdf) | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 person-weeks | |
