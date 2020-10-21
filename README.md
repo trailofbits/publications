@@ -308,7 +308,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 person-weeks | |
 | [Symbol](https://symbolplatform.com/) | Jul 2020 | 4 person-weeks | |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-weeks](reviews/zcoin-lelantus-summary.pdf) | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) |
-| [Magma](https://magmawallet.com/) | Jun 2020 | 1 person-week | |
+| [Magma](https://magmawallet.com/) | Jun 2020 | [1 person-week](reviews/MagmaWallet.pdf) | |
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
 | [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
 | [tBTC](https://thesis.co/) | May 2020 | [6 person-weeks](reviews/thesis-summary.pdf) |  |
