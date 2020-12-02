@@ -235,6 +235,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
+| [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
 | [Hermez](https://iden3.io/) | Nov 2020 | 4 person-weeks | |
 | [Nervos](https://www.nervos.org/)| Oct 2020 | 6 person-weeks | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 person-weeks | |
@@ -304,8 +306,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
 | [Highway Consensus Protocol](https://casperlabs.io/en/) | Nov 2020 | 4 person-weeks | |
-| [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
-| [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 person-weeks | |
 | [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 person-weeks | |
