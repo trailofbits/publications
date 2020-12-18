@@ -318,7 +318,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
 | [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | [2 person-weeks](reviews/LedgerFilecoin.pdf) | | 
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 person-weeks | |
-| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4 person-weeks | |
+| [Symbol](https://symbolplatform.com/) | Jul 2020 | [4 person-weeks](reviews/Symbol.pdf) | |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-weeks](reviews/zcoin-lelantus-summary.pdf) | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | [1 person-week](reviews/MagmaWallet.pdf) | |
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
