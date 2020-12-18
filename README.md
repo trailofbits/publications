@@ -221,6 +221,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
+| [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 person-weeks |  |
 | [Helm](https://helm.sh/) | Aug 2020 | 4 person-weeks | |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | |
@@ -233,6 +235,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
+| [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
+| [Hermez](https://iden3.io/) | Nov 2020 | 4 person-weeks | |
+| [Nervos](https://www.nervos.org/)| Oct 2020 | 6 person-weeks | |
+| [OVM](https://optimism.io/) | Oct 2020 | 6 person-weeks | |
 | [DODO](https://dodoex.io/) | Sep 2020 | [3 person-weeks](reviews/dodo.pdf) | |
 | [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | [6 person-weeks](reviews/YieldProtocol.pdf) | |
 | [DeFiner](https://definer.org/) | Aug 2020 | 1 person-week | |
@@ -297,6 +304,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
+| [Highway Consensus Protocol](https://casperlabs.io/en/) | Nov 2020 | 4 person-weeks | |
+| [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
+| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 person-weeks | |
+| [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 person-weeks | |
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 person-weeks | |
 | [Prysm](https://prysmaticlabs.com/) | Sep 2020 | 6 person-weeks | |
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | [4 person-weeks](reviews/ETH2DepositCLI.pdf) |
