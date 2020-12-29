@@ -237,7 +237,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
-| [Hermez](https://iden3.io/) | Nov 2020 | 4 person-weeks | |
+| [Hermez](https://iden3.io/) | Nov 2020 | [4 person-weeks](reviews/hermez.pdf) | |
 | [Nervos](https://www.nervos.org/)| Oct 2020 | 6 person-weeks | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 person-weeks | |
 | [DODO](https://dodoex.io/) | Sep 2020 | [3 person-weeks](reviews/dodo.pdf) | |
