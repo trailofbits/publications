@@ -207,7 +207,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- | --- |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
-| [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | [Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
+| [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 person-weeks | [Security Review](reviews/ZeroTierProtocol.pdf) | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
