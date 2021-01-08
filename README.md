@@ -210,6 +210,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 person-weeks | [Security Review](reviews/ZeroTierProtocol.pdf) | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) |
+| [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 person-week | [Security Review](reviews/StandardNotes.pdf) | [Standard Notes Completes Cryptography Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/)
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 person-weeks | [Security Review](reviews/voatz-securityreview.pdf), [Threat Model](reviews/voatz-threatmodel.pdf) | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/)
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 person-weeks | [Security Review](reviews/SweetB.pdf) | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) |
