@@ -64,7 +64,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Safely Integrating ERC20 Tokens to Your DeFi Application](presentations/Safely%20Integrating%20ERC20%20Tokens%20to%20Your%20DeFi%20Application) | Josselin Feist | 2021 |
+| [Safely integrating with ERC20 tokens](presentations/Safely%20Integrating%20ERC20%20Tokens%20to%20Your%20DeFi%20Application) | Josselin Feist | 2021 |
 | [Detecting transaction replacement attacks with Manticore](presentations/Detecting%20transaction%20replacement%20attacks%20with%20Manticore) | Sam Moelius | 2020 |
 | [Fantastic Bugs and How to Squash Them; or, the Crimes of Solidity](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2019 |
 | [SlithIR: High-Precision Security Analysis with an IR for Solidity](presentations/SlithIR%2C%20An%20Intermediate%20Representation%20of%20Solidity%20to%20enable%20High%20Precision%20Security%20Analysis) | Josselin Feist | 2019 |
