@@ -206,7 +206,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
-| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
+| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 person-weeks | [Security Review](reviews/ZeroTierProtocol.pdf) | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) |
@@ -215,7 +215,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Voice](https://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 person-weeks | [Security Review](reviews/SweetB.pdf) | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 person-weeks |  |  |
-| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review](reviews/sandiskx600.pdf) | [Western Digital](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
+| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 person-weeks | [Security Review](reviews/sandiskx600.pdf) | [Multiple vulnerabilities in SanDisk X600](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd)
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 person-weeks |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 person-week | [Security Review](reviews/zlib.pdf)|
 
@@ -309,7 +309,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
-| [Highway Consensus Protocol](https://casperlabs.io/en/) | Nov 2020 | 4 person-weeks | |
+| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 person-weeks | |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 person-weeks | |
 | [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 person-weeks | |
