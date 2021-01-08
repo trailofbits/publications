@@ -1,4 +1,4 @@
-# Safely Integrating ERC20 Tokens to Your DeFi Application
+# Safely integrating with ERC20 tokens
 
 DeFi smart contracts are financial applications that interact with arbitrary ERC20 tokens. Many risks associated with these interactions are not well-known and can lead to severe security issues. The goal of this presentation is to increase awareness of these risks and present guidelines to follow.
 
