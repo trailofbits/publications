@@ -311,7 +311,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
-| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 person-weeks | |
+| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | [4 person-weeks](reviews/CasperLabsHighwayProtocol.pdf) | |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 person-weeks | |
 | [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 person-weeks | |
