@@ -331,9 +331,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Matic](https://matic.network/) | Jun 2020 | 4 person-weeks |  |
 | [tBTC](https://thesis.co/) | May 2020 | [6 person-weeks](reviews/thesis-summary.pdf) |  |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 person-weeks |  |
+| [Polkadot Deployer](https://web3.foundation/) | Apr 2020 | 4 person-weeks | [The Polkadot Genesis Security Audits Hub](https://medium.com/web3foundation/the-polkadot-genesis-security-audits-hub-4d8b65e7f564) |
 | [Zcash](https://electriccoin.co/) | Apr 2020| [3 person-weeks](reviews/Zcash2.pdf) | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) |
 | [Elrond](https://elrond.com/) | Mar 2020 | 6 person-weeks |  |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 person-weeks |  |
+| [Polkadot](https://web3.foundation/) | Dec 2019 | 8 person-weeks | [The Polkadot Genesis Security Audits Hub](https://medium.com/web3foundation/the-polkadot-genesis-security-audits-hub-4d8b65e7f564) |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 person-weeks |  |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 person-weeks |  |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | [6 person-weeks](reviews/Zcash.pdf) | [NU3, Blossom, and Sapling security reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)|
