@@ -243,7 +243,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | [4 person-weeks](reviews/OriginDollar.pdf) | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
-| [Hermez](https://iden3.io/) | Nov 2020 | [4 person-weeks](reviews/hermez.pdf) | |
+| [Hermez](https://iden3.io/) | Nov 2020 | [4 person-weeks](reviews/hermez.pdf) | [Hermez Second Audit, by Trail of Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) |
 | [Nervos](https://www.nervos.org/)| Oct 2020 | 6 person-weeks | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 person-weeks | |
 | [DODO](https://dodoex.io/) | Sep 2020 | [3 person-weeks](reviews/dodo.pdf) | |
@@ -324,7 +324,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
 | [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | [2 person-weeks](reviews/LedgerFilecoin.pdf) | | 
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 person-weeks | |
-| [Symbol](https://symbolplatform.com/) | Jul 2020 | [4 person-weeks](reviews/Symbol.pdf) | |
+| [Symbol](https://symbolplatform.com/) | Jul 2020 | [4 person-weeks](reviews/Symbol.pdf) | [Symbol from NEM completes Trail of Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | [2 person-weeks](reviews/zcoin-lelantus-summary.pdf) | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | [1 person-week](reviews/MagmaWallet.pdf) | |
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 person-weeks | |
