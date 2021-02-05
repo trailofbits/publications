@@ -164,6 +164,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Building Better Systems #6](https://www.youtube.com/watch?v=wT-AmR7wtI8) | Dan Guido | Jan 2021 | What blockchain got right |
 | [WCBS 880](https://www.radio.com/podcasts/wcbs-880-small-business-spotlight-32986/pandemic-gap-year-leads-to-career-development-322317063) | Dan Guido | Sep 2020 | Gap years and intern hiring |
 | [Risky Business 594](https://risky.biz/RB594/) | Dan Guido | Aug 2020 | Apple security |
 | [Epicenter 346](https://epicenter.tv/episodes/346) | Dan Guido | Jun 2020 | Smart contract security |
