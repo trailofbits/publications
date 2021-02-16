@@ -243,8 +243,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- |
 | [LUSD](https://www.liquity.org/) | Dec 2020 | [8 person-weeks](reviews/Liquity.pdf) | |
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | [4 person-weeks](reviews/OriginDollar.pdf) | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) |
-| [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
-| [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 person-weeks | |
+| [wXTZ](https://www.stakerdao.com/) | Nov 2020 | [4 person-weeks](reviews/wXTZ.pdf) | |
+| [wALGO](https://www.stakerdao.com/) | Nov 2020 | [4 person-weeks](reviews/wALGO.pdf) | |
 | [Hermez](https://iden3.io/) | Nov 2020 | [4 person-weeks](reviews/hermez.pdf) | [Hermez Second Audit, by Trail of Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) |
 | [Nervos](https://www.nervos.org/)| Oct 2020 | 6 person-weeks | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 person-weeks | |
