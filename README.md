@@ -241,6 +241,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [C.R.E.A.M.](https://app.cream.finance/) | Jan 2021 | [1 person-week](reviews/CREAMSummary.pdf) | |
 | [LUSD](https://www.liquity.org/) | Dec 2020 | [8 person-weeks](reviews/Liquity.pdf) | |
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | [4 person-weeks](reviews/OriginDollar.pdf) | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | [4 person-weeks](reviews/wXTZ.pdf) | |
