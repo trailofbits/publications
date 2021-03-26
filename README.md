@@ -209,7 +209,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [SecureDrop](https://freedom.press/) | Dec 2020 | 8 person-weeks | [Security Review](reviews/SecureDropWorkstation.pdf) | [Second independent audit of SecureDrop Workstation completed](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) |
+| [SecureDrop](https://freedom.press/) | Dec 2020 | 8 person-weeks | [Security Review](reviews/SecureDropWorkstation.pdf) | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
