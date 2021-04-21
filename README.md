@@ -209,6 +209,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | |
+| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
+| [Nightwatch Application](https://nightwatchjs.org/) | Feb 2021 | 4 person-weeks | |
+| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 person-weeks | |
+| [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 person-weeks | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 person-weeks | [Security Review](reviews/SecureDropWorkstation.pdf) | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
@@ -228,10 +233,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Argo](https://argoproj.github.io/) | Mar 2021 | 4 person-weeks | |
+| [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
 | [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 person-weeks |  |
 | [Helm](https://helm.sh/) | Aug 2020 | 4 person-weeks | |
-| [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks |  |
+| [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks | |
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |  |
 | [etcd](https://etcd.io/) | Jan 2020 | 4 person-weeks | [Security Review](reviews/etcd.pdf) | [CNCF](https://www.cncf.io/blog/2020/08/05/etcd-security-audit/) |
@@ -242,6 +249,18 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 person-weeks | |
+| [Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | Mar 2021 | 10 person-weeks | |
+| [Multi-Collateral Dai (MCD)](https://makerdao.com) | Mar 2021 | 6 person-weeks | |
+| [dForce Lending protocol](https://dforce.network/) | Mar 2021 | 6 person-weeks | |
+| [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 person-weeks | | 
+| [Liquity Proxy Contract](https://www.liquity.org/) | Feb 2021 | [4 days](reviews/LiquityProxyContracts.pdf) | |
+| [Liquity Protocol](https://www.liquity.org/) | Feb 2021 | [8 person-weeks](reviews/LiquityProtocolandStabilityPoolFinalReport.pdf) | |
+| [RAY-DAO](https://staked.us/) | Feb 2021 | 4 person-weeks | |
+| [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 person-weeks | | 
+| [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 person-weeks | | 
+| [Balancer V2](https://balancer.finance/) | Jan 2021 | 6 person-weeks | |
+| [Balancer](https://balancer.finance/) | Jan 2020 | [4 person-weeks](reviews/BalancerCore.pdf) | |
 | [C.R.E.A.M.](https://app.cream.finance/) | Jan 2021 | [1 person-week](reviews/CREAMSummary.pdf) | |
 | [LUSD](https://www.liquity.org/) | Dec 2020 | [8 person-weeks](reviews/Liquity.pdf) | |
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | [4 person-weeks](reviews/OriginDollar.pdf) | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) |
@@ -314,6 +333,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
+| [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
+| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 person-weeks | |
+| [Acala Network](https://acala.network/) | Jan 2021 | 6 person-weeks | |
+| [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 person-weeks |
+| [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 person-weeks | |
+| [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 person-weeks | |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
 | [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | [4 person-weeks](reviews/CasperLabsHighwayProtocol.pdf) | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
