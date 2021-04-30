@@ -210,7 +210,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | |
-| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Nightwatch Application](https://nightwatchjs.org/) | Feb 2021 | 4 person-weeks | |
 | [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 person-weeks | |
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 person-weeks | | |
@@ -333,6 +332,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
 | [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 person-weeks | |
