@@ -64,6 +64,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
 | [Safely integrating with ERC20 tokens](presentations/Safely%20integrating%20with%20ERC20%20tokens) | Josselin Feist | 2021 |
 | [Detecting transaction replacement attacks with Manticore](presentations/Detecting%20transaction%20replacement%20attacks%20with%20Manticore) | Sam Moelius | 2020 |
 | [Fantastic Bugs and How to Squash Them; or, the Crimes of Solidity](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2019 |
