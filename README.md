@@ -232,7 +232,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [Argo](https://argoproj.github.io/) | Mar 2021 | 4 person-weeks | |
+| [Argo](https://argoproj.github.io/) | Mar 2021 | 4 person-weeks | [Security Review](reviews/argo-securityreview.pdf), [Threat Model](reviews/argo-threatmodel.pdf) |
 | [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
 | [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 person-weeks |  |
