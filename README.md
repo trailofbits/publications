@@ -250,8 +250,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- |
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 person-weeks | |
 | [Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | Mar 2021 | 10 person-weeks | |
-| [Multi-Collateral Dai (MCD)](https://makerdao.com) | Mar 2021 | 6 person-weeks | |
-| [dForce Lending protocol](https://dforce.network/) | Mar 2021 | 6 person-weeks | |
+| [MC Dai](https://makerdao.com) | Mar 2021 | 6 person-weeks | |
+| [dForce Lending](https://dforce.network/) | Mar 2021 | 6 person-weeks | |
 | [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 person-weeks | | 
 | [Liquity Proxy Contract](https://www.liquity.org/) | Feb 2021 | [4 days](reviews/LiquityProxyContracts.pdf) | |
 | [Liquity Protocol](https://www.liquity.org/) | Feb 2021 | [8 person-weeks](reviews/LiquityProtocolandStabilityPoolFinalReport.pdf) | |
