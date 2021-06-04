@@ -24,6 +24,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
 | [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | July 2020 |
 | [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
@@ -42,6 +43,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik | 2019 |
 | [Symbolically Executing a Fuzzy Tyrant](presentations/Symbolically%20Executing%20a%20Fuzzy%20Tyrant) | Stefan Edwards | 2019 |
