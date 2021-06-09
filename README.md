@@ -211,9 +211,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | |
-| [Skiff](https://www.skiff.org/) | Feb 2021 | 4 person-weeks | |
-| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 person-weeks | |
+| [DFINITY Internet Computer](https://dfinity.org/) | May 2021 | 24 person-weeks | | |
+| [Orbit](https://fleetdm.com/) | Apr 2021 | 1 person-week | | |
+| [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | | |
+| [Skiff](https://www.skiff.org/) | Feb 2021 | 4 person-weeks | | |
+| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 person-weeks | | |
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 person-weeks | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 person-weeks | [Security Review](reviews/SecureDropWorkstation.pdf) | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
@@ -250,6 +252,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Opyn Gamma Protocol](https://www.opyn.co/) | May 2021 | 6 person-weeks | |
+| [Syndicate](https://www.syndicateprotocol.org/) | May 2021 | 4 person-weeks | |
+| [Frax](https://frax.finance/) | May 2021 | 4 person-weeks | |
+| [FlareFinance](https://flr.finance/) | Apr 2021 | 3 person-weeks | |
+| [Yearn v2 Vaults](https://yearn.finance/) | Apr 2021 | 6 person-weeks | |
+| [DFX Finance](https://dfx.finance/) | Apr 2021 | 6 person-weeks | |
+| [Open Oracle](https://chain.link/) | Apr 2021 | 2 person-weeks | |
+| [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 person-week | |
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 person-weeks | |
 | [Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | Mar 2021 | 10 person-weeks | |
 | [MC Dai](https://makerdao.com) | Mar 2021 | 6 person-weeks | |
@@ -268,7 +278,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | [4 person-weeks](reviews/wXTZ.pdf) | |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | [4 person-weeks](reviews/wALGO.pdf) | |
 | [Hermez](https://iden3.io/) | Nov 2020 | [4 person-weeks](reviews/hermez.pdf) | [Hermez Second Audit, by Trail of Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) |
-| [Nervos](https://www.nervos.org/)| Oct 2020 | 6 person-weeks | |
+| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | [6 person-weeks](reviews/NervosSUDT.pdf)| |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 person-weeks | |
 | [DODO](https://dodoex.io/) | Sep 2020 | [3 person-weeks](reviews/dodo.pdf) | |
 | [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | [6 person-weeks](reviews/YieldProtocol.pdf) | |
@@ -334,6 +344,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Compound Chain](https://compound.finance/) May 2021 | 6 person-weeks | 
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
