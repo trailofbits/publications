@@ -211,7 +211,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [DFINITY Internet Computer](https://dfinity.org/) | May 2021 | 24 person-weeks | | |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 person-week | | |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 person-weeks | | |
@@ -252,7 +251,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Opyn Gamma Protocol](https://www.opyn.co/) | May 2021 | 6 person-weeks | |
+| [Opyn Gamma](https://www.opyn.co/) | May 2021 | 6 person-weeks | |
 | [Syndicate](https://www.syndicateprotocol.org/) | May 2021 | 4 person-weeks | |
 | [Frax](https://frax.finance/) | May 2021 | 4 person-weeks | |
 | [FlareFinance](https://flr.finance/) | Apr 2021 | 3 person-weeks | |
@@ -344,6 +343,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [DFINITY](https://dfinity.org/) | May 2021 | 24 person-weeks | | 
 | [Compound Chain](https://compound.finance/) May 2021 | 6 person-weeks | 
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
