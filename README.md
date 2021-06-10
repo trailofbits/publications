@@ -344,7 +344,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [DFINITY](https://dfinity.org/) | May 2021 | 24 person-weeks | | 
-| [Compound Chain](https://compound.finance/) May 2021 | 6 person-weeks | 
+| [Compound Chain](https://compound.finance/) | May 2021 | 6 person-weeks | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
