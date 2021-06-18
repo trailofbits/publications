@@ -259,7 +259,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DFX Finance](https://dfx.finance/) | Apr 2021 | 6 person-weeks | |
 | [Open Oracle](https://chain.link/) | Apr 2021 | 2 person-weeks | |
 | [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 person-week | |
-| [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 person-weeks | |
+| [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | [6 person-weeks](reviews/AdvancedBlockchain.pdf) |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) |
 | [Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | Mar 2021 | 10 person-weeks | |
 | [MC Dai](https://makerdao.com) | Mar 2021 | 6 person-weeks | |
 | [dForce Lending](https://dforce.network/) | Mar 2021 | 6 person-weeks | |
