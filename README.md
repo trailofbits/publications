@@ -211,6 +211,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 person-weeks | [Policy Review](reviews/LinuxKernelReleaseSigning.pdf) | [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 person-week | | |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 person-weeks | | |
