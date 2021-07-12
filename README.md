@@ -211,7 +211,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [Stratus Platform](https://appian.com/) | Jun 2021 | 4 person-weeks | | |
+| [Appian](https://appian.com/) | Jun 2021 | 4 person-weeks | | |
 | [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 person-weeks | | |
 | [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 person-weeks | [Policy Review](reviews/LinuxKernelReleaseSigning.pdf) | [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 person-week | | |
@@ -238,7 +238,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [HashiCorp Cloud Platform](https://cloud.hashicorp.com/) | Jun 2021 | 8 person-weeks | |
+| [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2021 | 8 person-weeks | |
 | [Argo](https://argoproj.github.io/) | Mar 2021 | 4 person-weeks | [Security Review](reviews/argo-securityreview.pdf), [Threat Model](reviews/argo-threatmodel.pdf) |
 | [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
