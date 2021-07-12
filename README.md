@@ -211,6 +211,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Stratus Platform](https://appian.com/) | Jun 2021 | 4 person-weeks | | |
+| [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 person-weeks | | |
 | [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 person-weeks | [Policy Review](reviews/LinuxKernelReleaseSigning.pdf) | [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 person-week | | |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | | |
@@ -236,6 +238,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [HashiCorp Cloud Platform](https://cloud.hashicorp.com/) | Jun 2021 | 8 person-weeks | |
 | [Argo](https://argoproj.github.io/) | Mar 2021 | 4 person-weeks | [Security Review](reviews/argo-securityreview.pdf), [Threat Model](reviews/argo-threatmodel.pdf) |
 | [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
@@ -252,11 +255,19 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Optics](https://celo.org/) | July 2021 | 2 person-weeks |  |
+| [xUDT](https://www.nervos.org/) | Jun 2021 | 2 person-weeks | | 
+| [Abyss Lockup](https://www.allnodes.com/) | Jun 2021 | 2 person-weeks | |
+| [Compli\Fi](https://compli.fi/) | Jun 2021 | 6 person-weeks | |
+| [Uniswap V3 Staker](https://uniswap.org/blog/uniswap-v3/) | Jun 2021 | 2 person-weeks | |
+| [Futureswap V3](https://www.futureswap.com/) | Jun 2021 | 6 person-weeks | |
+| [Chainlink](https://chain.link/) | Jun 2020 | 8 person-weeks |  |
+| [FlareFinance](https://flr.finance/) | Jun 2021 | 4 person-weeks | |
 | [Opyn Gamma](https://www.opyn.co/) | May 2021 | 6 person-weeks | |
 | [Syndicate](https://www.syndicateprotocol.org/) | May 2021 | 4 person-weeks | |
-| [Frax](https://frax.finance/) | May 2021 | 4 person-weeks | |
+| [Frax](https://frax.finance/) | May 2021 | [4 person-weeks](reviews/FraxFinance.pdf) | |
 | [FlareFinance](https://flr.finance/) | Apr 2021 | 3 person-weeks | |
-| [Yearn v2 Vaults](https://yearn.finance/) | Apr 2021 | 6 person-weeks | |
+| [Yearn v2 Vaults](https://yearn.finance/) | Apr 2021 | [6 person-weeks](reviews/YearnV2Vaults.pdf) | |
 | [DFX Finance](https://dfx.finance/) | Apr 2021 | 6 person-weeks | |
 | [Open Oracle](https://chain.link/) | Apr 2021 | 2 person-weeks | |
 | [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 person-week | |
@@ -344,6 +355,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 person-weeks | |
+| [Acala Network](https://acala.network/) | Jun 2021 | 4 person-weeks | |
 | [DFINITY](https://dfinity.org/) | May 2021 | 24 person-weeks | | 
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 person-weeks | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
