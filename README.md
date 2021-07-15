@@ -255,6 +255,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [CompliFi](https://compli.fi/) | July 2021 | [6 person-weeks](reviews/CompliFi.pdf) | |
 | [Optics](https://celo.org/) | July 2021 | 2 person-weeks |  |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 person-weeks | | 
 | [Abyss Lockup](https://www.allnodes.com/) | Jun 2021 | 2 person-weeks | |
