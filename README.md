@@ -256,8 +256,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [CompliFi](https://compli.fi/) | July 2021 | [6 person-weeks](reviews/CompliFi.pdf) | |
-| [Optics](https://celo.org/) | July 2021 | 2 person-weeks |  |
+| [88mph V3](https://88mph.app/) | Aug 2021 | [6 person-weeks](reviews/88mph.pdf) | |
+| [Timeswap](https://timeswap.io/) | Jul 2021 | 2 person-weeks | |
+| [CompliFi](https://compli.fi/) | Jul 2021 | [6 person-weeks](reviews/CompliFi.pdf) | |
+| [Optics](https://celo.org/) | Jul 2021 | 2 person-weeks |  |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 person-weeks | | 
 | [Abyss Lockup](https://www.allnodes.com/) | Jun 2021 | 2 person-weeks | |
 | [Compli\Fi](https://compli.fi/) | Jun 2021 | 6 person-weeks | |
@@ -357,6 +359,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | [4 person-weeks](reviews/CasperLedger.pdf) | |
+| [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 person-weeks | |
+| [AElf](https://aelf.io/) | Jul 2021 | 4 person-weeks | | 
+| [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 person-weeks |
 | [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 person-weeks | |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 person-weeks | |
 | [DFINITY](https://dfinity.org/) | May 2021 | 24 person-weeks | | 
@@ -365,7 +371,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
 | [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 person-weeks | |
-| [Acala Network](https://acala.network/) | Jan 2021 | 6 person-weeks | |
+| [Acala Network](https://acala.network/) | Jan 2021 | [6 person-weeks](reviews/AcalaNetwork.pdf) | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 person-weeks |
 | [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 person-weeks | |
 | [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 person-weeks | |
