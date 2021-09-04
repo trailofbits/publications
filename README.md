@@ -244,7 +244,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
 | [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 person-weeks |  |
-| [Helm](https://helm.sh/) | Aug 2020 | 4 person-weeks | |
+| [Helm](https://helm.sh/) | Aug 2020 | [4 person-weeks](reviews/Helm.pdf) | [Helm 2nd Security Audit](https://helm.sh/blog/helm-2nd-security-audit/) |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks | |
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |  |
@@ -267,7 +267,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Futureswap V3](https://www.futureswap.com/) | Jun 2021 | 6 person-weeks | |
 | [Chainlink](https://chain.link/) | Jun 2020 | 8 person-weeks |  |
 | [FlareFinance](https://flr.finance/) | Jun 2021 | 4 person-weeks | |
-| [Opyn Gamma](https://www.opyn.co/) | May 2021 | 6 person-weeks | |
+| [Opyn Gamma](https://www.opyn.co/) | May 2021 | [6 person-weeks](reviews/Opyn-Gamma-Protocol.pdf) | |
 | [Syndicate](https://www.syndicateprotocol.org/) | May 2021 | 4 person-weeks | |
 | [Frax](https://frax.finance/) | May 2021 | [4 person-weeks](reviews/FraxFinance.pdf) | |
 | [FlareFinance](https://flr.finance/) | Apr 2021 | 3 person-weeks | |
