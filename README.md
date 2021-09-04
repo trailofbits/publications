@@ -60,7 +60,7 @@
 | [The Smart Fuzzer Revolution](presentations/The%20Smart%20Fuzzer%20Revolution) | Dan Guido | 2016 |
 | [Making a scaleable automated hacking system](presentations/Cyber%20Grand%20Challenge) | Artem Dinaburg | 2016 |
 | [Cyberdyne - Automatic bug-finding at scale](presentations/Cyber%20Grand%20Challenge) | Peter Goodman | 2016 |
-| [McSema - Static translation of x86 instructions to LLVM IR](presentations/McSema%20-%20Static%20Translation%20of%20x86%20instructions%20to%20LLVM%20IR) | Andrew Ruef, Artem Dinaburg | 2014 |
+| [McSema: Static translation of x86 to LLVM IR](presentations/McSema%20-%20Static%20Translation%20of%20x86%20instructions%20to%20LLVM%20IR) | Andrew Ruef, Artem Dinaburg | 2014 |
 
 ### Blockchain
 
@@ -151,10 +151,11 @@
 | [Hardware side channels in virtualized environments](presentations/Hardware%20side%20channels%20in%20virtualized%20environments) | Sophia D'Antoine | 2015 |
 | [Exploiting Out-of-Order Execution](presentations/Exploiting%20Out-of-Order%20Execution) | Sophia D'Antoine | 2015 |
 
-### Threat analysis
+### Threat analysis & Malware
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 | 
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
 ## Datasets
@@ -277,7 +278,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Open Oracle](https://chain.link/) | Apr 2021 | 2 person-weeks | |
 | [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 person-week | |
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | [6 person-weeks](reviews/AdvancedBlockchain.pdf) |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) |
-| [Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | Mar 2021 | 10 person-weeks | |
+| [Uniswap V3](https://uniswap.org/) | March 2021 | [10 person-weeks](reviews/UniswapV3Core.pdf) | [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3/) |
 | [MC Dai](https://makerdao.com) | Mar 2021 | 6 person-weeks | |
 | [dForce Lending](https://dforce.network/) | Mar 2021 | 6 person-weeks | |
 | [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 person-weeks | | 
