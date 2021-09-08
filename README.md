@@ -10,7 +10,7 @@
   * [Mobile security](#mobile-security)
   * [Programming](#programming)
   * [Side channels](#side-channels)
-  * [Threat analysis](#threat-analysis)
+  * [Threat analysis & malware](#threat-analysis--malware)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
@@ -151,7 +151,7 @@
 | [Hardware side channels in virtualized environments](presentations/Hardware%20side%20channels%20in%20virtualized%20environments) | Sophia D'Antoine | 2015 |
 | [Exploiting Out-of-Order Execution](presentations/Exploiting%20Out-of-Order%20Execution) | Sophia D'Antoine | 2015 |
 
-### Threat analysis & Malware
+### Threat analysis & malware
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
