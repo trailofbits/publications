@@ -6,4 +6,4 @@ Presented at
  * [GreHack '17](https://grehack.fr/2017/workshop#manticore)
 
 Authored by
- * Yan Ivnitskiy
+ * guanlong huang
