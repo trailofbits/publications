@@ -258,6 +258,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Rocket Pool](https://rocketpool.net/) | Aug 2021 | [5 person-weeks](reviews/RocketPool.pdf) | |
 | [88mph V3](https://88mph.app/) | Aug 2021 | [6 person-weeks](reviews/88mph.pdf) | |
 | [Timeswap](https://timeswap.io/) | Jul 2021 | 2 person-weeks | |
 | [CompliFi](https://compli.fi/) | Jul 2021 | [6 person-weeks](reviews/CompliFi.pdf) | |
