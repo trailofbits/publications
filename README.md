@@ -214,6 +214,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 person-weeks | |
 | [Appian](https://appian.com/) | Jun 2021 | 4 person-weeks | | |
 | [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 person-weeks | | |
 | [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 person-weeks | [Policy Review](reviews/LinuxKernelReleaseSigning.pdf) | [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) |
@@ -246,9 +247,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 person-weeks |  |
 | [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 person-weeks |  |
-| [Helm](https://helm.sh/) | Aug 2020 | [4 person-weeks](reviews/Helm.pdf) | [Helm 2nd Security Audit](https://helm.sh/blog/helm-2nd-security-audit/) |
+| [Helm](https://helm.sh/) | Aug 2020 | 4 person-weeks | [Security Review](reviews/Helm.pdf) | [Helm 2nd Security Audit](https://helm.sh/blog/helm-2nd-security-audit/) |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 person-weeks | |
-| [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | |
+| [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 person-weeks | [Security Review](reviews/OPAGatekeeper.pdf) | [Open Policy Agent (OPA) Graduation Proposal](https://github.com/cncf/toc/blob/main/proposals/graduation/opa.md) |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 person-weeks |  |
 | [etcd](https://etcd.io/) | Jan 2020 | 4 person-weeks | [Security Review](reviews/etcd.pdf) | [CNCF](https://www.cncf.io/blog/2020/08/05/etcd-security-audit/) |
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 person-weeks | [Security Review](reviews/rook.pdf) | [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/)
@@ -258,6 +259,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 person-week | |
+| [RocketPool](https://rocketpool.net/) | Aug 2021 | [5 person-weeks](reviews/RocketPool.pdf) | |
+| [AlphaX](https://alpha-x.io/) | Aug 2021 | 6 person-weeks | |
+| [Bug Bounty Platform](https://solidified.io/) | Aug 2021 | 8 person-weeks | |
 | [88mph V3](https://88mph.app/) | Aug 2021 | [6 person-weeks](reviews/88mph.pdf) | |
 | [Timeswap](https://timeswap.io/) | Jul 2021 | 2 person-weeks | |
 | [CompliFi](https://compli.fi/) | Jul 2021 | [6 person-weeks](reviews/CompliFi.pdf) | |
@@ -361,6 +366,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [ShardX](https://www.gemini.com/) | Aug 2021 | 4 person-weeks | |
+| [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 person-weeks | |
+| [THORChain](https://thorchain.org/) | Aug 2021 | 12 person-weeks | |
 | [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | [4 person-weeks](reviews/CasperLedger.pdf) | |
 | [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 person-weeks | |
 | [AElf](https://aelf.io/) | Jul 2021 | 4 person-weeks | | 
