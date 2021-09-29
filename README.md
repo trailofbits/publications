@@ -260,7 +260,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 | [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 person-week | |
-| [RocketPool](https://rocketpool.net/) | Aug 2021 | 4 person-weeks
+| [RocketPool](https://rocketpool.net/) | Aug 2021 | [5 person-weeks](reviews/RocketPool.pdf) | |
 | [AlphaX](https://alpha-x.io/) | Aug 2021 | 6 person-weeks | |
 | [Bug Bounty Platform](https://solidified.io/) | Aug 2021 | 8 person-weeks | |
 | [88mph V3](https://88mph.app/) | Aug 2021 | [6 person-weeks](reviews/88mph.pdf) | |
