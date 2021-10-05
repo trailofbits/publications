@@ -214,6 +214,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Doppler](https://www.doppler.com/) | Sept 2021 | 4 person-weeks | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 person-weeks | |
 | [Appian](https://appian.com/) | Jun 2021 | 4 person-weeks | | |
 | [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 person-weeks | | |
@@ -259,6 +260,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Yield V2](https://yield.is/) | Sept 2021 | 6 person-weeks | |
+| [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 person-weeks | |
+| [Gro protocol](https://growthlabs.agency/) | Sept 2021 | 2 person-weeks | |
+| [Futureswap V4](https://www.futureswap.com/) | Sept 2021 | 6 person-weeks | |
 | [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 person-week | |
 | [RocketPool](https://rocketpool.net/) | Aug 2021 | [5 person-weeks](reviews/RocketPool.pdf) | |
 | [AlphaX](https://alphafinance.io/) | Aug 2021 | 6 person-weeks | |
@@ -366,6 +371,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 person-weeks | |
+| [PINT](https://www.stakerdao.com/) | Sept 2021 | 4 person-weeks | |
+| [Qredo Blockchain](https://www.qredo.com/) | Sept 2021 | 6 person-weeks | |
+| [PolySign](https://www.polysign.io/) | Sept 2021 | 6 person-weeks | |
+| [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 person-weeks | |
 | [ShardX](https://www.gemini.com/) | Aug 2021 | 4 person-weeks | |
 | [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 person-weeks | |
 | [THORChain](https://thorchain.org/) | Aug 2021 | 12 person-weeks | |
