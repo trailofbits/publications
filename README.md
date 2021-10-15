@@ -262,7 +262,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- |
 | [Yield V2](https://yield.is/) | Sept 2021 | 6 person-weeks | |
 | [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 person-weeks | |
-| [Gro protocol](https://growthlabs.agency/) | Sept 2021 | 2 person-weeks | |
+| [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 person-weeks | |
 | [Futureswap V4](https://www.futureswap.com/) | Sept 2021 | 6 person-weeks | |
 | [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 person-week | |
 | [RocketPool](https://rocketpool.net/) | Aug 2021 | [5 person-weeks](reviews/RocketPool.pdf) | |
