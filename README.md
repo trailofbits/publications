@@ -222,7 +222,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 person-week | | |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 person-weeks | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 person-weeks | | |
-| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 person-weeks | | |
+| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 person-weeks | | [Penetration testing at CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 person-weeks | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 person-weeks | [Security Review](reviews/SecureDropWorkstation.pdf) | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
