@@ -396,6 +396,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 person-weeks |
 | [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 person-weeks | |
 | [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 person-weeks | |
+| [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | [4 person-weeks](reviews/Tezori.pdf) | |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
 | [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | [4 person-weeks](reviews/CasperLabsHighwayProtocol.pdf) | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
@@ -444,7 +445,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Pantheon](https://pegasys.tech/) | Oct 2018 | [8 person-weeks](reviews/pantheon.pdf) | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/)
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 person-weeks | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) |
 | [Parity](https://www.parity.io/) | Jul 2018 | [12 person-weeks](reviews/parity.pdf) | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4)
-| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | [2 person-weeks](reviews/Tezori.pdf) | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 person-weeks | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434)
 | [Web3](https://web3.foundation/) | Mar 2018 | [2 person-weeks](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/) | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7)
 | [RSKj](https://www.rsk.co/) | Nov 2017 | [6 person-weeks](reviews/RSKj.pdf) | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/)
 
