@@ -226,6 +226,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 person-weeks | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 person-weeks | [Security Review](reviews/SecureDropWorkstation.pdf) | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 3 person-days | | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
+| [Hey.com](https://www.hey.com/) | Jun 2020 | 1 person-week | [Security Review](reviews/Hey.pdf) | [Serious Security](https://www.hey.com/security/) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 person-weeks | | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 person-weeks | | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 person-weeks | |
@@ -395,6 +396,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 person-weeks |
 | [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 person-weeks | |
 | [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 person-weeks | |
+| [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | [4 person-weeks](reviews/Tezori.pdf) | |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
 | [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | [4 person-weeks](reviews/CasperLabsHighwayProtocol.pdf) | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
