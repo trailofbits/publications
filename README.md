@@ -216,6 +216,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 person-weeks | | 
 | [Doppler](https://www.doppler.com/) | Sept 2021 | 4 person-weeks | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 person-weeks | |
 | [Appian](https://appian.com/) | Jun 2021 | 4 person-weeks | | |
@@ -246,6 +247,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 person-weeks | |
+| [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 person-weeks |  |
+| [Consul Enterprise](https://www.consul.io/) | Oct 2021 | 6 person-weeks |  |
+| [Vault Enterprise](https://www.vaultproject.io/) | Oct 2021 | 6 person-weeks |  |
 | [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2021 | 8 person-weeks | |
 | [Argo](https://argoproj.github.io/) | Mar 2021 | 4 person-weeks | [Security Review](reviews/argo-securityreview.pdf), [Threat Model](reviews/argo-threatmodel.pdf) |
 | [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 person-weeks | |
@@ -263,6 +268,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
+| [Opyn](https://www.opyn.co/) | Nov 2021 | 6 person-weeks | |
+| [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
+| [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 person-weeks | |
+| [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 person-weeks | |
+| [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 person-weeks | |
 | [Yield V2](https://yield.is/) | Sept 2021 | [6 person-weeks](reviews/YieldV2.pdf) | |
 | [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 person-weeks | |
 | [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 person-weeks | |
@@ -374,6 +385,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 person-weeks | |
+| [Aave V3](https://aave.com/) | Nov 2021 | 4 person-weeks |  |
+| [Tokemak system](https://www.tokemak.xyz/) | Oct 2021 | 3 person-weeks | |
+| [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 person-weeks | |
+| [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 person-weeks | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 person-weeks | |
 | [PINT](https://www.stakerdao.com/) | Sept 2021 | 4 person-weeks | |
 | [Qredo Blockchain](https://www.qredo.com/) | Sept 2021 | 6 person-weeks | |
@@ -388,7 +404,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 person-weeks |
 | [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 person-weeks | |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 person-weeks | |
-| [DFINITY](https://dfinity.org/) | May 2021 | 24 person-weeks | | 
+| [DFINITY](https://dfinity.org/) | May 2021 | [24 person-weeks](reviews/DFINITY.pdf) | | 
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 person-weeks | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
