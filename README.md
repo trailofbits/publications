@@ -125,7 +125,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Never a Dill Moment: Exploiting Machine Learning Pickle Files](presentations/Never%20a%20Dill%20Moment:%20Exploiting%20Machine%20Learning%20Pickle%20Files) | Carson Harmon, Evan Sultanik, Jim Miller, Suha Hussain | 2021 |
+| [Exploiting Machine Learning Pickle Files](presentations/Never%20a%20Dill%20Moment:%20Exploiting%20Machine%20Learning%20Pickle%20Files) | Carson Harmon, Evan Sultanik, Jim Miller, Suha Hussain | 2021 |
 | [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven:%20Comprehensive%20Privacy%20Testing%20for%20Deep%20Learning) | Suha Hussain | 2020 |
 
 ### Mobile security
