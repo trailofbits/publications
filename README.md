@@ -109,6 +109,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [JWTs, and why they suck](presentations/JWTs,%20and%20why%20they%20suck) | Rory M | 2021 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
 | [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
 | [Low-level Security](presentations/Low-level%20Security) | Andrew Ruef | 2014 |
