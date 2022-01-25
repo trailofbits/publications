@@ -219,6 +219,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 person-weeks | |
 | [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 person-weeks | | 
 | [Doppler](https://www.doppler.com/) | Sept 2021 | 4 person-weeks | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 person-weeks | |
@@ -271,10 +272,15 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Redjack](https://www.redjack.com/) | Dec 2021 | 2 person-weeks | |
+| [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 person-weeks | |
+| [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
+| [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
+| [Sherlock](https://www.sherlock.global/) | Dec 2021 | 4 person-weeks | |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 person-weeks | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
-| [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 person-weeks | |
+| [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | [6 person-weeks](reviews/FujiProtocol.pdf) | |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 person-weeks | |
 | [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 person-weeks | |
 | [Yield V2](https://yield.is/) | Sept 2021 | [6 person-weeks](reviews/YieldV2.pdf) | |
@@ -388,6 +394,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [ShardX](https://www.gemini.com/) | Dec 2021 | 2 person-weeks | |
+| [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 person-weeks | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 person-weeks | |
 | [Aave V3](https://aave.com/) | Nov 2021 | 4 person-weeks |  |
 | [Tokemak system](https://www.tokemak.xyz/) | Oct 2021 | 3 person-weeks | |
@@ -412,7 +420,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
-| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 person-weeks | |
+| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | [4 person-weeks](reviews/MobilecoinFog.pfd) | |
 | [Acala Network](https://acala.network/) | Jan 2021 | [6 person-weeks](reviews/AcalaNetwork.pdf) | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 person-weeks |
 | [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 person-weeks | |
@@ -421,13 +429,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 person-weeks | |
 | [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | [4 person-weeks](reviews/CasperLabsHighwayProtocol.pdf) | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 person-weeks | |
-| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 person-weeks | |
+| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | [4 person-weeks](reviews/MobileCoinBFT.pdf) | |
 | [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 person-weeks | |
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 person-weeks | |
 | [Prysm](https://prysmaticlabs.com/) | Sep 2020 | 6 person-weeks | |
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | [4 person-weeks](reviews/ETH2DepositCLI.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 person-weeks | |
-| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 person-weeks | |
+| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | [4 person-weeks](reviews/Mobilecoin.pdf) | |
 | [Ren](https://renproject.io/) | Aug 2020 | [4 person-weeks](reviews/renvm.pdf) | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 person-weeks | |
 | [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | [2 person-weeks](reviews/LedgerFilecoin.pdf) | | 
