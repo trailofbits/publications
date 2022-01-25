@@ -276,7 +276,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 person-weeks | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
-| [Sherlock](https://www.sherlock.global/) | Dec 2021 | 4 person-weeks | |
+| [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 person-weeks | |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 person-weeks | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
@@ -420,7 +420,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 person-weeks | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 person-weeks | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 person-weeks | | 
-| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | [4 person-weeks](reviews/MobilecoinFog.pfd) | |
+| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | [4 person-weeks](reviews/MobilecoinFog.pdf) | |
 | [Acala Network](https://acala.network/) | Jan 2021 | [6 person-weeks](reviews/AcalaNetwork.pdf) | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 person-weeks |
 | [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 person-weeks | |
