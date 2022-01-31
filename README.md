@@ -173,7 +173,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Press Freedom Foundation](https://www.twitch.tv/videos/1102962356) | Dan Guido | July 2021 | Mobile security and iVerify |
+| [Risky Business 652](https://risky.biz/RB652/) | Dan Guido | Jan 2022 | Zero-knowledge proofs |
+| [Press Freedom Foundation](https://www.twitch.tv/videos/1102962356) | Dan Guido | Jul 2021 | Mobile security and iVerify |
 | [Employee Cycle](https://employeecycle.com/podcast/how-to-onboard-yourself-as-the-first-people-leader-with-hannah-hanks/) | Hannah Hanks | Mar 2021 | First PeopleOps hire |
 | [Risky Business 614](https://risky.biz/RB614/) | Dan Guido | Feb 2021 | iVerify |
 | [Building Better Systems #6](https://www.youtube.com/watch?v=wT-AmR7wtI8) | Dan Guido | Jan 2021 | What blockchain got right |
