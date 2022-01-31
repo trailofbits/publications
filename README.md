@@ -174,6 +174,8 @@
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
 | [Risky Business 652](https://risky.biz/RB652/) | Dan Guido | Jan 2022 | Zero-knowledge proofs |
+| [Secureum Safecast #3](https://www.youtube.com/watch?v=Ycj0ZVWof5E) | Josselin Feist | Nov 2021| Blockchain security |
+| [Secureum Safecast #2](https://www.youtube.com/watch?v=NSzniIpPYdw) | Dan Guido | Oct 2021 | Blockchain security |
 | [Press Freedom Foundation](https://www.twitch.tv/videos/1102962356) | Dan Guido | Jul 2021 | Mobile security and iVerify |
 | [Employee Cycle](https://employeecycle.com/podcast/how-to-onboard-yourself-as-the-first-people-leader-with-hannah-hanks/) | Hannah Hanks | Mar 2021 | First PeopleOps hire |
 | [Risky Business 614](https://risky.biz/RB614/) | Dan Guido | Feb 2021 | iVerify |
