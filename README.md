@@ -280,6 +280,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 person-weeks | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
+| [Aave V3](https://aave.com/) | Nov 2021 | 4 person-weeks |  |
+| [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 person-weeks | |
 | [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | [6 person-weeks](reviews/FujiProtocol.pdf) | |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 person-weeks | |
 | [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 person-weeks | |
@@ -397,8 +399,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 person-weeks | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 person-weeks | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 person-weeks | |
-| [Aave V3](https://aave.com/) | Nov 2021 | 4 person-weeks |  |
-| [Tokemak system](https://www.tokemak.xyz/) | Oct 2021 | 3 person-weeks | |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 person-weeks | |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 person-weeks | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 person-weeks | |
