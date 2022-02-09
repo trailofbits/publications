@@ -222,7 +222,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 person-weeks | |
+| [osquery](https://osquery.io/) | Jan 2022 | 6 person-weeks | |
+| [Redjack](https://www.redjack.com/) | Dec 2021 | 2 person-weeks | |
 | [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 person-weeks | | 
 | [Doppler](https://www.doppler.com/) | Sept 2021 | 4 person-weeks | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 person-weeks | |
@@ -254,6 +255,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [CoreDNS](https://coredns.io/) | Jan 2022 | 4 person-weeks | | 
 | [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 person-weeks | |
 | [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 person-weeks |  |
 | [Consul Enterprise](https://www.consul.io/) | Oct 2021 | 6 person-weeks |  |
@@ -275,13 +277,16 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Redjack](https://www.redjack.com/) | Dec 2021 | 2 person-weeks | |
+| [pSTAKE](https://persistence.one/) | Jan 2022 | 6 person-weeks | | 
+| [Primitive Finance](https://primitive.finance/) | Jan 2022 | 8 person-weeks | |
+| [Strips Finance](https://strips.finance/) | Jan 2022 | 8 person-weeks | |
+| [Beethoven X](https://beets.fi/#/) | Jan 2022 | 2 person-weeks | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 person-weeks | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 person-weeks | |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
-| [Opyn](https://www.opyn.co/) | Nov 2021 | 6 person-weeks | |
+| [Opyn](https://www.opyn.co/) | Nov 2021 | [6 person-weeks](reviews/Opyn.pdf) | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
 | [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | [6 person-weeks](reviews/FujiProtocol.pdf) | |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 person-weeks | |
@@ -397,6 +402,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 person-weeks | |
+| [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 person-weeks | |
+| [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 person-weeks | |
+| [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 person-weeks | |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 person-weeks | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 person-weeks | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 person-weeks | |
