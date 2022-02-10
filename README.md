@@ -277,10 +277,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Beethoven X](https://beets.fi/#/) | Feb 2022 | [1 person-week](reviews/BeethovenXSummary.pdf) | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 person-weeks | | 
 | [Primitive Finance](https://primitive.finance/) | Jan 2022 | 8 person-weeks | |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 person-weeks | |
-| [Beethoven X](https://beets.fi/#/) | Jan 2022 | 2 person-weeks | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 person-weeks | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
