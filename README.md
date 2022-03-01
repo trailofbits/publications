@@ -277,6 +277,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Advanced Blockchain](https://www.advancedblockchain.com/) | Feb 2022 | [6 person-weeks](reviews/AdvancedBlockchainQ12022.pdf) | |
 | [Beethoven X](https://beets.fi/#/) | Feb 2022 | [1 person-week](reviews/BeethovenXSummary.pdf) | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 person-weeks | | 
 | [Primitive Finance](https://primitive.finance/) | Jan 2022 | 8 person-weeks | |
@@ -285,6 +286,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 person-weeks | |
+| [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | [6 person-weeks](reviews/AdvancedBlockchainQ42021.pdf) | |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | [6 person-weeks](reviews/Opyn.pdf) | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
