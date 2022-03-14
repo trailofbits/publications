@@ -296,7 +296,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 person-weeks | |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | [6 person-weeks](reviews/AdvancedBlockchainQ42021.pdf) | |
-| [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
+| [Maple](https://www.maple.finance/) | Nov 2021 | [4 person-weeks](reviews/MapleFinance.pdf) | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | [6 person-weeks](reviews/Opyn.pdf) | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
 | [Aave V3](https://aave.com/) | Nov 2021 | 4 person-weeks |  |
