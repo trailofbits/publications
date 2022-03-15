@@ -296,14 +296,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 person-weeks | |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | [6 person-weeks](reviews/AdvancedBlockchainQ42021.pdf) | |
-| [Maple](https://www.maple.finance/) | Nov 2021 | 4 person-weeks | |
+| [Maple](https://www.maple.finance/) | Nov 2021 | [4 person-weeks](reviews/MapleFinance.pdf) | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | [6 person-weeks](reviews/Opyn.pdf) | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 person-weeks | |
 | [Aave V3](https://aave.com/) | Nov 2021 | 4 person-weeks |  |
 | [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 person-weeks | |
 | [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | [6 person-weeks](reviews/FujiProtocol.pdf) | |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 person-weeks | |
-| [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 person-weeks | |
+| [SpruceID](https://tezos.foundation/) | Oct 2021 | [12 person-weeks](reviews/SpruceID.pdf) | |
 | [Yield V2](https://yield.is/) | Sept 2021 | [6 person-weeks](reviews/YieldV2.pdf) | |
 | [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 person-weeks | |
 | [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 person-weeks | |
@@ -424,7 +424,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 person-weeks | |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 person-weeks | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 person-weeks | |
-| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | [2 person-weeks](reviews/DFINITYConsensus.pdf) | | 
+| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | [2 person-weeks](reviews/DFINITYConsensus.pdf) | [Internet Computer Consensus: Security Assessment” by Trail of Bits (third-party security audit #2)](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | 
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 person-weeks | |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 person-weeks | |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 person-weeks | |
