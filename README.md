@@ -173,6 +173,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Skiff Office Hours](https://twitter.com/i/web/status/1503822822237368321) | Dan Guido | Mar 2022 | Privacy technology |
 | [Risky Business 652](https://risky.biz/RB652/) | Dan Guido | Jan 2022 | Zero-knowledge proofs |
 | [Secureum Safecast #3](https://www.youtube.com/watch?v=Ycj0ZVWof5E) | Josselin Feist | Nov 2021| Blockchain security |
 | [Secureum Safecast #2](https://www.youtube.com/watch?v=NSzniIpPYdw) | Dan Guido | Oct 2021 | Blockchain security |
