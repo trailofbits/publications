@@ -223,6 +223,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [BitcoinBeach](https://galoy.io/) | Mar 2022 | [4 person-weeks](reviews/Galoy.pdf) | | 
+| [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 person-weeks | |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 person-weeks | |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 person-weeks | |
 | [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 person-weeks | | 
@@ -258,7 +260,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- | --- |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 person-weeks | | 
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 person-weeks | | 
-| [CoreDNS](https://coredns.io/) | Jan 2022 | [4 person-weeks](reviews/CoreDNS.pdf) | | 
+| [CoreDNS](https://coredns.io/) | Jan 2022 | 4 person-weeks | [Security Review](reviews/CoreDNS.pdf) | 
 | [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 person-weeks | |
 | [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 person-weeks |  |
 | [Consul Enterprise](https://www.consul.io/) | Oct 2021 | 6 person-weeks |  |
@@ -280,13 +282,16 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 person-weeks | |
+| [LooksRare](https://looksrare.org/) | Mar 2022 | [4 person-weeks](reviews/LooksRare.pdf) | |
+| [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 person-weeks | |
 | [RAILGUN](https://righttoprivacy.foundation/) | Feb 2022 | 4 person-weeks | |
 | [Persistence ETH2.0](https://persistence.one/) | Feb 2022 | 4 person-weeks | | 
-| [Perpetual Protocol V2](https://perp.com/) | Feb 2022 | 4 person-weeks | |
+| [Perpetual Protocol V2](https://perp.com/) | Feb 2022 | [4 person-weeks](reviews/PerpetualProtocolV2.pdf) | |
 | [Futureswap V4.1](https://www.futureswap.com/) | Feb 2022 | 4 person-weeks | |
 | [Firefly](https://dtrade.org/) | Feb 2022 | 8 person-weeks | |
-| [API3](https://api3.org/) | Feb 2022 | 8 person-weeks | |
-| [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 person-weeks | |
+| [API3](https://api3.org/) | Feb 2022 | [8 person-weeks](reviews/API3.pdf) | |
+| [DeGate](https://degate.com/?en-US) | Feb 2022 | [4 person-weeks](reviews/DeGate.pdf) | |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Feb 2022 | [6 person-weeks](reviews/AdvancedBlockchainQ12022.pdf) | |
 | [Beethoven X](https://beets.fi/#/) | Feb 2022 | [1 person-week](reviews/BeethovenXSummary.pdf) | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 person-weeks | | 
@@ -416,10 +421,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
-| [Umee](https://www.umee.cc/) | Feb 2022 | 8 person-weeks | |
+| [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 person-weeks | |
+| [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 person-weeks | |
+| [Parallel Finance](https://parallel.fi/) | Mar 2022 | [6 person-weeks](reviews/ParallelFinance.pdf) | |
+| [Umee](https://www.umee.cc/) | Feb 2022 | [8 person-weeks](reviews/Umee.pdf) | |
 | [RAILWAY](https://righttoprivacy.foundation/) | Feb 2022 | 4 person-weeks | |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 person-weeks | |
-| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 person-weeks | |
+| [Minterest Finance](https://minterest.com/) | Jan 2022 | [6 person-weeks](reviews/Minterest.pdf) | |
 | [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 person-weeks | |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 person-weeks | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 person-weeks | |
