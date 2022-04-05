@@ -424,10 +424,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 person-weeks | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 person-weeks | |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | [6 person-weeks](reviews/ParallelFinance.pdf) | |
-| [Umee](https://www.umee.cc/) | Feb 2022 | [8 person-weeks](reviews/Umee.pdf) | |
+| [Umee](https://www.umee.cc/) | Feb 2022 | 8 person-weeks | |
 | [RAILWAY](https://righttoprivacy.foundation/) | Feb 2022 | 4 person-weeks | |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 person-weeks | |
-| [Minterest Finance](https://minterest.com/) | Jan 2022 | [6 person-weeks](reviews/Minterest.pdf) | |
+| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 person-weeks| |
 | [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 person-weeks | |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 person-weeks | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 person-weeks | |
