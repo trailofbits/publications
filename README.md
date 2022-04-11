@@ -110,6 +110,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [A mostly gentle introduction to LLVM](presentations/A%20mostly%20gentle%20introduction%20to%20LLVM) | William Woodruff | 2022 |
 | [JWTs, and why they suck](presentations/JWTs,%20and%20why%20they%20suck) | Rory M | 2021 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
 | [How to CTF - Getting and using Other People's Computers (OPC)](presentations/How%20to%20CTF%20-%20Getting%20and%20Using%20OPC) | Jay Little | 2014 |
