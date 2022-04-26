@@ -296,7 +296,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Feb 2022 | [6 person-weeks](reviews/AdvancedBlockchainQ12022.pdf) | |
 | [Beethoven X](https://beets.fi/#/) | Feb 2022 | [1 person-week](reviews/BeethovenXSummary.pdf) | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 person-weeks | | 
-| [Primitive Finance](https://primitive.finance/) | Jan 2022 | 8 person-weeks | |
+| [Primitive](https://primitive.finance/) | Jan 2022 | [8 person-weeks](reviews/Primitive.pdf) | [Publishing the Primitive RMM smart contracts audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 person-weeks | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 person-weeks | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
@@ -425,7 +425,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 person-weeks | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 person-weeks | |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | [6 person-weeks](reviews/ParallelFinance.pdf) | |
-| [Umee](https://www.umee.cc/) | Feb 2022 | 8 person-weeks | |
+| [Umee](https://www.umee.cc/) | Feb 2022 | [8 person-weeks](reviews/Umee.pdf) | |
 | [RAILWAY](https://righttoprivacy.foundation/) | Feb 2022 | 4 person-weeks | |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 person-weeks | |
 | [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 person-weeks| |
