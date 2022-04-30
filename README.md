@@ -224,7 +224,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
-| [BitcoinBeach](https://galoy.io/) | Mar 2022 | [4 person-weeks](reviews/Galoy.pdf) | | 
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 person-weeks | |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 person-weeks | |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 person-weeks | |
@@ -422,6 +421,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [BitcoinBeach](https://galoy.io/) | Mar 2022 | [4 person-weeks](reviews/Galoy.pdf) | | 
 | [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 person-weeks | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 person-weeks | |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | [6 person-weeks](reviews/ParallelFinance.pdf) | |
