@@ -224,7 +224,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Deliverables | Announcement |
 | --- | --- | --- | --- | --- |
+| [Datadog](https://www.datadoghq.com/) | May 2022 | 6 person-weeks | |
+| [MATTR](https://mattr.global/) | May 2022 | 4 person-weeks | |
+| [ArmorLock](https://www.westerndigital.com/) | Apr 2022 | 6 person-weeks | |
+| [DigitalOcean Function](https://www.digitalocean.com/) | Apr 2022 | 4 person-weeks | |
+| [Auvik Collector](https://www.auvik.com/system-security/) | Apr 2022 | 8 person-weeks | |
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 person-weeks | |
+| [Optimus ROM](https://www.westerndigital.com/) | Jan 2022 | 4 person-weeks | |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 person-weeks | |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 person-weeks | |
 | [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 person-weeks | | 
@@ -282,6 +288,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Frax](https://frax.finance/) | May 2021 | 4 person-weeks | |
+| [Firefly](https://dtrade.org/) | Apr 2022 | 4 person-weeks | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 person-weeks | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | [4 person-weeks](reviews/LooksRare.pdf) | |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 person-weeks | |
@@ -299,7 +307,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 person-weeks | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 person-weeks | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 person-weeks | |
-| [Frax](https://frax.finance/) | Dec 2021 | 4 person-weeks | |
+| [Frax](https://frax.finance/) | Dec 2021 | [4 person-weeks](reviews/FraxQ42021.pdf) | |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 person-weeks | |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | [6 person-weeks](reviews/AdvancedBlockchainQ42021.pdf) | |
 | [Maple](https://www.maple.finance/) | Nov 2021 | [4 person-weeks](reviews/MapleFinance.pdf) | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) |
@@ -421,6 +429,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 person-weeks | |
+| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 person-weeks | |
+| [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 person-weeks | |
+| [Solana](https://solana.com/) | Apr 2022 | 12 person-weeks | |
+| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 person-weeks | |
+| [Optimism](https://www.optimism.io/) | Apr 2022 | 6 person-weeks | |
+| [NFTX](https://nftx.io/) | Apr 2022 | 4 person-weeks | |
+| [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 person-weeks | |
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | [4 person-weeks](reviews/Galoy.pdf) | | 
 | [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 person-weeks | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 person-weeks | |
