@@ -14,10 +14,9 @@
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
-  * [Technology products](#technology-products)
-  * [Cloud-native](#cloud-native)
-  * [Smart contracts](#smart-contracts)
-  * [Blockchain protocols and software](#blockchain-protocols-and-software)
+  * [Technology Product Reviews](#technology-product-reviews)
+  * [Cloud-native Reviews](#cloud-native-reviews)
+  * [Blockchain Reviews](#blockchain-reviews)
 * [Workshops](#workshops)
 
 ## Academic papers
@@ -220,7 +219,7 @@
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### Technology products
+### Technology Product Reviews
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -254,7 +253,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
-### Cloud-native
+### Cloud-Native Reviews
 
 | Product | Review Date | Level of Effort (Person Weeks) |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -278,10 +277,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) 
 
-### Smart contracts
+### Blockchain Reviews
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
-| --- | --: | :-: | --- | :-: |
+| ---| --: | :-: | --- | :-: |
+| **Ethereum**|
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -416,11 +416,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
-
-### Blockchain protocols and software
-
-| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
-| --- | --: | :-: | --- | :-: |
+| **Solana** |
+| **Substrate** |
+| **Algorand** |
+| **Multi-chain** |
+| **Other** |
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
 | [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 | | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
