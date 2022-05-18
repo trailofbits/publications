@@ -438,39 +438,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
-| **Multi-chain** |
-| [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
-| [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
-| [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
-| [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 | | |
-| [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 | | |
-| [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
-| [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
-| [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
-| [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
-| [ShardX](https://www.gemini.com/) | Aug 2021 | 4 | | |
-| [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 | | |
-| [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 | | |
-| [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
-| [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 | |
-| [Open Oracle](https://chain.link/) | Apr 2021 | 2 | | |
-| [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 | | |
-| [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 | | |
-| [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
-| [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
-| [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
-| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
-| [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
-| [Chainlink](https://chain.link/) | Jun 2020 | 8 |  | |
-| [Chainlink Flux](https://chain.link/) | May 2020 | 4 |  | |
-| [Status-go](https://status.im/) | Oct 2019 | 9 |  | |
-| [Celo](https://celo.org/) | Sep 2019 | 8 |  | |
-| [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 |  | |
-| [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
-| [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
-| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
-| [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
 | **Solana** |
 | **Substrate** |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
@@ -491,31 +458,63 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
 | [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
-| **Other/Proprietary** |
+| **Other/Multi-Chain** |
+| [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
+| [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
+| [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
+| [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
+| [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
+| [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
+| [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
 | [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
+| [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 | | |
+| [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 | | |
 | [PolySign](https://www.polysign.io/) | Sept 2021 | 6 | | |
 | [Qredo Blockchain](https://www.qredo.com/) | Sept 2021 | 6 | | |
+| [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 | | |
+| [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 | | |
+| [ShardX](https://www.gemini.com/) | Aug 2021 | 4 | | |
+| [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
 | [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | 4 | | [📄](reviews/CasperLedger.pdf) |
 | [AElf](https://aelf.io/) | Jul 2021 | 4 | |  |
+| [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 | |
+| [Open Oracle](https://chain.link/) | Apr 2021 | 2 | | |
 | [DFINITY](https://dfinity.org/) | May 2021 | 24 | | [📄](reviews/DFINITY.pdf) |
 | [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
+| [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 | | |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
 | [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
 | [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
 | [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 | | [📄](reviews/MobilecoinFog.pdf) |
 | [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
+| [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 | | |
 | [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
+| [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
+| [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
+| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
+| [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
 | [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
+| [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
+| [Chainlink](https://chain.link/) | Jun 2020 | 8 |  | |
+| [Chainlink Flux](https://chain.link/) | May 2020 | 4 |  | |
 | [Elrond](https://elrond.com/) | Mar 2020 | 6 |  | |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 |  | |
 | [NEAR Protocol](https://nearprotocol.com/) | Nov 2019 | 8 |  | |
 | [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 |  | |
+| [Status-go](https://status.im/) | Oct 2019 | 9 |  | |
+| [Celo](https://celo.org/) | Sep 2019 | 8 |  | |
+| [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 |  | |
+| [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
+| [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
+| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
+| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+| [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
 
 ## Workshops
 
