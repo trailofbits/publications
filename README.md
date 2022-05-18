@@ -223,10 +223,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [snarkVM and snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 | |
+| [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 | |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 | |
 | [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 | | 
+| [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 | | [📄](reviews/SpruceID.pdf) |
 | [Doppler](https://www.doppler.com/) | Sept 2021 | 4 | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 | |
 | [Appian](https://appian.com/) | Jun 2021 | 4 | | |
@@ -281,40 +284,53 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| **Algorand** |
+| [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
+| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) | |
+| [Pixel](https://www.algorand.com/) | Dec 2019 | 4 |  | |
+| **Avalanche** |
+| **Bitcoin/BSV** |
+| [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
+| [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
+| [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
+| [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
+| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | [NU3, Blossom, and Sapling security reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)| [📄](reviews/Zcash.pdf) |
+| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 |  | [📄](reviews/ZcashWP.pdf) |
+| [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 |  | |
+| [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 | |
+| [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 |  | |
+| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
 | **Ethereum**|
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
 | [RAILGUN](https://righttoprivacy.foundation/) | Feb 2022 | 4 | | |
+| [RAILWAY](https://righttoprivacy.foundation/) | Feb 2022 | 4 | | |
 | [Persistence ETH2.0](https://persistence.one/) | Feb 2022 | 4 | |  |
 | [Perpetual Protocol V2](https://perp.com/) | Feb 2022 | 4 | | [📄](reviews/PerpetualProtocolV2.pdf) |
 | [Futureswap V4.1](https://www.futureswap.com/) | Feb 2022 | 4 | | |
 | [Firefly](https://dtrade.org/) | Feb 2022 | 8 | | |
 | [API3](https://api3.org/) | Feb 2022 | 8 | | [📄](reviews/API3.pdf) |
-| [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Feb 2022 | 6 | | [📄](reviews/AdvancedBlockchainQ12022.pdf) |
 | [Beethoven X](https://beets.fi/#/) | Feb 2022 | 1 | | [📄](reviews/BeethovenXSummary.pdf) |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 | |  |
+| [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
 | [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Publishing the Primitive RMM smart contracts audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 | | |
-| [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 | | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 | | |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 | | |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
-| [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
 | [Aave V3](https://aave.com/) | Nov 2021 | 4 |  | |
+| [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
 | [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 | | |
-| [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) |
+| [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 | | |
-| [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 | | [📄](reviews/SpruceID.pdf) |
 | [Yield V2](https://yield.is/) | Sept 2021 | 6 | | [📄](reviews/YieldV2.pdf) |
-| [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 | | |
 | [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 | | |
 | [Futureswap V4](https://www.futureswap.com/) | Sept 2021 | 6 | | |
-| [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 | | |
 | [RocketPool](https://rocketpool.net/) | Aug 2021 | 5 | | [📄](reviews/RocketPool.pdf) |
 | [AlphaX](https://alphafinance.io/) | Aug 2021 | 6 | | |
 | [Bug Bounty Platform](https://solidified.io/) | Aug 2021 | 8 | | |
@@ -322,44 +338,43 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Timeswap](https://timeswap.io/) | Jul 2021 | 2 | | |
 | [CompliFi](https://compli.fi/) | Jul 2021 | 6 | | [📄](reviews/CompliFi.pdf) |
 | [Optics](https://celo.org/) | Jul 2021 | 2 |  | |
-| [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | |  |
+| [FlareFinance](https://flr.finance/) | Jun 2021 | 4 | | |
 | [Abyss Lockup](https://www.allnodes.com/) | Jun 2021 | 2 | | |
-| [Compli\Fi](https://compli.fi/) | Jun 2021 | 6 | | |
+| [CompliFi](https://compli.fi/) | Jun 2021 | 6 | | |
 | [Uniswap V3 Staker](https://uniswap.org/blog/uniswap-v3/) | Jun 2021 | 2 | | |
 | [Futureswap V3](https://www.futureswap.com/) | Jun 2021 | 6 | | |
-| [Chainlink](https://chain.link/) | Jun 2020 | 8 |  | |
-| [FlareFinance](https://flr.finance/) | Jun 2021 | 4 | | |
+| [FlareFinance](https://flr.finance/) | Apr 2021 | 3 | | |
 | [Opyn Gamma](https://www.opyn.co/) | May 2021 | 6 | | [📄](reviews/Opyn-Gamma-Protocol.pdf) |
 | [Syndicate](https://www.syndicateprotocol.org/) | May 2021 | 4 | | |
 | [Frax](https://frax.finance/) | May 2021 | 4 | | [📄](reviews/FraxFinance.pdf) |
-| [FlareFinance](https://flr.finance/) | Apr 2021 | 3 | | |
 | [Yearn v2 Vaults](https://yearn.finance/) | Apr 2021 | 6 | | [📄](reviews/YearnV2Vaults.pdf) |
 | [DFX Finance](https://dfx.finance/) | Apr 2021 | 6 | | |
-| [Open Oracle](https://chain.link/) | Apr 2021 | 2 | | |
 | [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 | | |
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) | [📄](reviews/AdvancedBlockchain.pdf) |
-| [Uniswap V3](https://uniswap.org/) | March 2021 | 10 | [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | [📄](reviews/UniswapV3Core.pdf) |
+| [Uniswap V3](https://uniswap.org/) | Mar 2021 | 10 | [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | [📄](reviews/UniswapV3Core.pdf) |
+| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 | [MC Dai](https://makerdao.com) | Mar 2021 | 6 | | |
 | [dForce Lending](https://dforce.network/) | Mar 2021 | 6 | | |
-| [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
 | [Liquity Proxy Contract](https://www.liquity.org/) | Feb 2021 | 0.57 | | [📄](reviews/LiquityProxyContracts.pdf) |
 | [Liquity Protocol](https://www.liquity.org/) | Feb 2021 | 8 | | [📄](reviews/LiquityProtocolandStabilityPoolFinalReport.pdf)|
 | [RAY-DAO](https://staked.us/) | Feb 2021 | 4 | | |
-| [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
-| [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
 | [Balancer V2](https://balancer.finance/) | Jan 2021 | 6 | | |
-| [Balancer](https://balancer.finance/) | Jan 2020 | 4 | | [📄](reviews/BalancerCore.pdf) |
 | [C.R.E.A.M.](https://app.cream.finance/) | Jan 2021 | 1 | | [📄](reviews/CREAMSummary.pdf) |
+| [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 | | |
+| [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 | | |
 | [LUSD](https://www.liquity.org/) | Dec 2020 | 8 | | [📄](reviews/Liquity.pdf) |
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | 4 | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) | [📄](reviews/OriginDollar.pdf) |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
+| [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 | | |
 | [Hermez](https://iden3.io/) | Nov 2020 | 4 | [Hermez Second Audit, by Trail of Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) | [📄](reviews/hermez.pdf) |
-| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
+| [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 | | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 | | |
 | [DODO](https://dodoex.io/) | Sep 2020 | 3 | | [📄](reviews/dodo.pdf) |
+| [Prysm](https://prysmaticlabs.com/) | Sep 2020 | 6 | | |
 | [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | 6 | | [📄](reviews/YieldProtocol.pdf) |
 | [DeFiner](https://definer.org/) | Aug 2020 | 1 | | |
+| [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 | | [📄](reviews/ETH2DepositCLI.pdf)|
 | [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 | | |
 | [Argent](https://www.argent.xyz/) | Aug 2020 | 4 | | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 | | |
@@ -368,6 +383,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Federated Bridge](https://www.rsk.co/) | Jul 2020 | 1 | | |
 | [dForce dToken](https://dforce.network/) | Jul 2020 | 2 | | [📄](reviews/dtoken.pdf) |
 | [Dexter](https://dexter.exchange/) | Jun 2020 | 4 | | [📄](reviews/dexter.pdf) |
+| [Matic](https://matic.network/) | Jun 2020 | 4 |  | |
+| [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 | | |
+| [tBTC](https://thesis.co/) | May 2020 | 6 | | [📄](reviews/thesis-summary.pdf) |
 | [QTUM](https://qtum.org/en) | Apr 2020 | 0.43 | | [📄](reviews/qtum_loa.pdf) |
 | [Hegic](https://www.hegic.co/) | Apr 2020 | 0.43 |  | [📄](reviews/hegic-summary.pdf) |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 |  | |
@@ -382,6 +400,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | 4 |  | [📄](reviews/dharma-smartwallet.pdf) |
 | [0x Protocol](https://0x.org/) | Oct 2019 | 10 |  | [📄](reviews/0x-protocol.pdf) |
 | [Flexa](https://flexa.network/) | Sep 2019 | 2 | [Announcing Flexa Capacity](https://medium.com/flexa/announcing-flexa-capacity-35c62ade9522) | [📄](reviews/Flexa.pdf) |
+| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | 10|  | [📄](reviews/aztec.pdf) |
+| [Oasis Labs](https://www.oasislabs.com/) | Sep 2019 | 13 |  | |
 | [Aave Protocol](https://aave.com/) | Sep 2019 | 4 |  | [📄](reviews/aaveprotocol.pdf) |
 | [MC Dai](https://makerdao.com) | Aug 2019 | 13 | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) | [📄](reviews/mc-dai.pdf) |
 | [Compound](https://compound.finance/) | Aug 2019 | 2 |  | [📄](reviews/compound-3.pdf) |
@@ -395,6 +415,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Unity Coin | Apr 2019 | 1 | | |
 | [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 | [One Protocol. One Network. One Community.](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) | |
 | [UMA Project](https://umaproject.org/) | Mar 2019 | 3 | | |
+| [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 | | |
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 | | |
 | [Reserve Protocol](https://reserve.org/) | Mar 2019 | 1 | | [📄](reviews/Reserve_LOA.pdf) |
 | [Set Protocol](https://www.setprotocol.com/) | Mar 2019 | 5 | [The Road to MainNet](https://medium.com/set-protocol/the-road-to-mainnet-ab4877b73066) | [📄](reviews/setprotocol.pdf) |
@@ -405,6 +426,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 | [How We Approach Security at Origin](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71) | [📄](reviews/origin.pdf) |
 | [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | 4 | | [📄](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | Oct 2018 | 12 | | [📄](reviews/basis.pdf) |
+| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
 | [Compound](https://compound.finance/) | Sep 2018 | 12 | [Compound launches money markets for Ethereum](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488) | | |
 | [NuCypher](https://www.nucypher.com/) | Aug 2018 | 12 | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) | [📄](reviews/nucypher.pdf)|
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
@@ -416,104 +438,84 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
-| **Solana** |
-| **Substrate** |
-| **Algorand** |
 | **Multi-chain** |
-| **Other** |
-| [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
-| [snarkVM and snarkOS](https://www.aleo.org/) | Mar 2022 | 12 | | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
-| [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
-| [RAILWAY](https://righttoprivacy.foundation/) | Feb 2022 | 4 | | |
-| [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
-| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
-| [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
-| [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
-| [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
+| [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
+| [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 | | |
+| [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 | | |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
+| [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
-| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
-| [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
-| [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
-| [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
-| [PINT](https://www.stakerdao.com/) | Sept 2021 | 4 | | |
-| [Qredo Blockchain](https://www.qredo.com/) | Sept 2021 | 6 | | |
-| [PolySign](https://www.polysign.io/) | Sept 2021 | 6 | | |
-| [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 | | |
 | [ShardX](https://www.gemini.com/) | Aug 2021 | 4 | | |
+| [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 | | |
 | [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 | | |
 | [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
-| [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | 4 | | [📄](reviews/CasperLedger.pdf) |
-| [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
-| [AElf](https://aelf.io/) | Jul 2021 | 4 | |  |
 | [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 | |
-| [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | |
-| [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
-| [DFINITY](https://dfinity.org/) | May 2021 | 24 | | [📄](reviews/DFINITY.pdf) |
-| [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
-| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
+| [Open Oracle](https://chain.link/) | Apr 2021 | 2 | | |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 | | |
-| [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
-| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 | | [📄](reviews/MobilecoinFog.pdf) |
-| [Acala Network](https://acala.network/) | Jan 2021 | 6 | | [📄](reviews/AcalaNetwork.pdf) |
-| [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
-| [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 | | |
-| [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 | | |
-| [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
-| [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 | | |
-| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
-| [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 | | |
-| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
 | [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 | | |
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
-| [Prysm](https://prysmaticlabs.com/) | Sep 2020 | 6 | | |
-| [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 | | [📄](reviews/ETH2DepositCLI.pdf)|
-| [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
-| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
-| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
-| [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
-| [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
-| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
-| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
-| [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
-| [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 | | |
-| [Matic](https://matic.network/) | Jun 2020 | 4 |  | |
-| [tBTC](https://thesis.co/) | May 2020 | 6 | | [📄](reviews/thesis-summary.pdf) |
+| [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
+| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
+| [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
+| [Chainlink](https://chain.link/) | Jun 2020 | 8 |  | |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 |  | |
-| [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
-| [Elrond](https://elrond.com/) | Mar 2020 | 6 |  | |
-| [EOSIO SDK](http://block.one/) | Jan 2020 | 4 |  | |
-| [Pixel](https://www.algorand.com/) | Dec 2019 | 4 |  | |
-| [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 |  | |
-| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | [NU3, Blossom, and Sapling security reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)| [📄](reviews/Zcash.pdf) |
-| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 |  | [📄](reviews/ZcashWP.pdf) |
-| [NEAR Protocol](https://nearprotocol.com/) | Nov 2019 | 8 |  | |
 | [Status-go](https://status.im/) | Oct 2019 | 9 |  | |
-| [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 |  | |
-| [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 |  | |
-| [Oasis Labs](https://www.oasislabs.com/) | Sep 2019 | 13 |  | |
-| [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | 10|  | [📄](reviews/aztec.pdf) |
 | [Celo](https://celo.org/) | Sep 2019 | 8 |  | |
-| [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 |  | |
 | [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 |  | |
 | [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
-| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
-| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) | |
-| [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 | | |
-| [Tendermint](https://interchain.io/) | Mar 2019 | 12 | | |
-| [ndau](https://oneiro.io/) | Nov 2018 | 8 | [ndau Holders Elect Inaugural Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) | |
-| [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 | |
-| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned from auditing our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
-| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
 | [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
+| **Solana** |
+| **Substrate** |
+| [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
+| [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
+| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
+| [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
+| [PINT](https://www.stakerdao.com/) | Sept 2021 | 4 | | |
+| [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
+| [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | |
+| [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
+| [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
+| [Acala Network](https://acala.network/) | Jan 2021 | 6 | | [📄](reviews/AcalaNetwork.pdf) |
+| [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 |  | |
+| [Tendermint](https://interchain.io/) | Mar 2019 | 12 | | |
+| [ndau](https://oneiro.io/) | Nov 2018 | 8 | [ndau Holders Elect Inaugural Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) | |
+| [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
+| **Tezos** |
+| [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
+| [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
+| **Other/Proprietary** |
+| [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
+| [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
+| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
+| [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
+| [PolySign](https://www.polysign.io/) | Sept 2021 | 6 | | |
+| [Qredo Blockchain](https://www.qredo.com/) | Sept 2021 | 6 | | |
+| [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | 4 | | [📄](reviews/CasperLedger.pdf) |
+| [AElf](https://aelf.io/) | Jul 2021 | 4 | |  |
+| [DFINITY](https://dfinity.org/) | May 2021 | 24 | | [📄](reviews/DFINITY.pdf) |
+| [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
+| [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
+| [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
+| [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
+| [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 | | [📄](reviews/MobilecoinFog.pdf) |
+| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
+| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
+| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
+| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
+| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
+| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
+| [Elrond](https://elrond.com/) | Mar 2020 | 6 |  | |
+| [EOSIO SDK](http://block.one/) | Jan 2020 | 4 |  | |
+| [NEAR Protocol](https://nearprotocol.com/) | Nov 2019 | 8 |  | |
+| [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 |  | |
 
 ## Workshops
 
