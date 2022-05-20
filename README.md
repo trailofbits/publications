@@ -29,6 +29,7 @@
     * [Tezos](#tezos)
     * [Other/Multi-Chain](#othermulti-chain)
 * [Workshops](#workshops)
+* [Legend](#legend)
 
 ## Academic papers
 
@@ -600,3 +601,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | Sep 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | Mar 2018 |
 | [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | Oct 2017 |
+
+## Legend
+
+| Icon | Definition |
+| --- | --- |
+| 💬 | Blog post or other social media |
+| 📄 | Security Assessment report |
+| 📛 | Threat Model report |
+| 📰 | Whitepaper |
