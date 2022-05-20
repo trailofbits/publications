@@ -16,6 +16,7 @@
 * [Security Reviews](#security-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
+  * [Cryptography Reviews](#cryptography-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
     * [Algorand](#algorand)
     * [Bitcoin/BSV](#bitcoinbsv)
@@ -243,7 +244,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 | |
 | [Appian](https://appian.com/) | Jun 2021 | 4 | | |
 | [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 | | |
-| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 | | |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 | | |
@@ -252,18 +252,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
 | [Hey.com](https://www.hey.com/) | Jun 2020 | 1 | [Serious Security](https://www.hey.com/security/) | [📄](reviews/Hey.pdf) |
-| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
-| [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
-| [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) | [📄](reviews/ZeroTierProtocol.pdf) |
 | [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Standard Notes Completes Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
-| [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf) [📛](reviews/voatz-threatmodel.pdf) |
 | [Voice](https://block.one/) | Jan 2020 | 4 |  |
-| [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 |  |  |
-| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 | [Multiple vulnerabilities in SanDisk X600](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) | [📄](reviews/sandiskx600.pdf) |
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
-| [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
 ### Cloud-Native Reviews
 
@@ -284,10 +277,24 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Helm](https://helm.sh/) | Aug 2020 | 4 |  [Helm 2nd Security Audit](https://helm.sh/blog/helm-2nd-security-audit/) | [📄](reviews/Helm.pdf) |
 | [Terraform](https://www.hashicorp.com/products/terraform/) | Mar 2020 | 6 | |
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 |  [Open Policy Agent (OPA) Graduation Proposal](https://github.com/cncf/toc/blob/main/proposals/graduation/opa.md) | [📄](reviews/OPAGatekeeper.pdf) |
-| [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 |  |
 | [etcd](https://etcd.io/) | Jan 2020 | 4 | [CNCF](https://www.cncf.io/blog/2020/08/05/etcd-security-audit/) | [📄](reviews/etcd.pdf) |
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) 
+
+### Cryptography Reviews
+
+| Product | Review Date | Level of Effort (Person Weeks) |  Announcement | Report |
+| --- | --: | :-: | --- | :-: |
+| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
+| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
+| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
+| [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
+| [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 | |
+| [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf) [📛](reviews/voatz-threatmodel.pdf) |
+| [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 |  |
+| [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
+| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 | [Multiple vulnerabilities in SanDisk X600](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) | [📄](reviews/sandiskx600.pdf) |
+| [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
 ### Blockchain Reviews
 
@@ -534,7 +541,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
 | [DeFiner](https://definer.org/) | Aug 2020 | 1 | | |
-| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 | | |
 | [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
