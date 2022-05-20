@@ -19,6 +19,7 @@
   * [Cryptography Reviews](#cryptography-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
     * [Algorand](#algorand)
+    * [Avalance](#avalanche)
     * [Bitcoin/BSV](#bitcoinbsv)
     * [Ethereum/EVM](#ethereumevm)
     * [StarkX](#starkx)
@@ -291,6 +292,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
 | [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
@@ -304,15 +306,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ### Blockchain Reviews
 
-| [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 person-weeks | |
-| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 person-weeks | |
-| [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 person-weeks | |
-| [Solana](https://solana.com/) | Apr 2022 | 12 person-weeks | |
-| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 person-weeks | |
-| [Optimism](https://www.optimism.io/) | Apr 2022 | 6 person-weeks | |
-| [NFTX](https://nftx.io/) | Apr 2022 | 4 person-weeks | |
-| [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 person-weeks | |
-
 #### Algorand
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
@@ -323,6 +316,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
 | [Algorand](https://www.algorand.com/) | Mar 2019 | 14 | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) | |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 |  | |
+
+#### Avalanche
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 
 #### Bitcoin/BSV
 
@@ -343,6 +342,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
+| [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
+| [NFTX](https://nftx.io/) | Apr 2022 | 4 | | |
+| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | | |
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
@@ -474,6 +477,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Solana](https://solana.com/) | Apr 2022 | 12 | | |
 
 #### Substrate
 
@@ -510,6 +514,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
 | [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
