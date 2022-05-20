@@ -17,6 +17,15 @@
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
+    * [Algorand](#algorand)
+    * [Bitcoin/BSV](#bitcoinbsv)
+    * [Ethereum/EVM](#ethereumevm)
+    * [StarkX](#starkx)
+    * [Solana](#solana)
+    * [Substrate](#substrate)
+    * [Tendermint/Cosmos](#tendermintcosmos)
+    * [Tezos](#tezos)
+    * [Other/Multi-Chain](#othermulti-chain)
 * [Workshops](#workshops)
 
 ## Academic papers
@@ -282,16 +291,21 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ### Blockchain Reviews
 
+#### Algorand
+
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| **Algorand** |
 | [PINT](https://www.stakerdao.com/) | Sept 2021 | 4 | | |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
 | [Algorand](https://www.algorand.com/) | Mar 2019 | 14 | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) | |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 |  | |
-| **Bitcoin/BSV** |
+
+#### Bitcoin/BSV
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
@@ -302,7 +316,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 | |
 | [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 |  | |
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
-| **Ethereum/EVM** |
+
+#### Ethereum/EVM
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -374,6 +392,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Federated Bridge](https://www.rsk.co/) | Jul 2020 | 1 | | |
 | [dForce dToken](https://dforce.network/) | Jul 2020 | 2 | | [📄](reviews/dtoken.pdf) |
 | [Matic](https://matic.network/) | Jun 2020 | 4 |  | |
+| [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 | | |
 | [tBTC](https://thesis.co/) | May 2020 | 6 | | [📄](reviews/thesis-summary.pdf) |
 | [QTUM](https://qtum.org/en) | Apr 2020 | 0.43 | | [📄](reviews/qtum_loa.pdf) |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 |  | |
@@ -419,12 +438,23 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
-| **StarkX** |
+
+#### StarkX
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
 | [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
-| **Solana** |
-| [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 | | |
-| **Substrate** |
+
+#### Solana
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+
+#### Substrate
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
@@ -438,25 +468,39 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Compound](https://compound.finance/) | Feb 2020 | 2 |  | [📄](reviews/compound-governance.pdf) |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 |  | |
 | [Compound](https://compound.finance/) | Aug 2019 | 2 |  | [📄](reviews/compound-3.pdf) |
-| [Tendermint](https://interchain.io/) | Mar 2019 | 12 | | |
 | [Compound](https://compound.finance/) | Apr 2019 | 8 | [Compound v2 is Live](https://medium.com/compound-finance/compound-v2-is-live-157db0b7cfc8) | [📄](reviews/compound-2.pdf) |
 | [ndau](https://oneiro.io/) | Nov 2018 | 8 | [ndau Holders Elect Inaugural Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) | |
 | [Compound](https://compound.finance/) | Sep 2018 | 12 | [Compound launches money markets for Ethereum](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488) | | |
 | [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
-| **Tezos** |
+
+#### Tendermint/Cosmos
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
+| [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
+| [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
+| [Tendermint](https://interchain.io/) | Mar 2019 | 12 | | |
+
+#### Tezos
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
 | [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
 | [Dexter](https://dexter.exchange/) | Jun 2020 | 4 | | [📄](reviews/dexter.pdf) |
-| **Other/Multi-Chain** |
+
+#### Other/Multi-Chain
+
+| Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
-| [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
-| [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
 | [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
@@ -468,7 +512,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 | | |
 | [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 | | |
 | [ShardX](https://www.gemini.com/) | Aug 2021 | 4 | | |
-| [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
 | [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | 4 | | [📄](reviews/CasperLedger.pdf) |
 | [AElf](https://aelf.io/) | Jul 2021 | 4 | |  |
 | [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 | |
