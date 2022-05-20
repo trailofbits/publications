@@ -233,8 +233,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
+| [MATTR](https://mattr.global/) | May 2022 | 4 | | |
+| [ArmorLock](https://www.westerndigital.com/) | Apr 2022 | 6 | | |
+| [DigitalOcean Function](https://www.digitalocean.com/) | Apr 2022 | 4 | | |
+| [Auvik Collector](https://www.auvik.com/system-security/) | Apr 2022 | 8 | | |
 | [snarkVM and snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 | |
+| [Optimus ROM](https://www.westerndigital.com/) | Jan 2022 | 4 | | |
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 | |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 | |
@@ -298,6 +304,15 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ### Blockchain Reviews
 
+| [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 person-weeks | |
+| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 person-weeks | |
+| [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 person-weeks | |
+| [Solana](https://solana.com/) | Apr 2022 | 12 person-weeks | |
+| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 person-weeks | |
+| [Optimism](https://www.optimism.io/) | Apr 2022 | 6 person-weeks | |
+| [NFTX](https://nftx.io/) | Apr 2022 | 4 person-weeks | |
+| [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 person-weeks | |
+
 #### Algorand
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
@@ -328,6 +343,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Review Date | Level of Effort (Person Weeks) | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Frax](https://frax.finance/) | May 2022 | 4 | | |
+| [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -344,7 +361,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Publishing the Primitive RMM smart contracts audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 | | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 | | |
-| [Frax](https://frax.finance/) | Dec 2021 | 4 | | |
+| [Frax](https://frax.finance/) | Dec 2021 | 4 | | [📄](reviews/FraxQ42021.pdf) |
 | [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 | | |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
