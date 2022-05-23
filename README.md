@@ -257,7 +257,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) | [📄](reviews/ZeroTierProtocol.pdf) |
-| [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Standard Notes Completes Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
+| [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Standard Notes Completes Crypto <br>Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf) [📛](reviews/voatz-threatmodel.pdf) |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 |  |
 | [Voice](https://block.one/) | Jan 2020 | 4 |  |
