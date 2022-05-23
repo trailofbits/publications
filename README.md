@@ -315,9 +315,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
-| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit <br>Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
+| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library <br>Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
 | [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
-| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | [NU3, Blossom, and Sapling security <br>reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)| [📄](reviews/Zcash.pdf) |
+| [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | [NU3, Blossom, and Sapling security<br> reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)| [📄](reviews/Zcash.pdf) |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | 6 |  | [📄](reviews/ZcashWP.pdf) |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 |  | |
 | [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 | |
@@ -399,7 +399,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | 4 | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) | [📄](reviews/OriginDollar.pdf) |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 | | |
 | [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 | | |
-| [Hermez](https://iden3.io/) | Nov 2020 | 4 | [Hermez Second Audit, by Trail of Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) | [📄](reviews/hermez.pdf) |
+| [Hermez](https://iden3.io/) | Nov 2020 | 4 | [Hermez Second Audit, by Trail of <br>Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) | [📄](reviews/hermez.pdf) |
 | [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 | | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 | | |
 | [Prysm](https://prysmaticlabs.com/) | Sep 2020 | 6 | | |
@@ -433,7 +433,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | 10|  | [📄](reviews/aztec.pdf) |
 | [Oasis Labs](https://www.oasislabs.com/) | Sep 2019 | 13 |  | |
 | [Aave Protocol](https://aave.com/) | Sep 2019 | 4 |  | [📄](reviews/aaveprotocol.pdf) |
-| [MC Dai](https://makerdao.com) | Aug 2019 | 13 | [MCD Security Roadmap Update: Oct 2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) | [📄](reviews/mc-dai.pdf) |
+| [MC Dai](https://makerdao.com) | Aug 2019 | 13 | [MCD Security Roadmap Update: Oct <br>2019](https://blog.makerdao.com/mcd-security-roadmap-update-october-2019/) | [📄](reviews/mc-dai.pdf) |
 | [Staked](https://staked.us/) | Aug 2019 | 4 |  | |
 | [Compound](https://compound.finance/) | Aug 2019 | 2 |  | [📄](reviews/compound-3.pdf) |
 | [Computable](https://www.computable.io/) | Jul 2019 | 8 | [Computable Contract Audit](https://medium.com/computable-blog/computable-contract-audit-771e3d39ea7) | [📄](reviews/computable.pdf) |
@@ -442,7 +442,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [TokenCard](https://tokencard.io/) | May 2019 | 5 | | [📄](reviews/TokenCard.pdf) |
 | Unity Coin | Apr 2019 | 1 | | |
 | [Compound](https://compound.finance/) | Apr 2019 | 8 | [Compound v2 is Live](https://medium.com/compound-finance/compound-v2-is-live-157db0b7cfc8) | [📄](reviews/compound-2.pdf) |
-| [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 | [One Protocol. One Network. One Community](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) | |
+| [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 | [One Protocol. One Network. One <br>Community](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) | |
 | [UMA Project](https://umaproject.org/) | Mar 2019 | 3 | | |
 | [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 | | |
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 | | |
@@ -451,21 +451,21 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [NuCypher](https://www.nucypher.com/) | Feb 2019 | 4 | [Security Audits (Round 2)](https://blog.nucypher.com/security-audits-round-2/) | [📄](reviews/nucypher-2.pdf) |
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 | | |
 | [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | 1 | [Constantinople Security Update](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2) | [📄](reviews/EIP-1283.pdf) |
-| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | 4 | [Source Code and Security Audits with <br>Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31) | [📄](reviews/ampleforth.pdf) |
+| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | 4 | [Source Code and Security Audits <br>with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31) | [📄](reviews/ampleforth.pdf) |
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 | [How We Approach Security at Origin](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71) | [📄](reviews/origin.pdf) |
 | [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | 4 | | [📄](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | Oct 2018 | 12 | | [📄](reviews/basis.pdf) |
-| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned from auditing our <br>Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
+| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned from auditing <br>our Ethereum client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
 | [Compound](https://compound.finance/) | Sep 2018 | 12 | [Compound launches money markets for <br>Ethereum](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488) | | |
 | [NuCypher](https://www.nucypher.com/) | Aug 2018 | 12 | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) | [📄](reviews/nucypher.pdf)|
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [Designing an upgradeable Ethereum <br>contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
 | [Bloom](https://bloom.co/) | Jul 2018 | 1 | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83) |
-| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Stablecoins: Understanding Counterparty <br>Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
-| [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | | 
+| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Stablecoins: Understanding <br>Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
+| [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma protocol v1 is live on <br>mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | | 
 | [Golem](https://golem.network/) | Apr 2018 | 4 | [Smart contracts: audit report](https://medium.com/golem-project/smart-contracts-audit-report-ad41fdd5085b) | [📄](reviews/golem.pdf) |
-| [LivePeer](https://livepeer.org/) | Mar 2018 | 4 | [Livepeer smart contract security audit <br>#1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4) | [📄](reviews/livepeer.pdf) |
+| [LivePeer](https://livepeer.org/) | Mar 2018 | 4 | [Livepeer smart contract security <br>audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4) | [📄](reviews/livepeer.pdf) |
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
-| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
+| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security <br>reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
 
 #### NervOS
@@ -506,7 +506,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
 | [Acala Network](https://acala.network/) | Jan 2021 | 6 | | [📄](reviews/AcalaNetwork.pdf) |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 |  | |
-| [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits security <br>review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
+| [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits <br>security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
 
 #### Tendermint/Cosmos
 
@@ -517,7 +517,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
 | [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
 | [Tendermint](https://interchain.io/) | Mar 2019 | 12 | | |
-| [ndau](https://oneiro.io/) | Nov 2018 | 8 | [ndau Holders Elect Inaugural Policy <br>Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) | |
+| [ndau](https://oneiro.io/) | Nov 2018 | 8 | [ndau Holders Elect Inaugural <br>Policy Council](https://www.globenewswire.com/news-release/2019/05/22/1840819/0/en/ndau-Holders-Elect-Inaugural-Policy-Council-Votes-to-be-Listed-on-BitMart-Exchange.html) | |
 
 #### Tezos
 
@@ -525,7 +525,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --- | :-: | --- | :-: |
 | [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
-| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their <br>security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their<br> security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
 | [Dexter](https://dexter.exchange/) | Jun 2020 | 4 | | [📄](reviews/dexter.pdf) |
 
@@ -538,7 +538,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
-| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security <br>Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
+| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: <br>Security Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
 | [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 | | |
 | [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 | | |
@@ -556,13 +556,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 | | [📄](reviews/MobilecoinFog.pdf) |
 | [eFIL](https://www.gemini.com/blog/gemini-launches-wrapped-filecoin-efil-building-a-bridge-to-defi) | Jan 2021 | 2 | | |
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
-| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
+| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway <br>Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 | | |
-| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits <br>Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
+| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of<br> Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
 | [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
 | [Chainlink](https://chain.link/) | Jun 2020 | 8 |  | |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 |  | |
@@ -573,11 +573,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Status-go](https://status.im/) | Oct 2019 | 9 |  | |
 | [Celo](https://celo.org/) | Sep 2019 | 8 |  | |
 | [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 |  | |
-| [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
+| [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate <br>RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
 | Interest Token | May 2019 | 0.28 | | |
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
-| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000 <br>refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security <br>guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000<br> refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
+| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security<br> guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
 
 ## Workshops
 
