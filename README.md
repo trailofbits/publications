@@ -231,13 +231,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [ArmorLock](https://www.westerndigital.com/) | Apr 2022 | 6 | | |
 | [DigitalOcean Function](https://www.digitalocean.com/) | Apr 2022 | 4 | | |
 | [Auvik Collector](https://www.auvik.com/system-security/) | Apr 2022 | 8 | | |
-| [snarkVM and snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
+| [snarkVM and <br>snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 | |
 | [Optimus ROM](https://www.westerndigital.com/) | Jan 2022 | 4 | | |
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 | |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 | |
-| [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 | | 
+| [DigitalOcean <br>Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 | | 
 | [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 | | [📄](reviews/SpruceID.pdf) |
 | [Doppler](https://www.doppler.com/) | Sept 2021 | 4 | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 | |
