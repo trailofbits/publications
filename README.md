@@ -17,25 +17,14 @@
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
-  * [Blockchain Reviews](#blockchain-reviews)
-    * [Algorand](#algorand)
-    * [Avalance](#avalanche)
-    * [Bitcoin & Derivatives](#bitcoin--derivatives)
-    * [Ethereum/EVM](#ethereumevm)
-    * [NervOS](#nervos)
-    * [StarkX](#starkx)
-    * [Solana](#solana)
-    * [Substrate](#substrate)
-    * [Tendermint/Cosmos](#tendermintcosmos)
-    * [Tezos](#tezos)
-    * [Other/Multi-Chain](#othermulti-chain)
+  * [Blockchain Reviews](#blockchain-reviews) ([Algorand](#algorand), [Avalance](#avalanche), [Bitcoin & Derivatives](#bitcoin--derivatives), [Ethereum/EVM](#ethereumevm), [NervOS](#nervos), [StarkX](#starkx), [Solana](#solana), [Substrate](#substrate), [Tendermint/Cosmos](#tendermintcosmos), [Tezos](#tezos), [Other/Multi-Chain](#othermulti-chain))
 * [Workshops](#workshops)
 * [Legend](#legend)
 
 ## Academic papers
 
 | Paper Title | Venue | Publication Date |
-| --- | --- | --: |
+| --- | --- | --- |
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | July 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
@@ -235,7 +224,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 ### Technology Product Reviews
 
 | Product | Date | Level of Effort | Announcement | Report |
-| --- | --: | :-: | --- | :-: |
+| --- | --- | :-: | --- | :-: |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [MATTR](https://mattr.global/) | May 2022 | 4 | | |
@@ -281,7 +270,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 ### Cloud-Native Reviews
 
 | Product | Date | Level of Effort |  Announcement | Report |
-| --- | --: | :-: | --- | :-: |
+| --- | --- | :-: | --- | :-: |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | | 
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 | | 
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
@@ -306,7 +295,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Algorand
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
@@ -316,7 +305,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Avalanche
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 
 #### Bitcoin & Derivatives
@@ -338,7 +327,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 #### Ethereum/EVM
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
@@ -482,7 +471,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### NervOS
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
 | [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
 | [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
@@ -493,20 +482,20 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### StarkWare
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
 
 #### Solana
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Solana](https://solana.com/) | Apr 2022 | 12 | | |
 
 #### Substrate
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
@@ -522,7 +511,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Tendermint/Cosmos
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
@@ -533,7 +522,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Tezos
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
 | [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
@@ -543,7 +532,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Other/Multi-Chain
 
 | Product | Date | Level of Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
+| ---| --- | :-: | --- | :-: |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
@@ -593,7 +582,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 ## Workshops
 
 | Workshop Title | Venue | Date |
-| --- | --- | --: |
+| --- | --- | --- |
 | [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202019) | TruffleCon 2019 | Oct 2019 |
 | [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | Nov 2018 |
 | [Introduction to Smart Contract Exploitation](workshops/Introduction%20to%20Smart%20Contract%20Exploitation%20-%20GreHack%202018) | GreHack 2018 | Nov 2018 |
