@@ -229,7 +229,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [MATTR](https://mattr.global/) | May 2022 | 4 | | |
 | [ArmorLock](https://www.westerndigital.com/) | Apr 2022 | 6 | | |
-| [DigitalOcean Function](https://www.digitalocean.com/) | Apr 2022 | 4 | | |
+| [DigitalOcean <br>Function](https://www.digitalocean.com/) | Apr 2022 | 4 | | |
 | [Auvik Collector](https://www.auvik.com/system-security/) | Apr 2022 | 8 | | |
 | [snarkVM and <br>snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 | |
@@ -247,7 +247,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [A Review of the Linux Kernel’s Release <br>Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 | | |
-| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 | [Penetration testing at CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
+| [CircleCI Server<br> 3.0](https://circleci.com/) | Jan 2021 | 6 | [Penetration testing at CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
