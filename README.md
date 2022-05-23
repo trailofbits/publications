@@ -343,9 +343,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | | |
-| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
+| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
+| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop Launches Wallet for Cryptocurrencies and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
