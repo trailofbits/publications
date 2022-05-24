@@ -17,7 +17,7 @@
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
-  * [Blockchain Reviews](#blockchain-reviews) ([Algorand](#algorand), [Avalance](#avalanche), [Bitcoin & Derivatives](#bitcoin--derivatives), [Ethereum/EVM](#ethereumevm), [NervOS](#nervos), [StarkX](#starkx), [Solana](#solana), [Substrate](#substrate), [Tendermint/Cosmos](#tendermintcosmos), [Tezos](#tezos), [Other/Multi-Chain](#othermulti-chain))
+  * [Blockchain Reviews](#blockchain-reviews) ([Algorand](#algorand), [Avalanche](#avalanche), [Bitcoin & Derivatives](#bitcoin--derivatives), [Ethereum/EVM](#ethereumevm), [NervOS](#nervos), [StarkX](#starkx), [Solana](#solana), [Substrate](#substrate), [Tendermint/Cosmos](#tendermintcosmos), [Tezos](#tezos), [Other/Multi-Chain](#othermulti-chain))
 * [Workshops](#workshops)
 * [Legend](#legend)
 
