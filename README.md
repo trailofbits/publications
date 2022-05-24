@@ -306,7 +306,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 | | |
+| [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 
 #### Bitcoin & Derivatives
 
