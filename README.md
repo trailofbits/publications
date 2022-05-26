@@ -307,6 +307,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
+| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 
 #### Bitcoin & Derivatives
 
@@ -386,7 +387,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) | [📄](reviews/AdvancedBlockchain.pdf) |
 | [FlareFinance](https://flr.finance/) | Apr 2021 | 3 | | |
 | [MC Dai](https://makerdao.com) | Mar 2021 | 6 | | |
-| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 | [Uniswap V3](https://uniswap.org/) | Mar 2021 | 10 | [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | [📄](reviews/UniswapV3Core.pdf) |
 | [dForce Lending](https://dforce.network/) | Mar 2021 | 6 | | |
 | [Liquity Proxy Contract](https://www.liquity.org/) | Feb 2021 | 0.57 | | [📄](reviews/LiquityProxyContracts.pdf) |
