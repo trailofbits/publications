@@ -17,7 +17,7 @@
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
-  * [Blockchain Reviews](#blockchain-reviews) ([Algorand](#algorand), [Avalanche](#avalanche), [Bitcoin & Derivatives](#bitcoin--derivatives), [Ethereum/EVM](#ethereumevm), [NervOS](#nervos), [StarkX](#starkx), [Solana](#solana), [Substrate](#substrate), [Tendermint/Cosmos](#tendermintcosmos), [Tezos](#tezos), [Other/Multi-Chain](#othermulti-chain))
+  * [Blockchain Reviews](#blockchain-reviews)
 * [Workshops](#workshops)
 * [Legend](#legend)
 
@@ -217,11 +217,11 @@
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
-## Security Reviews
+## Security reviews
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### Technology Product Reviews
+### Technology product reviews
 
 | Product | Date | Level of Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -267,7 +267,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
-### Cloud-Native Reviews
+### Cloud-Native reviews
 
 | Product | Date | Level of Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -290,7 +290,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) 
 
-### Blockchain Reviews
+### Blockchain reviews
 
 #### Algorand
 
@@ -309,7 +309,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 
-#### Bitcoin & Derivatives
+#### Bitcoin & derivatives
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
