@@ -355,7 +355,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 | | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 | | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 | | [📄](reviews/FraxQ42021.pdf) |
-| [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 | | |
+| [Sherlock Protocol V2](https://www.sherlock.xyz/) | Dec 2021 | 4 | | [📄](reviews/Sherlockv2.pdf) |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
