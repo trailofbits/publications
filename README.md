@@ -18,23 +18,13 @@
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
-    * [Algorand](#algorand)
-    * [Avalance](#avalanche)
-    * [Bitcoin/BSV](#bitcoinbsv)
-    * [Ethereum/EVM](#ethereumevm)
-    * [StarkX](#starkx)
-    * [Solana](#solana)
-    * [Substrate](#substrate)
-    * [Tendermint/Cosmos](#tendermintcosmos)
-    * [Tezos](#tezos)
-    * [Other/Multi-Chain](#othermulti-chain)
 * [Workshops](#workshops)
 * [Legend](#legend)
 
 ## Academic papers
 
 | Paper Title | Venue | Publication Date |
-| --- | --- | --: |
+| --- | --- | --- |
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | July 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
@@ -227,13 +217,13 @@
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
-## Security Reviews
+## Security reviews
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### Technology Product Reviews
+### Technology product reviews
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
@@ -277,9 +267,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
-### Cloud-Native Reviews
+### Cloud-Native reviews
 
-| Product | Date | Level of Effort (Person Weeks) |  Announcement | Report |
+| Product | Date | Level of Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | | 
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 | | 
@@ -300,11 +290,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) 
 
-### Blockchain Reviews
+### Blockchain reviews
 
 #### Algorand
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
@@ -314,17 +304,19 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 #### Avalanche
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Avalanche](https://www.avalabs.org/) | Apr 2022 | 8 | | |
+| [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
+| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 
-#### Bitcoin/BSV
+#### Bitcoin & derivatives
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
+| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
 | [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | [NU3, Blossom, and Sapling security reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)| [📄](reviews/Zcash.pdf) |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | 6 |  | [📄](reviews/ZcashWP.pdf) |
@@ -332,18 +324,19 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 | |
 | [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 |  | |
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
+| [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
 
 #### Ethereum/EVM
-
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| Seaport Protocol | May 2022 | 4 | | [📄](reviews/SeaportProtocol.pdf) |
+| [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | | |
-| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | | |
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
+| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
+| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop Launches Wallet for Cryptocurrencies and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -356,12 +349,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Firefly](https://dtrade.org/) | Feb 2022 | 8 | | |
 | [API3](https://api3.org/) | Feb 2022 | 8 | | [📄](reviews/API3.pdf) |
 | [Beethoven X](https://beets.fi/) | Feb 2022 | 1 | | [📄](reviews/BeethovenXSummary.pdf) |
+| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 | |  |
 | [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Publishing the Primitive RMM smart contracts audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 | | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 | | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 | | [📄](reviews/FraxQ42021.pdf) |
-| [Sherlock](https://www.sherlock.xyz/) | Dec 2021 | 4 | | |
+| [Sherlock Protocol V2](https://www.sherlock.xyz/) | Dec 2021 | 4 | | [📄](reviews/Sherlockv2.pdf) |
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
@@ -370,6 +364,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 | | |
 | [Yield V2](https://yield.is/) | Sept 2021 | 6 | | [📄](reviews/YieldV2.pdf) |
+| [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 | | |
 | [Futureswap V4](https://www.futureswap.com/) | Sept 2021 | 6 | | |
 | [RocketPool](https://rocketpool.net/) | Aug 2021 | 5 | | [📄](reviews/RocketPool.pdf) |
 | [AlphaX](https://alphafinance.io/) | Aug 2021 | 6 | | |
@@ -392,7 +387,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) | [📄](reviews/AdvancedBlockchain.pdf) |
 | [FlareFinance](https://flr.finance/) | Apr 2021 | 3 | | |
 | [MC Dai](https://makerdao.com) | Mar 2021 | 6 | | |
-| [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 | [Uniswap V3](https://uniswap.org/) | Mar 2021 | 10 | [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | [📄](reviews/UniswapV3Core.pdf) |
 | [dForce Lending](https://dforce.network/) | Mar 2021 | 6 | | |
 | [Liquity Proxy Contract](https://www.liquity.org/) | Feb 2021 | 0.57 | | [📄](reviews/LiquityProxyContracts.pdf) |
@@ -400,14 +394,19 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [RAY-DAO](https://staked.us/) | Feb 2021 | 4 | | |
 | [Futureswap](https://www.futureswap.com/) | Jan 2021 | 2 | | |
 | [Balancer V2](https://balancer.finance/) | Jan 2021 | 6 | | |
+| [C.R.E.A.M.](https://app.cream.finance/) | Jan 2021 | 1 | | [📄](reviews/CREAMSummary.pdf) |
 | [LUSD](https://www.liquity.org/) | Dec 2020 | 8 | | [📄](reviews/Liquity.pdf) |
 | [Origin Dollar](https://www.ousd.com/) | Nov 2020 | 4 | [Origin Dollar Relaunches](https://medium.com/originprotocol/origin-dollar-ousd-relaunches-to-offer-hassle-free-defi-returns-b8ee0c601dad) | [📄](reviews/OriginDollar.pdf) |
 | [Zerion SDK](https://zerion.io/) | Nov 2020 | 4 | | |
+| [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 | | |
 | [Hermez](https://iden3.io/) | Nov 2020 | 4 | [Hermez Second Audit, by Trail of Bits](https://blog.hermez.io/hermez-second-audit-by-trail-of-bits/) | [📄](reviews/hermez.pdf) |
+| [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 | | |
 | [OVM](https://optimism.io/) | Oct 2020 | 6 | | |
 | [Prysm](https://prysmaticlabs.com/) | Sep 2020 | 6 | | |
+| [DODO](https://dodoex.io/) | Sep 2020 | 3 | | [📄](reviews/dodo.pdf) |
 | [Yield Protocol](https://yield.is/Yield.pdf) | Aug 2020 | 6 | | [📄](reviews/YieldProtocol.pdf) |
 | [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 | | |
+| [DeFiner](https://definer.org/) | Aug 2020 | 1 | | |
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 | | [📄](reviews/ETH2DepositCLI.pdf)|
 | [Argent](https://www.argent.xyz/) | Aug 2020 | 4 | | |
 | [CurveDAO](https://dao.curve.fi/) | Jul 2020 | 6 | | [📄](reviews/CurveDAO.pdf) |
@@ -418,6 +417,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Lighthouse](https://lighthouse.sigmaprime.io/) | Jun 2020 | 4 | | |
 | [tBTC](https://thesis.co/) | May 2020 | 6 | | [📄](reviews/thesis-summary.pdf) |
 | [QTUM](https://qtum.org/en) | Apr 2020 | 0.43 | | [📄](reviews/qtum_loa.pdf) |
+| [Hegic](https://www.hegic.co/) | Apr 2020 | 0.43 |  | [📄](reviews/hegic-summary.pdf) |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 |  | |
 | [Reddit](https://www.reddit.com/community-points/) | Mar 2020 | 1 | [A New Frontier](https://www.reddit.com/community-points/) | |
 | [Chai](https://chai.money/) | Feb 2020 | 0.28 | | [📄](reviews/chai-loa.pdf) |
@@ -427,6 +427,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Curve.fi](https://compound.curve.fi/) | Jan 2020 | 1 |  | [📄](reviews/curve-summary.pdf) |
 | [Livepeer](https://livepeer.org/) | Oct 2019 | 3 |  | |
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 |  | |
+| [0x Protocol](https://0x.org/) | Oct 2019 | 10 |  | [📄](reviews/0x-protocol.pdf) |
 | [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | 4 |  | [📄](reviews/dharma-smartwallet.pdf) |
 | [Flexa](https://flexa.network/) | Sep 2019 | 2 | [Announcing Flexa Capacity](https://medium.com/flexa/announcing-flexa-capacity-35c62ade9522) | [📄](reviews/Flexa.pdf) |
 | [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | 10|  | [📄](reviews/aztec.pdf) |
@@ -441,7 +442,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [TokenCard](https://tokencard.io/) | May 2019 | 5 | | [📄](reviews/TokenCard.pdf) |
 | Unity Coin | Apr 2019 | 1 | | |
 | [Compound](https://compound.finance/) | Apr 2019 | 8 | [Compound v2 is Live](https://medium.com/compound-finance/compound-v2-is-live-157db0b7cfc8) | [📄](reviews/compound-2.pdf) |
-| [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 | [One Protocol. One Network. One Community.](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) | |
+| [Ocean Protocol](https://oceanprotocol.com/) | Mar 2019 | 4 | [One Protocol. One Network. One Community](https://blog.oceanprotocol.com/one-protocol-one-network-many-stakeholders-8be11a020cff) | |
 | [UMA Project](https://umaproject.org/) | Mar 2019 | 3 | | |
 | [Centrifuge](https://centrifuge.io/) | Mar 2019 | 5 | | |
 | [Nomisma](http://nomisma.org/) | Mar 2019 | 1 | | |
@@ -459,6 +460,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [NuCypher](https://www.nucypher.com/) | Aug 2018 | 12 | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) | [📄](reviews/nucypher.pdf)|
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
 | [Bloom](https://bloom.co/) | Jul 2018 | 1 | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83) |
+| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
 | [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | | 
 | [Golem](https://golem.network/) | Apr 2018 | 4 | [Smart contracts: audit report](https://medium.com/golem-project/smart-contracts-audit-report-ad41fdd5085b) | [📄](reviews/golem.pdf) |
 | [LivePeer](https://livepeer.org/) | Mar 2018 | 4 | [Livepeer smart contract security audit #1 results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4) | [📄](reviews/livepeer.pdf) |
@@ -466,42 +468,52 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
 
+#### NervOS
+
+| Product | Date | Level of Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
+| [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
+| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
+| [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
+| [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
+| [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
+
 #### StarkWare
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
 | [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
 
 #### Solana
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Solana](https://solana.com/) | Apr 2022 | 12 | | |
 
 #### Substrate
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
-| [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
 | [PINT](https://pub.finance/) | Sept 2021 | 4 | | |
 | [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
 | [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
-| [C.R.E.A.M.](https://app.cream.finance/) | Jan 2021 | 1 | | [📄](reviews/CREAMSummary.pdf) |
 | [Acala Network](https://acala.network/) | Jan 2021 | 6 | | [📄](reviews/AcalaNetwork.pdf) |
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 |  | |
 | [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
 
 #### Tendermint/Cosmos
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
+| [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
 | [THORChain](https://thorchain.org/) | Aug 2021 | 12 | | |
 | [Tendermint](https://interchain.io/) | Mar 2019 | 12 | | |
@@ -509,7 +521,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 #### Tezos
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
@@ -519,18 +531,15 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 #### Other/Multi-Chain
 
-| Product | Date | Level of Effort (Person Weeks) | Announcement | Report |
+| Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
-| [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
-| [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
 | [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
-| [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 | | |
 | [Hop Protocol V2](https://hop.exchange/) | Sept 2021 | 4 | | |
 | [Golden Gate Library](https://layerzero.network/) | Sept 2021 | 1 | | |
 | [PolySign](https://www.polysign.io/) | Sept 2021 | 6 | | |
@@ -543,36 +552,24 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 | |
 | [Open Oracle](https://chain.link/) | Apr 2021 | 2 | | |
 | [DFINITY](https://dfinity.org/) | May 2021 | 24 | | [📄](reviews/DFINITY.pdf) |
-| [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 | | |
-| [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
-| [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
-| [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
 | [Fog Protocol](https://www.mobilecoin.com/) | Jan 2021 | 4 | | [📄](reviews/MobilecoinFog.pdf) |
-| [eFIL](https://www.gemini.com/efil) | Jan 2021 | 2 | | |
-| [Teller Protocol](https://www.teller.finance/) | Nov 2020 | 4 | | |
-| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
+| [eFIL](https://www.gemini.com/blog/gemini-launches-wrapped-filecoin-efil-building-a-bridge-to-defi) | Jan 2021 | 2 | | |
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
-| [Graph Protocol](https://thegraph.com/) | Oct 2020 | 3 | | |
 | [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
-| [DODO](https://dodoex.io/) | Sep 2020 | 3 | | [📄](reviews/dodo.pdf) |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
-| [DeFiner](https://definer.org/) | Aug 2020 | 1 | | |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 | | |
 | [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
-| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
 | [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
 | [Chainlink](https://chain.link/) | Jun 2020 | 8 |  | |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 |  | |
-| [Hegic](https://www.hegic.co/) | Apr 2020 | 0.43 |  | [📄](reviews/hegic-summary.pdf) |
 | [Elrond](https://elrond.com/) | Mar 2020 | 6 |  | |
 | [EOSIO SDK](http://block.one/) | Jan 2020 | 4 |  | |
 | [NEAR Protocol](https://nearprotocol.com/) | Nov 2019 | 8 |  | |
 | [EOSIO 2.0](http://block.one/) | Oct 2019 | 8 |  | |
-| [0x Protocol](https://0x.org/) | Oct 2019 | 10 |  | [📄](reviews/0x-protocol.pdf) |
 | [Status-go](https://status.im/) | Oct 2019 | 9 |  | |
 | [Celo](https://celo.org/) | Sep 2019 | 8 |  | |
 | [Blockchain.com](https://www.blockchain.com/) | Aug 2019 | 4 |  | |
@@ -580,9 +577,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Interest Token | May 2019 | 0.28 | | |
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
 | [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
-| [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
 
 ## Workshops
 
@@ -605,3 +600,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | 📄 | Security Assessment report |
 | 📛 | Threat Model report |
 | 📰 | Whitepaper |
+
+| Header | Definition |
+| --- | --- | 
+| Level of Effort | Defined in person-weeks for the project |
