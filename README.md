@@ -337,7 +337,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Morpho](https://www.morpho.best/) | June 2022 | 4 | [@trailofbits performed a security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
 | [Balancer Relayer Contracts](https://balancer.fi/) | June 2022 | 2 | | |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
-| [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
+| [Seaport Protocol](https://opensea.io/) | May 2022 | 7 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | [Trail of Bits Audit](https://docs.nftx.io/smart-contracts/bug-bounty/trail-of-bits-audit) | [📄](reviews/NFTX.pdf) |
