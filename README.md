@@ -491,8 +491,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
-| [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
+| [StarkPerpetual](https://docs.starkware.co/starkex-v4/starkex-deep-dive/message-encodings/in-perpetual) | Jan 2022 | 8 | | |
+| [StarkEx](https://starkware.co/starkex/) | Nov 2021 | 8 | | |
 
 #### Solana
 
