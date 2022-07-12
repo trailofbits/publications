@@ -91,6 +91,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
 | [Seriously, stop using RSA](presentations/Seriously%2C%20stop%20using%20RSA) | Ben Perez | 2019 |
 | [Best Practices for Cryptography in Python](presentations/Best%20Practices%20for%20Cryptography%20in%20Python) | Paul Kehrer | 2019 |
 | [Analyzing the MD5 collision in Flame](presentations/Analyzing%20the%20MD5%20Collision%20in%20Flame) | Alex Sotirov | 2012 |
