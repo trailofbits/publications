@@ -69,6 +69,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro) | Josselin Feist, Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
 | [Safely integrating with ERC20 tokens](presentations/Safely%20integrating%20with%20ERC20%20tokens) | Josselin Feist | 2021 |
