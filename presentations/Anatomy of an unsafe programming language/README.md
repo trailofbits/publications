@@ -8,16 +8,20 @@ Takeaways
 * Solidity is changing quickly, which is both bad and good. Developers must keep pace with new compiler releases and beware the implications of contract upgradability.
 * There is an effort to introduce an intermediate representation to the compiler. Early indications suggest that it suffers from many of the same design decisions that have plagued Solidity.
 
+An updated version of this talk was titled *Fantastic Bugs and How to Squash Them; or, the Crimes of Solidity* and included a menagerie of common mistakes, as well as the deeply insidious idiosyncrasies that can trip up even the most seasoned developer. It concludes with a brief survey of open-source tools you can use to help you write secure smart contracts.
+
 Evan Sultanik is a security engineer from Trail of Bits.
 
 Presented at
 
-* [Empire Hacking](https://blog.trailofbits.com/2018/11/19/return-of-the-blockchain-security-empire-hacking/)
+* [Philadelphia Ethereum Blockchain Meetup, July 2019](https://www.meetup.com/Philadelphia-Ethereum-Meetup/events/262608448/)
+* [Empire Hacking, December 2018](https://blog.trailofbits.com/2018/11/19/return-of-the-blockchain-security-empire-hacking/)
 
 Resources
 
-* [Slides](Anatomy%20of%20an%20Unsafe%20Smart%20Contract%20Programming%20Language%20(Sultanik%20EH%202018-12-12).pdf)
-* [Video](https://www.youtube.com/watch?v=JaUIxMJAOsA)
+* [2019 Slides](Fantastic%20Bugs%20and%20How%20to%20Squash%20Them.pdf)
+* [2018 Slides](Anatomy%20of%20an%20Unsafe%20Smart%20Contract%20Programming%20Language%20(Sultanik%20EH%202018-12-12).pdf)
+* [2018 Video](https://www.youtube.com/watch?v=JaUIxMJAOsA)
 
 Authored by
 
