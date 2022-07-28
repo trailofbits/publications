@@ -229,7 +229,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [Hashicorp Terraform Cloud](https://www.hashicorp.com/) | June 2022 | 6 | | | 
-| [Binance CGGMP21 and FROST Implementations](https://www.binance.com/) | May 2022 | 8 | | |
+| [Binance CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
