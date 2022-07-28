@@ -228,6 +228,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Hashicorp Terraform Cloud](https://www.hashicorp.com/) | June 2022 | 6 | | | 
+| [Binance CGGMP21 and FROST Implementations](https://www.binance.com/) | May 2022 | 8 | | |
+| [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [MATTR](https://mattr.global/) | May 2022 | 4 | | |
@@ -309,6 +312,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Alkimiya Silica V2](https://alkimiya.io/) | June 2022 | 6 | | |
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 
@@ -332,10 +336,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Morpho](https://www.morpho.best/) | June 2022 | 4 | [@trailofbits performed a security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
+| [Balancer Relayer Contracts](https://balancer.fi/) | June 2022 | 2 | | |
+| [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
-| [NFTX](https://nftx.io/) | Apr 2022 | 4 | | |
+| [NFTX](https://nftx.io/) | Apr 2022 | 4 | [Trail of Bits Audit](https://docs.nftx.io/smart-contracts/bug-bounty/trail-of-bits-audit) | [📄](reviews/NFTX.pdf) |
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
@@ -486,8 +493,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [StarkPerpetual](https://starkware.co/starkex/) | Jan 2022 | 8 | | |
-| [StarkEx](https://starkware.co/) | Nov 2021 | 8 | | |
+| [StarkPerpetual](https://docs.starkware.co/starkex-v4/starkex-deep-dive/message-encodings/in-perpetual) | Jan 2022 | 8 | | |
+| [StarkEx](https://starkware.co/starkex/) | Nov 2021 | 8 | | |
 
 #### Solana
 
@@ -536,6 +543,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [DFINITY Threshold ECDSA](https://dfinity.org/) | May 2022 | 8 | | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
