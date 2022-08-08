@@ -9,6 +9,7 @@
   * [Education](#education)
   * [Mobile security](#mobile-security)
   * [Programming](#programming)
+  * [Program Transformation](#program-transformation)
   * [Side channels](#side-channels)
   * [Threat analysis & malware](#threat-analysis--malware)
 * [Datasets](#datasets)
@@ -25,6 +26,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | August 2022|
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | July 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
@@ -152,6 +154,11 @@
 | [Python internals - let's talk about dicts](presentations/Python%20internals%20-%20lets%20talk%20about%20dicts) | Dominik Czarnota | 2019 |
 | [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018 |
 | [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
+
+### Program Transformation
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Eric Schulte, Michael D. Brown, Vlad Folts | 2022 |
 
 ### Side channels
 
