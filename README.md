@@ -278,7 +278,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | | 
-| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 | | 
+| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [📄](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
 | [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
 | [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 |  |
