@@ -177,6 +177,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Risky Business 672](https://risky.biz/RB672/) | Dan Guido | Jul 2022 | Blockchain security |
 | [Cloud Security Reinvented](https://orca.security/resources/podcast/?blaid=3070895&wchannelid=v7ih6xfqse&wmediaid=ll04oa1n8n) | Nick Selby | Jun 2022 | Cloud security |
 | [Skiff Office Hours](https://twitter.com/i/web/status/1503822822237368321) | Dan Guido | Mar 2022 | Privacy technology |
 | [Risky Business 652](https://risky.biz/RB652/) | Dan Guido | Jan 2022 | Zero-knowledge proofs |
