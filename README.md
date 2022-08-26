@@ -282,7 +282,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [HashiCorp Cloud Platform](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
-| [Tekton](https://tekton.dev/) | Mar 2022 | 4 | | 
+| [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [📄](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
 | [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
