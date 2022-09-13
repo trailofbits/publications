@@ -26,9 +26,9 @@
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
-| [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | July 2021 |
+| [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | Jul 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
-| [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | July 2020 |
+| [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | Jul 2020 |
 | [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
@@ -229,7 +229,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Hashicorp Terraform Cloud](https://www.hashicorp.com/) | June 2022 | 6 | | | 
+| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
+| [Binance BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
+| [Novi Digital Wallet](https://meta.com) | Jul 2022 | 6 | |
+| [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
+| [Hashicorp Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | | 
 | [Binance CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
@@ -242,7 +246,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 | |
 | [Optimus ROM](https://www.westerndigital.com/) | Jan 2022 | 4 | | |
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
-| [osquery](https://osquery.io/) | Jan 2022 | 6 | |
+| [osquery](https://osquery.io/) | Jan 2022 | 6 | | [📄](reviews/osquery.pdf) |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 | |
 | [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 | | 
 | [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 | | [📄](reviews/SpruceID.pdf) |
@@ -278,8 +282,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Tekton](https://tekton.dev/) | Mar 2022 | 4 | | 
-| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 | | 
+| [HashiCorp Cloud Platform](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
+| [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
+| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [📄](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
 | [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
 | [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 |  |
@@ -313,7 +318,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Alkimiya Silica V2](https://alkimiya.io/) | June 2022 | 6 | | |
+| [Alkimiya Silica V2](https://alkimiya.io/) | Jun 2022 | 6 | | |
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 
@@ -337,8 +342,16 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Morpho](https://www.morpho.best/) | June 2022 | 4 | [@trailofbits performed a security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
-| [Balancer Relayer Contracts](https://balancer.fi/) | June 2022 | 2 | | |
+| [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
+| [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
+| [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
+| [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
+| [Solon](https://www.solon.finance/) | Jul 2022 | 6 | | |
+| [Sherlock](https://www.sherlock.xyz/) | Jun 2022 | 4 | | |
+| [FlareFinance](https://flr.finance/) | Jun 2022 | 4 | | |
+| [TBTv2](https://thesis.co/) | Jun 2022 | 6 | | |
+| [Morpho](https://www.morpho.best/) | Jun 2022 | 4 | [@trailofbits performed a security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
+| [Balancer Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
@@ -544,6 +557,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [CAT Standard](https://chia.net/) | Jun 2022 | 8 | | |
+| [FROST BLS Protocols](https://www.polysign.io/) | Jul 2022 | 12 | | |
+| [SORA Trustless Bridge](https://soramitsu.co.jp/) | Jul 2022 | 8 | | |
 | [DFINITY Threshold ECDSA](https://dfinity.org/) | May 2022 | 8 | | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
