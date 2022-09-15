@@ -255,12 +255,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Appian](https://appian.com/) | Jun 2021 | 4 | | |
 | [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 | | |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 | | |
-| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Linux Kernel Release Signing <br />and Key Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
+| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Linux Kernel Release Signing and <br />Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 | | |
 | [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 | [Penetration testing at CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 | | |
-| [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop<br /> Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
+| [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [How We Built a Facebook<br /> Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
 | [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
 | [Hey.com](https://www.hey.com/) | Jun 2020 | 1 | [Serious Security](https://www.hey.com/security/) | [📄](reviews/Hey.pdf) |
