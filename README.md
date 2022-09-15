@@ -375,7 +375,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Beethoven X](https://beets.fi/) | Feb 2022 | 1 | | [📄](reviews/BeethovenXSummary.pdf) |
 | [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 | |  |
-| [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Publishing the Primitive RMM smart contracts audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
+| [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Publishing the Primitive RMM smart contracts <br />audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 | | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 | | |
 | [Frax](https://frax.finance/) | Dec 2021 | 4 | | [📄](reviews/FraxQ42021.pdf) |
