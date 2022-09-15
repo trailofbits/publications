@@ -230,11 +230,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
-| [Binance BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
+| [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Novi Digital Wallet](https://meta.com) | Jul 2022 | 6 | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
-| [Hashicorp Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | | 
-| [Binance CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
+| [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | | 
+| [CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
@@ -282,7 +282,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [HashiCorp Cloud Platform](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
+| [Cloud Platform](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [📄](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
@@ -351,7 +351,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [FlareFinance](https://flr.finance/) | Jun 2022 | 4 | | |
 | [TBTv2](https://thesis.co/) | Jun 2022 | 6 | | |
 | [Morpho](https://www.morpho.best/) | Jun 2022 | 4 | [@trailofbits performed a security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
-| [Balancer Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
+| [Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
@@ -560,7 +560,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [CAT Standard](https://chia.net/) | Jun 2022 | 8 | | |
 | [FROST BLS Protocols](https://www.polysign.io/) | Jul 2022 | 12 | | |
 | [SORA Trustless Bridge](https://soramitsu.co.jp/) | Jul 2022 | 8 | | |
-| [DFINITY Threshold ECDSA](https://dfinity.org/) | May 2022 | 8 | | |
+| [Threshold ECDSA](https://dfinity.org/) | May 2022 | 8 | | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
