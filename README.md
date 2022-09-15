@@ -604,8 +604,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
 | Interest Token | May 2019 | 0.28 | | |
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
-| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000 refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000<br /> refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
+| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security<br /> guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
 
 ## Workshops
 
