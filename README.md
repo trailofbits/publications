@@ -231,7 +231,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --: | :-: | --- | :-: |
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
-| [Novi Digital Wallet](https://meta.com) | Jul 2022 | 6 | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
 | [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | | 
 | [CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
