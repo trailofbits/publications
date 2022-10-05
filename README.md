@@ -354,7 +354,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
-| [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
+| [Shell Protocol v2](https://shellprotocol.io/) | May 2022 | 4 | | [📄](reviews/ShellProtocolv2.pdf) |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | [Trail of Bits Audit](https://docs.nftx.io/smart-contracts/bug-bounty/trail-of-bits-audit) | [📄](reviews/NFTX.pdf) |
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
