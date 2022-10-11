@@ -284,7 +284,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --: | :-: | --- | :-: |
 | [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
-| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [📄](reviews/Linkerd-fixreview.pdf)
+| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [✅](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
 | [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
 | [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 |  |
@@ -354,7 +354,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
-| [Shell Protocol V2](https://shellprotocol.io/) | May 2022 | 4 | | |
+| [Shell Protocol v2](https://shellprotocol.io/) | May 2022 | 4 | | [📄](reviews/ShellProtocolv2.pdf) |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | [Trail of Bits Audit](https://docs.nftx.io/smart-contracts/bug-bounty/trail-of-bits-audit) | [📄](reviews/NFTX.pdf) |
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
@@ -383,7 +383,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple Loans Audit Reports](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
-| [Aave V3](https://aave.com/) | Nov 2021 | 4 |  | |
+| [Aave V3](https://aave.com/) | Nov 2021 | 12 |  | |
 | [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 | | |
 | [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 | | |
@@ -557,10 +557,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [DFINITY Canister Sandbox](https://dfinity.org/) | Sept 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf) [✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
+| [DFINITY Threshold ECDSA <br>& BTC Canisters](https://dfinity.org/) | Sept 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf) [✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
 | [CAT Standard](https://chia.net/) | Jun 2022 | 8 | | |
 | [FROST BLS Protocols](https://www.polysign.io/) | Jul 2022 | 12 | | |
 | [SORA Trustless Bridge](https://soramitsu.co.jp/) | Jul 2022 | 8 | | |
-| [Threshold ECDSA](https://dfinity.org/) | May 2022 | 8 | | |
+| [DFINITY Threshold ECDSA](https://dfinity.org/) | May 2022 | 8 | | |
 | [Arbitrum Nitro](https://offchainlabs.com/) | Mar 2022 | 16 | | |
 | [DeGate](https://degate.com/?en-US) | Feb 2022 | 4 | | [📄](reviews/DeGate.pdf) |
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
@@ -626,6 +628,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- |
 | 💬 | Blog post or other social media |
 | 📄 | Security Assessment report |
+| ✅ | Fix review report |
 | 📛 | Threat Model report |
 | 📰 | Whitepaper |
 
