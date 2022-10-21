@@ -342,7 +342,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
+| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | [Meson Raises $4M](https://www.prnewswire.com/news-releases/meson-raises-4m-to-develop-minute-fast-stablecoin-cross-chain-protocol-301608342.html) | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
 | [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
@@ -362,7 +362,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop wallet for cryptocurrencies and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
+| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop wallet for cryptocurrencies <br />and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
