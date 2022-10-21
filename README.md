@@ -342,7 +342,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | [Meson Raises $4M](https://www.prnewswire.com/news-releases/meson-raises-4m-to-develop-minute-fast-stablecoin-cross-chain-protocol-301608342.html) | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
+| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
 | [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
