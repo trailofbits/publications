@@ -18,6 +18,7 @@
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
+* [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Legend](#legend)
 
@@ -613,7 +614,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | CVE | CVSS | Announcement | Report |
 | ---| --: | :-: | --- | ---- | :-: |
-| [SQLite](https://sqlite.org/) | 2022-07-13 | [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35737](CVE-2022-35737) | 6.7 AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:H | [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | [Exploits](disclosures/CVE-2022-35737/README.md) | 
+| [SQLite](https://sqlite.org/) | 2022-07-13 | [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35737](CVE-2022-35737) | 6.7 | [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | [Exploits](disclosures/CVE-2022-35737/README.md) | 
 
 ## Workshops
 
