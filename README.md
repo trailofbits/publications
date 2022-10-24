@@ -614,7 +614,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | CVE | CVSS | Exploits | Report |
 | --- | --: | :-: | --- | ---- | :-: |
-| [SQLite](https://sqlite.org/) | Jul 2022 | [CVE-2022-35737](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35737) | 6.7 | [Crash](disclosures/CVE-2022-35737/README.md#snprintf-crashc) <br />[Live lock](disclosures/CVE-2022-35737/README.md#snprintf-livelockc) <br />[Code execution](disclosures/CVE-2022-35737/README.md#snprintf-control-pcc) | [💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | 
+| [SQLite](https://sqlite.org/) | Jul 2022 | [CVE-2022-35737](https://nvd.nist.gov/vuln/detail/CVE-2022-35737) | 7.5 | [Crash](disclosures/CVE-2022-35737/README.md#snprintf-crashc) <br />[Live lock](disclosures/CVE-2022-35737/README.md#snprintf-livelockc) <br />[Code execution](disclosures/CVE-2022-35737/README.md#snprintf-control-pcc) | [💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | 
 
 ## Workshops
 
