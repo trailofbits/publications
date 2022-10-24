@@ -18,6 +18,7 @@
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
+* [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Legend](#legend)
 
@@ -608,6 +609,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000<br /> refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
 | [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security<br /> guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+
+## Disclosures
+
+| Product | Date | CVE | CVSS | Exploits | Report |
+| --- | --: | :-: | --- | ---- | :-: |
+| [SQLite](https://sqlite.org/) | Jul 2022 | [CVE-2022-35737](https://nvd.nist.gov/vuln/detail/CVE-2022-35737) | 7.5 | [Crash](disclosures/CVE-2022-35737/README.md#snprintf-crashc) <br />[Live lock](disclosures/CVE-2022-35737/README.md#snprintf-livelockc) <br />[Code execution](disclosures/CVE-2022-35737/README.md#snprintf-control-pcc) | [💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | 
 
 ## Workshops
 
