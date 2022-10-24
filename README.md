@@ -609,6 +609,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000<br /> refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
 | [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security<br /> guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
 
+## Disclosures
+
+| Product | Date | CVE | CVSS | Announcement | Report |
+| ---| --: | :-: | --- | ---- | :-: |
+| [SQLite](https://sqlite.org/) | 2022-07-13 | [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35737](CVE-2022-35737) | 6.7 AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:H | [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | [Exploits](disclosures/CVE-2022-35737/README.md) | 
+
 ## Workshops
 
 | Workshop Title | Venue | Date |
