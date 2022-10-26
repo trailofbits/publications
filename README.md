@@ -93,6 +93,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
 | [Seriously, stop using RSA](presentations/Seriously%2C%20stop%20using%20RSA) | Ben Perez | 2019 |
 | [Best Practices for Cryptography in Python](presentations/Best%20Practices%20for%20Cryptography%20in%20Python) | Paul Kehrer | 2019 |
