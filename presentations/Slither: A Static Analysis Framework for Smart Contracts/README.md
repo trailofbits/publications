@@ -10,7 +10,7 @@ Takeaways
 Presented at
 * [EthCC 2019](https://ethcc.io)
 
-Ressources
+Resources
 
 - [Slides](2019-03-07-Slither_EthCC.pdf)
 - [Slither](https://github.com/trailofbits/slither/)

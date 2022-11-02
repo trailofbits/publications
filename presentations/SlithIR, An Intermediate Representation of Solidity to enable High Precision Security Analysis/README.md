@@ -11,7 +11,7 @@ Takeaways
 Presented at
 * [RunEVM 2019](https://runevm.com/)
 
-Ressources
+Resources
 
 - [Slides](2019-04-17-SlithIR_RunEVM.pdf)
 - [Slither](https://github.com/crytic/slither/)
