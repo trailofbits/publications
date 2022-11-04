@@ -229,6 +229,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | | [📄](reviews/SimpleXChat.pdf) | 
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Novi Digital Wallet](https://meta.com) | Jul 2022 | 6 | |
