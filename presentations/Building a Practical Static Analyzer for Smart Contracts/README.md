@@ -10,7 +10,7 @@ Takeaways
 Presented at
 * [Dagstuhl - Rigorous Methods for Smart Contracts 2021](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21431)
 
-Ressources
+Resources
 
 - [Slides](2021-10-27-dagstuhl-slither.pdf)
 - [Slither](https://github.com/crytic/slither/)
