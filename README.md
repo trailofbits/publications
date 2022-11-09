@@ -7,6 +7,8 @@
   * [Cryptography](#cryptography)
   * [Engineering](#engineering)
   * [Education](#education)
+  * [Infrastructure](#infrastructure)
+  * [Machine Learning](#machine-learning)
   * [Mobile security](#mobile-security)
   * [Programming](#programming)
   * [Side channels](#side-channels)
@@ -16,13 +18,12 @@
 * [Security Reviews](#security-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
-  * [Cryptography Reviews](#cryptography-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
 * [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Legend](#legend)
 
-## Academic papers
+## Academic Papers
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
@@ -41,7 +42,7 @@
 | [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | Feb 2018 |
 | [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | [FOSINT-SI 2015](http://fosint-si.cpsc.ucalgary.ca/2015/) | Jul 2015 |
 
-## Conference presentations
+## Conference Presentations
 
 ### Automated bug finding and exploitation
 
@@ -70,6 +71,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro) | Josselin Feist, Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
@@ -166,7 +168,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 | 
+| [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
 ## Datasets
@@ -223,19 +225,19 @@
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
-## Security reviews
+## Security Reviews
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### Technology product reviews
+### Technology Product Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
+| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | |
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Novi Digital Wallet](https://meta.com) | Jul 2022 | 6 | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
-| [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | | 
+| [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | |
 | [CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
@@ -250,7 +252,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
 | [osquery](https://osquery.io/) | Jan 2022 | 6 | | [📄](reviews/osquery.pdf) |
 | [Redjack](https://www.redjack.com/) | Dec 2021 | 2 | |
-| [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 | | 
+| [DigitalOcean Cloud](http://cloud.digitalocean.com/) | Nov 2021 | 12 | |
 | [SpruceID](https://tezos.foundation/) | Oct 2021 | 12 | | [📄](reviews/SpruceID.pdf) |
 | [Doppler](https://www.doppler.com/) | Sept 2021 | 4 | |
 | [Datadog Agent](https://www.datadoghq.com/) | Aug 2021 | 8 | |
@@ -302,9 +304,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 |  [Open Policy Agent (OPA) Graduation Proposal](https://github.com/cncf/toc/blob/main/proposals/graduation/opa.md) | [📄](reviews/OPAGatekeeper.pdf) |
 | [etcd](https://etcd.io/) | Jan 2020 | 4 | [CNCF](https://www.cncf.io/blog/2020/08/05/etcd-security-audit/) | [📄](reviews/etcd.pdf) |
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf) 
+| [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf)
 
-### Blockchain reviews
+### Blockchain Reviews
 
 #### Algorand
 
@@ -487,11 +489,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
 | [Bloom](https://bloom.co/) | Jul 2018 | 1 | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83) |
 | [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
-| [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | | 
+| [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | |
 | [Golem](https://golem.network/) | Apr 2018 | 4 | [Smart contracts: audit report](https://medium.com/golem-project/smart-contracts-audit-report-ad41fdd5085b) | [📄](reviews/golem.pdf) |
 | [LivePeer](https://livepeer.org/) | Mar 2018 | 4 | [Livepeer security audit results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4) | [📄](reviews/livepeer.pdf) |
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
-| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) | 
+| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) |
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
 
 #### NervOS
@@ -615,7 +617,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | CVE | CVSS | Exploits | Report |
 | --- | --: | :-: | --- | ---- | :-: |
-| [SQLite](https://sqlite.org/) | Jul 2022 | [CVE-2022-35737](https://nvd.nist.gov/vuln/detail/CVE-2022-35737) | 7.5 | [Crash](disclosures/CVE-2022-35737/README.md#snprintf-crashc) <br />[Live lock](disclosures/CVE-2022-35737/README.md#snprintf-livelockc) <br />[Code execution](disclosures/CVE-2022-35737/README.md#snprintf-control-pcc) | [💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) | 
+| [SQLite](https://sqlite.org/) | Jul 2022 | [CVE-2022-35737](https://nvd.nist.gov/vuln/detail/CVE-2022-35737) | 7.5 | [Crash](disclosures/CVE-2022-35737/README.md#snprintf-crashc) <br />[Live lock](disclosures/CVE-2022-35737/README.md#snprintf-livelockc) <br />[Code execution](disclosures/CVE-2022-35737/README.md#snprintf-control-pcc) | [💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/) |
 
 ## Workshops
 
@@ -641,5 +643,5 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | 📰 | Whitepaper |
 
 | Header | Definition |
-| --- | --- | 
+| --- | --- |
 | Level of Effort | Defined in person-weeks for the project |
