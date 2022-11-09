@@ -233,7 +233,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | |
+| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | | [📄](reviews/CloudEvents.pdf) | 
+| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | | [📄](reviews/SimpleXChat.pdf) | 
+| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Novi Digital Wallet](https://meta.com) | Jul 2022 | 6 | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
@@ -346,7 +348,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
+| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
 | [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
 | [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
 | [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
@@ -364,7 +368,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | May 2022 | 4 | | |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop wallet for cryptocurrencies and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
+| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop wallet for cryptocurrencies <br />and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -529,7 +533,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
 | [PINT](https://pub.finance/) | Sept 2021 | 4 | | |
 | [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
-| [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | |
+| [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | [📄](reviews/AlephBFT.pdf) |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
 | [Acala Network](https://acala.network/) | Jan 2021 | 6 | | [📄](reviews/AcalaNetwork.pdf) |
