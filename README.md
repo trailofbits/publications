@@ -71,7 +71,6 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [DeFi Security Summit 2022 Auditors Panel](https://www.youtube.com/watch?v=WumCl-LuLgY) | Nick Selby | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro) | Josselin Feist, Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
@@ -96,7 +95,6 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Static Analysis for Zero-Knowledge Programming Languages](https://www.youtube.com/watch?v=ST59slRf76I) | Filipe Casal | 2022 |
 | [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
 | [Seriously, stop using RSA](presentations/Seriously%2C%20stop%20using%20RSA) | Ben Perez | 2019 |
