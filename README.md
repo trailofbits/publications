@@ -361,6 +361,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
 | [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
 | [Solon](https://www.solon.finance/) | Jul 2022 | 6 | | |
+| [Ante Protocol](https://www.ante.finance/) | Jun 2022 | 2 | | [📄](reviews/AnteProtocol.pdf) [✅](reviews/AnteProtocolFixReview.pdf) |
 | [Sherlock](https://www.sherlock.xyz/) | Jun 2022 | 4 | | |
 | [FlareFinance](https://flr.finance/) | Jun 2022 | 4 | | |
 | [TBTv2](https://thesis.co/) | Jun 2022 | 6 | | |
