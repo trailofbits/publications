@@ -535,6 +535,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Parallel Finance](https://parallel.fi/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
 | [Parallel Finance](https://parallel.fi/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
