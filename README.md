@@ -240,7 +240,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | | [📄](reviews/CloudEvents.pdf) | 
+| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) | 
 | [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | | [📄](reviews/SimpleXChat.pdf) | 
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
@@ -535,7 +535,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Parallel Finance](https://parallel.fi/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf) |
+| [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
+| [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
