@@ -107,6 +107,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
 | [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
