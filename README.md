@@ -300,13 +300,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [✅](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
-| [Terrform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
-| [Nomad Enterpprise](https://www.nomadproject.io/) | Nov 2021 | 6 |  |
+| [Terraform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
+| [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2021 | 6 |  |
 | [Consul Enterprise](https://www.consul.io/) | Oct 2021 | 6 |  |
 | [Vault Enterprise](https://www.vaultproject.io/) | Oct 2021 | 6 |  |
 | [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2021 | 8 | |
 | [Argo](https://argoproj.github.io/) | Mar 2021 | 4 | |  [📛](reviews/argo-threatmodel.pdf) [📄](reviews/argo-securityreview.pdf) |
-| [Terrform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 | |
+| [Terraform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 |  |
 | [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 |  |
 | [Helm](https://helm.sh/) | Aug 2020 | 4 |  [Helm 2nd Security Audit](https://helm.sh/blog/helm-2nd-security-audit/) | [📄](reviews/Helm.pdf) |
@@ -402,7 +402,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
 | [Aave V3](https://aave.com/) | Nov 2021 | 12 |  | |
 | [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 | | |
-| [Fuji Fianance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
+| [Fuji Finance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 | | |
 | [Yield V2](https://yield.is/) | Sept 2021 | 6 | | [📄](reviews/YieldV2.pdf) |
 | [Gro protocol](https://www.gro.xyz/) | Sept 2021 | 2 | | |
