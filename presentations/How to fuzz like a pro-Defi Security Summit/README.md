@@ -4,13 +4,14 @@ This talk presents Echidna - an open source smart contract fuzzer - to build sec
 
 Presented at
 
-* [EthCC – How to fuzz like a pro](https://www.youtube.com/watch?v=1eBa9gouZzc)
+* DeFi Security Summit 101 
+  * [Slides](./Defi%20Security%20Summit%20%E2%80%93%20Fuzz%20Like%20a%20Pro.pdf)
 
 Resources
 
-* [Slides](./How%20to%20fuzz%20like%20a%20pro.pdf)
+
 * [Echidna](https://github.com/crytic/echidna)
 * [Building Secure Contracts](https://github.com/crytic/building-secure-contracts)
 
 Author
-* Josselin Feist and Nat Chin
+* Nat Chin
