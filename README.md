@@ -241,7 +241,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [cURL](https://curl.se/) | Oct 2022 | 9.5 | | [📄](reviews/2022-12-curl-securityreview.pdf) [📛](reviews/2022-12-curl-threatmodel.pdf) |
+| [cURL](https://curl.se/) | Oct 2022 | 9.5 | [The OSTIF Audit of Curl with Trail of Bits is Complete](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/)| [📄](reviews/2022-12-curl-securityreview.pdf) [📛](reviews/2022-12-curl-threatmodel.pdf) |
 | [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) | 
 | [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | | [📄](reviews/SimpleXChat.pdf) | 
 | [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf) [✅](reviews/UniswapMobileWallet-fixreview.pdf) | 
