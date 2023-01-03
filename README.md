@@ -357,6 +357,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [GSquared](https://docs.gro.xyz/gro-docs/) | Oct 2022 | 6 | | [📄](reviews/2022-10-GSquared-securityreview.pdf) [✅](reviews/2022-10-GSquared-fixreview.pdf) |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
