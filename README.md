@@ -241,9 +241,15 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Phantom](https://phantom.app/) | Nov 2022 | 2 |  |  |
+| [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
 | [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF (official announcement)](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg (blog)](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits (blog)](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄](reviews/2022-12-curl-securityreview.pdf) [📛](reviews/2022-12-curl-threatmodel.pdf) |
 | [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) | 
+| [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |  |  |
 | [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | | [📄](reviews/SimpleXChat.pdf) | 
+| [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  |  |
+| [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 |  |  |
+| [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  |  |
 | [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf) [✅](reviews/UniswapMobileWallet-fixreview.pdf) | 
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
@@ -293,11 +299,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
-### Cloud-Native reviews
+### Cloud-Native Reviews
 
 | Product | Date | Level of <br />Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
+| [KEDA](https://keda.sh/) | Dec 2022 | 6 |  | [📄](reviews/2023-01-keda-securityreview.pdf) |
+| [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
+| [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
+| [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  |  || [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [✅](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
@@ -323,6 +332,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Folks Finance Protocol](https://folks.finance/) | Nov 2022 | 6 |  |  |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
@@ -337,7 +347,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
 
-#### Bitcoin & derivatives
+#### Bitcoin & Derivatives
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
@@ -357,20 +367,33 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
+| [Paxos](https://paxos.com/) | Dec 2022 | 1 |  |  |
+| [GameStop iOS Web Wallet](https://www.gamestop.com/) | Nov 2022 | 1 |  |  |
 | [GSquared](https://docs.gro.xyz/gro-docs/) | Oct 2022 | 6 | | [📄](reviews/2022-10-GSquared-securityreview.pdf) [✅](reviews/2022-10-GSquared-fixreview.pdf) |
+| [Ondo](https://ondo.finance/) | Oct 2022 | 4 |  |  |
+| [Managed pool smart contracts](https://balancer.fi/) | Oct 2022 | 4 |  |  |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
+| [Maple Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  |  |
+| [Optimism](https://www.optimism.io/) | Sep 2022 | 16 |  | [📄](reviews/2022-11-optimism-securityreview.pdf) |
+| [Nayms](https://nayms.com/) | Sep 2022 | 6 |  |  |
+| [Increment Protocol](https://increment.finance/) | Sep 2022 | 4 |  |  |
+| [Aggregator](https://www.solon.network/) | Aug 2022 | 2 |  |  |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
+| [Relay](https://thesis.co/) | Jul 2022 | 1 |  |  |
 | [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
 | [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
 | [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
 | [Solon](https://www.solon.finance/) | Jul 2022 | 6 | | |
+| [Roll](https://tryroll.com/) | Jul 2022 | 2 |  |  |
 | [Ante Protocol](https://www.ante.finance/) | Jun 2022 | 2 | | [📄](reviews/AnteProtocol.pdf) [✅](reviews/AnteProtocolFixReview.pdf) |
 | [Sherlock](https://www.sherlock.xyz/) | Jun 2022 | 4 | | |
 | [FlareFinance](https://flr.finance/) | Jun 2022 | 4 | | |
 | [TBTv2](https://thesis.co/) | Jun 2022 | 6 | | |
 | [Morpho](https://www.morpho.best/) | Jun 2022 | 4 | [@trailofbits security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
 | [Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
+| [Ante Protocol](https://www.ante.finance/) | May 2022 | 2 |  |  |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol v2](https://shellprotocol.io/) | May 2022 | 4 | | [📄](reviews/ShellProtocolv2.pdf) |
@@ -379,7 +402,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | May 2022 | 4 | | [📄](reviews/FraxQ22022.pdf) |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [Gamestop Wallet](https://www.gamestop.com/) | Mar 2022 | 0.6 | [GameStop wallet for cryptocurrencies <br />and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
+| [GameStop Wallet](https://www.gamestop.com/) | Mar 2022 | 2 | [GameStop wallet for cryptocurrencies <br />and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -526,6 +549,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Nostra](https://docs.tempus.finance/products/nostra) | Dec 2022 | 8 |  |  |
+| [StarkGate](https://starkgate.starknet.io/) | Dec 2022 | 2 |  |  |
+| [StarkEx](https://starkware.co/starkex/) | Oct 2022 | 1 |  |  |
+| [StarkNet token](https://starkware.co/starknet/) | Jul 2022 | 1 |  |  |
 | [StarkPerpetual](https://docs.starkware.co/starkex-v4/starkex-deep-dive/message-encodings/in-perpetual) | Jan 2022 | 8 | | |
 | [StarkEx](https://starkware.co/starkex/) | Nov 2021 | 8 | | |
 
@@ -580,6 +607,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [DFINITY Canister Sandbox](https://dfinity.org/) | Sept 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf) [✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
 | [DFINITY Threshold ECDSA <br>& BTC Canisters](https://dfinity.org/) | Sept 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf) [✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
+| [MobileCoin](https://mobilecoin.com/homepage) | Jul 2022 | 2 |  |  |
 | [CAT Standard](https://chia.net/) | Jun 2022 | 8 | | |
 | [FROST BLS Protocols](https://www.polysign.io/) | Jul 2022 | 12 | | |
 | [SORA Trustless Bridge](https://soramitsu.co.jp/) | Jul 2022 | 8 | | |
