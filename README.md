@@ -306,7 +306,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [KEDA](https://keda.sh/) | Dec 2022 | 6 |  | [📄](reviews/2023-01-keda-securityreview.pdf) |
 | [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
-| [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  |  || [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
+| [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [✅](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
