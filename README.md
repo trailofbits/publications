@@ -306,7 +306,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [KEDA](https://keda.sh/) | Dec 2022 | 6 |  | [📄](reviews/2023-01-keda-securityreview.pdf) |
 | [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
-| [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  |  || [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
+| [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
 | [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [✅](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
@@ -387,13 +387,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
 | [Solon](https://www.solon.finance/) | Jul 2022 | 6 | | |
 | [Roll](https://tryroll.com/) | Jul 2022 | 2 |  |  |
-| [Ante Protocol](https://www.ante.finance/) | Jun 2022 | 2 | | [📄](reviews/AnteProtocol.pdf) [✅](reviews/AnteProtocolFixReview.pdf) |
+| [Ante Protocol](https://www.ante.finance/) | May 2022 | 2 | | [📄](reviews/AnteProtocol.pdf) [✅](reviews/AnteProtocolFixReview.pdf) |
 | [Sherlock](https://www.sherlock.xyz/) | Jun 2022 | 4 | | |
 | [FlareFinance](https://flr.finance/) | Jun 2022 | 4 | | |
 | [TBTv2](https://thesis.co/) | Jun 2022 | 6 | | |
 | [Morpho](https://www.morpho.best/) | Jun 2022 | 4 | [@trailofbits security audit of Morpho](https://twitter.com/morpholabs/status/1533818817918517250?s=21&t=x0tkW-pNfG0Hq7pyyVWFrg) | [📄](reviews/MorphoLabs.pdf) |
 | [Relayer Contracts](https://balancer.fi/) | Jun 2022 | 2 | | |
-| [Ante Protocol](https://www.ante.finance/) | May 2022 | 2 |  |  |
 | [AuctionRaffle](https://ethereum.org/en/foundation/) | May 2022 | 2 | | |
 | [Seaport Protocol](https://opensea.io/) | May 2022 | 4 | [Introducing Seaport Protocol](https://opensea.io/blog/announcements/introducing-seaport-protocol/) | [📄](reviews/SeaportProtocol.pdf) |
 | [Shell Protocol v2](https://shellprotocol.io/) | May 2022 | 4 | | [📄](reviews/ShellProtocolv2.pdf) |
