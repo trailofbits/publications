@@ -187,7 +187,7 @@
 
 ## Podcasts
 
-We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen all the episodes on our [website](https://trailofbits.audio). 
+We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen to all the episodes on our [website](https://trailofbits.audio). 
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
