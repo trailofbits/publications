@@ -187,6 +187,8 @@
 
 ## Podcasts
 
+We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen all the episodes on our [website](https://trailofbits.audio). 
+
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
 | [Risky Business 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
