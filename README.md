@@ -73,6 +73,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Write Better Smart Contracts By Checking Them With Slither's Python API](presentations/Write%Better%Smart%Contracts%By%Checking%Them%With%Slither's%Python%API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro) | Josselin Feist, Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
