@@ -8,7 +8,7 @@ Presented at
 
 Resources
 
-* [Slides](./Write%Better%Smart%Contracts%By%Checking%Them%With%Slither's%Python%API.pdf)
+* [Slides](./Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API.pdf)
 * [Slither](https://github.com/crytic/slither)
 * [Building Secure Contracts](https://github.com/crytic/building-secure-contracts)
 
