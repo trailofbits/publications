@@ -191,6 +191,7 @@ We host our own podcast that explores the intersection of human intellect and co
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling and cloud-native audits
 | [Risky Business 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
 | [Risky Business 672](https://risky.biz/RB672/) | Dan Guido | Jul 2022 | Blockchain security |
 | [Cloud Security Reinvented](https://orca.security/resources/podcast/?blaid=3070895&wchannelid=v7ih6xfqse&wmediaid=ll04oa1n8n) | Nick Selby | Jun 2022 | Cloud security |
