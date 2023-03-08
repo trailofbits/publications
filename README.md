@@ -245,10 +245,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Axiom](https://axiom.ai/) | Feb 2023 | 14 |  |  |
-| [Atlendis Smart Contracts](https://www.atlendis.io/) | Feb 2023 | 6 |  |  | 
-| [Ajna Protocol](https://www.ajna.finance/) | Feb 2023 | 12 |  |  |
-| [Spool Platform](https://www.spool.fi/) | Feb 2023 | 8 |  |  |
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) | 
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
 | [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
