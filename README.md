@@ -28,7 +28,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](toward_comprehensive_risk_assessments.pdf)  | arXiv | March 2023
+| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | March 2023
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | August 2022|
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | Jul 2021 |
