@@ -577,6 +577,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Token-2022 Program](https://spl.solana.com/token-2022) | Feb 2023 | 1 |  | [📄✅](reviews/2023-02-solana-token-2022-program-securityreview.pdf) |
+| [Drift Protocol](https://www.drift.trade/) | Dec 2022 | 6 |  | [📄✅](reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf) |
 | [Solana](https://solana.com/) | Apr 2022 | 12 | | |
 
 #### Substrate
