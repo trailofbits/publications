@@ -16,6 +16,7 @@
   * [Threat analysis & malware](#threat-analysis--malware)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
+* [Public Presentations](#public-presentations)
 * [Security Reviews](#security-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
@@ -237,6 +238,13 @@ We host our own podcast that explores the intersection of human intellect and co
 | [Risky Business 399](https://risky.biz/RB399/) | Dan Guido | Feb 2016 | [Apple vs the FBI](https://blog.trailofbits.com/2016/02/17/apple-can-comply-with-the-fbi-court-order/) |
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
+
+## Public Presentations
+
+| Title | Agency | Date |
+| --- | --- | --- |
+| [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | March 2023 |
+
 
 ## Security Reviews
 
