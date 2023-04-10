@@ -406,6 +406,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Aggregator](https://www.solon.network/) | Aug 2022 | 2 |  |  |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
+| [ChainPort](http://chainport.io/) | July 2022 | 8 |  | [📄](reviews/2023-02-chainport-securityreview.pdf)[✅](reviews/2023-02-chainport-fixreview.pdf) |
 | [Relay](https://thesis.co/) | Jul 2022 | 1 |  |  |
 | [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
 | [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
