@@ -254,7 +254,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 |  | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) | 
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
 | [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
@@ -390,6 +389,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Completed a security review <br />of our v2 smart contracts ](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
