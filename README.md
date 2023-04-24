@@ -474,6 +474,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Opyn Gamma](https://www.opyn.co/) | May 2021 | 6 | | [📄](reviews/Opyn-Gamma-Protocol.pdf) |
 | [Frax](https://frax.finance/) | May 2021 | 4 | | [📄](reviews/FraxFinance.pdf) |
 | [Yearn v2 Vaults](https://yearn.finance/) | Apr 2021 | 6 | | [📄](reviews/YearnV2Vaults.pdf) |
+| [Balancer v2](https://balancer.fi/) | Apr 2021 | 4 | | [📄](reviews/2021-04-balancer-balancerv2-securityreview.pdf) |
 | [DFX Finance](https://dfx.finance/) | Apr 2021 | 6 | | |
 | [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 | | |
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) | [📄](reviews/AdvancedBlockchain.pdf) |
