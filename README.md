@@ -390,6 +390,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Completed a security review <br />of our v2 smart contracts ](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
+| [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
 | [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
