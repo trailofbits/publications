@@ -99,6 +99,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
 | [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
 | [Seriously, stop using RSA](presentations/Seriously%2C%20stop%20using%20RSA) | Ben Perez | 2019 |
@@ -189,7 +190,7 @@
 
 ## Podcasts
 
-We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen to all the episodes on our [website](https://trailofbits.audio). 
+We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen to all the episodes on our [website](https://trailofbits.audio).
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
@@ -254,7 +255,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) | 
+| [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
 | [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
 | [Fraxlend and veFPIS](https://frax.finance/) | Jan 2023 | 4 |  |  |
@@ -265,15 +266,15 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Phantom](https://phantom.app/) | Nov 2022 | 2 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
 | [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF (official announcement)](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg (blog)](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits (blog)](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄✅](reviews/2022-12-curl-securityreview.pdf)[📛](reviews/2022-12-curl-threatmodel.pdf) |
-| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) | 
+| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
 | [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |  |  |
 | [Fraxlend and FraxFerry](https://frax.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf) |
-| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) | 
+| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
 | [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  | [📄✅](reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf) |
 | [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 |  |  |
 | [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
-| [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf)[✅](reviews/UniswapMobileWallet-fixreview.pdf) | 
-| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
+| [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf)[✅](reviews/UniswapMobileWallet-fixreview.pdf) |
+| [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | |
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
 | [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | |
