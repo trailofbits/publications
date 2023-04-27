@@ -16,6 +16,7 @@
   * [Threat analysis & malware](#threat-analysis--malware)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
+* [Public Presentations](#public-presentations)
 * [Security Reviews](#security-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
@@ -29,6 +30,7 @@
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
 | [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | July 2023 |
+| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | March 2023
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | August 2022|
 | [On the Optimization of Equivalent Concurrent Computations](papers/eqsat-pldi-egraphs2022.pdf) | [PLDI EGRAPHS 2022](https://pldi22.sigplan.org/program/program-egraphs-2022/) | June 2022 |
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
@@ -75,6 +77,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Write Better Smart Contracts By Checking Them With Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro) | Josselin Feist, Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
@@ -190,8 +193,11 @@
 
 ## Podcasts
 
+We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen to all the episodes on our [website](https://trailofbits.audio). 
+
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling and cloud-native audits
 | [Risky Business 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
 | [Risky Business 672](https://risky.biz/RB672/) | Dan Guido | Jul 2022 | Blockchain security |
 | [Cloud Security Reinvented](https://orca.security/resources/podcast/?blaid=3070895&wchannelid=v7ih6xfqse&wmediaid=ll04oa1n8n) | Nick Selby | Jun 2022 | Cloud security |
@@ -237,6 +243,13 @@
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
+## Public Presentations
+
+| Title | Agency | Date |
+| --- | --- | --- |
+| [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | March 2023 |
+
+
 ## Security Reviews
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
@@ -245,16 +258,25 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) | 
+| [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
+| [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
+| [Fraxlend and veFPIS](https://frax.finance/) | Jan 2023 | 4 |  |  |
+| [Redpanda Core, Console, and Console Enterprise](https://redpanda.com/) | Jan 2023 | 4 |  |  |
+| [Injective Labs Options Market](https://injective.com/) | Jan 2023 | 4 |  |  |
+| [OpenArchive (Android)](https://open-archive.org/) | Dec 2022 | 1 |  |  |
+| [Enclave Markets Trading Platform](https://www.enclave.market/) | Nov 2022 | 9 |  |  |
 | [Phantom](https://phantom.app/) | Nov 2022 | 2 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
-| [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF (official announcement)](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg (blog)](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits (blog)](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄](reviews/2022-12-curl-securityreview.pdf) [📛](reviews/2022-12-curl-threatmodel.pdf) |
+| [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF (official announcement)](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg (blog)](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits (blog)](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄✅](reviews/2022-12-curl-securityreview.pdf)[📛](reviews/2022-12-curl-threatmodel.pdf) |
 | [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) | 
 | [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |  |  |
-| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | | [📄](reviews/SimpleXChat.pdf) | 
-| [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  |  |
+| [Fraxlend and FraxFerry](https://frax.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf) |
+| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) | 
+| [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  | [📄✅](reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf) |
 | [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 |  |  |
-| [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  |  |
-| [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf) [✅](reviews/UniswapMobileWallet-fixreview.pdf) | 
+| [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
+| [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf)[✅](reviews/UniswapMobileWallet-fixreview.pdf) | 
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | | 
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
@@ -294,7 +316,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) | [📄](reviews/ZeroTierProtocol.pdf) |
 | [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Standard Notes Completes Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
-| [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf) [📛](reviews/voatz-threatmodel.pdf) |
+| [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf)[📛](reviews/voatz-threatmodel.pdf) |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 |  |
 | [Voice](https://block.one/) | Jan 2020 | 4 |  |
 | [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
@@ -307,19 +329,19 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [KEDA](https://keda.sh/) | Dec 2022 | 6 |  | [📄](reviews/2023-01-keda-securityreview.pdf) |
+| [KEDA](https://keda.sh/) | Dec 2022 | 6 | [Our Audit of Kubernetes Event Driven Autoscaling (KEDA) is Complete!](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/) | [📄](reviews/2023-01-keda-securityreview.pdf) |
 | [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
 | [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
 | [Tekton](https://tekton.dev/) | Mar 2022 | 4 | [Tekton Security Review Completed](https://cd.foundation/blog/2022/08/26/tekton-security-review-completed/) | [📄](reviews/Tekton.pdf) |
-| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf) [📄](reviews/Linkerd-securityreview.pdf) [✅](reviews/Linkerd-fixreview.pdf)
+| [Linkerd](https://linkerd.io/) | Feb 2022 | 4 |  | [📛](reviews/Linkerd-threatmodel.pdf)[📄](reviews/Linkerd-securityreview.pdf)[✅](reviews/Linkerd-fixreview.pdf)
 | [CoreDNS](https://coredns.io/) | Jan 2022 | 4 |  | [📄](reviews/CoreDNS.pdf)
 | [Terraform Enterprise](https://www.terraform.io/) | Nov 2021 | 6 | |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2021 | 6 |  |
 | [Consul Enterprise](https://www.consul.io/) | Oct 2021 | 6 |  |
 | [Vault Enterprise](https://www.vaultproject.io/) | Oct 2021 | 6 |  |
 | [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2021 | 8 | |
-| [Argo](https://argoproj.github.io/) | Mar 2021 | 4 | |  [📛](reviews/argo-threatmodel.pdf) [📄](reviews/argo-securityreview.pdf) |
+| [Argo](https://argoproj.github.io/) | Mar 2021 | 4 | |  [📛](reviews/argo-threatmodel.pdf)[📄](reviews/argo-securityreview.pdf) |
 | [Terraform Cloud](https://www.terraform.io/cloud) | Jan 2021 | 6 | |
 | [Consul](https://www.consul.io/) | Oct 2020 | 10 |  |
 | [Nomad](https://www.nomadproject.io/) | Aug 2020 | 6 |  |
@@ -328,7 +350,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [OPA](https://github.com/open-policy-agent/gatekeeper) | Mar 2020 | 2 |  [Open Policy Agent (OPA) Graduation Proposal](https://github.com/cncf/toc/blob/main/proposals/graduation/opa.md) | [📄](reviews/OPAGatekeeper.pdf) |
 | [etcd](https://etcd.io/) | Jan 2020 | 4 | [CNCF](https://www.cncf.io/blog/2020/08/05/etcd-security-audit/) | [📄](reviews/etcd.pdf) |
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
-| [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) [📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)  [📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf)
+| [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf)[📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)[📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf)
 
 ### Blockchain Reviews
 
@@ -371,27 +393,33 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Completed a security review <br />of our v2 smart contracts ](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
+| [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
+| [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
+| [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
 | [Paxos](https://paxos.com/) | Dec 2022 | 1 |  |  |
 | [GameStop iOS Web Wallet](https://www.gamestop.com/) | Nov 2022 | 1 |  |  |
-| [GSquared](https://docs.gro.xyz/gro-docs/) | Oct 2022 | 6 | | [📄](reviews/2022-10-GSquared-securityreview.pdf) [✅](reviews/2022-10-GSquared-fixreview.pdf) |
-| [Ondo](https://ondo.finance/) | Oct 2022 | 4 |  |  |
-| [Managed pool smart contracts](https://balancer.fi/) | Oct 2022 | 4 |  |  |
-| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf) [✅](reviews/MesonProtocolFixReview.pdf) |
-| [Maple Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  |  |
+| [GSquared](https://docs.gro.xyz/gro-docs/) | Oct 2022 | 6 | | [📄](reviews/2022-10-GSquared-securityreview.pdf)[✅](reviews/2022-10-GSquared-fixreview.pdf) |
+| [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf)[✅](reviews/MesonProtocolFixReview.pdf) |
+| [Managed pool smart contracts](https://balancer.fi/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-balancerlabs-managedpoolsmartcontracts-securityreview.pdf) |
+| [Ondo](https://ondo.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-shimacapital-ondo-securityreview.pdf)[✅](reviews/2022-10-shimacapital-ondo-fixreview.pdf) |
+| [Maple Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  | [📄✅](reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf) |
+| [Increment Protocol](https://increment.finance/) | Sep 2022 | 4 |  | [📄](reviews/2022-09-incrementprotocol-securityreview.pdf)[✅](reviews/2022-09-incrementprotocol-fixreview.pdf) |
+| [Subspace Network Desktop Farmer](https://subspace.network/) | Sep 2022 | 2 |  | [📄](reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-securityreview.pdf)[✅](reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-fixreview.pdf)|
 | [Optimism](https://www.optimism.io/) | Sep 2022 | 16 |  | [📄](reviews/2022-11-optimism-securityreview.pdf) |
 | [Nayms](https://nayms.com/) | Sep 2022 | 6 |  |  |
-| [Increment Protocol](https://increment.finance/) | Sep 2022 | 4 |  |  |
 | [Aggregator](https://www.solon.network/) | Aug 2022 | 2 |  |  |
 | [The Franchiser](https://uniswap.org/) | Aug 2022 | 3 | | |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
+| [ChainPort](http://chainport.io/) | July 2022 | 8 |  | [📄](reviews/2023-02-chainport-securityreview.pdf)[✅](reviews/2023-02-chainport-fixreview.pdf) |
 | [Relay](https://thesis.co/) | Jul 2022 | 1 |  |  |
 | [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
 | [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
 | [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
 | [Solon](https://www.solon.finance/) | Jul 2022 | 6 | | |
 | [Roll](https://tryroll.com/) | Jul 2022 | 2 |  |  |
-| [Ante Protocol](https://www.ante.finance/) | May 2022 | 2 | | [📄](reviews/AnteProtocol.pdf) [✅](reviews/AnteProtocolFixReview.pdf) |
+| [Ante Protocol](https://www.ante.finance/) | May 2022 | 2 | | [📄](reviews/AnteProtocol.pdf)[✅](reviews/AnteProtocolFixReview.pdf) |
 | [Sherlock](https://www.sherlock.xyz/) | Jun 2022 | 4 | | |
 | [FlareFinance](https://flr.finance/) | Jun 2022 | 4 | | |
 | [TBTv2](https://thesis.co/) | Jun 2022 | 6 | | |
@@ -451,6 +479,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Opyn Gamma](https://www.opyn.co/) | May 2021 | 6 | | [📄](reviews/Opyn-Gamma-Protocol.pdf) |
 | [Frax](https://frax.finance/) | May 2021 | 4 | | [📄](reviews/FraxFinance.pdf) |
 | [Yearn v2 Vaults](https://yearn.finance/) | Apr 2021 | 6 | | [📄](reviews/YearnV2Vaults.pdf) |
+| [Balancer v2](https://balancer.fi/) | Apr 2021 | 4 | | [📄](reviews/2021-04-balancer-balancerv2-securityreview.pdf) |
 | [DFX Finance](https://dfx.finance/) | Apr 2021 | 6 | | |
 | [Tokemak](https://www.tokemak.xyz/) | Apr 2021 | 1 | | |
 | [Warp Contracts](https://en.advancedblockchain.com/) | Apr 2021 | 6 |[Completion of Trail of Bits’ Audit](https://composablefi.medium.com/composable-announces-the-completion-of-trail-of-bits-audit-c46bd84333de) | [📄](reviews/AdvancedBlockchain.pdf) |
@@ -563,6 +592,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Token-2022 Program](https://spl.solana.com/token-2022) | Feb 2023 | 1 |  | [📄✅](reviews/2023-02-solana-token-2022-program-securityreview.pdf) |
+| [Drift Protocol](https://www.drift.trade/) | Dec 2022 | 6 | [Announcement (Tweet)](https://twitter.com/driftprotocol/status/1635630624978640899?s=46&t=f8ijViICJAoKBBoQUh58Og) | [📄✅](reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf) |
 | [Solana](https://solana.com/) | Apr 2022 | 12 | | |
 
 #### Substrate
@@ -608,9 +639,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [DFINITY Canister Sandbox](https://dfinity.org/) | Sept 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf) [✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
-| [DFINITY Threshold ECDSA <br>& BTC Canisters](https://dfinity.org/) | Sept 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf) [✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
-| [MobileCoin](https://mobilecoin.com/homepage) | Jul 2022 | 2 |  |  |
+| [DFINITY Canister Sandbox](https://dfinity.org/) | Sept 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf)[✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
+| [DFINITY Threshold ECDSA <br>& BTC Canisters](https://dfinity.org/) | Sept 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf)[✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
+| [MobileCoin](https://mobilecoin.com/homepage) | Jul 2022 | 2 |  | [📄](reviews/2022-07-mobilecoin-securityreview.pdf) |
 | [CAT Standard](https://chia.net/) | Jun 2022 | 8 | | |
 | [FROST BLS Protocols](https://www.polysign.io/) | Jul 2022 | 12 | | |
 | [SORA Trustless Bridge](https://soramitsu.co.jp/) | Jul 2022 | 8 | | |
