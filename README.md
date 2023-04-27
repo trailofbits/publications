@@ -29,8 +29,10 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | July 2023 |
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | March 2023
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | August 2022|
+| [On the Optimization of Equivalent Concurrent Computations](papers/eqsat-pldi-egraphs2022.pdf) | [PLDI EGRAPHS 2022](https://pldi22.sigplan.org/program/program-egraphs-2022/) | June 2022 |
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | Jul 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
@@ -167,6 +169,7 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Eric Schulte, Michael D. Brown, Vlad Folts | 2022 |
+| [On the Optimization of Equivalent Concurrent Computations](presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf) | Henrich Lauko, Lukáš Korenčik, Peter Goodman | 2022 |
 
 ### Side channels
 
