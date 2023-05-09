@@ -29,24 +29,24 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | July 2023 |
-| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | March 2023
-| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | August 2022|
-| [On the Optimization of Equivalent Concurrent Computations](papers/eqsat-pldi-egraphs2022.pdf) | [PLDI EGRAPHS 2022](https://pldi22.sigplan.org/program/program-egraphs-2022/) | June 2022 |
-| [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | Dec 2021 |
-| [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | Jul 2021 |
-| [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | May 2021 |
-| [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | Jul 2020 |
-| [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | May 2020 |
-| [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
-| [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | Feb 2020 |
-| [RSA GTFO](papers/rsagtfo.pdf) | [PoC\|\|GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20) | Jan 2020 |
-| [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | [ASE 2019](https://2019.ase-conferences.org/) | Jun 2019 |
-| [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | [WETSEB 2019](http://www.agilegroup.eu/wetseb2019/) | May 2019 |
-| [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | [AISec 2018](http://aisec2018.icsi.berkeley.edu/aisec2018/index.html) | Oct 2018 |
-| [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | [IEEE S&P](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8328963) | Apr 2018 |
-| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | Feb 2018 |
-| [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | [FOSINT-SI 2015](http://fosint-si.cpsc.ucalgary.ca/2015/) | Jul 2015 |
+| [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | 2023 |
+| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | 2023
+| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | 2022|
+| [On the Optimization of Equivalent Concurrent Computations](papers/eqsat-pldi-egraphs2022.pdf) | [PLDI EGRAPHS 2022](https://pldi22.sigplan.org/program/program-egraphs-2022/) | 2022 |
+| [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | 2021 |
+| [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | 2021 |
+| [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | 2021 |
+| [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | 2020 |
+| [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | 2020 |
+| [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | 2020 |
+| [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | 2020 |
+| [RSA GTFO](papers/rsagtfo.pdf) | [PoC\|\|GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20) | 2020 |
+| [Manticore: Symbolic Execution for Binaries and Smart Contracts](papers/manticore.pdf) | [ASE 2019](https://2019.ase-conferences.org/) | 2019 |
+| [Slither: A Static Analysis Framework For Smart Contracts](papers/wetseb19.pdf) | [WETSEB 2019](http://www.agilegroup.eu/wetseb2019/) | 2019 |
+| [Toward Smarter Vulnerability Discovery Using Machine Learning](papers/ceo.pdf) | [AISec 2018](http://aisec2018.icsi.berkeley.edu/aisec2018/index.html) | 2018 |
+| [The Past, Present, and Future of Cyberdyne](papers/cyberdyne.pdf) | [IEEE S&P](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8328963) | 2018 |
+| [DeepState - Symbolic Unit Testing for C and C++](papers/deepstate-bar18.pdf) | [BAR 2018](https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-bar/) | 2018 |
+| [Cyber-Deception and Attribution in Capture-the-Flag Exercises](papers/deception_attribution_ctf.pdf) | [FOSINT-SI 2015](http://fosint-si.cpsc.ucalgary.ca/2015/) | 2015 |
 
 ## Conference Presentations
 
@@ -79,9 +79,9 @@
 | --- | --- | --- |
 | [Write Better Smart Contracts By Checking Them With Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
-| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit/) | Nat Chin | August 2022 | 
-| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-EthCC/) | Josselin Feist, Nat Chin | July 2022 |
-| [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | June 2022 | 
+| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit/) | Nat Chin | 2022 | 
+| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-EthCC/) | Josselin Feist, Nat Chin | 2022 |
+| [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | 2022 | 
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
 | [Safely integrating with ERC20 tokens](presentations/Safely%20integrating%20with%20ERC20%20tokens) | Josselin Feist | 2021 |
@@ -200,7 +200,7 @@ We host our own podcast that explores the intersection of human intellect and co
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling and cloud-native audits
+| [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling, cloud-native audits |
 | [Risky Business 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
 | [Risky Business 672](https://risky.biz/RB672/) | Dan Guido | Jul 2022 | Blockchain security |
 | [Cloud Security Reinvented](https://orca.security/resources/podcast/?blaid=3070895&wchannelid=v7ih6xfqse&wmediaid=ll04oa1n8n) | Nick Selby | Jun 2022 | Cloud security |
@@ -246,12 +246,11 @@ We host our own podcast that explores the intersection of human intellect and co
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
-## Public Presentations
+## Public comments
 
 | Title | Agency | Date |
 | --- | --- | --- |
-| [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | March 2023 |
-
+| [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 
 ## Security Reviews
 
