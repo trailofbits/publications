@@ -196,7 +196,7 @@
 
 ## Podcasts
 
-We host our own podcast that explores the intersection of human intellect and computational power. You can download episodes from your favorite podcast app or listen to all the episodes on our [website](https://trailofbits.audio).
+We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can download episodes from your favorite podcast app.
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
@@ -270,8 +270,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Enclave Markets Trading Platform](https://www.enclave.market/) | Nov 2022 | 9 |  |  |
 | [Phantom](https://phantom.app/) | Nov 2022 | 2 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
-| [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF (official announcement)](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg (blog)](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits (blog)](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄✅](reviews/2022-12-curl-securityreview.pdf)[📛](reviews/2022-12-curl-threatmodel.pdf) |
-| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [Results of CloudEvents Security<br>Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
+| [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄✅](reviews/2022-12-curl-securityreview.pdf)[📛](reviews/2022-12-curl-threatmodel.pdf) |
+| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [CloudEvents Security Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
 | [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |  |  |
 | [Fraxlend and FraxFerry](https://frax.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf) |
 | [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
@@ -331,7 +331,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [KEDA](https://keda.sh/) | Dec 2022 | 6 | [Our Audit of Kubernetes Event Driven Autoscaling (KEDA) is Complete!](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/) | [📄](reviews/2023-01-keda-securityreview.pdf) |
+| [KEDA](https://keda.sh/) | Dec 2022 | 6 | [Audit of Kubernetes Event Driven Autoscaling (KEDA)](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/) | [📄](reviews/2023-01-keda-securityreview.pdf) |
 | [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
 | [HashiCorp Cloud](https://cloud.hashicorp.com/) | Jun 2022 | 9 | |
@@ -395,7 +395,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Completed a security review <br />of our v2 smart contracts ](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
+| [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Security review of our v2 contracts](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
 | [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
@@ -435,7 +435,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | May 2022 | 4 | | [📄](reviews/FraxQ22022.pdf) |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [GameStop Wallet](https://www.gamestop.com/) | Mar 2022 | 2 | [GameStop wallet for cryptocurrencies <br />and NFTs](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
+| [GameStop Wallet](https://www.gamestop.com/) | Mar 2022 | 2 | [GameStop wallet](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
@@ -555,7 +555,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 | [How We Approach Security at Origin](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71) | [📄](reviews/origin.pdf) |
 | [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | 4 | | [📄](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | Oct 2018 | 12 | | [📄](reviews/basis.pdf) |
-| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned auditing our Ethereum<br /> client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
+| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned auditing our ETH client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
 | [Compound](https://compound.finance/) | Sep 2018 | 12 | [Compound launches money markets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488) | | |
 | [NuCypher](https://www.nucypher.com/) | Aug 2018 | 12 | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) | [📄](reviews/nucypher.pdf)|
 | [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
@@ -691,8 +691,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [RandomX](https://www.arweave.org/) | Jun 2019 | 2 | [Monero and Arweave to Validate RandomX](https://www.prnewswire.com/news-releases/monero-and-arweave-to-validate-the-proof-of-work-algorithm-randomx-300861697.html) | [📄](reviews/arweave-randomx.pdf) |
 | Interest Token | May 2019 | 0.28 | | |
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
-| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100,000<br /> refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet security<br /> guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+| [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100k refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
+| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
 
 ## Disclosures
 
