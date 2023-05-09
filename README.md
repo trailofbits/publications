@@ -16,7 +16,7 @@
   * [Threat analysis & malware](#threat-analysis--malware)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
-* [Public Presentations](#public-presentations)
+* [Public Comments](#public-comments)
 * [Security Reviews](#security-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
@@ -246,7 +246,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 | [Risky Business 370](https://risky.biz/RB370/) | Dan Guido | Feb 2015 | DARPA Cyber Grand Challenge |
 | [Risky Business 348](https://risky.biz/RB348/) | Dan Guido | Jun 2015 | DARPA Cyber Grand Challenge |
 
-## Public comments
+## Public Comments
 
 | Title | Agency | Date |
 | --- | --- | --- |
