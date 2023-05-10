@@ -21,6 +21,7 @@
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
+  * [ML/AI Reviews](#mlai-reviews)
 * [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Legend](#legend)
@@ -693,6 +694,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100k refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
 | [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+
+### ML/AI Reviews
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://docs.tempus.finance/products/nostra) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ## Disclosures
 
