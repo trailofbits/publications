@@ -699,7 +699,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [EleutherAI & Hugging Face<br />SafeTensors Library](https://docs.tempus.finance/products/nostra) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
+| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://docs.tempus.finance/products/nostra) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ## Disclosures
 
