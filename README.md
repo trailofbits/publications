@@ -78,6 +78,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Fuzzing like a security engineer](presentations/Fuzzing%20like%20a%20security%20engineer/) | Nat Chin | 2023 | 
 | [Write Better Smart Contracts By Checking Them With Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit/) | Nat Chin | 2022 | 
