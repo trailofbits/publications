@@ -8,6 +8,7 @@ Presented at
 Resources
 
 * Slides: [What blockchain got right](what_blockchain_got_right.pdf)
+* Video: [Nullcon Berlin 2022](https://www.youtube.com/watch?v=ydRQf7HQi20)
 
 Authors
 * Dan Guido
