@@ -30,6 +30,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Automatically detecting variability bugs through hybrid control and data flow analysis](papers/ubet_langsec_2023.pdf) | [LangSec 2023](https://langsec.org/spw23/papers.html#variability)| 2023 |
 | [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | 2023 |
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | 2023
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | 2022|
@@ -55,6 +56,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Automatically detecting variability bugs through hybrid control and data flow analysis (LangSec23 paper presentation)](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik | 2023 |
 | [MLIR is the future of program analysis](presentations/MLIR%20is%20the%20future%20of%20program%20analysis) | Peter Goodman | 2023 |
 | [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
@@ -82,7 +84,7 @@
 | [Write Better Smart Contracts By Checking Them With Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
-| [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | 2022 | 
+| [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
 | [Safely integrating with ERC20 tokens](presentations/Safely%20integrating%20with%20ERC20%20tokens) | Josselin Feist | 2021 |
