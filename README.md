@@ -13,6 +13,7 @@
   * [Programming](#programming)
   * [Program Transformation](#program-transformation)
   * [Side channels](#side-channels)
+  * [Supply chain](#supply-chain)
   * [Threat analysis & malware](#threat-analysis--malware)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
@@ -181,6 +182,12 @@
 | --- | --- | --- |
 | [Hardware side channels in virtualized environments](presentations/Hardware%20side%20channels%20in%20virtualized%20environments) | Sophia D'Antoine | 2015 |
 | [Exploiting Out-of-Order Execution](presentations/Exploiting%20Out-of-Order%20Execution) | Sophia D'Antoine | 2015 |
+
+### Supply chain
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [Automated Tools for Securing the Software Supply Chain](presentations/Automated%20Tools%20for%20Securing%20the%20Software%20Supply%20Chain) | Michael D. Brown | 2022 |
 
 ### Threat analysis & malware
 
