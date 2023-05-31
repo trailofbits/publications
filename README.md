@@ -55,6 +55,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [MLIR is the future of program analysis](presentations/MLIR%20is%20the%20future%20of%20program%20analysis) | Peter Goodman | 2023 |
 | [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik | 2019 |
