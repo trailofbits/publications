@@ -409,6 +409,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Ajna Protocol](https://www.ajna.finance/) | Apr 2023 | 12 |  | [📄✅](reviews/2023-04-ajnalabs-securityreview.pdf) |
 | [Raft](https://docs.tempus.finance/products/raft) | Apr 2023 | 2 |  | [📄✅](reviews/2023-04-tempus-raft-securityreview.pdf) |
 | [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Security review of our v2 contracts](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
@@ -431,7 +432,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Jul 2022 | 0.6 | | [📄](reviews/MesonProtocolDesignReview.pdf) |
 | [ChainPort](http://chainport.io/) | July 2022 | 8 |  | [📄](reviews/2023-02-chainport-securityreview.pdf)[✅](reviews/2023-02-chainport-fixreview.pdf) |
 | [Relay](https://thesis.co/) | Jul 2022 | 1 |  |  |
-| [Beanstalk](https://bean.money/) | Jul 2022 | 8 | | |
+| [Beanstalk](https://bean.money/) | Jul 2022 | 8 | [Audit of Beanstalk](https://bean.money/blog/trail-of-bits-audit-of-beanstalk-completed) | [📄](reviews/AnteProtocol.pdf)[✅](reviews/AnteProtocolFixReview.pdf) |
 | [Purpose for Profit](https://x.company/) | Jul 2022 | 3 | | |
 | [Reserve Protocol](https://reserve.org) | Jul 2022 | 8 | | |
 | [Solon](https://www.solon.finance/) | Jul 2022 | 6 | | |
