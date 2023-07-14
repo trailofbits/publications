@@ -32,9 +32,9 @@
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
 | [Weak Fiat-Shamir Attacks on Modern Proof Systems](papers/weakfs_ieee_s&p_2023.pdf) | [IEEE S&P 2023](https://eprint.iacr.org/2023/691)| 2023 |
-| [Automatically detecting variability bugs through hybrid control and data flow analysis](papers/ubet_langsec_2023.pdf) | [LangSec 2023](https://langsec.org/spw23/papers.html#variability)| 2023 |
+| [Detecting variability bugs through hybrid control and data flow analysis](papers/ubet_langsec_2023.pdf) | [LangSec 2023](https://langsec.org/spw23/papers.html#variability)| 2023 |
 | [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | 2023 |
-| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | 2023
+| [Toward Comprehensive Risk Assessments and Assurance of AI Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | 2023
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](papers/cset22.pdf)| [CSET 22](https://cset22.isi.edu/index.html) | 2022|
 | [On the Optimization of Equivalent Concurrent Computations](papers/eqsat-pldi-egraphs2022.pdf) | [PLDI EGRAPHS 2022](https://pldi22.sigplan.org/program/program-egraphs-2022/) | 2022 |
 | [Evaluating Static Analysis Tools via Differential Mutation](papers/qrs21.pdf) |  [QRS 2021](https://qrs21.techconf.org/) | 2021 |
@@ -58,7 +58,8 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Automatically detecting variability bugs through hybrid control and data flow analysis (LangSec23 paper presentation)](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik | 2023 |
+| [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir | 2023 |
+| [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik | 2023 |
 | [MLIR is the future of program analysis](presentations/MLIR%20is%20the%20future%20of%20program%20analysis) | Peter Goodman | 2023 |
 | [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff | 2020 |
@@ -83,7 +84,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Write Better Smart Contracts By Checking Them With Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
+| [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
 | [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | 2022 |
@@ -262,8 +263,10 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 | Title | Agency | Date |
 | --- | --- | --- |
+| [Understanding the National Security Implications of AI](https://www.trailofbits.com/documents/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
 | [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 | [AI Accountability Policy Request](https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/) | NTIA | Jun 2023 |
+| [Regulation of Intrusion and Surveillance Software](https://www.regulations.gov/document/BIS-2015-0011-0209) | Commerce Dept | Jul 2015 |
 
 ## Security Reviews
 
