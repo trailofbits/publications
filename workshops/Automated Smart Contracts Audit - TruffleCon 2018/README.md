@@ -17,5 +17,5 @@ Presented at
 Authored by
  * Josselin Feist
 
-Consider joining a community of Ethereum security engineers and the developers of Slither, Echidna, and Manticore in the [Empire Hacking Slack](https://empireslacking.herokuapp.com). We host an open office hours for Ethereum security every other week and coordinate it through this [Slack](https://empireslacking.herokuapp.com), in addition to announcements on Twitter [@trailofbits](https://twitter.com/trailofbits). Please see our release announcement on our blog for more details: [Ethereum security guidance for all](https://blog.trailofbits.com/2018/10/04/ethereum-security-guidance-for-all/).
+Consider joining a community of Ethereum security engineers and the developers of Slither, Echidna, and Manticore in the [Empire Hacking Slack](https://slack.empirehacking.nyc). We host an open office hours for Ethereum security every other week and coordinate it through this [Slack](https://slack.empirehacking.nyc), in addition to announcements on Twitter [@trailofbits](https://twitter.com/trailofbits). Please see our release announcement on our blog for more details: [Ethereum security guidance for all](https://blog.trailofbits.com/2018/10/04/ethereum-security-guidance-for-all/).
 
