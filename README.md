@@ -276,7 +276,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 |  | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) | 
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
 | [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
@@ -416,6 +415,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Raft](https://docs.tempus.finance/products/raft) | Apr 2023 | 2 |  | [📄✅](reviews/2023-04-tempus-raft-securityreview.pdf) |
 | [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Security review of our v2 contracts](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
+| [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis V2 Audit](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) | 
 | [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
