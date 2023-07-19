@@ -377,7 +377,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Folks Finance Protocol](https://folks.finance/) | Nov 2022 | 6 |  |  |
+| [Folks Finance Protocol](https://folks.finance/) | Nov 2022 | 6 |  | [📄✅](reviews/2022-11-folksfinance-securityreview.pdf) |
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
