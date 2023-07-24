@@ -283,7 +283,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Fraxlend and veFPIS](https://frax.finance/) | Jan 2023 | 4 |  |  |
 | [Redpanda Core, Console, and Console Enterprise](https://redpanda.com/) | Jan 2023 | 4 |  |  |
 | [Injective Labs Options Market](https://injective.com/) | Jan 2023 | 4 |  |  |
-| [OpenArchive (Android)](https://open-archive.org/) | Dec 2022 | 1 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-12-openarchivesaveandroid-securityreview.pdf) |
+| [OpenArchive Save (Android)](https://open-archive.org/) | Dec 2022 | 1 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-12-openarchivesaveandroid-securityreview.pdf) |
 | [Enclave Markets Trading Platform](https://www.enclave.market/) | Nov 2022 | 9 |  |  |
 | [Phantom](https://phantom.app/) | Nov 2022 | 2 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
