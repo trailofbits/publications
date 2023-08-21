@@ -425,7 +425,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
-| [Paxos](https://paxos.com/) | Dec 2022 | 1 |  |  |
+| [Paxos PayPal PYUSD](https://paxos.com/pyusd/) | Dec 2022 | 1 | | [📄✅](reviews/2022-12-paxos-paypal-pyusd-securityreview.pdf) |
 | [GameStop iOS Web Wallet](https://www.gamestop.com/) | Nov 2022 | 1 |  |  |
 | [GSquared](https://docs.gro.xyz/gro-docs/) | Oct 2022 | 6 | | [📄](reviews/2022-10-GSquared-securityreview.pdf)[✅](reviews/2022-10-GSquared-fixreview.pdf) |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf)[✅](reviews/MesonProtocolFixReview.pdf) |
