@@ -278,6 +278,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [DigitalOcean OIDC](https://www.digitalocean.com/) | August 2023 | 4 |  | [📄](reviews/2023-08-digitalocean-oidc-securityreview.pdf) |
 | [FraxGov](https://frax.finance/) | May 2023 | 4 |  | [📄✅](reviews/2023-05-fraxgov-securityreview.pdf) |
 [Chainflip](https://chainflip.io/) | April 2023 | 12 |  | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
