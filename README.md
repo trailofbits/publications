@@ -123,6 +123,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
 | [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
 | [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
@@ -278,7 +279,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [DragonFly2](https://d7y.io/) | July 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) | 
+| [DragonFly2](https://d7y.io/) | July 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) |
 | [Thesis tss-lib BitForge](https://threshold.network/) | June 2023 | .2 |  | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
 | [DigitalOcean OIDC](https://www.digitalocean.com/) | August 2023 | 4 |  | [📄](reviews/2023-08-digitalocean-oidc-securityreview.pdf) |
 | [Eclipse JKube](https://eclipse.dev/jkube/) | May 2023 | 5 | [OSTIF](https://ostif.org/jkube-audit/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-foundation-publishes-results-eclipse-jkube-security-audit) | [📄✅](reviews/2023-05-eclipse-jkube-securityreview.pdf) |
@@ -425,8 +426,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Raft](https://docs.tempus.finance/products/raft) | Apr 2023 | 2 |  | [📄✅](reviews/2023-04-tempus-raft-securityreview.pdf) |
 | [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Security review of our v2 contracts](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
-| [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis V2 Audit](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) | 
-| [Succinct Labs Ethereum Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Introducing Telepathy](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) | 
+| [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis V2 Audit](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) |
+| [Succinct Labs Ethereum Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Introducing Telepathy](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
 | [Primitive Hyper](https://primitive.xyz/) | Jan 2023 | 8 |  |  |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
