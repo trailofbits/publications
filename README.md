@@ -279,6 +279,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Scroll zkTrie](https://scroll.io/) | July 2023 | 4 |  | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [DragonFly2](https://d7y.io/) | July 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) |
 | [Thesis tss-lib BitForge](https://threshold.network/) | June 2023 | .2 |  | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
 | [DigitalOcean OIDC](https://www.digitalocean.com/) | August 2023 | 4 |  | [📄](reviews/2023-08-digitalocean-oidc-securityreview.pdf) |
