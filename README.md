@@ -422,7 +422,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Scroll L2geth](https://scroll.io/) | Aug 2023 | 2 |  | [📄](reviews/2023-08-scrollL2geth-securityreview.pdf) |
+| [Scroll l2geth [diff] ](https://scroll.io/) | Aug 2023 | 2 |  | [📄](reviews/2023-08-scrollL2geth-securityreview.pdf) |
+| [Scroll l2geth [initial]](https://scroll.io/) | Aug 2023 | 2 |  | [📄](reviews/2023-08-scrollL2geth-initial-securityreview.pdf) |
 | [Immutable](https://www.immutable.com/) | Aug 2023 | 4 |  | [📄✅](reviews/2023-08-immutable-securityreview.pdf) |
 | [Sandclock](https://www.sandclock.org/) | Jul 2023 | 8 |  | [📄✅](reviews/2023-07-sandclock-securityreview.pdf) |
 | [Arcade](https://www.arcade.xyz/) | Jul 2023 | 8 |  | [📄✅](reviews/2023-07-arcade-securityreview.pdf) |
