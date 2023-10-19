@@ -278,6 +278,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [wasmCloud](https://wasmcloud.com/) | September 2023 | 6 |  | [📄✅](reviews/2023-09-wasmCloud-securityreview.pdf) |
+| [Scroll ZkEVM Wave 2](https://scroll.io/) | August 2023 | 6 |  | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
 | [Scroll zkTrie](https://scroll.io/) | July 2023 | 4 |  | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [DragonFly2](https://d7y.io/) | July 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) |
 | [Thesis tss-lib BitForge](https://threshold.network/) | June 2023 | .2 |  | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
