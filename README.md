@@ -19,11 +19,11 @@
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
 * [Security Reviews](#security-reviews)
+  * [ML/AI Reviews](#mlai-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
   * [Crypto Wallet Reviews](#crypto-wallet-reviews)
-  * [ML/AI Reviews](#mlai-reviews)
 * [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Legend](#legend)
@@ -273,6 +273,12 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 ## Security Reviews
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
+
+### ML/AI Reviews
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ### Technology Product Reviews
 
@@ -738,12 +744,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | 4 |  | [📄](reviews/dharma-smartwallet.pdf) |
 | [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
 | [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
-
-### ML/AI Reviews
-
-| Product | Date | Level of <br />Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
-| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ## Disclosures
 
