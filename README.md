@@ -19,10 +19,10 @@
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
 * [Security Reviews](#security-reviews)
+  * [ML/AI Reviews](#mlai-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
   * [Blockchain Reviews](#blockchain-reviews)
-  * [ML/AI Reviews](#mlai-reviews)
 * [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Legend](#legend)
@@ -273,6 +273,12 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
+### ML/AI Reviews
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
+
 ### Technology Product Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
@@ -286,7 +292,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [FraxGov](https://frax.finance/) | May 2023 | 4 |  | [📄✅](reviews/2023-05-fraxgov-securityreview.pdf) |
 | [Chainflip](https://chainflip.io/) | April 2023 | 12 |  | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
 | [Eclipse Jetty](https://eclipse.dev/jetty/) | March 2023 | 6 | [Jetty](http://webtide.com/security-audit-with-trail-of-bits/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-jetty-security-audit-has-been-completed) | [📄✅](reviews/2023-03-eclipse-jetty-securityreview.pdf) |
-| [WalletConnect v2.0](https://walletconnect.com/) | March 2023 | 4 | [WalletConnect](https://medium.com/walletconnect/walletconnect-v2-0s-independent-security-audit-by-trail-of-bits-e8e59d11e517) | [📄✅](reviews/2023-03-walletconnectv2-securityreview.pdf) |
 | [Spool Platform](https://www.spool.fi/) | March 2023 | 8 |  | [📄✅](reviews/2023-03-spool-platformv2-securityreview.pdf) |
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
@@ -296,7 +301,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Injective Labs Options Market](https://injective.com/) | Jan 2023 | 4 |  |  |
 | [OpenArchive Save (Android)](https://open-archive.org/) | Dec 2022 | 1 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-12-openarchivesaveandroid-securityreview.pdf) |
 | [Enclave Markets Trading Platform](https://www.enclave.market/) | Nov 2022 | 9 |  |  |
-| [Phantom](https://phantom.app/) | Nov 2022 | 2 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
 | [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄✅](reviews/2022-12-curl-securityreview.pdf)[📛](reviews/2022-12-curl-threatmodel.pdf) |
 | [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [CloudEvents Security Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
@@ -306,14 +310,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  | [📄✅](reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf) |
 | [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 |  |  |
 | [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
-| [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf)[✅](reviews/UniswapMobileWallet-fixreview.pdf) |
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | |
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
 | [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | |
 | [CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
-| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [MATTR](https://mattr.global/) | May 2022 | 4 | | |
 | [ArmorLock](https://www.westerndigital.com/) | Apr 2022 | 6 | | |
@@ -384,6 +386,24 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ### Blockchain Reviews
 
+#### Wallet Reviews
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [dappOS v2 virtual wallet](https://dappos.com/) | Jul 2023 | 3 |  | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
+| [WalletConnect v2.0](https://walletconnect.com/) | Mar 2023 | 4 | [WalletConnect](https://medium.com/walletconnect/walletconnect-v2-0s-independent-security-audit-by-trail-of-bits-e8e59d11e517) | [📄✅](reviews/2023-03-walletconnectv2-securityreview.pdf) |
+| [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf)[✅](reviews/UniswapMobileWallet-fixreview.pdf) |
+| [Phantom Wallet](https://phantom.app/) | Nov 2022 | 2 |  |  |
+| [GameStop iOS Web Wallet](https://www.gamestop.com/) | Nov 2022 | 1 |  |  |
+| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
+| [GameStop Wallet](https://www.gamestop.com/) | Mar 2022 | 2 | [GameStop wallet](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
+| [RAILGUN](https://righttoprivacy.foundation/) | Feb 2022 | 4 | | |
+| [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | 4 | | [📄](reviews/CasperLedger.pdf) |
+| [Argent](https://www.argent.xyz/) | Aug 2020 | 4 | | |
+| [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
+| [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | 4 |  | [📄](reviews/dharma-smartwallet.pdf) |
+| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
+| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
+
 #### Algorand
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
@@ -417,7 +437,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 |  | |
 | [Bitcoin SV](https://bitcoinsv.io/) | Nov 2018 | 12 | |
 | [Simple Ledger](https://simpleledger.cash/) | Oct 2019 | 3 |  | |
-| [ZecWallet](https://github.com/ZcashFoundation/zecwallet) | Apr 2019 | 2 | | [📄](reviews/zecwallet.pdf) |
 | [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
 
 #### Ethereum/EVM
@@ -428,7 +447,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Immutable](https://www.immutable.com/) | Aug 2023 | 4 |  | [📄✅](reviews/2023-08-immutable-securityreview.pdf) |
 | [Sandclock](https://www.sandclock.org/) | Jul 2023 | 8 |  | [📄✅](reviews/2023-07-sandclock-securityreview.pdf) |
 | [Arcade](https://www.arcade.xyz/) | Jul 2023 | 8 |  | [📄✅](reviews/2023-07-arcade-securityreview.pdf) |
-| [dappOS v2 virtual wallet](https://dappos.com/) | Jul 2023 | 3 |  | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
 | [Franklin Templeton](https://www.franklintempleton.com/) | May 2023 | 4 |  | [📄✅](reviews/2023-05-franklintempleton-moneymarket-securityreview.pdf) |
 | [Ajna Protocol](https://www.ajna.finance/) | Apr 2023 | 12 |  | [📄✅](reviews/2023-04-ajnalabs-securityreview.pdf) |
 | [Raft](https://docs.tempus.finance/products/raft) | Apr 2023 | 2 |  | [📄✅](reviews/2023-04-tempus-raft-securityreview.pdf) |
@@ -440,7 +458,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
 | [Paxos PayPal PYUSD](https://paxos.com/pyusd/) | Dec 2022 | 1 | | [📄✅](reviews/2022-12-paxos-paypal-pyusd-securityreview.pdf) |
-| [GameStop iOS Web Wallet](https://www.gamestop.com/) | Nov 2022 | 1 |  |  |
 | [GSquared](https://docs.gro.xyz/gro-docs/) | Oct 2022 | 6 | | [📄](reviews/2022-10-GSquared-securityreview.pdf)[✅](reviews/2022-10-GSquared-fixreview.pdf) |
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf)[✅](reviews/MesonProtocolFixReview.pdf) |
 | [Managed pool smart contracts](https://balancer.fi/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-balancerlabs-managedpoolsmartcontracts-securityreview.pdf) |
@@ -474,11 +491,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | May 2022 | 4 | | [📄](reviews/FraxQ22022.pdf) |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [GameStop Wallet](https://www.gamestop.com/) | Mar 2022 | 2 | [GameStop wallet](https://investor.gamestop.com/news-releases/news-release-details/gamestop-launches-wallet-cryptocurrencies-and-nfts) | |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
-| [RAILGUN](https://righttoprivacy.foundation/) | Feb 2022 | 4 | | |
 | [RAILWAY](https://righttoprivacy.foundation/) | Feb 2022 | 4 | | |
 | [Persistence ETH2.0](https://persistence.one/) | Feb 2022 | 4 | |  |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Feb 2022 | 6 | | [📄](reviews/AdvancedBlockchainQ12022.pdf) |
@@ -547,7 +562,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Smart Pool](https://balancer.finance/) | Aug 2020 | 1 | | |
 | [DeFiner](https://definer.org/) | Aug 2020 | 1 | | |
 | [ETH2.0 Deposit CLI](https://ethereum.org/en/) | Aug 2020 | 4 | | [📄](reviews/ETH2DepositCLI.pdf)|
-| [Argent](https://www.argent.xyz/) | Aug 2020 | 4 | | |
 | [CurveDAO](https://dao.curve.fi/) | Jul 2020 | 6 | | [📄](reviews/CurveDAO.pdf) |
 | [Amp](https://amptoken.org/) | Jul 2020 | 3 | | [📄](reviews/amp.pdf) |
 | [Federated Bridge](https://www.rsk.co/) | Jul 2020 | 1 | | |
@@ -567,7 +581,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Livepeer](https://livepeer.org/) | Oct 2019 | 3 |  | |
 | [Topo Finance](https://topo.finance/) | Oct 2019 | 4 |  | |
 | [0x Protocol](https://0x.org/) | Oct 2019 | 10 |  | [📄](reviews/0x-protocol.pdf) |
-| [Dharma Wallet](https://www.dharma.io/) | Oct 2019 | 4 |  | [📄](reviews/dharma-smartwallet.pdf) |
 | [Flexa](https://flexa.network/) | Sep 2019 | 2 | [Announcing Flexa Capacity](https://medium.com/flexa/announcing-flexa-capacity-35c62ade9522) | [📄](reviews/Flexa.pdf) |
 | [AZTEC Protocol](https://www.aztecprotocol.com/) | Sep 2019 | 10|  | [📄](reviews/aztec.pdf) |
 | [Oasis Labs](https://www.oasislabs.com/) | Sep 2019 | 13 |  | |
@@ -673,7 +686,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
 | [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
-| [Magma](https://magmawallet.com/) | Jun 2020 | 1 | | [📄](reviews/MagmaWallet.pdf) |
 | [Dexter](https://dexter.exchange/) | Jun 2020 | 4 | | [📄](reviews/dexter.pdf) |
 
 #### Other/Multi-Chain
@@ -702,7 +714,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Arbitrum](https://offchainlabs.com/) | Sept 2021 | 16 | | |
 | [go-schnorrkel](https://chainsafe.io/) | Aug 2021 | 4 | | |
 | [ShardX](https://www.gemini.com/) | Aug 2021 | 4 | | |
-| [Casper Web Wallet](https://casperlabs.io/) | Jul 2021 | 4 | | [📄](reviews/CasperLedger.pdf) |
 | [AElf](https://aelf.io/) | Jul 2021 | 4 | |  |
 | [CrossChain-Bridge](https://anyswap.exchange/bridge) | Jul 2021 | 8 | |
 | [Open Oracle](https://chain.link/) | Apr 2021 | 2 | | |
@@ -732,13 +743,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Interest Token | May 2019 | 0.28 | | |
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100k refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
-| [Web3](https://web3.foundation/) | Mar 2018 | 2 | [W3F and TOB hardware wallet guidance](https://medium.com/web3foundation/w3f-and-trail-of-bits-release-guidance-for-secure-use-of-hardware-wallets-b12f14182db7) | [💬](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)|
-
-### ML/AI Reviews
-
-| Product | Date | Level of <br />Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
-| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ## Disclosures
 
