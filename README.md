@@ -279,6 +279,17 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
+### Cryptography Reviews
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
+| [MobileCoin](https://mobilecoin.com/homepage) | Jul 2022 | 2 |  | [📄](reviews/2022-07-mobilecoin-securityreview.pdf) |
+| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
+| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
+| [Western Digital Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
+
+
 ### Technology Product Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
@@ -306,7 +317,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [CloudEvents Security Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
 | [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-10-openarchivesaveios-securityreview.pdf) |
 | [Fraxlend and FraxFerry](https://frax.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf) |
-| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
 | [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  | [📄✅](reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf) |
 | [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 |  |  |
 | [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
@@ -351,7 +361,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf)[📛](reviews/voatz-threatmodel.pdf) |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 |  |
 | [Voice](https://block.one/) | Jan 2020 | 4 |  |
-| [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
 | [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 | [Multiple vulnerabilities in SanDisk X600](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) | [📄](reviews/sandiskx600.pdf) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 |  |  |
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
