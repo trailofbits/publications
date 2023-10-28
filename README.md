@@ -123,9 +123,6 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
-| [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
-| [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -194,7 +191,11 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Securing your Package Ecosystem with Trusted Publishing](presentations/Securing%20your%20Package%20Ecosystem%20with%20Trusted%20Publishing) | William Woodruff | 2023 |
+| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
+| [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
 | [Automated Tools for Securing the Software Supply Chain](presentations/Automated%20Tools%20for%20Securing%20the%20Software%20Supply%20Chain) | Michael D. Brown | 2022 |
+| [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 
 ### Threat analysis & malware
 
