@@ -279,6 +279,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [YOLOv7 Threat Model and Code Review]](https://github.com/WongKinYiu/yolov7/)) | October 2023 | 4 |  | [📄](reviews/2023-10-yolov7-securityreview.pdf) |
 | [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ### Technology Product Reviews
