@@ -284,24 +284,49 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [YOLOv7 Threat Model and Code Review](https://github.com/WongKinYiu/yolov7/) | October 2023 | 4 |  | [📄](reviews/2023-10-yolov7-securityreview.pdf) |
 | [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
+### Cryptography Reviews
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [Scroll ZkEVM Wave 2](https://scroll.io/) | August 2023 | 6 |  | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
+| [Scroll zkTrie](https://scroll.io/) | July 2023 | 4 |  | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
+| [Thesis tss-lib BitForge](https://threshold.network/) | June 2023 | .2 |  | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
+| [Chainflip](https://chainflip.io/) | April 2023 | 12 |  | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
+| [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
+| [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
+| [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
+| [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
+| [Phantom Wallet](https://phantom.app/) | Nov 2022 | 2 |  |  |
+| [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) || [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
+| [Aleo snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
+| [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
+| [MobileCoin](https://mobilecoin.com/homepage) | Jul 2022 | 2 |  | [📄](reviews/2022-07-mobilecoin-securityreview.pdf) |
+| [Binance CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
+| [snarkVM and snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
+| [Aleo snarkVM & snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
+| [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
+| [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
+| [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
+| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Linux Kernel Release Signing and Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
+| [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
+| [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
+| [Western Digital Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
+| [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Standard Notes Completes Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
+| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 | [Multiple vulnerabilities in SanDisk X600](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) | [📄](reviews/sandiskx600.pdf) |
+| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
+
 ### Technology Product Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [wasmCloud](https://wasmcloud.com/) | September 2023 | 6 |  | [📄✅](reviews/2023-09-wasmCloud-securityreview.pdf) |
-| [Scroll ZkEVM Wave 2](https://scroll.io/) | August 2023 | 6 |  | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
-| [Scroll zkTrie](https://scroll.io/) | July 2023 | 4 |  | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [DragonFly2](https://d7y.io/) | July 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) |
-| [Thesis tss-lib BitForge](https://threshold.network/) | June 2023 | .2 |  | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
 | [DigitalOcean OIDC](https://www.digitalocean.com/) | August 2023 | 4 |  | [📄](reviews/2023-08-digitalocean-oidc-securityreview.pdf) |
 | [Eclipse JKube](https://eclipse.dev/jkube/) | May 2023 | 5 | [OSTIF](https://ostif.org/jkube-audit/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-foundation-publishes-results-eclipse-jkube-security-audit) | [📄✅](reviews/2023-05-eclipse-jkube-securityreview.pdf) |
 | [FraxGov](https://frax.finance/) | May 2023 | 4 |  | [📄✅](reviews/2023-05-fraxgov-securityreview.pdf) |
 | [Chainflip](https://chainflip.io/) | April 2023 | 12 |  | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
 | [Eclipse Jetty](https://eclipse.dev/jetty/) | March 2023 | 6 | [Jetty](http://webtide.com/security-audit-with-trail-of-bits/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-jetty-security-audit-has-been-completed) | [📄✅](reviews/2023-03-eclipse-jetty-securityreview.pdf) |
 | [Spool Platform](https://www.spool.fi/) | March 2023 | 8 |  | [📄✅](reviews/2023-03-spool-platformv2-securityreview.pdf) |
-| [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
-| [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
-| [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
 | [Fraxlend and veFPIS](https://frax.finance/) | Jan 2023 | 4 |  |  |
 | [Redpanda Core, Console, and Console Enterprise](https://redpanda.com/) | Jan 2023 | 4 |  |  |
 | [Injective Labs Options Market](https://injective.com/) | Jan 2023 | 4 |  |  |
@@ -312,22 +337,18 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [CloudEvents Security Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
 | [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-10-openarchivesaveios-securityreview.pdf) |
 | [Fraxlend and FraxFerry](https://frax.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf) |
-| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
 | [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 |  | [📄✅](reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf) |
 | [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 |  |  |
 | [snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
 | [Hashicorp Boundary](https://www.hashicorp.com/) | Jul 2022 | 6 | | |
-| [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [Skiff](https://skiff.com/) | Jul 2022 | 6 | |
 | [Terraform Cloud](https://www.hashicorp.com/) | Jun 2022 | 6 | | |
-| [CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [Datadog](https://www.datadoghq.com/) | May 2022 | 6 | | |
 | [MATTR](https://mattr.global/) | May 2022 | 4 | | |
 | [ArmorLock](https://www.westerndigital.com/) | Apr 2022 | 6 | | |
 | [DigitalOcean Function](https://www.digitalocean.com/) | Apr 2022 | 4 | | |
 | [Auvik Collector](https://www.auvik.com/system-security/) | Apr 2022 | 8 | | |
-| [snarkVM and snarkOS](https://www.aleo.org/) | Apr 2022 | 12 | | |
 | [Fuchsia Platform](https://fuchsia.dev/) | Mar 2022 | 8 | |
 | [Optimus ROM](https://www.westerndigital.com/) | Jan 2022 | 4 | | |
 | [BitcoinBeach](https://galoy.io/) | Mar 2022 | 4 | | [📄](reviews/Galoy.pdf) |
@@ -340,7 +361,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Appian](https://appian.com/) | Jun 2021 | 4 | | |
 | [Cashero-2.0](https://www.cashero.com/) | Jun 2021 | 4 | | |
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 | | |
-| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Linux Kernel Release Signing and Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 | | |
 | [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 | [Penetration testing at CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
@@ -353,14 +373,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What’s Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/)
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) | [📄](reviews/ZeroTierProtocol.pdf) |
-| [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Standard Notes Completes Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf)[📛](reviews/voatz-threatmodel.pdf) |
 | [Vault](https://www.hashicorp.com/products/vault/) | Feb 2020 | 12 |  |
 | [Voice](https://block.one/) | Jan 2020 | 4 |  |
-| [Sweet B](https://github.com/westerndigitalcorporation/sweet-b) | Jan 2020 | 4 | [Western Digital](https://www.westerndigital.com/company/newsroom/press-releases/2020/2020-09-03-western-digital-sets-a-new-standard-in-data-protection) | [📄](reviews/SweetB.pdf) |
-| [SanDisk X600](https://www.westerndigital.com/) | May 2019 | 6 | [Multiple vulnerabilities in SanDisk X600](https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd) | [📄](reviews/sandiskx600.pdf) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2019 | 12 |  |  |
-| [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 | [zlib](https://www.zlib.net/) | Sep 2016 | 1 | | [📄](reviews/zlib.pdf)|
 
 ### Cloud-Native Reviews
