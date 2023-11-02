@@ -85,6 +85,8 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 | 
+| [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 | 
 | [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
