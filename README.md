@@ -32,6 +32,7 @@
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
 | [Weak Fiat-Shamir Attacks on Modern Proof Systems](papers/weakfs_ieee_s&p_2023.pdf) | [IEEE S&P 2023](https://eprint.iacr.org/2023/691)| 2023 |
+| [CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces](papers/civscope.pdf) | SOSP [KISV (Workshop on Kernel Isolation, Safety, and Verification)](https://dl.acm.org/doi/abs/10.1145/3625275.3625399) | 2023 |
 | [Detecting variability bugs through hybrid control and data flow analysis](papers/ubet_langsec_2023.pdf) | [LangSec 2023](https://langsec.org/spw23/papers.html#variability)| 2023 |
 | [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | 2023 |
 | [Toward Comprehensive Risk Assessments and Assurance of AI Systems](https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf)  | arXiv | 2023
@@ -84,6 +85,8 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 | 
+| [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 | 
 | [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
@@ -121,9 +124,6 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
-| [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
-| [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -192,7 +192,11 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Securing your Package Ecosystem with Trusted Publishing](presentations/Securing%20your%20Package%20Ecosystem%20with%20Trusted%20Publishing) | William Woodruff | 2023 |
+| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
+| [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
 | [Automated Tools for Securing the Software Supply Chain](presentations/Automated%20Tools%20for%20Securing%20the%20Software%20Supply%20Chain) | Michael D. Brown | 2022 |
+| [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
 
 ### Threat analysis & malware
 
@@ -277,6 +281,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [YOLOv7 Threat Model and Code Review](https://github.com/WongKinYiu/yolov7/) | October 2023 | 4 |  | [📄](reviews/2023-10-yolov7-securityreview.pdf) |
 | [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 |  | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ### Cryptography Reviews
@@ -311,6 +316,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [wasmCloud](https://wasmcloud.com/) | September 2023 | 6 |  | [📄✅](reviews/2023-09-wasmCloud-securityreview.pdf) |
+| [Scroll ZkEVM Wave 2](https://scroll.io/) | August 2023 | 6 |  | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
+| [Scroll zkTrie](https://scroll.io/) | July 2023 | 4 |  | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [DragonFly2](https://d7y.io/) | July 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) |
 | [DigitalOcean OIDC](https://www.digitalocean.com/) | August 2023 | 4 |  | [📄](reviews/2023-08-digitalocean-oidc-securityreview.pdf) |
 | [Eclipse JKube](https://eclipse.dev/jkube/) | May 2023 | 5 | [OSTIF](https://ostif.org/jkube-audit/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-foundation-publishes-results-eclipse-jkube-security-audit) | [📄✅](reviews/2023-05-eclipse-jkube-securityreview.pdf) |
