@@ -67,6 +67,7 @@
 | [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
 | Blind Spots: Identifying Exploitable Program Inputs | Henrik Brodin, Evan Sultanik, and Marek Surovič    | 2023 |
 | [MLIR is the future of program analysis](presentations/MLIR%20is%20the%20future%20of%20program%20analysis) | Peter Goodman                                     | 2023 |
+ | [A Sermon on the Indulgences of Computational Sacrifice; or, The Superabundant Benedictions of Programming an Absurd NES Game](https://www.youtube.com/watch?v=RTjP3fnQ5d8) | Evan Sultanik | 2021 |
 | [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff                                  | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik                                     | 2019 |
