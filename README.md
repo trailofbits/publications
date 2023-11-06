@@ -44,7 +44,8 @@
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | 2021 |
 | [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | 2020 |
-| [Automated Grammar Extraction via Semantic Labeling of Parsers](presentations/Semantic%20Labeling%20of%20Parsers) | [LangSec 2020](http://spw20.langsec.org/) | 2020 |
+| [ICARUS: Understanding De Facto Formats By Way of Feathers and Wax](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283834) | [LangSec 2020](http://spw20.langsec.org/) | 2020 | 
+| [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](papers/semantic_labeling_langsec2020.pdf) | [LangSec 2020](http://spw20.langsec.org/) | 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | 2020 |
 | [RSA GTFO](papers/rsagtfo.pdf) | [PoC\|\|GTFO 0x20](https://www.sultanik.com/pocorgtfo/#0x20) | 2020 |
