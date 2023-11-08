@@ -277,8 +277,8 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 | --- | --- | --- |
 | [Open-Source Software Security: Areas of Long-Term Focus and Prioritization](./public-comments/tob-response-to-oncd-cisa-rfi-2023.pdf) | ONCD, CISA, NSF, DARPA, OMB | Nov 2023 |
 | [Understanding the National Security Implications of AI](https://www.trailofbits.com/documents/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
-| [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 | [AI Accountability, Regulation, and Audits](https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/) | NTIA | Jun 2023 |
+| [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 | [Regulation of Intrusion and Surveillance Software](https://www.regulations.gov/document/BIS-2015-0011-0209) | Commerce Dept | Jul 2015 |
 
 ## Security Reviews
