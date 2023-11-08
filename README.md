@@ -45,7 +45,7 @@
 | [echidna-parade: Diverse multicore smart contract fuzzing](papers/echidna-parade_issta21.pdf) | [ISSTA 2021](https://conf.researchr.org/home/issta-2021) | 2021 |
 | [Differential analysis of x86-64 instruction decoders](papers/mishegos-langsec2021.pdf) |  [LangSec 2021](https://langsec.org/spw21/) | 2021 |
 | [Echidna: effective, usable, and fast fuzzing for smart contracts](papers/echidna_issta2020.pdf) | [ISSTA 2020](https://conf.researchr.org/home/issta-2020) | 2020 |
-| [ICARUS: Understanding De Facto Formats By Way of Feathers and Wax](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283834) | [LangSec 2020](http://spw20.langsec.org/) | 2020 | 
+| [ICARUS: Understanding De Facto Formats By Way of Feathers and Wax](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283834) | [LangSec 2020](http://spw20.langsec.org/) | 2020 |
 | [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](papers/semantic_labeling_langsec2020.pdf) | [LangSec 2020](http://spw20.langsec.org/) | 2020 |
 | [What are the Actual Flaws in Important Smart Contracts?](papers/smart_contract_flaws_fc2020.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | 2020 |
 | [Echidna: A Practical Smart Contract Fuzzer](papers/echidna_fc_poster.pdf) | [FC 2020](https://fc20.ifca.ai/program.html) | 2020 |
@@ -91,8 +91,8 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 | 
-| [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 | 
+| [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 |
+| [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 |
 | [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
 | [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
@@ -275,6 +275,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 | Topic | Agency | Date |
 | --- | --- | --- |
+| [Open-Source Software Security: Areas of Long-Term Focus and Prioritization](./public-comments/tob-response-to-oncd-cisa-rfi-2023.pdf) | ONCD, CISA, NSF, DARPA, OMB | Nov 2023 |
 | [Understanding the National Security Implications of AI](https://www.trailofbits.com/documents/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
 | [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 | [AI Accountability, Regulation, and Audits](https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/) | NTIA | Jun 2023 |
@@ -306,7 +307,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
 | [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
 | [Phantom Wallet](https://phantom.app/) | Nov 2022 | 2 |  |  |
-| [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) || 
+| [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) ||
 | [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
 | [Dfinity](https://dfinity.org/) | Sep 2022 | 4 |  | [📄✅](reviews/2022-09-dfinity-sns-securityreview.pdf) |
 | [Aleo snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
