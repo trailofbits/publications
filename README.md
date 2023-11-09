@@ -304,7 +304,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Chainflip](https://chainflip.io/) | April 2023 | 12 |  | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 |  | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 |  | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
-| [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
 | [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
 | [Phantom Wallet](https://phantom.app/) | Nov 2022 | 2 |  |  |
 | [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) ||
@@ -343,6 +342,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Fraxlend and veFPIS](https://frax.finance/) | Jan 2023 | 4 |  |  |
 | [Redpanda Core, Console, and Console Enterprise](https://redpanda.com/) | Jan 2023 | 4 |  |  |
 | [Injective Labs Options Market](https://injective.com/) | Jan 2023 | 4 |  |  |
+| [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
+| [OpenVPN2](https://openvpn.net/) | Dec 2022 | 4 |  | [📄✅](reviews/2022-12-openvpn-openvpn2-securityreview.pdf) |
 | [OpenArchive Save (Android)](https://open-archive.org/) | Dec 2022 | 1 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-12-openarchivesaveandroid-securityreview.pdf) |
 | [Enclave Markets Trading Platform](https://www.enclave.market/) | Nov 2022 | 9 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
