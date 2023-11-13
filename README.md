@@ -397,6 +397,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Uniswap](https://uniswap.org/) | Sep 2023 | 4 |  | [📄✅](reviews/2023-09-uniswap-wallet-securityreview.pdf) |
 | [KEDA](https://keda.sh/) | Dec 2022 | 6 | [Audit of Kubernetes Event Driven Autoscaling (KEDA)](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/) | [📄](reviews/2023-01-keda-securityreview.pdf) |
 | [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
