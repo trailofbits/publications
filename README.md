@@ -344,7 +344,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Redpanda Core, Console, and Console Enterprise](https://redpanda.com/) | Jan 2023 | 4 |  |  |
 | [Injective Labs Options Market](https://injective.com/) | Jan 2023 | 4 |  |  |
 | [OpenVPN3](https://openvpn.net/) | Jan 2023 | 6 |  |  |
-| [OpenVPN2](https://openvpn.net/) | Dec 2022 | 4 |  | [📄✅](reviews/2022-12-openvpn-openvpn2-securityreview.pdf) |
+| [OpenVPN2](https://openvpn.net/) | Dec 2022 | 4 | [OpenVPN Blog](https://openvpn.net/blog/trail-of-bits/) | [📄✅](reviews/2022-12-openvpn-openvpn2-securityreview.pdf) |
 | [OpenArchive Save (Android)](https://open-archive.org/) | Dec 2022 | 1 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-12-openarchivesaveandroid-securityreview.pdf) |
 | [Enclave Markets Trading Platform](https://www.enclave.market/) | Nov 2022 | 9 |  |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 |  |  |
