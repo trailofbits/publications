@@ -296,7 +296,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Scroll ZkEVM Wave 3](https://scroll.io/) | Sept 2023 | 9 |  | [📄✅](reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf) |
 | [Scroll ZkEVM Wave 2](https://scroll.io/) | August 2023 | 6 |  | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
+| [Scroll ZkEVM Wave 1](https://scroll.io/) | April 2023 | 23 |  | [📄✅](reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf) |
 | [Scroll zkTrie](https://scroll.io/) | July 2023 | 4 |  | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [Dfinity ckBTC and BTC Integration](https://dfinity.org/) | June 2023 | 2.5 |  | [📄](reviews/2023-06-dfinity-ckBTC-securityreview.pdf) |
 | [Dfinity SNS Phase 2](https://dfinity.org/) | June 2023 | 2.5 |  | [📄](reviews/2023-06-dfinity-sns-securityreview.pdf) |
