@@ -300,7 +300,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 11 |  | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
+| [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 |  | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
 | [Scroll ZkEVM Wave 3](https://scroll.io/) | Sept 2023 | 9 |  | [📄✅](reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf) |
 | [Scroll ZkEVM Wave 2](https://scroll.io/) | August 2023 | 6 |  | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
 | [Scroll ZkEVM Wave 1](https://scroll.io/) | April 2023 | 23 |  | [📄✅](reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf) |
