@@ -162,6 +162,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
 | [Exploiting Machine Learning Pickle Files](presentations/Never%20a%20Dill%20Moment:%20Exploiting%20Machine%20Learning%20Pickle%20Files) | Carson Harmon, Evan Sultanik, Jim Miller, Suha Hussain | 2021 |
 | [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven:%20Comprehensive%20Privacy%20Testing%20for%20Deep%20Learning) | Suha Hussain | 2020 |
 
@@ -276,9 +277,11 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 | Topic | Agency | Date |
 | --- | --- | --- |
+| [Automated Artifical Intelligence Bill Of Materials for AI/ML Ops](./public-comments/AIBOM-RFI-response.pdf) | U.S. Army PEO IEW&S | Dec 2023 |
 | [Open-Source Software Security: Areas of Long-Term Focus and Prioritization](./public-comments/tob-response-to-oncd-cisa-rfi-2023.pdf) | ONCD, CISA, NSF, DARPA, OMB | Nov 2023 |
 | [Understanding the National Security Implications of AI](https://www.trailofbits.com/documents/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
 | [AI Accountability, Regulation, and Audits](https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/) | NTIA | Jun 2023 |
+| [A Comprehensive Risk Assessment Framework for AI Assurance in Ethical, Legal, and Societal Domains](./public-comments/comprehensive-risk-assessment-framework-AI-Assurance-ELS-Domains.pdf) | DARPA | Jun 2023 |
 | [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 | [Regulation of Intrusion and Surveillance Software](https://www.regulations.gov/document/BIS-2015-0011-0209) | Commerce Dept | Jul 2015 |
 
