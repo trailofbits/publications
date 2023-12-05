@@ -513,7 +513,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf)[✅](reviews/MesonProtocolFixReview.pdf) |
 | [Managed pool smart contracts](https://balancer.fi/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-balancerlabs-managedpoolsmartcontracts-securityreview.pdf) |
 | [Ondo](https://ondo.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-shimacapital-ondo-securityreview.pdf)[✅](reviews/2022-10-shimacapital-ondo-fixreview.pdf) |
-| [Maple Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  | [📄✅](reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf) |
+| [ Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  | [📄✅](reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf) |
 | [Increment Protocol](https://increment.finance/) | Sep 2022 | 4 |  | [📄](reviews/2022-09-incrementprotocol-securityreview.pdf)[✅](reviews/2022-09-incrementprotocol-fixreview.pdf) |
 | [Subspace Network Desktop Farmer](https://subspace.network/) | Sep 2022 | 2 |  | [📄](reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-securityreview.pdf)[✅](reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-fixreview.pdf)|
 | [Optimism](https://www.optimism.io/) | Sep 2022 | 16 |  | [📄](reviews/2022-11-optimism-securityreview.pdf) |
@@ -542,7 +542,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Frax](https://frax.finance/) | May 2022 | 4 | | [📄](reviews/FraxQ22022.pdf) |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [Security Audit for ReserveLending+](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [Maple Finance Smart Contracts](https://www.maple.finance/) | March 2022 | 1 | | [📄✅](reviews/2022-03-maplefinance-securityreview.pdf) |
+| [Maple Finance Smart Contracts](https://www.maple.finance/) | Mar 2022 | 1 | | [📄✅](reviews/2022-03-maplefinance-securityreview.pdf) |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
