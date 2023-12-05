@@ -513,7 +513,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Meson Protocol](https://docs.meson.fi/references/audit-reports) | Oct 2022 | 6 | | [📄](reviews/MesonProtocol.pdf)[✅](reviews/MesonProtocolFixReview.pdf) |
 | [Managed pool smart contracts](https://balancer.fi/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-balancerlabs-managedpoolsmartcontracts-securityreview.pdf) |
 | [Ondo](https://ondo.finance/) | Oct 2022 | 4 |  | [📄](reviews/2022-10-shimacapital-ondo-securityreview.pdf)[✅](reviews/2022-10-shimacapital-ondo-fixreview.pdf) |
-| [ Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  | [📄✅](reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf) |
+| [ Maple Protocol v2](https://www.maple.finance/) | Sep 2022 | 8 |  | [📄✅](reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf) |
 | [Increment Protocol](https://increment.finance/) | Sep 2022 | 4 |  | [📄](reviews/2022-09-incrementprotocol-securityreview.pdf)[✅](reviews/2022-09-incrementprotocol-fixreview.pdf) |
 | [Subspace Network Desktop Farmer](https://subspace.network/) | Sep 2022 | 2 |  | [📄](reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-securityreview.pdf)[✅](reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-fixreview.pdf)|
 | [Optimism](https://www.optimism.io/) | Sep 2022 | 16 |  | [📄](reviews/2022-11-optimism-securityreview.pdf) |
