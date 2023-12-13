@@ -408,7 +408,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort |  Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Uniswap](https://uniswap.org/) | Sep 2023 | 4 |  | [📄✅](reviews/2023-09-uniswap-wallet-securityreview.pdf) |
 | [KEDA](https://keda.sh/) | Dec 2022 | 6 | [Audit of Kubernetes Event Driven Autoscaling (KEDA)](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/) | [📄](reviews/2023-01-keda-securityreview.pdf) |
 | [Terraform Enterprise](https://developer.hashicorp.com/terraform/enterprise) | Nov 2022 | 6 |  |  |
 | [Nomad Enterprise](https://www.nomadproject.io/) | Nov 2022 | 6 |  |  |
@@ -437,6 +436,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Uniswap](https://uniswap.org/) | Sep 2023 | 4 |  | [📄✅](reviews/2023-09-uniswap-wallet-securityreview.pdf) |
 | [dappOS v2 virtual wallet](https://dappos.com/) | Jul 2023 | 3 |  | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
 | [WalletConnect v2.0](https://walletconnect.com/) | Mar 2023 | 4 | [WalletConnect](https://medium.com/walletconnect/walletconnect-v2-0s-independent-security-audit-by-trail-of-bits-e8e59d11e517) | [📄✅](reviews/2023-03-walletconnectv2-securityreview.pdf) |
 | [Uniswap Mobile Wallet](https://freewallet.org/uni-wallet) | Aug 2022 | 4 | | [📄](reviews/UniswapMobileWallet-securityreview.pdf)[✅](reviews/UniswapMobileWallet-fixreview.pdf) |
