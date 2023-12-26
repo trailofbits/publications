@@ -15,6 +15,7 @@
   * [Side channels](#side-channels)
   * [Supply chain](#supply-chain)
   * [Threat analysis & malware](#threat-analysis--malware)
+* [Guides and Handbooks](#guides-and-handbooks)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
@@ -214,6 +215,18 @@
 | [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
+## Guides and Handbooks
+
+We publish much of our subject matter expertise in the form of guides and handbooks.
+
+| Link | Repository | Description |
+| ---- | ---------- | ----------- |
+| [Appsec Testing Handbook](https://appsec.guide/) | N/A | The automated testing handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use. |
+| [ZKDocs](https://www.zkdocs.com/) | [trailofbits/zkdocs](https://github.com/trailofbits/zkdocs) | ZKDocs provides comprehensive, detailed, and interactive documentation on zero-knowledge proof systems and related primitives. |
+| [Building Secure Smart Contracts](https://secure-contracts.com/) | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | Guidelines and best practices for developing secure smart contracts. |
+| [CTF Field Guide](https://trailofbits.github.io/ctf/) | [trailofbits/ctf](https://github.com/trailofbits/ctf) | Our field guide to winning at Capture The Flag (CTF). |
+| [Ruby Security Field Guide](https://trailofbits.github.io/rubysec/) | [trailofbits/rubysec](https://github.com/trailofbits/rubysec) | Our field guide for practical Ruby security. |
+
 ## Datasets
 
 | Dataset | Date |
@@ -226,7 +239,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido May 2023 | ML security |
+| [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido | May 2023 | ML security |
 | [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling, cloud-native audits |
 | [Risky Biz 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
 | [Risky Biz 672](https://risky.biz/RB672/) | Dan Guido | Jul 2022 | Blockchain security |
