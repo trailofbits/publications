@@ -34,7 +34,8 @@
 | --- | --- | --- |
 | [Careful with MAc-then-SIGn: A Computational Analysis of the EDHOC Lightweight Authenticated Key Exchange Protocol](papers/edhoc-euros&P-2023.pdf) | [Euro S&P 2023](https://www.ieee-security.org/TC/EuroSP2023/index.html) | 2023|
 | [Weak Fiat-Shamir Attacks on Modern Proof Systems](papers/weakfs_ieee_s&p_2023.pdf) | [IEEE S&P 2023](https://eprint.iacr.org/2023/691)| 2023 |
-| [CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces](papers/civscope.pdf) | SOSP [KISV (Workshop on Kernel Isolation, Safety, and Verification)](https://dl.acm.org/doi/abs/10.1145/3625275.3625399) | 2023 |
+| [Endoprocess: Programmable and Extensible Subprocess Isolation](https://dl.acm.org/doi/10.1145/3633500.3633507) | [NSPW 2023](https://www.nspw.org/2023/program) | 2023 |
+| [CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces](papers/civscope.pdf) | SOSP [KISV 2023](https://dl.acm.org/doi/abs/10.1145/3625275.3625399) | 2023 |
 | [Detecting variability bugs through hybrid control and data flow analysis](papers/ubet_langsec_2023.pdf) | [LangSec 2023](https://langsec.org/spw23/papers.html#variability)| 2023 |
 | [Blind Spots: Automatically detecting ignored program inputs](https://arxiv.org/abs/2301.08700) | [LangSec 2023](https://langsec.org/spw23/papers.html)| 2023 |
 | [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | 2023 |
