@@ -742,6 +742,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Berachain Polaris API polaris-geth](https://www.berachain.com/) | Aug 2023 | 8 | | |
+| [Berachain berachain](https://www.berachain.com/) | Jun 2023 | 6 | | |
 | [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
