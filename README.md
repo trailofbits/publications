@@ -490,6 +490,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Ethereum/EVM
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Unibot Router](https://unibot.app/) | Dec 2023 | 1.6 |  | [📄✅](reviews/2023-12-unibot-securityreview.pdf) |
+| [Salty.IO Protocol](https://docs.salty.io/) | Oct 2023 | 6 |  | [📄✅](reviews/2023-10-saltyio-securityreview.pdf) |
 | [Hyperlane v3](https://www.hyperlane.xyz/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-hyperlane-securityreview.pdf) |
 | [Elixir Vertex & Injective Contracts](https://elixir.finance/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-elixir-securityreview.pdf) |
 | [Easy Crypto NZDD token](https://easycrypto.com/) | Aug 2023 | 0.6 |  | [📄✅](reviews/2023-08-easycrypto-securityreview.pdf) |
