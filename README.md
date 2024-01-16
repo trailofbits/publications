@@ -15,6 +15,7 @@
   * [Side channels](#side-channels)
   * [Supply chain](#supply-chain)
   * [Threat analysis & malware](#threat-analysis--malware)
+* [Guides and Handbooks](#guides-and-handbooks)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
@@ -34,7 +35,8 @@
 | --- | --- | --- |
 | [Careful with MAc-then-SIGn: A Computational Analysis of the EDHOC Lightweight Authenticated Key Exchange Protocol](papers/edhoc-euros&P-2023.pdf) | [Euro S&P 2023](https://www.ieee-security.org/TC/EuroSP2023/index.html) | 2023|
 | [Weak Fiat-Shamir Attacks on Modern Proof Systems](papers/weakfs_ieee_s&p_2023.pdf) | [IEEE S&P 2023](https://eprint.iacr.org/2023/691)| 2023 |
-| [CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces](papers/civscope.pdf) | SOSP [KISV (Workshop on Kernel Isolation, Safety, and Verification)](https://dl.acm.org/doi/abs/10.1145/3625275.3625399) | 2023 |
+| [Endoprocess: Programmable and Extensible Subprocess Isolation](https://dl.acm.org/doi/10.1145/3633500.3633507) | [NSPW 2023](https://www.nspw.org/2023/program) | 2023 |
+| [CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces](papers/civscope.pdf) | SOSP [KISV 2023](https://dl.acm.org/doi/abs/10.1145/3625275.3625399) | 2023 |
 | [Detecting variability bugs through hybrid control and data flow analysis](papers/ubet_langsec_2023.pdf) | [LangSec 2023](https://langsec.org/spw23/papers.html#variability)| 2023 |
 | [Blind Spots: Automatically detecting ignored program inputs](https://arxiv.org/abs/2301.08700) | [LangSec 2023](https://langsec.org/spw23/papers.html)| 2023 |
 | [Efficient Proofs of Software Exploitability for Real-world Processors](papers/sieve-msp430-pets2023.pdf) | [PETS 2023](https://petsymposium.org/2023/index.php) | 2023 |
@@ -214,6 +216,18 @@
 | [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
+## Guides and Handbooks
+
+We publish much of our subject matter expertise in the form of guides and handbooks.
+
+| Link | Repository | Description |
+| ---- | ---------- | ----------- |
+| [Appsec Testing Handbook](https://appsec.guide/) | N/A | The automated testing handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use. |
+| [ZKDocs](https://www.zkdocs.com/) | [trailofbits/zkdocs](https://github.com/trailofbits/zkdocs) | ZKDocs provides comprehensive, detailed, and interactive documentation on zero-knowledge proof systems and related primitives. |
+| [Building Secure Smart Contracts](https://secure-contracts.com/) | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | Guidelines and best practices for developing secure smart contracts. |
+| [CTF Field Guide](https://trailofbits.github.io/ctf/) | [trailofbits/ctf](https://github.com/trailofbits/ctf) | Our field guide to winning at Capture The Flag (CTF). |
+| [Ruby Security Field Guide](https://trailofbits.github.io/rubysec/) | [trailofbits/rubysec](https://github.com/trailofbits/rubysec) | Our field guide for practical Ruby security. |
+
 ## Datasets
 
 | Dataset | Date |
@@ -226,7 +240,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido May 2023 | ML security |
+| [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido | May 2023 | ML security |
 | [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling, cloud-native audits |
 | [Risky Biz 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
 | [Risky Biz 672](https://risky.biz/RB672/) | Dan Guido | Jul 2022 | Blockchain security |
@@ -488,10 +502,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [RSKj](https://www.rsk.co/) | Nov 2017 | 6 | [RSK security audit results](https://www.rsk.co/noticia/rsk-security-audit-results/) | [📄](reviews/RSKj.pdf) |
 
 #### Ethereum/EVM
+
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Unibot Router](https://unibot.app/) | Dec 2023 | 1.6 |  | [📄✅](reviews/2023-12-unibot-securityreview.pdf) |
 | [Salty.IO Protocol](https://docs.salty.io/) | Oct 2023 | 6 |  | [📄✅](reviews/2023-10-saltyio-securityreview.pdf) |
+| [Immutable ZKEVM Bridge Contracts](https://www.immutable.com/) | Nov 2023 | 2 |  | [📄✅](reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf) |
 | [Hyperlane v3](https://www.hyperlane.xyz/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-hyperlane-securityreview.pdf) |
 | [Elixir Vertex & Injective Contracts](https://elixir.finance/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-elixir-securityreview.pdf) |
 | [Easy Crypto NZDD token](https://easycrypto.com/) | Aug 2023 | 0.6 |  | [📄✅](reviews/2023-08-easycrypto-securityreview.pdf) |
@@ -729,6 +745,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Berachain Polaris API polaris-geth](https://www.berachain.com/) | Aug 2023 | 8 | | |
+| [Berachain berachain](https://www.berachain.com/) | Jun 2023 | 6 | | |
 | [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
 | [Columbus-5](https://www.terra.money/) | Jan 2022 | 2 | | |
 | [IBC Protocol](https://www.interchain.berlin/) | Dec 2021 | 4 | | |
