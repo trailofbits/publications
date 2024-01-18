@@ -801,6 +801,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
+| [Celo Oracle](clabs.co) | Jul 2020 | 2 | | [📄](reviews/celo-oracle.pdf) |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 | | |
 | [Symbol](https://symbolplatform.com/) | Jul 2020 | 4| [Symbol from NEM completes Trail of Bits<br /> Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
