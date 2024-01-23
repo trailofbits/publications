@@ -331,6 +331,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
 | [Dfinity](https://dfinity.org/) | Sep 2022 | 4 | [Third-party assessment by Trail of Bits](https://forum.dfinity.org/t/ckbtc-and-service-nervous-system-sns-third-party-security-assessments-by-trail-of-bits/24380), [Taking security seriously](https://medium.com/dfinity/taking-security-seriously-two-top-icp-features-assessed-by-trail-of-bits-4a0023ab1e68) | [📄✅](reviews/2022-09-dfinity-sns-securityreview.pdf) |
 | [Aleo snarkVM](https://www.aleo.org/) | Sep 2022 | 12 |  | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
+| [Microsoft/Verasion Go-COSE](https://github.com/veraison) | Jul 2022 | 4 | | [📄✅](reviews/2022-07-microsoft-go-cose-securityreview.pdf) |
 | [BLS Signature Scheme](https://www.binance.com/) | Jul 2022 | 1 | | |
 | [MobileCoin](https://mobilecoin.com/homepage) | Jul 2022 | 2 |  | [📄](reviews/2022-07-mobilecoin-securityreview.pdf) |
 | [Binance CGGMP21 and FROST](https://www.binance.com/) | May 2022 | 8 | | |
