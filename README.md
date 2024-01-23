@@ -751,8 +751,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 |Name|Product|Discoverer|Date|ID|Blog|
 |---|---|---|---|---|---|
-|GPU leaks disclosure|multiple GPUs|Tyler Sorensen|2023|CVE-2023-4969|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
-|YOLO disclosure / blog post|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
+|LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2023|CVE-2023-4969|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
+|YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
 |Numbers turned weapons: DoS in Osmosis’ math library|Osmosis|Sam Alws|2023|❌|[💬](https://blog.trailofbits.com/2023/10/23/numbers-turned-weapons-dos-in-osmosis-math-library/)|
 |The issue with ATS in Apple’s macOS and iOS|iOS, iPadOS, tvOS, macOS, and watchOS|Will Brattain|2022|CVE-2023-38596|[💬](https://blog.trailofbits.com/2023/10/30/the-issue-with-ats-in-apples-macos-and-ios/)|
 |Eth ABI DoS disclosure|ethabi, eth_abi, etheriumjs-abi, alloy-rs|Max Ammann|2023|❌||
