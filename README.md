@@ -749,7 +749,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ## Disclosures
 
-|Name|Product|Discoverer|Date|ID|Blog|
+|Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2023|CVE-2023-4969|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
 |YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
