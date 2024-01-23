@@ -751,23 +751,23 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
-|LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2023|CVE-2023-4969|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
+|LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
 |YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
 |Numbers turned weapons: DoS in Osmosis’ math library|Osmosis|Sam Alws|2023|❌|[💬](https://blog.trailofbits.com/2023/10/23/numbers-turned-weapons-dos-in-osmosis-math-library/)|
-|The issue with ATS in Apple’s macOS and iOS|iOS, iPadOS, tvOS, macOS, and watchOS|Will Brattain|2022|CVE-2023-38596|[💬](https://blog.trailofbits.com/2023/10/30/the-issue-with-ats-in-apples-macos-and-ios/)|
+|The issue with ATS in Apple’s macOS and iOS|iOS, iPadOS, tvOS, macOS, and watchOS|Will Brattain|2023|[CVE-2023-38596](https://www.cve.org/cverecord?id=CVE-2023-38596)|[💬](https://blog.trailofbits.com/2023/10/30/the-issue-with-ats-in-apples-macos-and-ios/)|
 |Eth ABI DoS disclosure|ethabi, eth_abi, etheriumjs-abi, alloy-rs|Max Ammann|2023|❌||
-|Keeping the wolves out of wolfSSL|wolfSSL|Max Ammann|2022|CVE-2022-38152 CVE-2022-38153 CVE-2022-39173 CVE-2022-42905|[💬](https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/)|
-|Forgery in Amis' Alice library|[Amis' alice](https://github.com/getamis/alice#acknowledgments)|Filipe Casal|2022|❌||
-|Specialized Zero-Knowledge Proof failures|Binance's tss-lib; All forks of tss-lib: Joltify, SwipeChain, and ThorChain; Coinbase's kryptology|Opal Wright|2022|❌|[💬](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)|
 |Security flaws in an SSO plugin for Caddy|caddy-security|Maciej Domanski, Travis Peters, David Pokora|2023|❌|[💬](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)|
-|Shamir’s Secret Sharing vulnerabilities|Binance’s [tss-lib](https://github.com/binance-chain/tss-lib); Clover Network’s [threshold-crypto](https://github.com/clover-network/threshold-crypto); Keep Network’s [keep-ecdsa](https://github.com/keep-network/keep-ecdsa); Swingby’s [tss-lib](https://github.com/SwingbyProtocol/tss-lib); THORchain’s [tss-lib](https://gitlab.com/thorchain/tss/tss-lib); ZenGo X’s [curv](https://github.com/ZenGo-X/curv)|Filipe Casal|2021|❌|[💬](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)|
-|Stranger Strings: An exploitable flaw in SQLite|SQLite|Andreas Kellas|2022|❌|[💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)|
-|json-viewer XSS|jquery.json-viewer|Vasco Franco|2022|CVE-2022-30241||
-|Escaping misconfigured VSCode extensions - Sarif Viewer XSS|Sarif Viewer VSCode extension|Vasco Franco|2022|MS-VULN-071828|[💬](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)|
+|ktor Path Traversal|ktor|Vasco Franco|2023|[CVE-2022-48476](https://www.cve.org/cverecord?id=CVE-2022-48476)||
+|Specialized Zero-Knowledge Proof failures|Binance's tss-lib; All forks of tss-lib: Joltify, SwipeChain, and ThorChain; Coinbase's kryptology|Opal Wright|2022|❌|[💬](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)|
+|Forgery in Amis' Alice library|[Amis' alice](https://github.com/getamis/alice#acknowledgments)|Filipe Casal|2022|❌||
+|Keeping the wolves out of wolfSSL|wolfSSL|Max Ammann|2022|[CVE-2022-38152](https://www.cve.org/cverecord?id=CVE-2022-38152) [CVE-2022-38153](https://www.cve.org/cverecord?id=CVE-2022-38153) [CVE-2022-39173](https://www.cve.org/cverecord?id=CVE-2022-39173) [CVE-2022-42905](https://www.cve.org/cverecord?id=CVE-2022-42905)|[💬](https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/)|
 |Escaping misconfigured VSCode extensions - Live Preview XSS|Live Preview VSCode extension|Vasco Franco|2022|MS-VULN-073448|[💬](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)|
 |Escaping misconfigured VSCode extensions - Live Preview Path Traversal|Live Preview VSCode extension|Vasco Franco|2022|MS-VULN-073447|[💬](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)|
-|Escaping well-configured VSCode extensions (for profit) - VSCode localResourceRoots Bypass|VSCode|Vasco Franco|2022|CVE-2022-41042|[💬](https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/)|
-|ktor Path Traversal|ktor|Vasco Franco|2023|CVE-2022-48476||
+|Escaping well-configured VSCode extensions (for profit) - VSCode localResourceRoots Bypass|VSCode|Vasco Franco|2022|[CVE-2022-41042](https://www.cve.org/cverecord?id=CVE-2022-41042)|[💬](https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/)|
+|Escaping misconfigured VSCode extensions - Sarif Viewer XSS|Sarif Viewer VSCode extension|Vasco Franco|2022|MS-VULN-071828|[💬](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)|
+|Stranger Strings: An exploitable flaw in SQLite|SQLite|Andreas Kellas|2022|❌|[💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)|
+|json-viewer XSS|jquery.json-viewer|Vasco Franco|2022|[CVE-2022-30241](https://www.cve.org/cverecord?id=CVE-2022-30241)||
+|Shamir’s Secret Sharing vulnerabilities|Binance’s [tss-lib](https://github.com/binance-chain/tss-lib); Clover Network’s [threshold-crypto](https://github.com/clover-network/threshold-crypto); Keep Network’s [keep-ecdsa](https://github.com/keep-network/keep-ecdsa); Swingby’s [tss-lib](https://github.com/SwingbyProtocol/tss-lib); THORchain’s [tss-lib](https://gitlab.com/thorchain/tss/tss-lib); ZenGo X’s [curv](https://github.com/ZenGo-X/curv)|Filipe Casal|2021|❌|[💬](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)|
 
 ## Workshops
 
