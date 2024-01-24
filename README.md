@@ -843,6 +843,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 |Stranger Strings: An exploitable flaw in SQLite|SQLite|Andreas Kellas|2022|❌|[💬](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)|
 |json-viewer XSS|jquery.json-viewer|Vasco Franco|2022|[CVE-2022-30241](https://www.cve.org/cverecord?id=CVE-2022-30241)||
 |Shamir’s Secret Sharing vulnerabilities|Binance’s [tss-lib](https://github.com/binance-chain/tss-lib); Clover Network’s [threshold-crypto](https://github.com/clover-network/threshold-crypto); Keep Network’s [keep-ecdsa](https://github.com/keep-network/keep-ecdsa); Swingby’s [tss-lib](https://github.com/SwingbyProtocol/tss-lib); THORchain’s [tss-lib](https://gitlab.com/thorchain/tss/tss-lib); ZenGo X’s [curv](https://github.com/ZenGo-X/curv)|Filipe Casal|2021|❌|[💬](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)|
+|OSX slack:// protocol handler javascript injection|Slack|Jay Little|2016|❌|[💬](https://hackerone.com/reports/79348)|
+|Double free in VLC's 3GP file format|VLC|Loren Maggiore|2015|[CVE-2015-5949](https://www.cve.org/cverecord?id=CVE-2015-5949)|[💬](https://blog.trailofbits.com/2015/09/10/summer-trail-of-bits/)|
 
 ## Workshops
 
