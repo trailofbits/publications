@@ -516,6 +516,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Immutable](https://www.immutable.com/) | Aug 2023 | 4 |  | [📄✅](reviews/2023-08-immutable-securityreview.pdf) |
 | [Sandclock](https://www.sandclock.org/) | Jul 2023 | 8 |  | [📄✅](reviews/2023-07-sandclock-securityreview.pdf) |
 | [Arcade](https://www.arcade.xyz/) | Jul 2023 | 8 |  | [📄✅](reviews/2023-07-arcade-securityreview.pdf) |
+| [Nested Finance Tetris & HyVM](https://nested.fi/) | June 2023 | 1 |  | [📄✅](reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf) |
 | [Franklin Templeton](https://www.franklintempleton.com/) | May 2023 | 4 |  | [📄✅](reviews/2023-05-franklintempleton-moneymarket-securityreview.pdf) |
 | [Prysm](https://prysmaticlabs.com/) | Apr 2023 | 8 |  | [📄✅](reviews/2023-04-prysm-securityreview.pdf) |
 | [Ajna Protocol](https://www.ajna.finance/) | Apr 2023 | 12 |  | [📄✅](reviews/2023-04-ajnalabs-securityreview.pdf) |
@@ -524,8 +525,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Smardex AMM](https://www.smardex.io/home) | Apr 2023 | 2 | [SmarDex protocol Security is confirmed](https://www.smardex.io/audit-reports) | [📄✅](reviews/2023-04-smardexamm-realestateexecutives-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 |  |  |
 | [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis V2 Audit](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) |
-| [Succinct Labs Ethereum Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Introducing Telepathy](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
 | [Primitive Hyper](https://primitive.xyz/) | Mar 2023 | 8 |  | [📄✅](reviews/2023-03-primitive-securityreview.pdf) |
+| [Succinct Labs Ethereum Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Introducing Telepathy](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
+| [Nested Finance Smart Contracts](https://nested.fi/) | Feb 2023 | 4 |  | [📄✅](reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf) |
 | [Polygon Edge](https://polygon.technology/) | Jan 2023 | 6 |  |  |
 | [Optimism](https://www.optimism.io/) | Dec 2022 | 8 |  |  |
 | [Paxos PayPal PYUSD](https://paxos.com/pyusd/) | Dec 2022 | 1 | | [📄✅](reviews/2022-12-paxos-paypal-pyusd-securityreview.pdf) |
