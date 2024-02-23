@@ -506,7 +506,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [MetaLayer Blast](https://blast.io/en) | Jan 2024 | 4 |  | [📄](reviews/2024-01-metalayerblast-securityreview.pdf) |
+| [Offchain Labs ArbOS](https://www.offchainlabs.com/) | Feb 2024 | 4 |  | [📄](reviews/2024-02-offchainlabsarbos-securityreview.pdf) |
+| [MetaLayer Blast](https://blast.io/en) | Jan 2024 | 4 |  | [📄✅](reviews/2024-01-metalayerblast-securityreview.pdf) |
 | [Offchain Arbitrum](https://www.offchainlabs.com/) | Jan 2024 | 2 |  | [📄](reviews/2024-01-offchainarbitrum-securityreview.pdf) |
 | [Unibot Router](https://unibot.app/) | Dec 2023 | 1.6 |  | [📄✅](reviews/2023-12-unibot-securityreview.pdf) |
 | [Salty.IO Protocol](https://docs.salty.io/) | Oct 2023 | 6 |  | [📄✅](reviews/2023-10-saltyio-securityreview.pdf) |
