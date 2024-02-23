@@ -351,7 +351,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [cURL HTTP3](https://curl.se/) | December 2023 | 4 | [OSTIF](https://ostif.org/curl-audit-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/) | [📄](2023-12-curl-http3-securityreview.pdf) |
+| [cURL HTTP3](https://curl.se/) | December 2023 | 4 | [OSTIF](https://ostif.org/curl-audit-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/) | [📄](reviews/2023-12-curl-http3-securityreview.pdf) |
 | [Lisk SDK](https://lisk.com/) | July 2023 | 30 |  | [📄✅](reviews/2023-07-liskv4.0-securityreview.pdf) |
 | [Lisk SDK 6.1 Sapphire, NFT and PoA modules](https://lisk.com/) | Sept 2023 | 4 |  | [📄✅](reviews/2023-09-lisksdk-securityreview.pdf) |
 | [Eclipse Mosquitto](https://mosquitto.org/) | March 2023 | 4 | [OSTIF](https://ostif.org/mosquitto-security-audit/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-mosquitto-security-audit-has-been-completed) | [📛](reviews/2023-02-eclipse-mosquitto-lightweight-threatmodel.pdf)[📄✅](reviews/2023-03-eclipse-mosquitto-securityreview.pdf) |
