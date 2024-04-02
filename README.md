@@ -1,33 +1,47 @@
 # Publications from Trail of Bits
 
-* [Academic Papers](#academic-papers)
-* [Conference Presentations](#conference-presentations)
-  * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
-  * [Blockchain](#blockchain)
-  * [Cryptography](#cryptography)
-  * [Engineering](#engineering)
-  * [Education](#education)
-  * [Infrastructure](#infrastructure)
-  * [Machine Learning](#machine-learning)
-  * [Mobile security](#mobile-security)
-  * [Programming](#programming)
-  * [Program Transformation](#program-transformation)
-  * [Side channels](#side-channels)
-  * [Supply chain](#supply-chain)
-  * [Threat analysis & malware](#threat-analysis--malware)
-* [Guides and Handbooks](#guides-and-handbooks)
-* [Datasets](#datasets)
-* [Podcasts](#podcasts)
-* [Public Comments](#public-comments)
-* [Security Reviews](#security-reviews)
-  * [ML/AI Reviews](#mlai-reviews)
-  * [Cryptography Reviews](#cryptography-reviews)
-  * [Technology Product Reviews](#technology-product-reviews)
-  * [Cloud-native Reviews](#cloud-native-reviews)
-  * [Blockchain Reviews](#blockchain-reviews)
-* [Disclosures](#disclosures)
-* [Workshops](#workshops)
-* [Legend](#legend)
+- [Publications from Trail of Bits](#publications-from-trail-of-bits)
+  - [Academic Papers](#academic-papers)
+  - [Conference Presentations](#conference-presentations)
+    - [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
+    - [Blockchain](#blockchain)
+    - [Cryptography](#cryptography)
+    - [Engineering](#engineering)
+    - [Education](#education)
+    - [Infrastructure](#infrastructure)
+    - [Machine Learning](#machine-learning)
+    - [Mobile security](#mobile-security)
+    - [Programming](#programming)
+    - [Program Transformation](#program-transformation)
+    - [Side channels](#side-channels)
+    - [Supply chain](#supply-chain)
+    - [Threat analysis \& malware](#threat-analysis--malware)
+  - [Guides and Handbooks](#guides-and-handbooks)
+  - [Datasets](#datasets)
+  - [Podcasts](#podcasts)
+  - [Public Comments](#public-comments)
+  - [Security Reviews](#security-reviews)
+    - [ML/AI Reviews](#mlai-reviews)
+    - [Cryptography Reviews](#cryptography-reviews)
+    - [Technology Product Reviews](#technology-product-reviews)
+    - [Cloud-Native Reviews](#cloud-native-reviews)
+    - [Invariant Testing and Development Engagements](#invariant-testing-and-development-engagements)
+    - [Blockchain Reviews](#blockchain-reviews)
+      - [Wallet Reviews](#wallet-reviews)
+      - [Algorand](#algorand)
+      - [Avalanche](#avalanche)
+      - [Bitcoin \& Derivatives](#bitcoin--derivatives)
+      - [Ethereum/EVM](#ethereumevm)
+      - [NervOS](#nervos)
+      - [StarkWare](#starkware)
+      - [Solana](#solana)
+      - [Substrate](#substrate)
+      - [Tendermint/Cosmos](#tendermintcosmos)
+      - [Tezos](#tezos)
+      - [Other/Multi-Chain](#othermulti-chain)
+  - [Disclosures](#disclosures)
+  - [Workshops](#workshops)
+  - [Legend](#legend)
 
 ## Academic Papers
 
@@ -449,6 +463,13 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf)[📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)[📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf)
 
+### Invariant Testing and Development Engagements 
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [Curvance](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) |
+
+
 ### Blockchain Reviews
 
 #### Wallet Reviews
@@ -510,7 +531,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Puffer Finance Contracts](https://www.puffer.fi/) | March 2024 | 1.2 |  | [📄✅](reviews/2024-03-pufferfinance-securityreview.pdf) |
-| [Curvance Invariants](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvanceinvariants-securityreview.pdf) |
 | [ScopeLift Stealth Address Contracts](https://scopelift.co/) | Feb 2024 | 1 |  | [📄✅](reviews/2024-02-scopelift-securityreview.pdf) |
 | [Offchain Labs ArbOS](https://www.offchainlabs.com/) | Feb 2024 | 4 |  | [📄](reviews/2024-02-offchainlabsarbos-securityreview.pdf) |
 | [MetaLayer Blast](https://blast.io/en) | Jan 2024 | 4 |  | [📄✅](reviews/2024-01-metalayerblast-securityreview.pdf) |
