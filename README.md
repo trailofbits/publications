@@ -1,48 +1,34 @@
 # Publications from Trail of Bits
 
-- [Publications from Trail of Bits](#publications-from-trail-of-bits)
-  - [Academic Papers](#academic-papers)
-  - [Conference Presentations](#conference-presentations)
-    - [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
-    - [Blockchain](#blockchain)
-    - [Cryptography](#cryptography)
-    - [Engineering](#engineering)
-    - [Education](#education)
-    - [Infrastructure](#infrastructure)
-    - [Machine Learning](#machine-learning)
-    - [Mobile security](#mobile-security)
-    - [Programming](#programming)
-    - [Program Transformation](#program-transformation)
-    - [Side channels](#side-channels)
-    - [Supply chain](#supply-chain)
-    - [Threat analysis \& malware](#threat-analysis--malware)
-  - [Guides and Handbooks](#guides-and-handbooks)
-  - [Datasets](#datasets)
-  - [Podcasts](#podcasts)
-  - [Public Comments](#public-comments)
-  - [Security Reviews](#security-reviews)
-    - [ML/AI Reviews](#mlai-reviews)
-    - [Cryptography Reviews](#cryptography-reviews)
-    - [Technology Product Reviews](#technology-product-reviews)
-    - [Cloud-Native Reviews](#cloud-native-reviews)
-    - [Invariant Testing and Development Engagements](#invariant-testing-and-development-engagements)
-    - [Blockchain Reviews](#blockchain-reviews)
-      - [Wallet Reviews](#wallet-reviews)
-      - [Algorand](#algorand)
-      - [Avalanche](#avalanche)
-      - [Bitcoin \& Derivatives](#bitcoin--derivatives)
-      - [Ethereum/EVM](#ethereumevm)
-      - [NervOS](#nervos)
-      - [StarkWare](#starkware)
-      - [Solana](#solana)
-      - [Substrate](#substrate)
-      - [Tendermint/Cosmos](#tendermintcosmos)
-      - [Tezos](#tezos)
-      - [Other/Multi-Chain](#othermulti-chain)
-  - [Disclosures](#disclosures)
-  - [Workshops](#workshops)
-  - [Legend](#legend)
-
+* [Academic Papers](#academic-papers)
+* [Conference Presentations](#conference-presentations)
+  * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
+  * [Blockchain](#blockchain)
+  * [Cryptography](#cryptography)
+  * [Engineering](#engineering)
+  * [Education](#education)
+  * [Infrastructure](#infrastructure)
+  * [Machine Learning](#machine-learning)
+  * [Mobile security](#mobile-security)
+  * [Programming](#programming)
+  * [Program Transformation](#program-transformation)
+  * [Side channels](#side-channels)
+  * [Supply chain](#supply-chain)
+  * [Threat analysis & malware](#threat-analysis--malware)
+* [Guides and Handbooks](#guides-and-handbooks)
+* [Datasets](#datasets)
+* [Podcasts](#podcasts)
+* [Public Comments](#public-comments)
+* [Security Reviews](#security-reviews)
+  * [ML/AI Reviews](#mlai-reviews)
+  * [Cryptography Reviews](#cryptography-reviews)
+  * [Technology Product Reviews](#technology-product-reviews)
+  * [Cloud-native Reviews](#cloud-native-reviews)
+  * [Invariant Testing and Development Engagements](#invariant-testing-and-development-engagements)
+  * [Blockchain Reviews](#blockchain-reviews)
+* [Disclosures](#disclosures)
+* [Workshops](#workshops)
+* [Legend](#legend)
 ## Academic Papers
 
 | Paper Title | Venue | Publication Date |
@@ -465,10 +451,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ### Invariant Testing and Development Engagements 
 
-| Product | Date | Level of <br />Effort | Announcement | Report |
-| ---| --: | :-: | --- | :-: |
-| [Curvance](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) |
-
+| Product | Date | Level of <br />Effort | Announcement | Report | Public Suite | 
+| ---| --: | :-: | --- | :-: | --- | 
+| [Curvance](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) | [Curvance Cantina](https://github.com/curvance/Curvance-CantinaCompetition/tree/CodeFAQAndAdjustments/tests/fuzzing) | 
 
 ### Blockchain Reviews
 
