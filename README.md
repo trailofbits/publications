@@ -223,7 +223,7 @@ We publish much of our subject matter expertise in the form of guides and handbo
 
 | Link | Repository | Description |
 | ---- | ---------- | ----------- |
-| [Appsec Testing Handbook](https://appsec.guide/) | N/A | The automated testing handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use. |
+| [Trail of Bits Testing Handbook](https://appsec.guide/) | [trailofbits/testing-handbook](https://github.com/trailofbits/testing-handbook) | The automated testing handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use. |
 | [ZKDocs](https://www.zkdocs.com/) | [trailofbits/zkdocs](https://github.com/trailofbits/zkdocs) | ZKDocs provides comprehensive, detailed, and interactive documentation on zero-knowledge proof systems and related primitives. |
 | [Building Secure Smart Contracts](https://secure-contracts.com/) | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | Guidelines and best practices for developing secure smart contracts. |
 | [CTF Field Guide](https://trailofbits.github.io/ctf/) | [trailofbits/ctf](https://github.com/trailofbits/ctf) | Our field guide to winning at Capture The Flag (CTF). |
