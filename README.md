@@ -517,6 +517,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Bondex Ecosystem Ltd. Smart Contracts](https://bondex.app/) | March 2024 | 0.6 |  | [📄](reviews/2024-03-bondexecosystem-loa.pdf) |
 | [Aladdin f(x) Protocol](https://fx.aladdin.club/) | March 2024 | 4 |  | [📄✅](reviews/2024-03-aladdinfxprotocol-securityreview.pdf) |
 | [Puffer Finance Contracts](https://www.puffer.fi/) | March 2024 | 1.2 |  | [📄✅](reviews/2024-03-pufferfinance-securityreview.pdf) |
 | [ScopeLift Stealth Address Contracts](https://scopelift.co/) | Feb 2024 | 1 |  | [📄✅](reviews/2024-02-scopelift-securityreview.pdf) |
