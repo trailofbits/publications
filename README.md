@@ -165,6 +165,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
 | [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
 | [Exploiting Machine Learning Pickle Files](presentations/Never%20a%20Dill%20Moment:%20Exploiting%20Machine%20Learning%20Pickle%20Files) | Carson Harmon, Evan Sultanik, Jim Miller, Suha Hussain | 2021 |
 | [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven:%20Comprehensive%20Privacy%20Testing%20for%20Deep%20Learning) | Suha Hussain | 2020 |
