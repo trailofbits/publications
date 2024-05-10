@@ -5,8 +5,8 @@ A common, but misguided threat modeling approach for systems incorporating ML mo
 
 Presented at:
 
-* [AI Village at BSidesSF, 2024](presentations/Holistic%20ML%20Threat%20Models/BSidesSF%20-%20AI%20Village%20-%20Holistic%20ML%20threat%20models.pdf)
-* [Graph the planet, 2024](presentations/Holistic%20ML%20Threat%20Models/Graph%20the%20planet%20-%20Holistic%20ML%20threat%20models.pdf)
+* [AI Village at BSidesSF, 2024](BSidesSF%20-%20AI%20Village%20-%20Holistic%20ML%20threat%20models.pdf)
+* [Graph the planet, 2024](Graph%20the%20planet%20-%20Holistic%20ML%20threat%20models.pdf)
 
 Authored by:
 
