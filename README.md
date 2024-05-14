@@ -533,6 +533,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Unibot Router](https://unibot.app/) | Dec 2023 | 1.6 |  | [📄✅](reviews/2023-12-unibot-securityreview.pdf) |
 | [Salty.IO Protocol](https://docs.salty.io/) | Oct 2023 | 6 |  | [📄✅](reviews/2023-10-saltyio-securityreview.pdf) |
 | [Immutable ZKEVM Bridge Contracts](https://www.immutable.com/) | Nov 2023 | 2 |  | [📄✅](reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf) |
+| [Spiko Smart Contracts](https://www.spiko.xyz/) | Oct 2023 | 1 |  | [📄✅](reviews/2023-10-spiko-securityreview.pdf) |
 | [Hyperlane v3](https://www.hyperlane.xyz/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-hyperlane-securityreview.pdf) |
 | [Elixir Vertex & Injective Contracts](https://elixir.finance/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-elixir-securityreview.pdf) |
 | [Aura](https://lindylabs.net) | August 2023 | 8 | | [📄✅](reviews/2023-08-aura-securityreview.pdf) |
