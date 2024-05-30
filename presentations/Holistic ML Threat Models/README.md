@@ -7,6 +7,7 @@ Presented at:
 
 * [AI Village at BSidesSF, 2024](BSidesSF%20-%20AI%20Village%20-%20Holistic%20ML%20threat%20models.pdf)
 * [Graph the planet, 2024](Graph%20the%20planet%20-%20Holistic%20ML%20threat%20models.pdf)
+* [Tokyo AI (in Japanese), 2024](Tokyo%20AI%20event_%20総合的な機械学習の脅威モデリング.pdf)
 
 Authored by:
 
