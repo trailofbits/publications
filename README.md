@@ -357,6 +357,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [OpenSSL](https://www.openssl.org/) | September 2023 | 9 | [OSTIF Blog](https://ostif.org/openssl-audit-complete/), [OpenSSL Blog](https://www.openssl.org/blog/blog/2024/05/02/ostif/) | [📄✅](reviews/2023-09-openssl-securityreview.pdf) |
 | [Arch Linux Pacman](https://archlinux.org/pacman/) | December 2023 | 2 | [OTF Announcement](https://www.opentech.fund/security-safety-audits/arch-linuxs-pacman-package-manager-security-audit/) | [📄✅](reviews/2023-12-pacman-securityreview.pdf) |
 | [Worldcoin](https://worldcoin.org/) | August 2023 | 6 | | [📄✅](reviews/2023-08-worldcoin-orb-securityreview.pdf) |
 | [cURL HTTP3](https://curl.se/) | December 2023 | 4 | [OSTIF](https://ostif.org/curl-audit-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/) | [📄](reviews/2023-12-curl-http3-securityreview.pdf) |
