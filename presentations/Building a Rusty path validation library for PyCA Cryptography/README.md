@@ -1,5 +1,5 @@
-Implementing X.509 path validation for Python
-=============================================
+Building a Rusty path validation library for PyCA Cryptography
+==============================================================
 
 The Python ecosystem has historically relied on OpenSSL (and its myriad forks) to provide an implementation of X.509 path validation, a little-known but essential component of every secure HTTPS connection made on the modern Internet. This has brought technical debt, developer frustration (due to OpenSSL's poorly documented implementation quirks), and a mottled security history.
 
