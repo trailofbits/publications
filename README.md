@@ -121,6 +121,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
 | [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
 | [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
