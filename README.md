@@ -121,6 +121,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
 | [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
 | [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
@@ -241,6 +242,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [MLSecOps March 20](https://mlsecops.com/podcast/redos-vulnerability-reports-security-relevance-vs.-noisy-nuisance)  | William Woodruff | March 2024 | Supply chain security |
 | [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido | May 2023 | ML security |
 | [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling, cloud-native audits |
 | [Risky Biz 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
@@ -455,11 +457,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Rook](https://github.com/rook/rook/tree/release-1.1) | Dec 2019 | 2 |  [CNCF](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/) | [📄](reviews/rook.pdf) |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | 12 |  [Google](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-security-audit-what-gke-and-anthos-users-need-to-know), [CNCF](https://www.helpnetsecurity.com/2019/08/12/kubernetes-security-matures/) | [📛](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf)[📄](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Security%20Review.pdf)[📰](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20White%20Paper.pdf)
 
-### Invariant Testing and Development Engagements 
+### Invariant Testing and Development Engagements
 
-| Product | Date | Level of <br />Effort | Announcement | Report | Public Suite | 
-| ---| --: | :-: | --- | :-: | --- | 
-| [Curvance](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) | [Public invariants](https://github.com/curvance/Curvance-CantinaCompetition/tree/CodeFAQAndAdjustments/tests/fuzzing) | 
+| Product | Date | Level of <br />Effort | Announcement | Report | Public Suite |
+| ---| --: | :-: | --- | :-: | --- |
+| [Curvance](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) | [Public invariants](https://github.com/curvance/Curvance-CantinaCompetition/tree/CodeFAQAndAdjustments/tests/fuzzing) |
 
 ### Blockchain Reviews
 
