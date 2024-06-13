@@ -204,6 +204,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Build Provenance: Lessons (so far) from Homebrew](presentations/Build%20Provenance:%20Lessons%20(so%20Far)%20from%20Homebrew) | Joe Sweeney | 2024 |
 | [What does it look like to code-sign for an entire packaging ecosystem?](presentations/What%20does%20it%20look%20like%20to%20code-sign%20for%20an%20entire%20packaging%20ecosystem/) | William Woodruff | 2023 |
 | [Securing your Package Ecosystem with Trusted Publishing](presentations/Securing%20your%20Package%20Ecosystem%20with%20Trusted%20Publishing) | William Woodruff | 2023 |
 | [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
