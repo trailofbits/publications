@@ -524,6 +524,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs Arbitrum Stylus](https://www.offchainlabs.com/) | May 2024 | 47 |  | [📄](reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf) |
 | [Hydrogen Labs Rover Protocol](https://roverstaking.com/) | May 2024 | .45 |  | [📄](reviews/2024-05-hydrogenlabs-securityreview.pdf) |
 | [Lisk Smart Contracts](https://lisk.com/) | May 2024 | 4 |  | [📄✅](reviews/2024-05-lisksmartcontracts-securityreview.pdf) |
 | [Offchain Labs BoLD](https://www.offchainlabs.com/) | April 2024 | 5 |  | [📄](reviews/2024-04-offchainbold-securityreview.pdf) |
