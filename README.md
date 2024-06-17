@@ -360,6 +360,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Eclipse Temurin](https://adoptium.net/temurin/) | December 2023 | 4 | [Eclipse Temurin Response](https://adoptium.net/pdf/temurin-audit-response.pdf), [OSTIF Announcement](https://ostif.org/temurin-audit-complete/), [Eclipse Foundation Announcement](https://adoptium.net/blog/2024/06/external_audit) | [📄✅](reviews/2023-12-eclipse-temurin-securityreview.pdf) |
 | [OpenSSL](https://www.openssl.org/) | September 2023 | 9 | [OSTIF Blog](https://ostif.org/openssl-audit-complete/), [OpenSSL Blog](https://www.openssl.org/blog/blog/2024/05/02/ostif/) | [📄✅](reviews/2023-09-openssl-securityreview.pdf) |
 | [Arch Linux Pacman](https://archlinux.org/pacman/) | December 2023 | 2 | [OTF Announcement](https://www.opentech.fund/security-safety-audits/arch-linuxs-pacman-package-manager-security-audit/) | [📄✅](reviews/2023-12-pacman-securityreview.pdf) |
 | [Worldcoin](https://worldcoin.org/) | August 2023 | 6 | | [📄✅](reviews/2023-08-worldcoin-orb-securityreview.pdf) |
