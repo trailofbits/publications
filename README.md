@@ -463,7 +463,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report | Public Suite |
 | ---| --: | :-: | --- | :-: | --- |
-| [Curvance](https://www.curvance.com/) | March 2024 | 9 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) | [Public invariants](https://github.com/curvance/Curvance-CantinaCompetition/tree/CodeFAQAndAdjustments/tests/fuzzing) |
+| [Panoptic](https://panoptic.xyz/) | May 2024 | 9 |  | [📄](reviews/2024-05-panoptic-liquidation-engine-invariant-development.pdf) | |
+| [Curvance](https://www.curvance.com/) | March 2024 | 5 |  | [📄](reviews/2024-03-curvance-invariant-development.pdf) | [Public invariants](https://github.com/curvance/Curvance-CantinaCompetition/tree/CodeFAQAndAdjustments/tests/fuzzing) |
 
 ### Blockchain Reviews
 
