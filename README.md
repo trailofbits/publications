@@ -472,6 +472,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Uniswap Browser Extension](https://uniswap.org/) | Feb 2024 | 6 |  | [📄✅](reviews/2024-02-uniswap-wallet-browserextension-securityreview.pdf) |
 | [Uniswap](https://uniswap.org/) | Sep 2023 | 4 |  | [📄✅](reviews/2023-09-uniswap-wallet-securityreview.pdf) |
 | [dappOS v2 virtual wallet](https://dappos.com/) | Jul 2023 | 3 |  | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
 | [WalletConnect v2.0](https://walletconnect.com/) | Mar 2023 | 4 | [WalletConnect](https://medium.com/walletconnect/walletconnect-v2-0s-independent-security-audit-by-trail-of-bits-e8e59d11e517) | [📄✅](reviews/2023-03-walletconnectv2-securityreview.pdf) |
