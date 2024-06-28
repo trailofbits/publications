@@ -121,6 +121,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
 | [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
