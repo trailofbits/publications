@@ -33,6 +33,8 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [VAST: MLIR compiler for C/C++](papers/vast-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
+| [PoTATo: Points-to analysis via domain specific MLIR dialect](papers/potato-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
 | [Careful with MAc-then-SIGn: A Computational Analysis of the EDHOC Lightweight Authenticated Key Exchange Protocol](papers/edhoc-euros&P-2023.pdf) | [Euro S&P 2023](https://www.ieee-security.org/TC/EuroSP2023/index.html) | 2023|
 | [Weak Fiat-Shamir Attacks on Modern Proof Systems](papers/weakfs_ieee_s&p_2023.pdf) | [IEEE S&P 2023](https://eprint.iacr.org/2023/691)| 2023 |
 | [Endoprocess: Programmable and Extensible Subprocess Isolation](https://dl.acm.org/doi/10.1145/3633500.3633507) | [NSPW 2023](https://www.nspw.org/2023/program) | 2023 |
