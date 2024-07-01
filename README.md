@@ -4,6 +4,7 @@
 * [Conference Presentations](#conference-presentations)
   * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
   * [Blockchain](#blockchain)
+  * [Compilers](#compilers)
   * [Cryptography](#cryptography)
   * [Engineering](#engineering)
   * [Education](#education)
@@ -11,7 +12,6 @@
   * [Machine Learning](#machine-learning)
   * [Mobile security](#mobile-security)
   * [Programming](#programming)
-  * [Program Transformation](#program-transformation)
   * [Side channels](#side-channels)
   * [Supply chain](#supply-chain)
   * [Threat analysis & malware](#threat-analysis--malware)
@@ -33,6 +33,8 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [VAST: MLIR compiler for C/C++](papers/vast-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
+| [PoTATo: Points-to analysis via domain specific MLIR dialect](papers/potato-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
 | [Careful with MAc-then-SIGn: A Computational Analysis of the EDHOC Lightweight Authenticated Key Exchange Protocol](papers/edhoc-euros&P-2023.pdf) | [Euro S&P 2023](https://www.ieee-security.org/TC/EuroSP2023/index.html) | 2023|
 | [Weak Fiat-Shamir Attacks on Modern Proof Systems](papers/weakfs_ieee_s&p_2023.pdf) | [IEEE S&P 2023](https://eprint.iacr.org/2023/691)| 2023 |
 | [Endoprocess: Programmable and Extensible Subprocess Isolation](https://dl.acm.org/doi/10.1145/3633500.3633507) | [NSPW 2023](https://www.nspw.org/2023/program) | 2023 |
@@ -117,6 +119,15 @@
 | [Binary analysis, meet the blockchain](presentations/Binary%20analysis%2C%20meet%20the%20blockchain) | Mark Mossberg | 2018 |
 | [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano, Josselin Feist | 2017 |
 
+### Compilers
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+| [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
+| [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
+| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Eric Schulte, Michael D. Brown, Vlad Folts | 2022 |
+| [On the Optimization of Equivalent Concurrent Computations](presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf) | Henrich Lauko, Lukáš Korenčik, Peter Goodman | 2022 |
+
+
 ### Cryptography
 
 | Presentation Title | Author(s) | Year |
@@ -187,12 +198,6 @@
 | [Python internals - let's talk about dicts](presentations/Python%20internals%20-%20lets%20talk%20about%20dicts) | Dominik Czarnota | 2019 |
 | [Low-level debugging with Pwndbg](presentations/Low-level%20debugging%20with%20Pwndbg) | Dominik Czarnota | 2018 |
 | [Insecure Things to Avoid in Python](presentations/Insecure%20Things%20to%20Avoid%20in%20Python) | Dominik Czarnota | 2018 |
-
-### Program Transformation
-| Presentation Title | Author(s) | Year |
-| --- | --- | --- |
-| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Eric Schulte, Michael D. Brown, Vlad Folts | 2022 |
-| [On the Optimization of Equivalent Concurrent Computations](presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf) | Henrich Lauko, Lukáš Korenčik, Peter Goodman | 2022 |
 
 ### Side channels
 
