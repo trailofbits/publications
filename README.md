@@ -540,6 +540,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Hydrogen Labs Rover Protocol](https://roverstaking.com/) | May 2024 | .45 |  | [📄](reviews/2024-05-hydrogenlabs-securityreview.pdf) |
 | [Lisk Smart Contracts](https://lisk.com/) | May 2024 | 4 |  | [📄✅](reviews/2024-05-lisksmartcontracts-securityreview.pdf) |
 | [Offchain Labs BoLD](https://www.offchainlabs.com/) | April 2024 | 5 |  | [📄](reviews/2024-04-offchainbold-securityreview.pdf) |
+| [SEDA Chain Token Migration](https://www.seda.xyz/) | March 2024 | 1 |  | [📄✅](reviews/2024-03-seda-chaintokenmigration-securityreview.pdf) |
 | [Lisk Smart Contracts](https://lisk.com/) | March 2024 | 4.6 |  | [📄✅](reviews/2024-03-lisksmartcontracts-securityreview.pdf) |
 | [Bondex Ecosystem Ltd. Smart Contracts](https://bondex.app/) | March 2024 | 0.6 |  | [📄](reviews/2024-03-bondexecosystem-loa.pdf) |
 | [Aladdin f(x) Protocol](https://fx.aladdin.club/) | March 2024 | 4 |  | [📄✅](reviews/2024-03-aladdinfxprotocol-securityreview.pdf) |
