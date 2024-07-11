@@ -536,6 +536,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Ethereum Foundation Devcon Auction Raffle](https://raffle.devcon.org/) | June 2024 | 1 | | [📄✅](reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf) |
+| [Aladdin f(x) Oracle](https://fx.aladdin.club/) | June 2024 | 2 |  | [📄✅](reviews/2024-06-aladdinfx-oracle-securityreview.pdf) |
 | [AiLayer Labs 6079 Smart Contracts](https://6079.ai) | May 2024 | 3 | | [📄✅](reviews/2024-05-ailayerlabs-6079smartcontracts-securityreview.pdf) |
 | [Offchain Labs Arbitrum Stylus](https://www.offchainlabs.com/) | May 2024 | 47 |  | [📄](reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf) |
 | [Hydrogen Labs Rover Protocol](https://roverstaking.com/) | May 2024 | .45 |  | [📄](reviews/2024-05-hydrogenlabs-securityreview.pdf) |
