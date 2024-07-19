@@ -876,12 +876,18 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Rust crates "stable" and "nightly" might be installed instead of the corresponding toolchains|Crates.io|Max Ammann|2024|❌||
+|num-bigint disclosure|num-bigint|Samuel Moelius|2024|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
+|Linux kernel modules kASLR bypass|Linux|Dominik Czarnota|2024|❌|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
+|Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|None|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
+|Billion hashes attack against Go JOSE libraries|https://github.com/go-jose/go-jose|Matt Schwager|2023|GO-2023-2334, GO-2023-2409|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
+|Expo Secure Store: Shortening AES GCM Authentication Tags|expo-secure-store|Joop van de Pol|2023|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
 |YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
 |Numbers turned weapons: DoS in Osmosis’ math library|Osmosis|Sam Alws|2023|❌|[💬](https://blog.trailofbits.com/2023/10/23/numbers-turned-weapons-dos-in-osmosis-math-library/)|
 |The issue with ATS in Apple’s macOS and iOS|iOS, iPadOS, tvOS, macOS, and watchOS|Will Brattain|2023|[CVE-2023-38596](https://www.cve.org/cverecord?id=CVE-2023-38596)|[💬](https://blog.trailofbits.com/2023/10/30/the-issue-with-ats-in-apples-macos-and-ios/)|
 |Eth ABI DoS disclosure|ethabi, eth_abi, etheriumjs-abi, alloy-rs|Max Ammann|2023|❌||
-|Security flaws in an SSO plugin for Caddy|caddy-security|Maciej Domanski, Travis Peters, David Pokora|2023|❌|[💬](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)|
+|Security flaws in an SSO plugin for Caddy|caddy-security|Maciej Domanski, Travis Peters, David Pokora|2023|[[CVE-2024-21500](https://www.cve.org/CVERecord?id=CVE-2024-21500) [CVE-2024-21499](https://www.cve.org/CVERecord?id=CVE-2024-21499) [CVE-2024-2149](https://www.cve.org/CVERecord?id=CVE-2024-21498) [CVE-2024-21497](https://www.cve.org/CVERecord?id=CVE-2024-21497) [CVE-2024-21496](https://www.cve.org/CVERecord?id=CVE-2024-21496) [CVE-2024-21493](https://www.cve.org/CVERecord?id=CVE-2024-21493) [CVE-2024-21495](https://www.cve.org/CVERecord?id=CVE-2024-21495) [CVE-2024-21494](https://www.cve.org/CVERecord?id=CVE-2024-21494) [CVE-2024-21492](https://www.cve.org/CVERecord?id=CVE-2024-21492) [CVE-2024-21492](https://www.cve.org/CVERecord?id=CVE-2024-21492) [CVE-2023-52430](https://www.cve.org/CVERecord?id=CVE-2023-52430)](https://www.cve.org/cverecord?id=[CVE-2024-21500](https://www.cve.org/CVERecord?id=CVE-2024-21500) [CVE-2024-21499](https://www.cve.org/CVERecord?id=CVE-2024-21499) [CVE-2024-2149](https://www.cve.org/CVERecord?id=CVE-2024-21498) [CVE-2024-21497](https://www.cve.org/CVERecord?id=CVE-2024-21497) [CVE-2024-21496](https://www.cve.org/CVERecord?id=CVE-2024-21496) [CVE-2024-21493](https://www.cve.org/CVERecord?id=CVE-2024-21493) [CVE-2024-21495](https://www.cve.org/CVERecord?id=CVE-2024-21495) [CVE-2024-21494](https://www.cve.org/CVERecord?id=CVE-2024-21494) [CVE-2024-21492](https://www.cve.org/CVERecord?id=CVE-2024-21492) [CVE-2024-21492](https://www.cve.org/CVERecord?id=CVE-2024-21492) [CVE-2023-52430](https://www.cve.org/CVERecord?id=CVE-2023-52430))|[💬](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)|
 |ktor Path Traversal|ktor|Vasco Franco|2023|[CVE-2022-48476](https://www.cve.org/cverecord?id=CVE-2022-48476)||
 |Specialized Zero-Knowledge Proof failures|Binance's tss-lib; All forks of tss-lib: Joltify, SwipeChain, and ThorChain; Coinbase's kryptology|Opal Wright|2022|❌|[💬](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)|
 |Forgery in Amis' Alice library|[Amis' alice](https://github.com/getamis/alice#acknowledgments)|Filipe Casal|2022|❌||
@@ -895,6 +901,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 |Shamir’s Secret Sharing vulnerabilities|Binance’s [tss-lib](https://github.com/binance-chain/tss-lib); Clover Network’s [threshold-crypto](https://github.com/clover-network/threshold-crypto); Keep Network’s [keep-ecdsa](https://github.com/keep-network/keep-ecdsa); Swingby’s [tss-lib](https://github.com/SwingbyProtocol/tss-lib); THORchain’s [tss-lib](https://gitlab.com/thorchain/tss/tss-lib); ZenGo X’s [curv](https://github.com/ZenGo-X/curv)|Filipe Casal|2021|❌|[💬](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)|
 |OSX slack:// protocol handler javascript injection|Slack|Jay Little|2016|❌|[💬](https://hackerone.com/reports/79348)|
 |Double free in VLC's 3GP file format|VLC|Loren Maggiore|2015|[CVE-2015-5949](https://www.cve.org/cverecord?id=CVE-2015-5949)|[💬](https://blog.trailofbits.com/2015/09/10/summer-trail-of-bits/)|
+
+
 
 ## Workshops
 
