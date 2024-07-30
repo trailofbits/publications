@@ -144,7 +144,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Introduction to Semgrep](presentations/Introduction%20To%20Semgrep/Testing%20Handbook%20-%20Semgrep.pdf)and<br /> [Semgrep Practice Exercises](presentations/Introduction%20To%20Semgrep/TrailofBits_Semgrep_Practice_Exercises.pdf) | Maciej Domański, Matt Schwager, Spencer Michaels | 2024 |
+| [Introduction to Semgrep](presentations/Introduction%20To%20Semgrep/Testing%20Handbook%20-%20Semgrep.pdf) and<br /> [Semgrep Practice Exercises](presentations/Introduction%20To%20Semgrep/TrailofBits_Semgrep_Practice_Exercises.pdf) | Maciej Domański, Matt Schwager, Spencer Michaels | 2024 |
 | [A mostly gentle introduction to LLVM](presentations/A%20mostly%20gentle%20introduction%20to%20LLVM) | William Woodruff | 2022 |
 | [JWTs, and why they suck](presentations/JWTs,%20and%20why%20they%20suck) | Rory M | 2021 |
 | [The Joy of Pwning](presentations/The%20Joy%20of%20Pwning) | Sophia D'Antoine | 2017 |
