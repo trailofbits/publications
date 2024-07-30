@@ -535,6 +535,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs Arbitrum Token Bridge Creator](https://www.offchainlabs.com/) | December 2023 | 6 |  | [📄](reviews/2023-12-offchain-labs-arbitrum-token-bridge-creator-securityreview.pdf) |
 | [Offchain Labs L1-L3 Teleporter](https://www.offchainlabs.com/) | April 2024 | 2 |  | [📄](reviews/2024-04-offchain-l1-l3-teleporter-securityreview.pdf) |
 | [Offchain Labs ArbOS 31](https://www.offchainlabs.com/) | April 2024 | 2 |  | [📄](reviews/2024-04-offchain-arbos-31-securityreview.pdf) |
 | [Offchain Labs ArbOS 30 Nitro Upgrade](https://www.offchainlabs.com/) | April 2024 | 6 |  | [📄](reviews/2024-04-offchain-arbos-30-nitro-upgrade-securityreview.pdf) |
