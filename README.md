@@ -93,9 +93,9 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Test your tests: the do's and don'ts of testing](https://youtu.be/tZDV47JzSw0?si=wK0IMoCA5m4HXe-C) | Kurt Willis | 2023 |
-| [Slither: a static analysis tool for Vyper and Solidity](https://youtu.be/UolRTfsFx3Q?si=JPJROuunWn9lfzyV) | Troy Sargent | 2023 |
-| [Roundme: rounding analysis made simpler](https://youtu.be/mgJXzBNPy0U?si=D8VofSoJVR9U7nqk) | Josselin Feist | 2023 |
+| [Test your tests: the do's and don'ts of testing](presentations/TrustX%202023/Test%20Your%20Tests) | Kurt Willis | 2023 |
+| [Slither: a static analysis tool for Vyper and Solidity](presentations/TrustX%202023/Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer) | Troy Sargent | 2023 |
+| [Roundme: rounding analysis made simpler](presentations/TrustX%202023/roundme) | Josselin Feist | 2023 |
 | [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 |
 | [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 |
 | [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
