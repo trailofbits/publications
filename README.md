@@ -888,6 +888,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 |---|---|---|---|---|---|
 |Rust crates "stable" and "nightly" might be installed instead of the corresponding toolchains|Crates.io|Max Ammann|2024|❌||
 |num-bigint disclosure|num-bigint|Samuel Moelius|2024|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
+|Memory corruption during X.509 validation in GnuTLS|GnuTLS|William Woodruff|2024|[CVE-2024-28835](https://www.cve.org/cverecord?id=CVE-2024-28835)||
 |Linux kernel modules kASLR bypass|Linux|Dominik Czarnota|2024|❌|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
 |Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|None|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
@@ -911,8 +912,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 |Shamir’s Secret Sharing vulnerabilities|Binance’s [tss-lib](https://github.com/binance-chain/tss-lib); Clover Network’s [threshold-crypto](https://github.com/clover-network/threshold-crypto); Keep Network’s [keep-ecdsa](https://github.com/keep-network/keep-ecdsa); Swingby’s [tss-lib](https://github.com/SwingbyProtocol/tss-lib); THORchain’s [tss-lib](https://gitlab.com/thorchain/tss/tss-lib); ZenGo X’s [curv](https://github.com/ZenGo-X/curv)|Filipe Casal|2021|❌|[💬](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)|
 |OSX slack:// protocol handler javascript injection|Slack|Jay Little|2016|❌|[💬](https://hackerone.com/reports/79348)|
 |Double free in VLC's 3GP file format|VLC|Loren Maggiore|2015|[CVE-2015-5949](https://www.cve.org/cverecord?id=CVE-2015-5949)|[💬](https://blog.trailofbits.com/2015/09/10/summer-trail-of-bits/)|
-
-
 
 ## Workshops
 
