@@ -883,7 +883,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Service Title | Type of Document |
 | --- | --- |
-| [AI Safety & Security Training](service-overviews/AI-safety-security-training.pdf) | One pager |
+| [AI Safety & Security Training](service-overviews/AI-safety-security-training.pdf) | One-page service overview |
 
 # Legend
 
