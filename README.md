@@ -28,7 +28,7 @@
   * [Blockchain Reviews](#blockchain-reviews)
 * [Disclosures](#disclosures)
 * [Workshops](#workshops)
-* [Service Overviews] (#service-overviews)
+* [Service Overviews](#service-overviews)
 * [Legend](#legend)
 ## Academic Papers
 
