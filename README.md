@@ -566,14 +566,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Offchain Labs ArbOS](https://www.offchainlabs.com/) | Feb 2024 | 4 |  | [📄](reviews/2024-02-offchainlabsarbos-securityreview.pdf) |
 | [MetaLayer Blast](https://blast.io/en) | Jan 2024 | 4 |  | [📄✅](reviews/2024-01-metalayerblast-securityreview.pdf) |
 | [Offchain Arbitrum](https://www.offchainlabs.com/) | Jan 2024 | 2 |  | [📄](reviews/2024-01-offchainarbitrum-securityreview.pdf) |
-| [Opus](https://lindylabs.net/opus) | December 2023 | 8 | | [📄✅](reviews/2023-12-opus-contracts-securityreview.pdf) |
 | [Unibot Router](https://unibot.app/) | Dec 2023 | 1.6 |  | [📄✅](reviews/2023-12-unibot-securityreview.pdf) |
 | [Salty.IO Protocol](https://docs.salty.io/) | Oct 2023 | 6 |  | [📄✅](reviews/2023-10-saltyio-securityreview.pdf) |
 | [Immutable ZKEVM Bridge Contracts](https://www.immutable.com/) | Nov 2023 | 2 |  | [📄✅](reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf) |
 | [Spiko Smart Contracts](https://www.spiko.xyz/) | Oct 2023 | 1 |  | [📄✅](reviews/2023-10-spiko-securityreview.pdf) |
 | [Hyperlane v3](https://www.hyperlane.xyz/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-hyperlane-securityreview.pdf) |
 | [Elixir Vertex & Injective Contracts](https://elixir.finance/) | Sept 2023 | 2 |  | [📄✅](reviews/2023-09-elixir-securityreview.pdf) |
-| [Aura](https://lindylabs.net) | August 2023 | 8 | | [📄✅](reviews/2023-08-aura-securityreview.pdf) |
 | [Easy Crypto NZDD token](https://easycrypto.com/) | Aug 2023 | 0.6 |  | [📄✅](reviews/2023-08-easycrypto-securityreview.pdf) |
 | [Scroll l2geth [diff] ](https://scroll.io/) | Aug 2023 | 2 |  | [📄](reviews/2023-08-scrollL2geth-securityreview.pdf) |
 | [Scroll l2geth [initial]](https://scroll.io/) | Aug 2023 | 2 |  | [📄](reviews/2023-08-scrollL2geth-initial-securityreview.pdf) |
@@ -769,10 +767,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
 | [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
 
-#### StarkWare
+#### Starknet
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Opus](https://lindylabs.net/opus) | December 2023 | 8 | | [📄✅](reviews/2023-12-opus-contracts-securityreview.pdf) |
+| [Aura](https://lindylabs.net) | August 2023 | 8 | | [📄✅](reviews/2023-08-aura-securityreview.pdf) |
 | [Nostra](https://docs.tempus.finance/products/nostra) | Dec 2022 | 8 |  |  |
 | [StarkGate](https://starkgate.starknet.io/) | Dec 2022 | 2 |  |  |
 | [StarkEx](https://starkware.co/starkex/) | Oct 2022 | 1 |  |  |
