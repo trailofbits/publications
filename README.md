@@ -34,6 +34,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [Design and Implementation of a Coverage-Guided Ruby Fuzzer](papers/ruzzy-ruby-fuzzer.pdf) | [CSET 24](https://cset24.isi.edu/) | 2024 |
 | [Test Harness Mutilation](papers/test_harness_mutilation.pdf) | [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024) | 2024|
 | [VAST: MLIR compiler for C/C++](papers/vast-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
 | [PoTATo: Points-to analysis via domain specific MLIR dialect](papers/potato-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
