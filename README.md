@@ -188,7 +188,7 @@
 | [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
 | [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
 | [Exploiting Machine Learning Pickle Files](presentations/Never%20a%20Dill%20Moment:%20Exploiting%20Machine%20Learning%20Pickle%20Files) | Carson Harmon, Evan Sultanik, Jim Miller, Suha Sabi Hussain | 2021 |
-| [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven:%20Comprehensive%20Privacy%20Testing%20for%20Deep%20Learning) | Suha Hussain | 2020 |
+| [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven:%20Comprehensive%20Privacy%20Testing%20for%20Deep%20Learning) | Suha Sabi Hussain | 2020 |
 
 ### Mobile security
 
@@ -899,7 +899,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
 |Billion hashes attack against Go JOSE libraries|https://github.com/go-jose/go-jose|Matt Schwager|2023|GO-2023-2334, GO-2023-2409|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
 |Expo Secure Store: Shortening AES GCM Authentication Tags|expo-secure-store|Joop van de Pol|2023|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
-|YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
+|YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Sabi Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
 |Numbers turned weapons: DoS in Osmosis’ math library|Osmosis|Sam Alws|2023|❌|[💬](https://blog.trailofbits.com/2023/10/23/numbers-turned-weapons-dos-in-osmosis-math-library/)|
 |The issue with ATS in Apple’s macOS and iOS|iOS, iPadOS, tvOS, macOS, and watchOS|Will Brattain|2023|[CVE-2023-38596](https://www.cve.org/cverecord?id=CVE-2023-38596)|[💬](https://blog.trailofbits.com/2023/10/30/the-issue-with-ats-in-apples-macos-and-ios/)|
 |Eth ABI DoS disclosure|ethabi, eth_abi, etheriumjs-abi, alloy-rs|Max Ammann|2023|❌||
