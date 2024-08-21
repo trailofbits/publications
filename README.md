@@ -34,6 +34,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
+| [A Broad Comparative Evaluation of Software Debloating Tools](papers/debloater-eval.pdf) | [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) | 2024 |
 | [PolyTracker: Whole-Input Dynamic Information Flow Tracing](papers/issta24-polytracker.pdf) | [ISSTA 2024](https://conf.researchr.org/details/issta-ecoop-2024/issta-ecoop-2024-tool-demonstrations/7/PolyTracker-Whole-Input-Dynamic-Information-Flow-Tracing) | 2024 |
 | [Endokernel: A Thread Safe Monitor for Lightweight Subprocess Isolation](papers/usenixsecurity24-endokernel.pdf) | [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-fangfei) | 2024 |
 | [Design and Implementation of a Coverage-Guided Ruby Fuzzer](papers/ruzzy-ruby-fuzzer.pdf) | [CSET 24](https://cset24.isi.edu/) | 2024 |
@@ -130,9 +131,10 @@
 ### Compilers
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [A Broad Comparative Evaluation of Software Debloating Tools](presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf) | Michael D. Brown, Adam Meily, Eric Kilmer, Ronald Eytchison | 2024 |
 | [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
 | [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
-| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Eric Schulte, Michael D. Brown, Vlad Folts | 2022 |
+| [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Michael D. Brown | 2022 |
 | [On the Optimization of Equivalent Concurrent Computations](presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf) | Henrich Lauko, Lukáš Korenčik, Peter Goodman | 2022 |
 
 
