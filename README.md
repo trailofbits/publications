@@ -35,6 +35,8 @@
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
 | [A Broad Comparative Evaluation of Software Debloating Tools](papers/debloater-eval.pdf) | [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) | 2024 |
+| [PolyTracker: Whole-Input Dynamic Information Flow Tracing](papers/issta24-polytracker.pdf) | [ISSTA 2024](https://conf.researchr.org/details/issta-ecoop-2024/issta-ecoop-2024-tool-demonstrations/7/PolyTracker-Whole-Input-Dynamic-Information-Flow-Tracing) | 2024 |
+| [Endokernel: A Thread Safe Monitor for Lightweight Subprocess Isolation](papers/usenixsecurity24-endokernel.pdf) | [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-fangfei) | 2024 |
 | [Design and Implementation of a Coverage-Guided Ruby Fuzzer](papers/ruzzy-ruby-fuzzer.pdf) | [CSET 24](https://cset24.isi.edu/) | 2024 |
 | [Test Harness Mutilation](papers/test_harness_mutilation.pdf) | [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024) | 2024|
 | [VAST: MLIR compiler for C/C++](papers/vast-eurollvm-poster.pdf) | [EuroLLVM Devs' Meeting 2024](https://llvm.swoogo.com/2024eurollvm) | 2024 |
