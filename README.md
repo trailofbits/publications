@@ -29,6 +29,7 @@
 * [Disclosures](#disclosures)
 * [Workshops](#workshops)
 * [Service Overviews](#service-overviews)
+* [Research Reports](#research-reports)
 * [Legend](#legend)
 ## Academic Papers
 
