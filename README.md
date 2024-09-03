@@ -944,6 +944,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- |
 | [AI Safety & Security Training](service-overviews/AI-safety-security-training.pdf) | One-page service overview |
 
+## Research Reports
+
+| Report Title | Description |
+| --- | --- |
+| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Comparative assessment of the security properties of selected policy languages. |
+
 # Legend
 
 | Icon | Definition |
