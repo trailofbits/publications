@@ -550,7 +550,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Uniswap v4 Core] (https://docs.uniswap.org/contracts/v4/concepts/intro-to-v4) | July 2024 | 6 | | [📄✅](reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
+| [Uniswap v4 Core](https://docs.uniswap.org/contracts/v4/concepts/intro-to-v4) | July 2024 | 6 | | [📄✅](reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
 | [Taraxa Ficus Root Bridge Smart Contracts](https://docs.taraxa.io/) | July 2024 | 1.6 |  | [📄✅](reviews/2024-07-taraxa-bridge-smart-contracts-v2-securityreview.pdf) |
 | [Intuition](https://www.intuition.systems) | March 2024 | 2 |  | [📄](reviews/2024-03-intuition-smart-contracts-securityreview.pdf) |
 | [Offchain Labs BoLD and DAC Rewards Updates](https://www.offchainlabs.com/) | June 2024 | 3 |  | [📄](reviews/2024-06-offchain-labs-bold-dac-rewards-updates-securityreview.pdf) |
