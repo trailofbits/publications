@@ -554,6 +554,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain USDC Custom Gateway](https://www.offchainlabs.com/) | July 2024 | 2 | | [📄](reviews/2024-08-offchainlabs-usdc-custom-gateway-securityreview.pdf) |
 | [Treehouse tETH Protocol](https://www.treehouse.finance/) | September 2024 | 4 | | [📄✅](reviews/2024-09-treehouse-finance-teth-extension-securityreview.pdf) |
 | [Acronym Foundation](https://acronymfoundation.org/) | December 2023 | 4 | | [📄✅](reviews/2023-12-acronym-foundation-securityreview.pdf) |
 | [Pyth Entropy](https://docs.pyth.network/entropy) | December 2023 | 4 | | [📄](reviews/2024-01-pyth-entropy-securityreview.pdf) |
