@@ -340,6 +340,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | June 2024 | 10 |  | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Discord DAVE Protocol Code Review](https://discord.com/) | September 2024 | 5 |  | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
 | [Discord DAVE Protocol Design Review](https://discord.com/) | November 2023 | 4 |  | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
 | [Scroll zstd Compression](https://scroll.io/) | June 2024 | 12 |  | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
@@ -556,6 +557,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Wonderland Prophet](https://defi.sucks/) | May 2024 | 4 |  | [📄✅](reviews/2024-05-wonderland-prophet-securityreview.pdf) |
+| [Offchain Stylus](https://www.offchainlabs.com/) | September 2024 | 2 |  | [📄✅](reviews/2024-09-offchain-stylus-securityreview.pdf) |
 | [Elixir Protocol](https://www.elixir.xyz/) | August 2024 | 4 |  | [📄✅](reviews/2024-08-elixir-technologies-ltd-elixir-protocol-securityreview.pdf) |
 | [Offchain RARI](https://www.offchainlabs.com/) | August 2024 | .6 | | [📄](reviews/2024-08-offchainlabs-register-and-set-arb-custom-gateway-action-governance-action-securityreview.pdf) |
 | [Offchain Office Hours Governance Action](https://www.offchainlabs.com/) | August 2024 | .6 | | [📄](reviews/2024-08-offchainlabs-office-hours-governance-action-securityreview.pdf) |
