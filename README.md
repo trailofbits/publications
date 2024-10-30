@@ -557,6 +557,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Nitro Contracts with BoLD](https://www.offchainlabs.com/) | October 2024 | 2.6 |  | [📄](reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf) |
 | [Wonderland Prophet](https://defi.sucks/) | May 2024 | 4 |  | [📄✅](reviews/2024-05-wonderland-prophet-securityreview.pdf) |
 | [Offchain Stylus](https://www.offchainlabs.com/) | September 2024 | 2 |  | [📄✅](reviews/2024-09-offchain-stylus-securityreview.pdf) |
 | [Elixir Protocol](https://www.elixir.xyz/) | August 2024 | 4 |  | [📄✅](reviews/2024-08-elixir-technologies-ltd-elixir-protocol-securityreview.pdf) |
