@@ -224,6 +224,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [The Next 5 Years of Supply Chain Security on PyPI](presentations/The%20Next%205%20Years%20of%20Supply%20Chain%20Security%20on%20PyPI/) | William Woodruff | 2024 |
 | [PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem](presentations/PEP%20740%20and%20PyPI:%20Bootstrapping%20Provenance%20for%20the%20Python%20Ecosystem) | William Woodruff | 2024 |
 | [Imagining a zero-trust future for PyPI](presentations/Imagining%20a%20zero-trust%20future%20for%20PyPI) | William Woodruff | 2024 |
 | [Build Provenance: Lessons (so far) from Homebrew](presentations/Build%20Provenance:%20Lessons%20(so%20Far)%20from%20Homebrew) | Joe Sweeney | 2024 |
