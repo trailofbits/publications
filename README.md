@@ -347,6 +347,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll zstd Compression](https://scroll.io/) | June 2024 | 12 |  | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | April 2024 | 1 |  | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Scroll ZkEVM 4844 Blob](https://scroll.io/) | April 2024 | 6 |  | [📄✅](reviews/2024-04-scroll-4844-blob-securityreview.pdf) |
+| [Snow](https://github.com/mcginty/snow) | January 2024 | 4 |  | [📄✅](reviews/reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
 | [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 |  | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
 | [Scroll ZkEVM Wave 3](https://scroll.io/) | Sept 2023 | 9 |  | [📄✅](reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf) |
