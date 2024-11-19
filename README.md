@@ -843,6 +843,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Orga and Merk](https://turbofish.org/) | Nov 2024 | 10 | [Orga & Merk Trail of Bits Security Audit](https://turbofish.org/blog/audit) | [📄✅](reviews/2024-11-orgaandmerk-securityreview.pdf) |
 | [Berachain Polaris API polaris-geth](https://www.berachain.com/) | Aug 2023 | 8 | | |
 | [Berachain berachain](https://www.berachain.com/) | Jun 2023 | 6 | | |
 | [Umee](https://www.umee.cc/) | Feb 2022 | 8 | | [📄](reviews/Umee.pdf) |
