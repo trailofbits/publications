@@ -561,6 +561,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Plume](https://www.plumenetwork.xyz/) | November 2024 | 1 |  | [📄✅](reviews/2024-11-plume-securityreview.pdf) |
 | [Offchain Arbitrum Chains Challenge Protocol v2](https://www.offchainlabs.com/) | August 2023 | 20 |  | [📄✅](reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf) |
 | [Offchain Stylus Emergency Fixes Review](https://www.offchainlabs.com/) | October 2024 | 2 |  | [📄](reviews/2024-10-offchain-stylus-emergency-fixes-securityreview.pdf) |
 | [Offchain BoLD Optimized History Commitments](https://www.offchainlabs.com/) | October 2024 | 2 |  | [📄](reviews/2024-10-offchain-bold-optimized-history-commit-securityreview.pdf) |
