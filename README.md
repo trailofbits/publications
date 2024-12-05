@@ -341,6 +341,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Aligned](https://www.alignedlayer.com/) | December 2024 | 3 |  | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | June 2024 | 10 |  | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Discord DAVE Protocol Code Review](https://discord.com/) | September 2024 | 5 |  | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
 | [Discord DAVE Protocol Design Review](https://discord.com/) | November 2023 | 4 |  | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
