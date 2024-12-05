@@ -871,6 +871,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Arkis DeFi Prime Brokerage ](https://www.arkis.xyz/) | December 2024 | 5 |  | [📄✅](reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf) |
 | [Wormhole Governors and Watchers](https://wormhole.com/) | March 2023 | 8 |  | [📄✅](reviews/2023-03-wormhole-securityreview.pdf) |
 | [DFINITY Canister Sandbox](https://dfinity.org/) | Sept 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf)[✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
 | [DFINITY Threshold ECDSA <br>& BTC Canisters](https://dfinity.org/) | Sept 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf)[✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
