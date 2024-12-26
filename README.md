@@ -563,6 +563,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain BoLD Fixes](https://www.offchainlabs.com/) | December 2024 | 0.6 |  | [📄](reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
 | [EthStaker Deposit CLI](https://ethstaker.cc/) | December 2024 | 4 |  | [📄✅](reviews/2024-12-ethstaker-depositcli-securityreview.pdf) |
 | [Plume](https://www.plumenetwork.xyz/) | November 2024 | 1 |  | [📄✅](reviews/2024-11-plume-securityreview.pdf) |
 | [Offchain Arbitrum Chains Challenge Protocol v2](https://www.offchainlabs.com/) | August 2023 | 20 |  | [📄✅](reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf) |
