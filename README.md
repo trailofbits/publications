@@ -563,6 +563,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Parabol Labs Protocol Contracts](https://parabol.fi/) | January 2025 | 1 | | [📄](reviews/2025-01-parabollabs-protocolcontracts-securityreview.pdf) |
 | [BeethovenX Sonic Staking](https://beets.fi/) | January 2025 | 1 | | [📄✅](reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf) |
 | [ULTI Security Review](https://www.ulti.org/) | December 2024 | 1 |  | [📄✅](reviews/2024-12-ULTI-securityreview.pdf) |
 | [Offchain BoLD Fixes](https://www.offchainlabs.com/) | December 2024 | 0.8 |  | [📄](reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
