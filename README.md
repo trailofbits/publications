@@ -20,7 +20,7 @@
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
 * [Security Reviews](#security-reviews)
-  * [ML/AI Reviews](#mlai-reviews)
+  * [AI/ML Reviews](#aiml-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
@@ -330,7 +330,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### ML/AI Reviews
+### AI/ML Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
