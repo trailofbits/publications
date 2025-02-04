@@ -1,5 +1,6 @@
 # Publications from Trail of Bits
 
+* [White Papers](#white-papers)
 * [Academic Papers](#academic-papers)
 * [Conference Presentations](#conference-presentations)
   * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
@@ -31,11 +32,18 @@
 * [Service Overviews](#service-overviews)
 * [Research Reports](#research-reports)
 * [Legend](#legend)
+
+## White Papers
+| Paper Title | | Author(s) | Publication Date |
+| --- | --- | --- |
+| [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | 2025 |
+| [Input-Driven Recursion: Ongoing Security Risks](https://resources.trailofbits.com/input-driven-recursion-white-paper) | Alexis Challande and Brad Swain | 2024 |
+
+
 ## Academic Papers
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | White paper | 2025 |
 | [A Broad Comparative Evaluation of Software Debloating Tools](papers/debloater-eval.pdf) | [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) | 2024 |
 | [PolyTracker: Whole-Input Dynamic Information Flow Tracing](papers/issta24-polytracker.pdf) | [ISSTA 2024](https://conf.researchr.org/details/issta-ecoop-2024/issta-ecoop-2024-tool-demonstrations/7/PolyTracker-Whole-Input-Dynamic-Information-Flow-Tracing) | 2024 |
 | [Endokernel: A Thread Safe Monitor for Lightweight Subprocess Isolation](papers/usenixsecurity24-endokernel.pdf) | [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-fangfei) | 2024 |
