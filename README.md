@@ -34,7 +34,8 @@
 * [Legend](#legend)
 
 ## White Papers
-| Paper Title | | Author(s) | Publication Date |
+
+| Paper Title | Author(s) | Publication Date |
 | --- | --- | --- |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](https://resources.trailofbits.com/input-driven-recursion-white-paper) | Alexis Challande and Brad Swain | 2024 |
