@@ -35,7 +35,7 @@
 
 | Paper Title | Venue | Publication Date |
 | --- | --- | --- |
-| [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Best Practices](papers/account-takeover-recommended-practices.pdf) | | 2026 |
+| [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | [White paper] | 2025 |
 | [A Broad Comparative Evaluation of Software Debloating Tools](papers/debloater-eval.pdf) | [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) | 2024 |
 | [PolyTracker: Whole-Input Dynamic Information Flow Tracing](papers/issta24-polytracker.pdf) | [ISSTA 2024](https://conf.researchr.org/details/issta-ecoop-2024/issta-ecoop-2024-tool-demonstrations/7/PolyTracker-Whole-Input-Dynamic-Information-Flow-Tracing) | 2024 |
 | [Endokernel: A Thread Safe Monitor for Lightweight Subprocess Isolation](papers/usenixsecurity24-endokernel.pdf) | [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-fangfei) | 2024 |
