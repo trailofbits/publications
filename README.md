@@ -858,7 +858,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
 | [PINT](https://pub.finance/) | Sept 2021 | 4 | | |
-| [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
+| [Polkaswap](https://soramitsu.co.jp/) | Aug 2021 | 6 | | [📄](reviews/2021-08-soramitsu-polkaswap-securityreview.pdf) |
 | [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | [📄](reviews/AlephBFT.pdf) |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
