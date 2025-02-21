@@ -1,5 +1,6 @@
 # Publications from Trail of Bits
 
+* [White Papers](#white-papers)
 * [Academic Papers](#academic-papers)
 * [Conference Presentations](#conference-presentations)
   * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
@@ -20,7 +21,7 @@
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
 * [Security Reviews](#security-reviews)
-  * [ML/AI Reviews](#mlai-reviews)
+  * [AI/ML Reviews](#aiml-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
@@ -31,6 +32,17 @@
 * [Service Overviews](#service-overviews)
 * [Research Reports](#research-reports)
 * [Legend](#legend)
+
+## White Papers
+
+| Paper Title | Author(s) | Publication Date |
+| --- | --- | --- |
+| [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 5, 2025 |
+| [Input-Driven Recursion: Ongoing Security Risks](https://resources.trailofbits.com/input-driven-recursion-white-paper) | Alexis Challande and Brad Swain | Dec 18, 2024 |
+| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 7, 2023 |
+| [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
+| [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
+
 ## Academic Papers
 
 | Paper Title | Venue | Publication Date |
@@ -146,7 +158,7 @@
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
-| [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
+| [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
 | [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
 | [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
@@ -330,7 +342,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### ML/AI Reviews
+### AI/ML Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
@@ -348,6 +360,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll zstd Compression](https://scroll.io/) | June 2024 | 12 |  | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | April 2024 | 1 |  | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Scroll ZkEVM 4844 Blob](https://scroll.io/) | April 2024 | 6 |  | [📄✅](reviews/2024-04-scroll-4844-blob-securityreview.pdf) |
+| [Snow](https://github.com/mcginty/snow) | January 2024 | 4 |  | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
 | [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 |  | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
 | [Scroll ZkEVM Wave 3](https://scroll.io/) | Sept 2023 | 9 |  | [📄✅](reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf) |
@@ -564,6 +577,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Everstake Ethereum Staking Protocol](https://everstake.one/) | January 2025 | 3 | | [📄✅](reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf) |
+| [Parabol Labs Smart Contracts Updates](https://parabol.fi/) | January 2025 | 0.4 | | [📄](reviews/2025-01-parabollabs-protocolcontractsupdates-securityreview.pdf) |
+| [Parabol Labs Smart Contracts](https://parabol.fi/) | May 2024 | 2 | | [📄✅](reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf) |
 | [BeethovenX Sonic Staking](https://beets.fi/) | January 2025 | 1 | | [📄✅](reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf) |
 | [ULTI Security Review](https://www.ulti.org/) | December 2024 | 1 |  | [📄✅](reviews/2024-12-ULTI-securityreview.pdf) |
 | [Offchain BoLD Fixes](https://www.offchainlabs.com/) | December 2024 | 0.8 |  | [📄](reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
@@ -807,10 +822,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
 | [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
-| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
 | [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
 | [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
+| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
 
 #### Starknet
 
@@ -844,7 +859,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
 | [PINT](https://pub.finance/) | Sept 2021 | 4 | | |
-| [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
+| [Polkaswap](https://soramitsu.co.jp/) | Aug 2021 | 6 | | [📄](reviews/2021-08-soramitsu-polkaswap-securityreview.pdf) |
 | [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | [📄](reviews/AlephBFT.pdf) |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
@@ -872,13 +887,21 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
-| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Dexter](https://dexter.exchange/) | Jun 2020 | 4 | | [📄](reviews/dexter.pdf) |
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
+
+#### TON
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [STON.fi TON AMM DEX V2](https://ston.fi/) | January 2025 | 8 | | [📄✅](reviews/2025-01-stonfi-ton-amm-dex-v2-securityreview.pdf) |
+| [TON Studio Tact Compiler](https://github.com/tact-lang/tact) | January 2025 | 8 | | [📄✅](reviews/2025-01-ton-studio-tact-compiler-securityreview.pdf) |
+| [TON Foundation Multisignature Wallet](https://ton.foundation/en/) | March 2024 | 4 |  | [📄✅](reviews/2024-03-tonfoundation-multisignaturewallet-securityreview.pdf) |
 
 #### Other/Multi-Chain
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Shape Gasback](https://shape.network/) | January 2025 | 2 |  | [📄✅](reviews/2025-01-shape-gasback-securityreview.pdf) |
 | [PixelSwap DEX](https://www.pixelswap.io/) | December 2024 | 6 |  | [📄✅](reviews/2024-12-pixelswap-dex-securityreview.pdf) |
 | [Arkis DeFi Prime Brokerage](https://www.arkis.xyz/) | December 2024 | 5 |  | [📄✅](reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf) |
 | [Wormhole Governors and Watchers](https://wormhole.com/) | March 2023 | 8 |  | [📄✅](reviews/2023-03-wormhole-securityreview.pdf) |
