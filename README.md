@@ -38,7 +38,7 @@
 | Paper Title | Author(s) | Publication Date |
 | --- | --- | --- |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 5, 2025 |
-| [Input-Driven Recursion: Ongoing Security Risks](https://resources.trailofbits.com/input-driven-recursion-white-paper) | Alexis Challande and Brad Swain | Dec 18, 2024 |
+| [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 18, 2024 |
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 7, 2023 |
 | [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
 | [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
