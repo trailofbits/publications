@@ -1011,9 +1011,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ## Research Reports
 
-| Report Title | Description |
-| --- | --- |
-| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Comparative assessment of the security properties of selected policy languages. |
+| Report Title | Year | Description |
+| --- | --- | --- |
+| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | 2024 | Comparative assessment of the security properties of selected policy languages. |
+| [OpenSearch Benchmark Assessment](reviews/OpenSearch-Benchmarking.pdf) | 2024 | Comparative performance assessment of OpenSearch v2.17.1 and Elasticsearch v8.15.4. |
 
 # Legend
 
