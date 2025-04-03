@@ -579,6 +579,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs Sequencer Liveness](https://www.offchainlabs.com/) | March 2025 | 3 | | [📄](reviews/2025-03-offchain-sequencer-liveness-securityreview.pdf) |
+| [Offchain Labs Custom Fee ERC-20 Bridge Upgrade and EIP-7702 Fixes](https://www.offchainlabs.com/) | March 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-erc20-bridge-securityreview.pdf) |
+| [Offchain Labs Geth 14.4 Changes for Pectra](https://www.offchainlabs.com/) | March 2025 | 0.8 | | [📄](reviews/2025-03-offchain-geth-14.4-securityreview.pdf) |
+| [Offchain Labs Custom Fee Token Exchange Rate](https://www.offchainlabs.com/) | March 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-token-exchange-rate-securityreview.pdf) |
+| [Offchain Labs Security Council Rotation Update](https://www.offchainlabs.com/) | March 2025 | 1.6 | | [📄](reviews/2025-03-offchain-security-council-rotation-securityreview.pdf) |
+| [Offchain Labs DisableGateway Action for USDT](https://www.offchainlabs.com/) | March 2025 | 0.4 | | [📄](reviews/2025-03-offchain-disablegateway-action-securityreview.pdf) |
 | [Automata](https://www.ata.network/) | February 2025 | 8 | | [📄✅](reviews/2025-02-automata-dcap-attestation-onchain-pccs-securityreview.pdf) |
 | [Balancer v3](https://balancer.fi/) | December 2024 | 6 | | [📄✅](reviews/2024-12-balancer-v3-securityreview.pdf) |
 | [Everstake Ethereum Staking Protocol](https://everstake.one/) | January 2025 | 3 | | [📄✅](reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf) |
