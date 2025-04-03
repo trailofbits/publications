@@ -274,11 +274,21 @@ We publish much of our subject matter expertise in the form of guides and handbo
 
 ## Podcasts
 
-We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can download episodes from your favorite podcast app.
-
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+
+| [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI security | 
+| [Risky Biz #786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain security |
+| [Security Weekly](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
+| [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
+| [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
+| [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
+| [Risky Biz #759](https://risky.biz/RBNEWSSI40/)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
+| [Risky Biz #759](https://youtu.be/4zpPk3Y4CYA?si=Pvd8px1DQHRPsRtM&t=3046)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
+| [Resilience Rundown](https://www.youtube.com/watch?v=EB2oV1umU3Y&list=PLciHOL_J7IwpS8Cdl9lMB8Mxqu0as8yPi&index=7)  | Josiah Dykstra | May 2024 | Bias in security |
+| [Risky Biz](https://risky.biz/RBNEWSSI40/)  | Dan Guido | Apr 2024 | Open source tooling |
 | [MLSecOps March 20](https://mlsecops.com/podcast/redos-vulnerability-reports-security-relevance-vs.-noisy-nuisance)  | William Woodruff | March 2024 | Supply chain security |
+| [yWhales](https://www.youtube.com/watch?v=LqkH1jYFE2g&list=PLciHOL_J7IwpS8Cdl9lMB8Mxqu0as8yPi&index=6) | Dan Guido | Dec 2023 | Blockchain security |
 | [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido | May 2023 | ML security |
 | [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling, cloud-native audits |
 | [Risky Biz 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
