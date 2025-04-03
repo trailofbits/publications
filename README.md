@@ -353,6 +353,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Open Quantum Safe liboqs](https://openquantumsafe.org/) | April 2025 | 5 | | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Scroll Euclid Phase 2 Letter of Attestation](https://scroll.io) | March 2025 | 4 | | [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
 | [Scroll Euclid Phase 1 Letter of Attestation](https://scroll.io) | March 2025 | 3 | | [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | March 2025 | 11 | | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
