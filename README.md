@@ -982,6 +982,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
 |Crash due to uncontrolled recursion in protobuf crate|rust-protobuf|Alexis Challande, Brad Swain|2024|[RUSTSEC-2024-0437](https://rustsec.org/advisories/RUSTSEC-2024-0437.html)||
 |Denial of Service in XStream|XStream|Alexis Challande, Brad Swain|2024|[GHSA-hfq9-hggm-c56q](https://github.com/advisories/GHSA-hfq9-hggm-c56q)|[💬](https://blog.trailofbits.com/2025/02/21/dont-recurse-on-untrusted-input/)|
 |Denial of Service in protobuf-java|protobuf-java|Alexis Challande, Brad Swain|2024|[GHSA-735f-pc8j-v9w8](https://github.com/advisories/GHSA-735f-pc8j-v9w8)|[💬](https://blog.trailofbits.com/2025/02/21/dont-recurse-on-untrusted-input/)|
