@@ -982,6 +982,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Crash due to uncontrolled recursion in `Well-KnownText`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52981](https://github.com/advisories/GHSA-5xm9-x7x4-4j5x)||
+|Crash due to uncontrolled recursion in `innerForbidCircularReferences`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52980](https://github.com/advisories/GHSA-ghfh-p92w-j4mg)||
+|Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
 |User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195)||
 |Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
 |Crash due to uncontrolled recursion in protobuf crate|rust-protobuf|Alexis Challande, Brad Swain|2024|[RUSTSEC-2024-0437](https://rustsec.org/advisories/RUSTSEC-2024-0437.html)||
