@@ -291,7 +291,7 @@ We publish much of our subject matter expertise in the form of guides and handbo
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/Ml security |
+| [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/ML security |
 | [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain security |
 | [Security Weekly](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
