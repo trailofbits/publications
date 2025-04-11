@@ -571,6 +571,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [ZetaChain Bitcoin Inscriptions](https://www.zetachain.com/) | January 2025 | 2 | | [📄✅](reviews/2025-01-zetachain-bitcoin-inscriptions-securityreview.pdf) |
 | [Nomic](https://www.nomic.io/) | Nov 2024 | 10 | [Nomic Completes Security Audit by Trail of Bits](https://blog.nomic.io/security-audit-trail-of-bits-8ae87ce19bf0) | [📄✅](reviews/2024-11-nomic-securityreview.pdf) |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
@@ -864,6 +865,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [ZetaChain Solana Gateway](https://www.zetachain.com/) | January 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Squads V4](https://squads.so/) | Oct 2023 | 2 | [Announcement](https://x.com/SquadsProtocol/status/1725548225804005464?s=20) | [📄✅](reviews/2023-10-squadsv4-securityreview.pdf) |
 | [Token-2022 Program](https://spl.solana.com/token-2022) | Feb 2023 | 1 |  | [📄✅](reviews/2023-02-solana-token-2022-program-securityreview.pdf) |
 | [Drift Protocol](https://www.drift.trade/) | Dec 2022 | 6 | [Announcement (Tweet)](https://twitter.com/driftprotocol/status/1635630624978640899?s=46&t=f8ijViICJAoKBBoQUh58Og) | [📄✅](reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf) |
