@@ -361,6 +361,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Scroll Euclid Phase 2](https://scroll.io) | April 2025 | 4 | | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) |
+| [Scroll Euclid Phase 1](https://scroll.io) | April 2025 | 3 | | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | April 2025 | 5 | | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Scroll Euclid Phase 2 Letter of Attestation](https://scroll.io) | March 2025 | 4 | | [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
 | [Scroll Euclid Phase 1 Letter of Attestation](https://scroll.io) | March 2025 | 3 | | [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
