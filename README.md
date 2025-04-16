@@ -1,5 +1,6 @@
 # Publications from Trail of Bits
 
+* [White Papers](#white-papers)
 * [Academic Papers](#academic-papers)
 * [Conference Presentations](#conference-presentations)
   * [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
@@ -20,7 +21,7 @@
 * [Podcasts](#podcasts)
 * [Public Comments](#public-comments)
 * [Security Reviews](#security-reviews)
-  * [ML/AI Reviews](#mlai-reviews)
+  * [AI/ML Reviews](#aiml-reviews)
   * [Cryptography Reviews](#cryptography-reviews)
   * [Technology Product Reviews](#technology-product-reviews)
   * [Cloud-native Reviews](#cloud-native-reviews)
@@ -31,6 +32,17 @@
 * [Service Overviews](#service-overviews)
 * [Research Reports](#research-reports)
 * [Legend](#legend)
+
+## White Papers
+
+| Paper Title | Author(s) | Publication Date |
+| --- | --- | --- |
+| [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 5, 2025 |
+| [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 18, 2024 |
+| [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 7, 2023 |
+| [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
+| [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
+
 ## Academic Papers
 
 | Paper Title | Venue | Publication Date |
@@ -146,7 +158,7 @@
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
-| [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
+| [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
 | [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
 | [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
@@ -262,11 +274,19 @@ We publish much of our subject matter expertise in the form of guides and handbo
 
 ## Podcasts
 
-We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can download episodes from your favorite podcast app.
-
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/Ml security |
+| [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain security |
+| [Security Weekly](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
+| [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
+| [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
+| [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
+| [Risky Biz 759](https://youtu.be/4zpPk3Y4CYA?si=Pvd8px1DQHRPsRtM&t=3046)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
+| [Resilience Rundown](https://www.youtube.com/watch?v=EB2oV1umU3Y&list=PLciHOL_J7IwpS8Cdl9lMB8Mxqu0as8yPi&index=7)  | Josiah Dykstra | May 2024 | Bias in security |
+| [Risky Biz](https://risky.biz/RBNEWSSI40/)  | Dan Guido | Apr 2024 | Open source tooling |
 | [MLSecOps March 20](https://mlsecops.com/podcast/redos-vulnerability-reports-security-relevance-vs.-noisy-nuisance)  | William Woodruff | March 2024 | Supply chain security |
+| [yWhales](https://www.youtube.com/watch?v=LqkH1jYFE2g&list=PLciHOL_J7IwpS8Cdl9lMB8Mxqu0as8yPi&index=6) | Dan Guido | Dec 2023 | Blockchain security |
 | [Risky Biz 707](https://risky.biz/RB707/) | Dan Guido | May 2023 | ML security |
 | [ASW 229](https://youtu.be/wHuZzV0Da_s) | Nick Selby | Feb 2023 | Threat modeling, cloud-native audits |
 | [Risky Biz 690](https://risky.biz/RB690/) | Dan Guido | Jan 2023 | Vuln disclosure |
@@ -330,7 +350,7 @@ We host our own podcast: [Trail of Bits](https://trailofbits.audio). You can dow
 
 Companies that have allowed us to speak about our work can be found here. Many more remain confidential.
 
-### ML/AI Reviews
+### AI/ML Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
@@ -341,12 +361,20 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Scroll Euclid Phase 2](https://scroll.io) | April 2025 | 4 | | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) |
+| [Scroll Euclid Phase 1](https://scroll.io) | April 2025 | 3 | | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) |
+| [Open Quantum Safe liboqs](https://openquantumsafe.org/) | April 2025 | 5 | | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
+| [Scroll Euclid Phase 2 Letter of Attestation](https://scroll.io) | March 2025 | 4 | | [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
+| [Scroll Euclid Phase 1 Letter of Attestation](https://scroll.io) | March 2025 | 3 | | [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
+| [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | March 2025 | 11 | | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
+| [Aligned](https://www.alignedlayer.com/) | December 2024 | 3 |  | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | June 2024 | 10 |  | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Discord DAVE Protocol Code Review](https://discord.com/) | September 2024 | 5 |  | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
 | [Discord DAVE Protocol Design Review](https://discord.com/) | November 2023 | 4 |  | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
 | [Scroll zstd Compression](https://scroll.io/) | June 2024 | 12 |  | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | April 2024 | 1 |  | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Scroll ZkEVM 4844 Blob](https://scroll.io/) | April 2024 | 6 |  | [📄✅](reviews/2024-04-scroll-4844-blob-securityreview.pdf) |
+| [Snow](https://github.com/mcginty/snow) | January 2024 | 4 |  | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
 | [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 |  | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
 | [Scroll ZkEVM Wave 3](https://scroll.io/) | Sept 2023 | 9 |  | [📄✅](reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf) |
@@ -388,6 +416,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [RubyGems.org](https://www.rubygems.org) | Dec 2024 | 5 | | [📄](reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf) |
+| [Kraken Wallet In-App Browser](https://www.kraken.com/wallet) | Nov 2024 | 4 | | [📄✅](reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf) |
+| [Kraken Mobile Wallet](https://www.kraken.com/wallet) | Jan 2024 | 7 | [Kraken Blog](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)| [📄✅](reviews/2024-1-kraken-mobile-wallet-securityreview.pdf) |
 | [Kraken Mobile Wallet iCloud Backup](https://www.kraken.com/wallet) | September 2024 | 2 | | [📄✅](reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf) |
 | [Hugging Face Gradio](https://huggingface.co/gradio) | July 2024 | 4 | [Hugging Face Blog](https://huggingface.co/blog/gradio-5-security), [Trail of Bits Blog](https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/) | [📄✅](reviews/2024-10-huggingface-gradio-securityreview.pdf) |
 | [Eclipse Temurin](https://adoptium.net/temurin/) | December 2023 | 4 | [Eclipse Temurin Response](https://adoptium.net/pdf/temurin-audit-response.pdf), [OSTIF Announcement](https://ostif.org/temurin-audit-complete/), [Eclipse Foundation Announcement](https://adoptium.net/blog/2024/06/external_audit) | [📄✅](reviews/2023-12-eclipse-temurin-securityreview.pdf) |
@@ -542,6 +573,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [ZetaChain Bitcoin Inscriptions](https://www.zetachain.com/) | January 2025 | 2 | | [📄✅](reviews/2025-01-zetachain-bitcoin-inscriptions-securityreview.pdf) |
 | [Nomic](https://www.nomic.io/) | Nov 2024 | 10 | [Nomic Completes Security Audit by Trail of Bits](https://blog.nomic.io/security-audit-trail-of-bits-8ae87ce19bf0) | [📄✅](reviews/2024-11-nomic-securityreview.pdf) |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
@@ -559,6 +591,25 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs Sequencer Liveness](https://www.offchainlabs.com/) | March 2025 | 3 | | [📄](reviews/2025-03-offchain-sequencer-liveness-securityreview.pdf) |
+| [Offchain Labs Custom Fee ERC-20 Bridge Upgrade and EIP-7702 Fixes](https://www.offchainlabs.com/) | March 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-erc20-bridge-securityreview.pdf) |
+| [Offchain Labs Geth 14.4 Changes for Pectra](https://www.offchainlabs.com/) | March 2025 | 0.8 | | [📄](reviews/2025-03-offchain-geth-14.4-securityreview.pdf) |
+| [Offchain Labs Custom Fee Token Exchange Rate](https://www.offchainlabs.com/) | March 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-token-exchange-rate-securityreview.pdf) |
+| [Offchain Labs Security Council Rotation Update](https://www.offchainlabs.com/) | March 2025 | 1.6 | | [📄](reviews/2025-03-offchain-security-council-rotation-securityreview.pdf) |
+| [Offchain Labs DisableGateway Action for USDT](https://www.offchainlabs.com/) | March 2025 | 0.4 | | [📄](reviews/2025-03-offchain-disablegateway-action-securityreview.pdf) |
+| [Automata](https://www.ata.network/) | February 2025 | 8 | | [📄✅](reviews/2025-02-automata-dcap-attestation-onchain-pccs-securityreview.pdf) |
+| [Balancer v3](https://balancer.fi/) | December 2024 | 6 | | [📄✅](reviews/2024-12-balancer-v3-securityreview.pdf) |
+| [Everstake Ethereum Staking Protocol](https://everstake.one/) | January 2025 | 3 | | [📄✅](reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf) |
+| [Parabol Labs Smart Contracts Updates](https://parabol.fi/) | January 2025 | 0.4 | | [📄](reviews/2025-01-parabollabs-protocolcontractsupdates-securityreview.pdf) |
+| [Parabol Labs Smart Contracts](https://parabol.fi/) | May 2024 | 2 | | [📄✅](reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf) |
+| [BeethovenX Sonic Staking](https://beets.fi/) | January 2025 | 1 | | [📄✅](reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf) |
+| [ULTI Security Review](https://www.ulti.org/) | December 2024 | 1 |  | [📄✅](reviews/2024-12-ULTI-securityreview.pdf) |
+| [Offchain BoLD Fixes](https://www.offchainlabs.com/) | December 2024 | 0.8 |  | [📄](reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
+| [EthStaker Deposit CLI](https://ethstaker.cc/) | December 2024 | 4 |  | [📄✅](reviews/2024-12-ethstaker-depositcli-securityreview.pdf) |
+| [Plume](https://www.plumenetwork.xyz/) | November 2024 | 1 |  | [📄✅](reviews/2024-11-plume-securityreview.pdf) |
+| [Offchain Arbitrum Chains Challenge Protocol v2](https://www.offchainlabs.com/) | August 2023 | 20 |  | [📄✅](reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf) |
+| [Offchain Stylus Emergency Fixes Review](https://www.offchainlabs.com/) | October 2024 | 2 |  | [📄](reviews/2024-10-offchain-stylus-emergency-fixes-securityreview.pdf) |
+| [Offchain BoLD Optimized History Commitments](https://www.offchainlabs.com/) | October 2024 | 2 |  | [📄](reviews/2024-10-offchain-bold-optimized-history-commit-securityreview.pdf) |
 | [Offchain Nitro Contracts with BoLD](https://www.offchainlabs.com/) | October 2024 | 2.6 |  | [📄](reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf) |
 | [Wonderland Prophet](https://defi.sucks/) | May 2024 | 4 |  | [📄✅](reviews/2024-05-wonderland-prophet-securityreview.pdf) |
 | [Offchain Stylus](https://www.offchainlabs.com/) | September 2024 | 2 |  | [📄✅](reviews/2024-09-offchain-stylus-securityreview.pdf) |
@@ -794,10 +845,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [xUDT](https://www.nervos.org/) | Jun 2021 | 2 | | |
 | [Nervos -RSA](https://www.nervos.org/) | Mar 2021 | 4 | |  |
-| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
 | [Cheque Cell & ORU](https://www.nervos.org/) | Feb 2021 | 8 | |  |
 | [Force Bridge - Solidity](https://www.nervos.org/) | Feb 2021 | 4 | |  |
 | [Force Bridge - Rust](https://www.nervos.org/) | Feb 2021 | 3 | |  |
+| [Nervos SUDT](https://www.nervos.org/)| Oct 2020 | 6| | [📄](reviews/NervosSUDT.pdf) |
 
 #### Starknet
 
@@ -816,6 +867,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [ZetaChain Solana Gateway](https://www.zetachain.com/) | January 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Squads V4](https://squads.so/) | Oct 2023 | 2 | [Announcement](https://x.com/SquadsProtocol/status/1725548225804005464?s=20) | [📄✅](reviews/2023-10-squadsv4-securityreview.pdf) |
 | [Token-2022 Program](https://spl.solana.com/token-2022) | Feb 2023 | 1 |  | [📄✅](reviews/2023-02-solana-token-2022-program-securityreview.pdf) |
 | [Drift Protocol](https://www.drift.trade/) | Dec 2022 | 6 | [Announcement (Tweet)](https://twitter.com/driftprotocol/status/1635630624978640899?s=46&t=f8ijViICJAoKBBoQUh58Og) | [📄✅](reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf) |
@@ -825,13 +877,14 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [zkVerify Blockchain Review](https://zkverify.io/) | February 2025 | 3 | | [📄](reviews/2025-02-zkverify-foundation-blockchain-securityreview.pdf) |
 | [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
 | [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Polkadex](https://www.polkadex.trade/) | Dec 2021 | 4 | | |
 | [PINT](https://pub.finance/) | Sept 2021 | 4 | | |
-| [Polkaswap](https://polkaswap.io/#/swap) | Jul 2021 | 6 | | |
+| [Polkaswap](https://soramitsu.co.jp/) | Aug 2021 | 6 | | [📄](reviews/2021-08-soramitsu-polkaswap-securityreview.pdf) |
 | [AlephBFT](https://alephzero.org/) | Jun 2021 | 4 | | [📄](reviews/AlephBFT.pdf) |
 | [Acala Network](https://acala.network/) | Jun 2021 | 4 | | |
 | [Compound Chain](https://compound.finance/) | May 2021 | 6 | | |
@@ -859,13 +912,23 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [Kolibri](https://tezos.foundation/) | Apr 2022 | 4 | | |
 | [Tezori (T2)](https://github.com/Cryptonomic/Tezori) | Dec 2020 | 4 | | [📄](reviews/Tezori.pdf) |
-| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
 | [Dexter](https://dexter.exchange/) | Jun 2020 | 4 | | [📄](reviews/dexter.pdf) |
+| [Tezori](https://github.com/Cryptonomic/Tezori) | Jul 2018 | 2 | [Thanks to @trailofbits for their security review](https://twitter.com/CryptonomicTech/status/1015686612641042434) |
+
+#### TON
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [STON.fi TON AMM DEX V2](https://ston.fi/) | January 2025 | 8 | | [📄✅](reviews/2025-01-stonfi-ton-amm-dex-v2-securityreview.pdf) |
+| [TON Studio Tact Compiler](https://github.com/tact-lang/tact) | January 2025 | 8 | | [📄✅](reviews/2025-01-ton-studio-tact-compiler-securityreview.pdf) |
+| [TON Foundation Multisignature Wallet](https://ton.foundation/en/) | March 2024 | 4 |  | [📄✅](reviews/2024-03-tonfoundation-multisignaturewallet-securityreview.pdf) |
 
 #### Other/Multi-Chain
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Shape Gasback](https://shape.network/) | January 2025 | 2 |  | [📄✅](reviews/2025-01-shape-gasback-securityreview.pdf) |
+| [PixelSwap DEX](https://www.pixelswap.io/) | December 2024 | 6 |  | [📄✅](reviews/2024-12-pixelswap-dex-securityreview.pdf) |
+| [Arkis DeFi Prime Brokerage](https://www.arkis.xyz/) | December 2024 | 5 |  | [📄✅](reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf) |
 | [Wormhole Governors and Watchers](https://wormhole.com/) | March 2023 | 8 |  | [📄✅](reviews/2023-03-wormhole-securityreview.pdf) |
 | [DFINITY Canister Sandbox](https://dfinity.org/) | Sept 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf)[✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
 | [DFINITY Threshold ECDSA <br>& BTC Canisters](https://dfinity.org/) | Sept 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf)[✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
@@ -923,19 +986,27 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195)||
+|Crash due to uncontrolled recursion in `Well-KnownText`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52981](https://github.com/advisories/GHSA-5xm9-x7x4-4j5x)||
+|Crash due to uncontrolled recursion in `innerForbidCircularReferences`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52980](https://github.com/advisories/GHSA-ghfh-p92w-j4mg)||
+|Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
+|Crash due to uncontrolled recursion in protobuf crate|rust-protobuf|Alexis Challande, Brad Swain|2024|[RUSTSEC-2024-0437](https://rustsec.org/advisories/RUSTSEC-2024-0437.html)||
+|Denial of Service in XStream|XStream|Alexis Challande, Brad Swain|2024|[GHSA-hfq9-hggm-c56q](https://github.com/advisories/GHSA-hfq9-hggm-c56q)|[💬](https://blog.trailofbits.com/2025/02/21/dont-recurse-on-untrusted-input/)|
+|Denial of Service in protobuf-java|protobuf-java|Alexis Challande, Brad Swain|2024|[GHSA-735f-pc8j-v9w8](https://github.com/advisories/GHSA-735f-pc8j-v9w8)|[💬](https://blog.trailofbits.com/2025/02/21/dont-recurse-on-untrusted-input/)|
+|Insufficient validation of integration timestamp in sigstore-python|sigstore-python|William Woodruff|2024|[CVE-2024-55655](https://www.cve.org/cverecord?id=CVE-2024-55655)||
 |Rust crates "stable" and "nightly" might be installed instead of the corresponding toolchains|Crates.io|Max Ammann|2024|❌||
 |num-bigint disclosure|num-bigint|Samuel Moelius|2024|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
 |Memory corruption during X.509 validation in GnuTLS|GnuTLS|William Woodruff|2024|[CVE-2024-28835](https://www.cve.org/cverecord?id=CVE-2024-28835)||
 |Linux kernel modules kASLR bypass|Linux|Dominik Czarnota|2024|❌|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
 |Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|None|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
-|Billion hashes attack against Go JOSE libraries|https://github.com/go-jose/go-jose|Matt Schwager|2023|GO-2023-2334, GO-2023-2409|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
+|Billion hashes attack against Go JOSE libraries|go-jose|Matt Schwager|2023|GO-2023-2334, GO-2023-2409|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
 |Expo Secure Store: Shortening AES GCM Authentication Tags|expo-secure-store|Joop van de Pol|2023|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
-|YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Sabi Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
+|YOLOv7 disclosure|YOLOv7|Alvin Crighton, Anusha Ghosh, Suha Hussain, Heidy Khlaaf, Jim Miller|2023|❌|[💬](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)|
 |Numbers turned weapons: DoS in Osmosis’ math library|Osmosis|Sam Alws|2023|❌|[💬](https://blog.trailofbits.com/2023/10/23/numbers-turned-weapons-dos-in-osmosis-math-library/)|
 |The issue with ATS in Apple’s macOS and iOS|iOS, iPadOS, tvOS, macOS, and watchOS|Will Brattain|2023|[CVE-2023-38596](https://www.cve.org/cverecord?id=CVE-2023-38596)|[💬](https://blog.trailofbits.com/2023/10/30/the-issue-with-ats-in-apples-macos-and-ios/)|
 |Eth ABI DoS disclosure|ethabi, eth_abi, etheriumjs-abi, alloy-rs|Max Ammann|2023|❌||
-|Security flaws in an SSO plugin for Caddy|caddy-security|Maciej Domanski, Travis Peters, David Pokora|2023|[[CVE-2024-21500](https://www.cve.org/CVERecord?id=CVE-2024-21500) [CVE-2024-21499](https://www.cve.org/CVERecord?id=CVE-2024-21499) [CVE-2024-2149](https://www.cve.org/CVERecord?id=CVE-2024-21498) [CVE-2024-21497](https://www.cve.org/CVERecord?id=CVE-2024-21497) [CVE-2024-21496](https://www.cve.org/CVERecord?id=CVE-2024-21496) [CVE-2024-21493](https://www.cve.org/CVERecord?id=CVE-2024-21493) [CVE-2024-21495](https://www.cve.org/CVERecord?id=CVE-2024-21495) [CVE-2024-21494](https://www.cve.org/CVERecord?id=CVE-2024-21494) [CVE-2024-21492](https://www.cve.org/CVERecord?id=CVE-2024-21492) [CVE-2023-52430](https://www.cve.org/CVERecord?id=CVE-2023-52430)](https://www.cve.org/cverecord?id=[CVE-2024-21500](https://www.cve.org/CVERecord?id=CVE-2024-21500) [CVE-2024-21499](https://www.cve.org/CVERecord?id=CVE-2024-21499) [CVE-2024-2149](https://www.cve.org/CVERecord?id=CVE-2024-21498) [CVE-2024-21497](https://www.cve.org/CVERecord?id=CVE-2024-21497) [CVE-2024-21496](https://www.cve.org/CVERecord?id=CVE-2024-21496) [CVE-2024-21493](https://www.cve.org/CVERecord?id=CVE-2024-21493) [CVE-2024-21495](https://www.cve.org/CVERecord?id=CVE-2024-21495) [CVE-2024-21494](https://www.cve.org/CVERecord?id=CVE-2024-21494) [CVE-2024-21492](https://www.cve.org/CVERecord?id=CVE-2024-21492) [CVE-2023-52430](https://www.cve.org/CVERecord?id=CVE-2023-52430))|[💬](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)|
+|Security flaws in an SSO plugin for Caddy|caddy-security|Maciej Domanski, Travis Peters, David Pokora|2023|[CVE-2024-21500](https://www.cve.org/cverecord?id=CVE-2024-21500), [CVE-2024-21499](https://www.cve.org/cverecord?id=CVE-2024-21499), [CVE-2024-21498](https://www.cve.org/cverecord?id=CVE-2024-21498), [CVE-2024-21497](https://www.cve.org/cverecord?id=CVE-2024-21497), [CVE-2024-21496](https://www.cve.org/cverecord?id=CVE-2024-21496), [CVE-2024-21493](https://www.cve.org/cverecord?id=CVE-2024-21493), [CVE-2024-21495](https://www.cve.org/cverecord?id=CVE-2024-21495), [CVE-2024-21494](https://www.cve.org/cverecord?id=CVE-2024-21494), [CVE-2024-21492](https://www.cve.org/cverecord?id=CVE-2024-21492), [CVE-2023-52430](https://www.cve.org/cverecord?id=CVE-2023-52430)|[💬](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)|
 |ktor Path Traversal|ktor|Vasco Franco|2023|[CVE-2022-48476](https://www.cve.org/cverecord?id=CVE-2022-48476)||
 |Specialized Zero-Knowledge Proof failures|Binance's tss-lib; All forks of tss-lib: Joltify, SwipeChain, and ThorChain; Coinbase's kryptology|Opal Wright|2022|❌|[💬](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)|
 |Forgery in Amis' Alice library|[Amis' alice](https://github.com/getamis/alice#acknowledgments)|Filipe Casal|2022|❌||
@@ -971,9 +1042,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 ## Research Reports
 
-| Report Title | Description |
-| --- | --- |
-| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Comparative assessment of the security properties of selected policy languages. |
+| Report Title | Year | Description |
+| --- | --- | --- |
+| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | 2024 | Comparative assessment of the security properties of selected policy languages. |
+| [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | 2024 | Comparative performance assessment of OpenSearch v2.17.1 and Elasticsearch v8.15.4. |
 
 # Legend
 
