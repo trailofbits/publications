@@ -591,6 +591,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Serai DEX](https://serai.exchange/) | April 2025 | 3 | | [📄✅](reviews/2025-04-serai-sex-security-review.pdf) |
 | [Offchain Labs Sequencer Liveness](https://www.offchainlabs.com/) | March 2025 | 3 | | [📄](reviews/2025-03-offchain-sequencer-liveness-securityreview.pdf) |
 | [Offchain Labs Custom Fee ERC-20 Bridge Upgrade and EIP-7702 Fixes](https://www.offchainlabs.com/) | March 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-erc20-bridge-securityreview.pdf) |
 | [Offchain Labs Geth 14.4 Changes for Pectra](https://www.offchainlabs.com/) | March 2025 | 0.8 | | [📄](reviews/2025-03-offchain-geth-14.4-securityreview.pdf) |
