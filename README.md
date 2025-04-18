@@ -430,6 +430,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [NATS Server](https://nats.io/) | February 2025 | 6 | | [📄✅](reviews/2025-04-ostif-nats-securityreview.pdf) |
 | [Istio Ztunnel](https://istio.io/) | Dec 2024 | 2 | [OSTIF Announcement](https://ostif.org/istio-ztunnel-audit-complete/), [Istio Blog](https://istio.io/latest/blog/2025/ztunnel-security-assessment/) | [📄✅](/reviews/2024-12-istio-ztunnel-securityreview.pdf) |
 | [RubyGems.org](https://www.rubygems.org) | Dec 2024 | 5 | | [📄](reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf) |
 | [Kraken Wallet In-App Browser](https://www.kraken.com/wallet) | Nov 2024 | 4 | | [📄✅](reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf) |
