@@ -52,8 +52,8 @@
 | --- | --- | --- |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 5, 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 18, 2024 |
-| [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Aug 2024 | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison |
-| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Aug 2024 | Ian Smith and Kelly Kaoudis |
+| [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison | Aug 2024 |
+| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Ian Smith and Kelly Kaoudis | Aug 2024 |
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 7, 2023 |
 | [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
 | [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
