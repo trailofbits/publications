@@ -52,6 +52,8 @@
 | --- | --- | --- |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 5, 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 18, 2024 |
+| [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Aug 2024 | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison |
+| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Aug 2024 | Ian Smith and Kelly Kaoudis |
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 7, 2023 |
 | [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
 | [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
@@ -435,8 +437,6 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Kraken Wallet In-App Browser](https://www.kraken.com/wallet) | Nov 2024 | 4 | | [📄✅](reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf) |
 | [Kraken Mobile Wallet](https://www.kraken.com/wallet) | Jan 2024 | 7 | [Kraken Blog](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)| [📄✅](reviews/2024-1-kraken-mobile-wallet-securityreview.pdf) |
 | [Kraken Mobile Wallet iCloud Backup](https://www.kraken.com/wallet) | September 2024 | 2 | | [📄✅](reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf) |
-| [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Aug 2024 | Comparative performance assessment of OpenSearch v2.17.1 and Elasticsearch v8.15.4. |
-| [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Aug 2024 | Comparative assessment of the security properties of selected policy languages. |
 | [Hugging Face Gradio](https://huggingface.co/gradio) | July 2024 | 4 | [Hugging Face Blog](https://huggingface.co/blog/gradio-5-security), [Trail of Bits Blog](https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/) | [📄✅](reviews/2024-10-huggingface-gradio-securityreview.pdf) |
 | [Eclipse Temurin](https://adoptium.net/temurin/) | December 2023 | 4 | [Eclipse Temurin Response](https://adoptium.net/pdf/temurin-audit-response.pdf), [OSTIF Announcement](https://ostif.org/temurin-audit-complete/), [Eclipse Foundation Announcement](https://adoptium.net/blog/2024/06/external_audit) | [📄✅](reviews/2023-12-eclipse-temurin-securityreview.pdf) |
 | [Arch Linux Pacman](https://archlinux.org/pacman/) | December 2023 | 2 | [OTF Announcement](https://www.opentech.fund/security-safety-audits/arch-linuxs-pacman-package-manager-security-audit/) | [📄✅](reviews/2023-12-pacman-securityreview.pdf) |
