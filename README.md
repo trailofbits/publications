@@ -174,8 +174,6 @@
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
 | [Careful with MAc-then-SIGn](presentations/Careful%20with%20MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf) | Marc Ilunga | 2023 |
-| [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
-| [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [die, PGP, die](presentations/die%2C%20PGP%2C%20die) | William Woodruff | 2022 |
 | [Seriously, stop using RSA](presentations/Seriously%2C%20stop%20using%20RSA) | Ben Perez | 2019 |
 | [Best Practices for Cryptography in Python](presentations/Best%20Practices%20for%20Cryptography%20in%20Python) | Paul Kehrer | 2019 |
@@ -251,6 +249,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Attestations: a new generation of signatures on PyPI](presentations/Attestations:%20a%20new%20generation%20of%20signatures%20on%20PyPI) | William Woodruff | 2025 |
 | [The Next 5 Years of Supply Chain Security on PyPI](presentations/The%20Next%205%20Years%20of%20Supply%20Chain%20Security%20on%20PyPI/) | William Woodruff | 2024 |
 | [PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem](presentations/PEP%20740%20and%20PyPI:%20Bootstrapping%20Provenance%20for%20the%20Python%20Ecosystem) | William Woodruff | 2024 |
 | [Imagining a zero-trust future for PyPI](presentations/Imagining%20a%20zero-trust%20future%20for%20PyPI) | William Woodruff | 2024 |
@@ -258,6 +257,8 @@
 | [What does it look like to code-sign for an entire packaging ecosystem?](presentations/What%20does%20it%20look%20like%20to%20code-sign%20for%20an%20entire%20packaging%20ecosystem/) | William Woodruff | 2023 |
 | [Securing your Package Ecosystem with Trusted Publishing](presentations/Securing%20your%20Package%20Ecosystem%20with%20Trusted%20Publishing) | William Woodruff | 2023 |
 | [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
+| [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
+| [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
 | [Automated Tools for Securing the Software Supply Chain](presentations/Automated%20Tools%20for%20Securing%20the%20Software%20Supply%20Chain) | Michael D. Brown | 2022 |
 | [Improving PyPI's security with Two Factor Authentication](presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication) | William Woodruff | 2019 |
