@@ -380,7 +380,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll Euclid Phase 2](https://scroll.io) | April 2025 | 4 | | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) |
 | [Scroll Euclid Phase 1](https://scroll.io) | April 2025 | 3 | | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | April 2025 | 5 | | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
-| [Google Go Cryptographic Libraries](https://go.dev) | March 2025 | 12 | [Go Cryptography Security Audit](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
+| [Google Go Cryptographic Libraries](https://go.dev) | March 2025 | 12 | [Go Cryptography Security Audit](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
 | [Scroll Euclid Phase 2 Letter of Attestation](https://scroll.io) | March 2025 | 4 | | [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
 | [Scroll Euclid Phase 1 Letter of Attestation](https://scroll.io) | March 2025 | 3 | | [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | March 2025 | 11 | | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
