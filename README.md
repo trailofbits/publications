@@ -384,6 +384,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll Euclid Phase 2 Letter of Attestation](https://scroll.io) | March 2025 | 4 | | [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
 | [Scroll Euclid Phase 1 Letter of Attestation](https://scroll.io) | March 2025 | 3 | | [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | March 2025 | 11 | | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
+| [Scopely Monopoly Go! Randomness Design Review Letter of Attestation](https://www.monopolygo.com) | December 2024 | 2 | [So Random! How Dice Rolling Works in Monopoly GO!](https://www.monopolygo.com/news/79/so-random-how-dice-rolling-works-in-monopoly-go) | [📄](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
 | [Aligned](https://www.alignedlayer.com/) | December 2024 | 3 |  | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | June 2024 | 10 |  | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Discord DAVE Protocol Code Review](https://discord.com/) | September 2024 | 5 |  | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
