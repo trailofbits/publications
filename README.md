@@ -895,6 +895,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | February 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | January 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Squads V4](https://squads.so/) | Oct 2023 | 2 | [Announcement](https://x.com/SquadsProtocol/status/1725548225804005464?s=20) | [📄✅](reviews/2023-10-squadsv4-securityreview.pdf) |
 | [Token-2022 Program](https://spl.solana.com/token-2022) | Feb 2023 | 1 |  | [📄✅](reviews/2023-02-solana-token-2022-program-securityreview.pdf) |
