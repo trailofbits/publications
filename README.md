@@ -946,6 +946,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Swap Coffee TON DEX](https://swap.coffee/dex) | May 2025 | 6 | | [📄✅](reviews/2025-05-swap-coffee-ton-dex-securityreview.pdf) |
 | [STON.fi TON AMM DEX V2](https://ston.fi/) | January 2025 | 8 | | [📄✅](reviews/2025-01-stonfi-ton-amm-dex-v2-securityreview.pdf) |
 | [TON Studio Tact Compiler](https://github.com/tact-lang/tact) | January 2025 | 8 | | [📄✅](reviews/2025-01-ton-studio-tact-compiler-securityreview.pdf) |
 | [TON Foundation Multisignature Wallet](https://ton.foundation/en/) | March 2024 | 4 |  | [📄✅](reviews/2024-03-tonfoundation-multisignaturewallet-securityreview.pdf) |
