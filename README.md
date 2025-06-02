@@ -614,6 +614,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | June 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint/burn-precompile-securityreview.pdf) |
+| [Offchain Labs Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | June 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
 | [Lagrange LAToken](https://www.lagrange.dev/) | April 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
 | [Offchain Labs ArbOS 40 Nitro](https://www.offchainlabs.com/) | May 2025 | 6 | | [📄](reviews/2025-05-offchainlabs-arbos40nitro-securityreview.pdf) |
 | [Reserve Protocol Solana DTFs](https://reserve.org/) | April 2025 | 2 | | [📄✅](reviews/2025-04-reserve-solana-dtfs-securityreview.pdf) |
