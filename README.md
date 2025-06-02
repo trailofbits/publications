@@ -947,6 +947,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Whales DMCC Holders Contracts](https://whalesdmcc.com/) | April 2025 | 4 | | [📄✅](reviews/2025-04-whales-dmcc-holders-contracts-securityreview.pdf) |
+| [Whales DMCC Nominators Contract](https://whalesdmcc.com/) | March 2025 | 4 | | [📄✅](reviews/2025-03-whales-dmcc-nominators-contract-securityreview.pdf) |
 | [Swap Coffee TON DEX](https://swap.coffee/dex) | May 2025 | 6 | | [📄✅](reviews/2025-05-swap-coffee-ton-dex-securityreview.pdf) |
 | [STON.fi TON AMM DEX V2](https://ston.fi/) | January 2025 | 8 | | [📄✅](reviews/2025-01-stonfi-ton-amm-dex-v2-securityreview.pdf) |
 | [TON Studio Tact Compiler](https://github.com/tact-lang/tact) | January 2025 | 8 | | [📄✅](reviews/2025-01-ton-studio-tact-compiler-securityreview.pdf) |
