@@ -947,6 +947,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [FIVA Yield Tokenization Protocol](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf) |
+| [FIVA Evaa Integration](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-evaaintegration-securityreview.pdf) |
 | [Whales DMCC Holders Contracts](https://whalesdmcc.com/) | May 2025 | 4 | | [📄✅](reviews/2025-05-whales-dmcc-holders-contracts-securityreview.pdf) |
 | [Whales DMCC Nominators Contract](https://whalesdmcc.com/) | May 2025 | 4 | | [📄✅](reviews/2025-05-whales-dmcc-nominators-contract-securityreview.pdf) |
 | [Swap Coffee TON DEX](https://swap.coffee/dex) | May 2025 | 6 | | [📄✅](reviews/2025-05-swap-coffee-ton-dex-securityreview.pdf) |
