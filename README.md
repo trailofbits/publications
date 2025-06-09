@@ -392,6 +392,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll zstd Compression](https://scroll.io/) | June 2024 | 12 |  | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | April 2024 | 1 |  | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Scroll ZkEVM 4844 Blob](https://scroll.io/) | April 2024 | 6 |  | [📄✅](reviews/2024-04-scroll-4844-blob-securityreview.pdf) |
+| [Silence Laboratories Silent Shard](https://www.silencelaboratories.com) | February 2024 | 5 |  | [📄✅](reviews/2024-02-silencelaboratories-silentshard-securityreview.pdf) |
 | [Snow](https://github.com/mcginty/snow) | January 2024 | 4 |  | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
 | [Axiom Halo2 Library Upgrades](https://www.axiom.xyz/) | October 2023 | 6 |  | [📄✅](reviews/2023-10-axiom-halo2libraryupgrades-securityreview.pdf) |
