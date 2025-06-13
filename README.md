@@ -615,6 +615,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | June 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
 | [Bunni v2](https://bunni.pro/) | January 2025 | 8 | | [📄✅](reviews/2025-01-bacon-labs-bunniv2-securityreview.pdf) |
 | [Offchain Labs Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | June 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf) |
 | [Offchain Labs Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | June 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
