@@ -318,7 +318,7 @@ We publish much of our subject matter expertise in the form of guides and handbo
 | [Press Freedom Foundation](https://www.twitch.tv/videos/1102962356) | Dan Guido | Jul 2021 | Mobile security and iVerify |
 | [Employee Cycle](https://employeecycle.com/podcast/how-to-onboard-yourself-as-the-first-people-leader-with-hannah-hanks/) | Hannah Hanks | Mar 2021 | First PeopleOps hire |
 | [Risky Biz 614](https://risky.biz/RB614/) | Dan Guido | Feb 2021 | iVerify |
-| [Building Better Systems 6](https://www.youtube.com/watch?v=wT-AmR7wtI8) | Dan Guido | Jan 2021 | What blockchain got right |
+| [Building Better Systems 6](https://www.youtube.com/watch?v=QXF6agsYqV0) | Dan Guido | Jan 2021 | What blockchain got right |
 | [WCBS 880](https://www.radio.com/podcasts/wcbs-880-small-business-spotlight-32986/pandemic-gap-year-leads-to-career-development-322317063) | Dan Guido | Sep 2020 | Gap years and intern hiring |
 | [Risky Biz 594](https://risky.biz/RB594/) | Dan Guido | Aug 2020 | Apple security |
 | [Epicenter 346](https://epicenter.tv/episodes/346) | Dan Guido | Jun 2020 | Smart contract security |
