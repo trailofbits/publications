@@ -619,6 +619,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Scroll Feynman Upgrade Smart Contract Changes](https://scroll.io/) | July 2025 | 1 | | [📄](reviews/2025-07-scroll-feynmanupgradesmartcontractchanges-securityreview.pdf) |
 | [Reserve Protocol Solidity 4.0.0](https://reserve.org/) | June 2025 | 3.6 | | [📄✅](reviews/2025-06-reserveprotocol-solidity400-securityreview.pdf) |
 | [Offchain Labs SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | June 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
 | [Bunni v2](https://bunni.pro/) | January 2025 | 8 | | [📄✅](reviews/2025-01-bacon-labs-bunniv2-securityreview.pdf) |
