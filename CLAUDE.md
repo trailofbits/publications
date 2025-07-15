@@ -11,17 +11,20 @@
   - Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
   - Do NOT use: January, February, March, April, June, July, August, September, October, November, December
   - Do NOT use 4-letter abbreviations like Sept
-- White Papers section: Use only "Mon YYYY" format (no day)
-- Other sections may use different formats as appropriate
 
 ### Section Organization
 - Sections should appear in this order:
   1. Academic Papers
   2. White Papers
-  3. Conference Presentations
-  4. Guides
-  5. Podcasts
-  6. Security Reviews
+  3. Guides and Handbooks
+  4. Conference Presentations
+  5. Datasets
+  6. Podcasts
+  7. Public Comments
+  8. Security Reviews
+  9. Disclosures
+  10. Workshops
+  11. Service Overviews
 - Within each section, entries should be sorted by date (newest first)
 - When checking sort order, be aware that some sections may have subsections that are sorted independently
 
