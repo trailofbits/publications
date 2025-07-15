@@ -372,16 +372,16 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [YOLOv7](https://github.com/WongKinYiu/yolov7/) | Oct 2023 | 4 | | [📄](reviews/2023-10-yolov7-securityreview.pdf) |
-| [EleutherAI, Hugging Face, <br />& Stability AI SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 | | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
+| [SafeTensors Library](https://github.com/huggingface/safetensors) | Mar 2023 | 2 | | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
 ### Cryptography Reviews
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
-| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
+| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Scroll](https://tinyurl.com/scroll-euclid) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
+| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Scroll](https://tinyurl.com/scroll-euclid) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
-| [Google Go Cryptographic Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
+| [Go Crypto Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | Mar 2025 | 11 | [EZKL](https://blog.ezkl.xyz/post/audit/) | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
 | [Scopely Monopoly Go!](https://www.monopolygo.com) | Dec 2024 | 2 | | [📄](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
 | [Aligned](https://www.alignedlayer.com/) | Dec 2024 | 3 | | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
@@ -406,8 +406,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Dfinity SNS Phase 2](https://dfinity.org/) | Jun 2023 | 2.5 | [Third-party assessment by Trail of Bits](https://forum.dfinity.org/t/ckbtc-and-service-nervous-system-sns-third-party-security-assessments-by-trail-of-bits/24380), [Taking security seriously](https://medium.com/dfinity/taking-security-seriously-two-top-icp-features-assessed-by-trail-of-bits-4a0023ab1e68) | [📄](reviews/2023-06-dfinity-sns-securityreview.pdf) |
 | [Thesis tss-lib BitForge](https://threshold.network/) | Jun 2023 | 0.2 | [Threshold](https://blog.threshold.network/bitforge-and-tsshock/) | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
 | [Chainflip](https://chainflip.io/) | Apr 2023 | 12 | [Chainflip](https://blog.chainflip.io/trail-of-bits-security-audit/) | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
-| [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 | | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
-| [Succinct Labs ZK Ethereum Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Introducing Telepathy](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
+| [Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 | | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
+| [Succinct ZK Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Succinct](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 | | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
 | [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
 | [Phantom Wallet](https://phantom.app/) | Nov 2022 | 2 | |  |
@@ -617,22 +617,22 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | ---| --: | :-: | --- | :-: |
 | [Scroll Feynman Upgrade Smart Contract Changes](https://scroll.io/) | Jul 2025 | 1 | | [📄](reviews/2025-07-scroll-feynmanupgradesmartcontractchanges-securityreview.pdf) |
 | [Reserve Protocol Solidity 4.0.0](https://reserve.org/) | Jun 2025 | 3.6 | | [📄✅](reviews/2025-06-reserveprotocol-solidity400-securityreview.pdf) |
-| [Offchain Labs SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | Jun 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
-| [Offchain Labs Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf) |
-| [Offchain Labs Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
+| [Offchain SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | Jun 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
+| [Offchain Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf) |
+| [Offchain Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
-| [Offchain Labs ArbOS 40 Nitro](https://www.offchainlabs.com/) | May 2025 | 6 | | [📄](reviews/2025-05-offchainlabs-arbos40nitro-securityreview.pdf) |
+| [Offchain ArbOS 40 Nitro](https://www.offchainlabs.com/) | May 2025 | 6 | | [📄](reviews/2025-05-offchainlabs-arbos40nitro-securityreview.pdf) |
 | [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
 | [Reserve Protocol Solana DTFs](https://reserve.org/) | Apr 2025 | 2 | | [📄✅](reviews/2025-04-reserve-solana-dtfs-securityreview.pdf) |
 | [Offchain Reward Distributor Fixes](https://www.offchainlabs.com/) | Apr 2025 | 0.8 | | [📄](reviews/2025-04-offchainlabs-reward-distributor-fixes-securityreview.pdf) |
 | [Reserve Folio Solidity-Based Contracts](https://reserve.org/) | Apr 2025 | 2 | | [📄✅](reviews/2025-04-reserve-folio-solidity-securityreview.pdf) |
 | [Serai DEX](https://serai.exchange/) | Apr 2025 | 3 | | [📄✅](reviews/2025-04-serai-dex-security-review.pdf) |
-| [Offchain Labs Sequencer Liveness](https://www.offchainlabs.com/) | Mar 2025 | 3 | | [📄](reviews/2025-03-offchain-sequencer-liveness-securityreview.pdf) |
-| [Offchain Labs Custom Fee ERC-20 Bridge Upgrade and EIP-7702 Fixes](https://www.offchainlabs.com/) | Mar 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-erc20-bridge-securityreview.pdf) |
-| [Offchain Labs Geth 14.4 Changes for Pectra](https://www.offchainlabs.com/) | Mar 2025 | 0.8 | | [📄](reviews/2025-03-offchain-geth-14.4-securityreview.pdf) |
-| [Offchain Labs Custom Fee Token Exchange Rate](https://www.offchainlabs.com/) | Mar 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-token-exchange-rate-securityreview.pdf) |
-| [Offchain Labs Security Council Rotation Update](https://www.offchainlabs.com/) | Mar 2025 | 1.6 | | [📄](reviews/2025-03-offchain-security-council-rotation-securityreview.pdf) |
-| [Offchain Labs DisableGateway Action for USDT](https://www.offchainlabs.com/) | Mar 2025 | 0.4 | | [📄](reviews/2025-03-offchain-disablegateway-action-securityreview.pdf) |
+| [Offchain Sequencer Liveness](https://www.offchainlabs.com/) | Mar 2025 | 3 | | [📄](reviews/2025-03-offchain-sequencer-liveness-securityreview.pdf) |
+| [Offchain Custom Fee Bridge & EIP-7702](https://www.offchainlabs.com/) | Mar 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-erc20-bridge-securityreview.pdf) |
+| [Offchain Geth 14.4 Pectra](https://www.offchainlabs.com/) | Mar 2025 | 0.8 | | [📄](reviews/2025-03-offchain-geth-14.4-securityreview.pdf) |
+| [Offchain Custom Fee Exchange Rate](https://www.offchainlabs.com/) | Mar 2025 | 1 | | [📄](reviews/2025-03-offchain-custom-fee-token-exchange-rate-securityreview.pdf) |
+| [Offchain Security Council Rotation](https://www.offchainlabs.com/) | Mar 2025 | 1.6 | | [📄](reviews/2025-03-offchain-security-council-rotation-securityreview.pdf) |
+| [Offchain DisableGateway USDT](https://www.offchainlabs.com/) | Mar 2025 | 0.4 | | [📄](reviews/2025-03-offchain-disablegateway-action-securityreview.pdf) |
 | [Automata](https://www.ata.network/) | Feb 2025 | 8 | | [📄✅](reviews/2025-02-automata-dcap-attestation-onchain-pccs-securityreview.pdf) |
 | [Bunni v2](https://bunni.pro/) | Jan 2025 | 8 | | [📄✅](reviews/2025-01-bacon-labs-bunniv2-securityreview.pdf) |
 | [Everstake Ethereum Staking Protocol](https://everstake.one/) | Jan 2025 | 3 | | [📄✅](reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf) |
@@ -644,38 +644,38 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Offchain BoLD Fixes](https://www.offchainlabs.com/) | Dec 2024 | 0.8 | | [📄](reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
 | [EthStaker Deposit CLI](https://ethstaker.cc/) | Dec 2024 | 4 | | [📄✅](reviews/2024-12-ethstaker-depositcli-securityreview.pdf) |
 | [Plume](https://www.plumenetwork.xyz/) | Nov 2024 | 1 | | [📄✅](reviews/2024-11-plume-securityreview.pdf) |
-| [Offchain Arbitrum Chains Challenge Protocol v2](https://www.offchainlabs.com/) | Aug 2023 | 20 | | [📄✅](reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf) |
-| [Offchain Stylus Emergency Fixes Review](https://www.offchainlabs.com/) | Oct 2024 | 2 | | [📄](reviews/2024-10-offchain-stylus-emergency-fixes-securityreview.pdf) |
-| [Offchain BoLD Optimized History Commitments](https://www.offchainlabs.com/) | Oct 2024 | 2 | | [📄](reviews/2024-10-offchain-bold-optimized-history-commit-securityreview.pdf) |
-| [Offchain Nitro Contracts with BoLD](https://www.offchainlabs.com/) | Oct 2024 | 2.6 | | [📄](reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf) |
+| [Offchain Arbitrum Challenge v2](https://www.offchainlabs.com/) | Aug 2023 | 20 | | [📄✅](reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf) |
+| [Offchain Stylus Emergency Fixes](https://www.offchainlabs.com/) | Oct 2024 | 2 | | [📄](reviews/2024-10-offchain-stylus-emergency-fixes-securityreview.pdf) |
+| [Offchain BoLD History Commits](https://www.offchainlabs.com/) | Oct 2024 | 2 | | [📄](reviews/2024-10-offchain-bold-optimized-history-commit-securityreview.pdf) |
+| [Offchain Nitro with BoLD](https://www.offchainlabs.com/) | Oct 2024 | 2.6 | | [📄](reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf) |
 | [Wonderland Prophet](https://defi.sucks/) | May 2024 | 4 | | [📄✅](reviews/2024-05-wonderland-prophet-securityreview.pdf) |
 | [Offchain Stylus](https://www.offchainlabs.com/) | Sep 2024 | 2 | | [📄✅](reviews/2024-09-offchain-stylus-securityreview.pdf) |
 | [Elixir Protocol](https://www.elixir.xyz/) | Aug 2024 | 4 | | [📄✅](reviews/2024-08-elixir-technologies-ltd-elixir-protocol-securityreview.pdf) |
 | [Offchain RARI](https://www.offchainlabs.com/) | Aug 2024 | .6 | | [📄](reviews/2024-08-offchainlabs-register-and-set-arb-custom-gateway-action-governance-action-securityreview.pdf) |
-| [Offchain Office Hours Governance Action](https://www.offchainlabs.com/) | Aug 2024 | .6 | | [📄](reviews/2024-08-offchainlabs-office-hours-governance-action-securityreview.pdf) |
+| [Offchain Office Hours Action](https://www.offchainlabs.com/) | Aug 2024 | .6 | | [📄](reviews/2024-08-offchainlabs-office-hours-governance-action-securityreview.pdf) |
 | [Offchain Timeboost Auction](https://www.offchainlabs.com/) | Aug 2024 | 3 | | [📄](reviews/2024-08-offchainlabs-timeboost-auction-contracts-securityreview.pdf) |
 | [Offchain Orbit Actions](https://www.offchainlabs.com/) | Aug 2024 | 1 | | [📄](reviews/2024-08-offchainlabs-orbit-actions-securityreview.pdf) |
-| [Offchain USDC Custom Gateway](https://www.offchainlabs.com/) | Jul 2024 | 2 | | [📄](reviews/2024-08-offchainlabs-usdc-custom-gateway-securityreview.pdf) |
+| [Offchain USDC Gateway](https://www.offchainlabs.com/) | Jul 2024 | 2 | | [📄](reviews/2024-08-offchainlabs-usdc-custom-gateway-securityreview.pdf) |
 | [Treehouse tETH Protocol](https://www.treehouse.finance/) | Sep 2024 | 4 | | [📄✅](reviews/2024-09-treehouse-finance-teth-extension-securityreview.pdf) |
 | [Acronym Foundation](https://acronymfoundation.org/) | Dec 2023 | 4 | | [📄✅](reviews/2023-12-acronym-foundation-securityreview.pdf) |
 | [Pyth Entropy](https://docs.pyth.network/entropy) | Dec 2023 | 4 | | [📄](reviews/2024-01-pyth-entropy-securityreview.pdf) |
 | [Onchain Pass App Contracts](https://www.onchain.ro/) | Aug 2024 | 1 | | [📄✅](reviews/2024-08-onchain-pass-app-contracts-securityreview.pdf) |
 | [Uniswap v4 Core](https://docs.uniswap.org/contracts/v4/concepts/intro-to-v4) | Jul 2024 | 6 | | [📄✅](reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
-| [Taraxa Ficus Root Bridge Smart Contracts](https://docs.taraxa.io/) | Jul 2024 | 1.6 | | [📄✅](reviews/2024-07-taraxa-bridge-smart-contracts-v2-securityreview.pdf) |
+| [Taraxa Ficus Bridge](https://docs.taraxa.io/) | Jul 2024 | 1.6 | | [📄✅](reviews/2024-07-taraxa-bridge-smart-contracts-v2-securityreview.pdf) |
 | [Intuition](https://www.intuition.systems) | Mar 2024 | 2 | | [📄](reviews/2024-03-intuition-smart-contracts-securityreview.pdf) |
-| [Offchain Labs BoLD and DAC Rewards Updates](https://www.offchainlabs.com/) | Jun 2024 | 3 | | [📄](reviews/2024-06-offchain-labs-bold-dac-rewards-updates-securityreview.pdf) |
-| [Offchain Labs Custom Fee Token](https://www.offchainlabs.com/) | Sep 2023 | 3 | | [📄](reviews/2023-09-offchain-labs-custom-fee-token-securityreview.pdf) |
-| [Offchain Labs Arbitrum Token Bridge Creator](https://www.offchainlabs.com/) | Dec 2023 | 6 | | [📄](reviews/2023-12-offchain-labs-arbitrum-token-bridge-creator-securityreview.pdf) |
-| [Offchain Labs L1-L3 Teleporter](https://www.offchainlabs.com/) | Apr 2024 | 2 | | [📄](reviews/2024-04-offchain-l1-l3-teleporter-securityreview.pdf) |
-| [Offchain Labs ArbOS 31](https://www.offchainlabs.com/) | Apr 2024 | 2 | | [📄](reviews/2024-04-offchain-arbos-31-securityreview.pdf) |
-| [Offchain Labs ArbOS 30 Nitro Upgrade](https://www.offchainlabs.com/) | Apr 2024 | 6 | | [📄](reviews/2024-04-offchain-arbos-30-nitro-upgrade-securityreview.pdf) |
-| [Ethereum Foundation Devcon Auction Raffle](https://raffle.devcon.org/) | Jun 2024 | 1 | | [📄✅](reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf) |
+| [Offchain BoLD & DAC Rewards](https://www.offchainlabs.com/) | Jun 2024 | 3 | | [📄](reviews/2024-06-offchain-labs-bold-dac-rewards-updates-securityreview.pdf) |
+| [Offchain Custom Fee Token](https://www.offchainlabs.com/) | Sep 2023 | 3 | | [📄](reviews/2023-09-offchain-labs-custom-fee-token-securityreview.pdf) |
+| [Offchain Token Bridge Creator](https://www.offchainlabs.com/) | Dec 2023 | 6 | | [📄](reviews/2023-12-offchain-labs-arbitrum-token-bridge-creator-securityreview.pdf) |
+| [Offchain L1-L3 Teleporter](https://www.offchainlabs.com/) | Apr 2024 | 2 | | [📄](reviews/2024-04-offchain-l1-l3-teleporter-securityreview.pdf) |
+| [Offchain ArbOS 31](https://www.offchainlabs.com/) | Apr 2024 | 2 | | [📄](reviews/2024-04-offchain-arbos-31-securityreview.pdf) |
+| [Offchain ArbOS 30 Nitro](https://www.offchainlabs.com/) | Apr 2024 | 6 | | [📄](reviews/2024-04-offchain-arbos-30-nitro-upgrade-securityreview.pdf) |
+| [Devcon Auction Raffle](https://raffle.devcon.org/) | Jun 2024 | 1 | | [📄✅](reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf) |
 | [Aladdin f(x) Oracle](https://fx.aladdin.club/) | Jun 2024 | 2 | | [📄✅](reviews/2024-06-aladdinfx-oracle-securityreview.pdf) |
 | [AiLayer Labs 6079 Smart Contracts](https://6079.ai) | May 2024 | 3 | | [📄✅](reviews/2024-05-ailayerlabs-6079smartcontracts-securityreview.pdf) |
-| [Offchain Labs Arbitrum Stylus](https://www.offchainlabs.com/) | May 2024 | 47 | | [📄](reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf) |
+| [Offchain Arbitrum Stylus](https://www.offchainlabs.com/) | May 2024 | 47 | | [📄](reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf) |
 | [Hydrogen Labs Rover Protocol](https://roverstaking.com/) | May 2024 | .45 | | [📄](reviews/2024-05-hydrogenlabs-securityreview.pdf) |
 | [Lisk Smart Contracts](https://lisk.com/) | May 2024 | 4 | | [📄✅](reviews/2024-05-lisksmartcontracts-securityreview.pdf) |
-| [Offchain Labs BoLD](https://www.offchainlabs.com/) | Apr 2024 | 5 | | [📄](reviews/2024-04-offchainbold-securityreview.pdf) |
+| [Offchain BoLD](https://www.offchainlabs.com/) | Apr 2024 | 5 | | [📄](reviews/2024-04-offchainbold-securityreview.pdf) |
 | [SEDA Chain Token Migration](https://www.seda.xyz/) | Mar 2024 | 1 | | [📄✅](reviews/2024-03-seda-chaintokenmigration-securityreview.pdf) |
 | [Lisk Smart Contracts](https://lisk.com/) | Mar 2024 | 4.6 | | [📄✅](reviews/2024-03-lisksmartcontracts-securityreview.pdf) |
 | [Bondex Ecosystem Ltd. Smart Contracts](https://bondex.app/) | Mar 2024 | 0.6 | | [📄](reviews/2024-03-bondexecosystem-loa.pdf) |
@@ -683,7 +683,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Puffer Finance Contracts](https://www.puffer.fi/) | Mar 2024 | 1.2 | | [📄✅](reviews/2024-03-pufferfinance-securityreview.pdf) |
 | [Helios Global](https://www.helios.eco/) | Feb 2024 | 1 | | [📄✅](reviews/2024-02-heliosglobal-securityreview.pdf) |
 | [ScopeLift Stealth Address Contracts](https://scopelift.co/) | Feb 2024 | 1 | | [📄✅](reviews/2024-02-scopelift-securityreview.pdf) |
-| [Offchain Labs ArbOS](https://www.offchainlabs.com/) | Feb 2024 | 4 | | [📄](reviews/2024-02-offchainlabsarbos-securityreview.pdf) |
+| [Offchain ArbOS](https://www.offchainlabs.com/) | Feb 2024 | 4 | | [📄](reviews/2024-02-offchainlabsarbos-securityreview.pdf) |
 | [MetaLayer Blast](https://blast.io/en) | Jan 2024 | 4 | | [📄✅](reviews/2024-01-metalayerblast-securityreview.pdf) |
 | [Offchain Arbitrum](https://www.offchainlabs.com/) | Jan 2024 | 2 | | [📄](reviews/2024-01-offchainarbitrum-securityreview.pdf) |
 | [Unibot Router](https://unibot.app/) | Dec 2023 | 1.6 | | [📄✅](reviews/2023-12-unibot-securityreview.pdf) |
