@@ -365,7 +365,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 The following clients have engaged Trail of Bits for 5 or more security reviews:
 
-#### Offchain Labs (32 reviews)
+#### Offchain Labs
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -402,7 +402,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Offchain Custom Fee Token](https://www.offchainlabs.com/) | Sep 2023 | 3 | | [📄](reviews/2023-09-offchain-labs-custom-fee-token-securityreview.pdf) |
 | [Offchain Arbitrum Challenge v2](https://www.offchainlabs.com/) | Aug 2023 | 20 | | [📄✅](reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf) |
 
-#### Scroll (11 reviews)
+#### Scroll
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -418,7 +418,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Scroll zkTrie](https://scroll.io/) | Jul 2023 | 4 | | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [Scroll ZkEVM Wave 1](https://scroll.io/) | Apr 2023 | 23 | | [📄✅](reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf) |
 
-#### Uniswap (6 reviews)
+#### Uniswap
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -429,7 +429,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Uniswap V3 Staker](https://uniswap.org/blog/uniswap-v3/) | Jun 2021 | 2 | | |
 | [Uniswap V3](https://uniswap.org/) | Mar 2021 | 10 | [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3/) | [📄](reviews/UniswapV3Core.pdf) |
 
-#### Frax Finance (6 reviews)
+#### Frax Finance
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -440,7 +440,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Frax](https://frax.finance/) | Dec 2021 | 4 | | [📄](reviews/FraxQ42021.pdf) |
 | [Frax](https://frax.finance/) | May 2021 | 4 | | [📄](reviews/FraxFinance.pdf) |
 
-#### Reserve Protocol (5 reviews)
+#### Reserve Protocol
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -450,7 +450,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Reserve Protocol](https://reserve.org/) | Aug 2022 | 8 | | [📄](reviews/2022-08-reserve-protocol-securityreview.pdf), [✅](reviews/2022-08-reserve-protocol-fixreview.pdf) |
 | [Reserve Protocol](https://reserve.org/) | Mar 2019 | 1 | | [📄](reviews/Reserve_LOA.pdf) |
 
-#### MobileCoin (4 reviews)
+#### MobileCoin
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -459,7 +459,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [MobileCoin BFT](https://www.mobilecoin.com/) | Oct 2020 | 4 | | [📄](reviews/MobileCoinBFT.pdf) |
 | [MobileCoin](https://www.mobilecoin.com/) | Aug 2020 | 4 | | [📄](reviews/Mobilecoin.pdf) |
 
-#### Western Digital (5 reviews)
+#### Western Digital
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
