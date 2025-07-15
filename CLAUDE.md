@@ -40,10 +40,17 @@
   - Remove redundant words like "Protocol", "Smart Contracts", "Library" when context is clear
   - For multi-organization projects, consider using just the main product name (e.g., "SafeTensors Library" instead of "EleutherAI, Hugging Face, & Stability AI SafeTensors Library")
 
-#### Combining Related Documents
+#### Document Icons and Formatting
+- Use specific icons for different document types:
+  - 📄 = Security Assessment report
+  - ✅ = Fix review report  
+  - 🔖 = Letter of Attestation
+  - 📛 = Threat Model report
+  - 📰 = Whitepaper
 - When multiple related documents exist (e.g., security review + letter of attestation):
-  - Combine them into a single row
-  - List all PDFs in the same row's link column (e.g., [📄✅](review.pdf) [📄](loa.pdf))
+  - Keep them in the same row
+  - Use separate icons with no space between: [📄✅](review.pdf)[🔖](loa.pdf)
+  - This saves characters compared to [📄✅](review.pdf) [📄](loa.pdf)
   - Do NOT create separate rows for each document type
 
 #### Announcement Links

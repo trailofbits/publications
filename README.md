@@ -378,12 +378,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
-| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
+| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf)[🔖](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
+| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf)[🔖](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Go Crypto Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | Mar 2025 | 11 | [EZKL](https://blog.ezkl.xyz/post/audit/) | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
-| [Scopely Monopoly Go!](https://www.monopolygo.com) | Dec 2024 | 2 | | [📄](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
+| [Scopely Monopoly Go!](https://www.monopolygo.com) | Dec 2024 | 2 | | [🔖](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
 | [Aligned](https://www.alignedlayer.com/) | Dec 2024 | 3 | | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | Jun 2024 | 10 | | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Discord DAVE](https://discord.com/) | Sep 2024 | 5 | [Discord](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
@@ -1089,6 +1089,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | 💬 | Blog post or other social media |
 | 📄 | Security Assessment report |
 | ✅ | Fix review report |
+| 🔖 | Letter of Attestation |
 | 📛 | Threat Model report |
 | 📰 | Whitepaper |
 
