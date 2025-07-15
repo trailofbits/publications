@@ -587,14 +587,14 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Orbit](https://fleetdm.com/) | Apr 2021 | 1 | | |
 | [VGS Proxy](https://www.verygoodsecurity.com/) | Apr 2021 | 4 | | |
 | [Skiff](https://www.skiff.org/) | Feb 2021 | 4 | | |
-| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 | [CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
+| [CircleCI Server 3.0](https://circleci.com/) | Jan 2021 | 6 | [Penetration testing at CircleCI](https://circleci.com/blog/penetration-testing-at-circleci/) |
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 | | |
-| [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [SecureDrop](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
-| [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [The Markup](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
-| [Ren](https://renproject.io/) | Aug 2020 | 4 | [Ren](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
-| [Hey.com](https://www.hey.com/) | Jun 2020 | 1 | [Hey](https://www.hey.com/security/) | [📄](reviews/Hey.pdf) |
-| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Microsoft](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
-| [Zoom](https://zoom.us/) | May 2020 | 9 | [Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/) |
+| [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
+| [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
+| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
+| [Hey.com](https://www.hey.com/) | Jun 2020 | 1 | [Serious Security](https://www.hey.com/security/) | [📄](reviews/Hey.pdf) |
+| [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
+| [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What's Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/) |
 | [Secure Transport](https://www.westerndigital.com/) | Apr 2020 | 4 | |
 | [ZeroTier 2.0](https://www.zerotier.com/) | Mar 2020 | 2 | [ZeroTier](https://mobile.twitter.com/zerotier/status/1314343535303446531) | [📄](reviews/ZeroTierProtocol.pdf) |
 | [Voatz](https://voatz.com/) | Feb 2020 | 12 | [Voatz](https://blog.voatz.com/?p=1287), [Tusk](https://mobilevoting.org/2020/03/a-note-on-security/) | [📄](reviews/voatz-securityreview.pdf)[📛](reviews/voatz-threatmodel.pdf) |
@@ -867,7 +867,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [QTUM](https://qtum.org/en) | Apr 2020 | 0.43 | | [📄](reviews/qtum_loa.pdf) |
 | [Hegic](https://www.hegic.co/) | Apr 2020 | 0.43 | | [📄](reviews/hegic-summary.pdf) |
 | [Golem Network](https://golem.network/) | Mar 2020 | 2 | | |
-| [Reddit](https://www.reddit.com/community-points/) | Mar 2020 | 1 | [Reddit](https://www.reddit.com/community-points/) | |
+| [Reddit](https://www.reddit.com/community-points/) | Mar 2020 | 1 | [A New Frontier](https://www.reddit.com/community-points/) | |
 | [Chai](https://chai.money/) | Feb 2020 | 0.28 | | [📄](reviews/chai-loa.pdf) |
 | [Compound](https://compound.finance/) | Feb 2020 | 2 | | [📄](reviews/compound-governance.pdf) |
 | [WorkLock](https://www.nucypher.com/) | Jan 2020 | 2 | [NuCypher](https://blog.nucypher.com/worklock-security-audit/) | [📄](reviews/WorkLock-Summary.pdf) |
