@@ -1028,7 +1028,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
-| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Forum](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
+| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [DFINITY](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
 | [Hop Protocol V2](https://hop.exchange/) | Sep 2021 | 4 | | |
 | [Golden Gate Library](https://layerzero.network/) | Sep 2021 | 1 | | |
