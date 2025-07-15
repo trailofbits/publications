@@ -566,7 +566,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Enclave Markets](https://www.enclave.market/) | Nov 2022 | 9 | |  |
 | [Fiat Ramps](https://cashero.com/) | Nov 2022 | 4 | |  |
 | [cURL](https://curl.se/) | Oct 2022 | 9.5 | [OSTIF](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/). [Trail of Bits](https://blog.trailofbits.com/2022/12/22/curl-security-audit-threat-model/) | [📄✅](reviews/2022-12-curl-securityreview.pdf)[📛](reviews/2022-12-curl-threatmodel.pdf) |
-| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [CloudEvents Security Assessment](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
+| [CloudEvents](https://cloudevents.io/) | Oct 2022 | 4 | [OSTIF](https://ostif.org/results-of-the-cloudevents-security-assessment/) | [📄](reviews/CloudEvents.pdf) |
 | [OpenArchive Save (iOS)](https://open-archive.org/) | Oct 2022 | 1.2 |[OpenArchive Save](https://www.opentech.fund/results/security-safety-audits/openarchive-save-android-ios/) | [📄✅](reviews/2022-10-openarchivesaveios-securityreview.pdf) |
 | [AlphaSOC API](https://alphasoc.com/) | Sep 2022 | 1 | | [📄✅](reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf) |
 | [Consul Enterprise](https://www.hashicorp.com/products/consul) | Sep 2022 | 6 | |  |
