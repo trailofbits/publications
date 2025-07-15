@@ -738,8 +738,6 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Hyperlane v3](https://www.hyperlane.xyz/) | Sep 2023 | 2 | | [📄✅](reviews/2023-09-hyperlane-securityreview.pdf) |
 | [Elixir Contracts](https://elixir.finance/) | Sep 2023 | 2 | | [📄✅](reviews/2023-09-elixir-securityreview.pdf) |
 | [NZDD token](https://easycrypto.com/) | Aug 2023 | 0.6 | | [📄✅](reviews/2023-08-easycrypto-securityreview.pdf) |
-| [Scroll l2geth [diff] ](https://scroll.io/) | Aug 2023 | 2 | | [📄](reviews/2023-08-scrollL2geth-securityreview.pdf) |
-| [Scroll l2geth [initial]](https://scroll.io/) | Aug 2023 | 2 | | [📄](reviews/2023-08-scrollL2geth-initial-securityreview.pdf) |
 | [Immutable](https://www.immutable.com/) | Aug 2023 | 4 | | [📄✅](reviews/2023-08-immutable-securityreview.pdf) |
 | [Sandclock](https://www.sandclock.org/) | Jul 2023 | 8 | | [📄✅](reviews/2023-07-sandclock-securityreview.pdf) |
 | [Arcade](https://www.arcade.xyz/) | Jul 2023 | 8 | | [📄✅](reviews/2023-07-arcade-securityreview.pdf) |
@@ -751,7 +749,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [MYSO](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
 | [Smardex AMM](https://www.smardex.io/) | Apr 2023 | 2 | | [📄✅](reviews/2023-04-smardexamm-realestateexecutives-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 | |  |
-| [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) |
+| [Atlendis](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) |
 | [Primitive Hyper](https://primitive.xyz/) | Mar 2023 | 8 | | [📄✅](reviews/2023-03-primitive-securityreview.pdf) |
 | [Succinct Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Succinct](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
 | [Nested Finance](https://nested.fi/) | Feb 2023 | 4 | | [📄✅](reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf) |
@@ -789,7 +787,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | [NFTX](https://docs.nftx.io/smart-contracts/bug-bounty/trail-of-bits-audit) | [📄](reviews/NFTX.pdf) |
 | [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [unFederalReserve](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
-| [Maple Finance Smart Contracts](https://www.maple.finance/) | Mar 2022 | 1 | | [📄✅](reviews/2022-03-maplefinance-securityreview.pdf) |
+| [Maple Finance](https://www.maple.finance/) | Mar 2022 | 1 | | [📄✅](reviews/2022-03-maplefinance-securityreview.pdf) |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
 | [LooksRare](https://looksrare.org/) | Mar 2022 | 4 | | [📄](reviews/LooksRare.pdf) |
 | [Symbiosis](https://symbiosis.finance/) | Mar 2022 | 2 | | |
