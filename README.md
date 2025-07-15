@@ -378,18 +378,16 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) |
-| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) |
+| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Euclid Upgrade Announcement](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
+| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Euclid Upgrade Announcement](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Google Go Cryptographic Libraries](https://go.dev) | Mar 2025 | 12 | [Go Cryptography Security Audit](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
-| [Scroll Euclid Phase 2 Letter of Attestation](https://scroll.io) | Mar 2025 | 4 | | [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
-| [Scroll Euclid Phase 1 Letter of Attestation](https://scroll.io) | Mar 2025 | 3 | | [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | Mar 2025 | 11 | | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
-| [Scopely Monopoly Go! Randomness Design Review Letter of Attestation](https://www.monopolygo.com) | Dec 2024 | 2 | | [📄](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
+| [Scopely Monopoly Go!](https://www.monopolygo.com) | Dec 2024 | 2 | | [📄](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
 | [Aligned](https://www.alignedlayer.com/) | Dec 2024 | 3 |  | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | Jun 2024 | 10 |  | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
-| [Discord DAVE Protocol Code Review](https://discord.com/) | Sep 2024 | 5 |  | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
-| [Discord DAVE Protocol Design Review](https://discord.com/) | Nov 2023 | 4 |  | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
+| [Discord DAVE](https://discord.com/) | Sep 2024 | 5 | [Meet DAVE: Discord's New End-to-End Encryption](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
+| [Discord DAVE](https://discord.com/) | Aug 2024 | 4 | [Meet DAVE: Discord's New End-to-End Encryption](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
 | [Scroll zstd Compression](https://scroll.io/) | Jun 2024 | 12 |  | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | Apr 2024 | 1 |  | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Scroll ZkEVM 4844 Blob](https://scroll.io/) | Apr 2024 | 6 |  | [📄✅](reviews/2024-04-scroll-4844-blob-securityreview.pdf) |
