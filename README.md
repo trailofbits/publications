@@ -497,7 +497,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Iron Fish FishHash](https://ironfish.network/) | Apr 2024 | 1 | [Iron Fish](https://ironfish.network/learn/blog/2024-05-14-fish-hash-audit) | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Silence Laboratories Silent Shard](https://www.silencelaboratories.com) | Feb 2024 | 5 | | [📄✅](reviews/2024-02-silencelaboratories-silentshard-securityreview.pdf) |
 | [Snow](https://github.com/mcginty/snow) | Jan 2024 | 4 | | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
-| [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
+| [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Trail of Bits](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
 | [Axiom Halo2 Library Upgrades](https://www.axiom.xyz/) | Oct 2023 | 6 | [Axiom](https://docs.axiom.xyz/docs/transparency-and-security/security) | [📄✅](reviews/2023-10-axiom-halo2libraryupgrades-securityreview.pdf) |
 | [Axiom Halo2 Libraries](https://www.axiom.xyz/) | Jun 2023 | 14 | [Axiom](https://docs.axiom.xyz/docs/transparency-and-security/security) | [📄✅](reviews/2023-06-axiom-halo2libraries-securityreview.pdf) |
 | [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 | [Aleo](https://aleo.org/post/aleo-completes-security-audits-of-snarkos-and-snarkvm/) | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
@@ -512,7 +512,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [ParaSpace](https://para.space/) | Dec 2022 | 1 | | [📄](reviews/ParallelFinance3.pdf) |
 | [Phantom Wallet](https://phantom.app/) | Nov 2022 | 2 | |  |
 | [ParaSpace](https://para.space/) | Nov 2022 | 7 | | [📄](reviews/ParallelFinance2.pdf)[✅](reviews/ParallelFinance2FixReview.pdf) ||
-| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [Security assessment by Trail of Bits](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
+| [SimpleX Chat](https://simplex.chat/) | Oct 2022 | 1 | [SimpleX](https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html) | [📄](reviews/SimpleXChat.pdf) |
 | [Dfinity](https://dfinity.org/) | Sep 2022 | 4 | [Forum](https://forum.dfinity.org/t/ckbtc-and-service-nervous-system-sns-third-party-security-assessments-by-trail-of-bits/24380), [Blog](https://medium.com/dfinity/taking-security-seriously-two-top-icp-features-assessed-by-trail-of-bits-4a0023ab1e68) | [📄✅](reviews/2022-09-dfinity-sns-securityreview.pdf) |
 | [Aleo snarkVM](https://www.aleo.org/) | Sep 2022 | 12 | | [📄✅](reviews/2022-09-aleosystems-snarkvm-securityreview.pdf) |
 | [Microsoft/Verasion Go-COSE](https://github.com/veraison) | Jul 2022 | 4 | | [📄✅](reviews/2022-07-microsoft-go-cose-securityreview.pdf) |
@@ -524,7 +524,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
 | [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Release Signing and Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
-| [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
+| [Standard Notes](https://standardnotes.com/) | Mar 2020 | 1 | [Standard Notes](https://standardnotes.com/blog/standard-notes-security-audits-2021) | [📄](reviews/StandardNotes.pdf) |
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 
 ### Technology Product Reviews
@@ -809,7 +809,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Beethoven X](https://beets.fi/) | Feb 2022 | 1 | | [📄](reviews/BeethovenXSummary.pdf) |
 | [Minterest Finance](https://minterest.com/) | Jan 2022 | 6 | | |
 | [pSTAKE](https://persistence.one/) | Jan 2022 | 6 | | |
-| [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Primitive RMM smart contracts audit by @trailofbits](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
+| [Primitive](https://primitive.finance/) | Jan 2022 | 8 | [Primitive](https://twitter.com/PrimitiveFi/status/1518665248756051968) | [📄](reviews/Primitive.pdf) |
 | [Strips Finance](https://strips.finance/) | Jan 2022 | 8 | | |
 | [Cardstack](https://cardstack.com/) | Dec 2021 | 4 | | |
 | [Sherlock Protocol V2](https://www.sherlock.xyz/) | Dec 2021 | 4 | | [📄](reviews/Sherlockv2.pdf) |
