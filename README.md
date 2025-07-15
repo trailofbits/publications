@@ -687,12 +687,12 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [ZetaChain Bitcoin Inscriptions](https://www.zetachain.com/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-zetachain-bitcoin-inscriptions-securityreview.pdf) |
-| [Nomic](https://www.nomic.io/) | Nov 2024 | 10 | [Nomic Completes Security Audit by Trail of Bits](https://blog.nomic.io/security-audit-trail-of-bits-8ae87ce19bf0) | [📄✅](reviews/2024-11-nomic-securityreview.pdf) |
+| [Nomic](https://www.nomic.io/) | Nov 2024 | 10 | [Nomic](https://blog.nomic.io/security-audit-trail-of-bits-8ae87ce19bf0) | [📄✅](reviews/2024-11-nomic-securityreview.pdf) |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
 | [STAS-JS SDK](https://www.taal.com/#) | Sep 2021 | 4 | | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
-| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
-| [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
+| [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Zcoin](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
+| [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Electric Coin Co.](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | [NU3, Blossom, and Sapling security reviews](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/)| [📄](reviews/Zcash.pdf) |
 | [Zcash](https://electriccoin.co/) | Nov 2019 | 6 | | [📄](reviews/ZcashWP.pdf) |
 | [Paymail Protocol](https://nchain.com/en/) | Nov 2019 | 7 | | |
