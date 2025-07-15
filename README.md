@@ -378,25 +378,25 @@ Companies that have allowed us to speak about our work can be found here. Many m
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Euclid Upgrade Announcement](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
-| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Euclid Upgrade Announcement](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
-| [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
-| [Google Go Cryptographic Libraries](https://go.dev) | Mar 2025 | 12 | [Go Cryptography Security Audit](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
-| [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | Mar 2025 | 11 | | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
+| [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
+| [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf) [📄](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
+| [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
+| [Google Go Cryptographic Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
+| [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | Mar 2025 | 11 | [EZKL](https://blog.ezkl.xyz/post/audit/) | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
 | [Scopely Monopoly Go!](https://www.monopolygo.com) | Dec 2024 | 2 | | [📄](reviews/2025-01-scopely-monopolygo-letterofattestation.pdf) |
 | [Aligned](https://www.alignedlayer.com/) | Dec 2024 | 3 | | [📄✅](reviews/2024-12-alignedlayer-aligned-securityreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | Jun 2024 | 10 | | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
-| [Discord DAVE](https://discord.com/) | Sep 2024 | 5 | [Meet DAVE: Discord's New End-to-End Encryption](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
-| [Discord DAVE](https://discord.com/) | Aug 2024 | 4 | [Meet DAVE: Discord's New End-to-End Encryption](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
+| [Discord DAVE](https://discord.com/) | Sep 2024 | 5 | [Discord](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-09-discord-dave-protocol-codereview.pdf) |
+| [Discord DAVE](https://discord.com/) | Aug 2024 | 4 | [Discord](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
 | [Scroll zstd Compression](https://scroll.io/) | Jun 2024 | 12 | | [📄✅](reviews/2024-06-scroll-zstd-compression-securityreview.pdf) |
-| [Iron Fish FishHash](https://ironfish.network/) | Apr 2024 | 1 | | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
+| [Iron Fish FishHash](https://ironfish.network/) | Apr 2024 | 1 | [Iron Fish](https://ironfish.network/learn/blog/2024-05-14-fish-hash-audit) | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
 | [Scroll ZkEVM 4844 Blob](https://scroll.io/) | Apr 2024 | 6 | | [📄✅](reviews/2024-04-scroll-4844-blob-securityreview.pdf) |
 | [Silence Laboratories Silent Shard](https://www.silencelaboratories.com) | Feb 2024 | 5 | | [📄✅](reviews/2024-02-silencelaboratories-silentshard-securityreview.pdf) |
 | [Snow](https://github.com/mcginty/snow) | Jan 2024 | 4 | | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
-| [Axiom Halo2 Library Upgrades](https://www.axiom.xyz/) | Oct 2023 | 6 | | [📄✅](reviews/2023-10-axiom-halo2libraryupgrades-securityreview.pdf) |
-| [Axiom Halo2 Libraries](https://www.axiom.xyz/) | Jun 2023 | 14 | | [📄✅](reviews/2023-06-axiom-halo2libraries-securityreview.pdf) |
-| [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 | | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
+| [Axiom Halo2 Library Upgrades](https://www.axiom.xyz/) | Oct 2023 | 6 | [Axiom](https://docs.axiom.xyz/docs/transparency-and-security/security) | [📄✅](reviews/2023-10-axiom-halo2libraryupgrades-securityreview.pdf) |
+| [Axiom Halo2 Libraries](https://www.axiom.xyz/) | Jun 2023 | 14 | [Axiom](https://docs.axiom.xyz/docs/transparency-and-security/security) | [📄✅](reviews/2023-06-axiom-halo2libraries-securityreview.pdf) |
+| [Aleo snarkVM, snarkOS, BullsharkBFT](https://aleo.org/) | Oct 2023 | 18 | [Aleo](https://aleo.org/post/aleo-completes-security-audits-of-snarkos-and-snarkvm/) | [📄✅](reviews/2023-10-aleo-securityreview.pdf) |
 | [Scroll ZkEVM Wave 3](https://scroll.io/) | Sep 2023 | 9 | | [📄✅](reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf) |
 | [Scroll ZkEVM Wave 2](https://scroll.io/) | Aug 2023 | 6 | | [📄✅](reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf) |
 | [Scroll ZkEVM Wave 1](https://scroll.io/) | Apr 2023 | 23 | | [📄✅](reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf) |
@@ -404,8 +404,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll zkTrie](https://scroll.io/) | Jul 2023 | 4 | | [📄✅](reviews/2023-07-scroll-zktrie-securityreview.pdf) |
 | [Dfinity ckBTC and BTC Integration](https://dfinity.org/) | Jun 2023 | 2.5 | [Third-party assessment by Trail of Bits](https://forum.dfinity.org/t/ckbtc-and-service-nervous-system-sns-third-party-security-assessments-by-trail-of-bits/24380), [Taking security seriously](https://medium.com/dfinity/taking-security-seriously-two-top-icp-features-assessed-by-trail-of-bits-4a0023ab1e68) |
 | [Dfinity SNS Phase 2](https://dfinity.org/) | Jun 2023 | 2.5 | [Third-party assessment by Trail of Bits](https://forum.dfinity.org/t/ckbtc-and-service-nervous-system-sns-third-party-security-assessments-by-trail-of-bits/24380), [Taking security seriously](https://medium.com/dfinity/taking-security-seriously-two-top-icp-features-assessed-by-trail-of-bits-4a0023ab1e68) | [📄](reviews/2023-06-dfinity-sns-securityreview.pdf) |
-| [Thesis tss-lib BitForge](https://threshold.network/) | Jun 2023 | 0.2 | | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
-| [Chainflip](https://chainflip.io/) | Apr 2023 | 12 | | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
+| [Thesis tss-lib BitForge](https://threshold.network/) | Jun 2023 | 0.2 | [Threshold](https://blog.threshold.network/bitforge-and-tsshock/) | [📄✅](reviews/2023-06-thesistsslib-securityreview.pdf) |
+| [Chainflip](https://chainflip.io/) | Apr 2023 | 12 | [Chainflip](https://blog.chainflip.io/trail-of-bits-security-audit/) | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
 | [Practical Stealth Addresses](https://gist.github.com/shea256/e4a8dccd1e83fa801c7328a0af611798) | Feb 2023 | 2 | | [📄✅](reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf) |
 | [Succinct Labs ZK Ethereum Light Client](https://www.succinct.xyz/) | Feb 2023 | 8 | [Introducing Telepathy](https://blog.succinct.xyz/blog/telepathy) | [📄✅](reviews/2023-02-succinct-securityreview.pdf) |
 | [noble-curves Library](https://github.com/paulmillr/noble-curves) | Jan 2023 | 2 | | [📄✅](reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf) |
@@ -459,7 +459,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [DragonFly2](https://d7y.io/) | Jul 2023 | 4 |  [Dragonfly](https://d7y.io/blog), [OSTIF](https://ostif.org/dragonfly-audit/) | [📄✅](reviews/2023-07-dragonfly2-securityreview.pdf) |
 | [Eclipse JKube](https://eclipse.dev/jkube/) | May 2023 | 5 | [OSTIF](https://ostif.org/jkube-audit/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-foundation-publishes-results-eclipse-jkube-security-audit) | [📄✅](reviews/2023-05-eclipse-jkube-securityreview.pdf) |
 | [FraxGov](https://frax.finance/) | May 2023 | 4 | | [📄✅](reviews/2023-05-fraxgov-securityreview.pdf) |
-| [Chainflip](https://chainflip.io/) | Apr 2023 | 12 | | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
+| [Chainflip](https://chainflip.io/) | Apr 2023 | 12 | [Chainflip](https://blog.chainflip.io/trail-of-bits-security-audit/) | [📄✅](reviews/2023-04-chainflip-securityreview.pdf) |
 | [Eclipse Mosquitto](https://mosquitto.org/) | Mar 2023 | 4 | [OSTIF](https://ostif.org/mosquitto-security-audit/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-mosquitto-security-audit-has-been-completed) | [📛](reviews/2023-02-eclipse-mosquitto-lightweight-threatmodel.pdf)[📄✅](reviews/2023-03-eclipse-mosquitto-securityreview.pdf) |
 | [Eclipse Jetty](https://eclipse.dev/jetty/) | Mar 2023 | 6 | [Jetty](http://webtide.com/security-audit-with-trail-of-bits/), [Eclipse](https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-jetty-security-audit-has-been-completed) | [📄✅](reviews/2023-03-eclipse-jetty-securityreview.pdf) |
 | [Spool Platform](https://www.spool.fi/) | Mar 2023 | 8 | | [📄✅](reviews/2023-03-spool-platformv2-securityreview.pdf) |
