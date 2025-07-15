@@ -18,17 +18,24 @@
   2. White Papers
   3. Guides and Handbooks
   4. Conference Presentations
-  5. Datasets
-  6. Podcasts
-  7. Public Comments
-  8. Security Reviews
-  9. Disclosures
-  10. Workshops
+  5. Podcasts
+  6. Public Comments
+  7. Security Reviews
+  8. Disclosures
+  9. Workshops
+  10. Datasets
   11. Service Overviews
 - Within each section, entries should be sorted by date (newest first)
 - When checking sort order, be aware that some sections may have subsections that are sorted independently
 
 ### Security Reviews Table Guidelines
+
+#### Major Clients Section
+- Create a "Major Clients" section before other security review subsections
+- Include clients with 5 or more security reviews
+- List clients alphabetically
+- Within each client subsection, sort reviews by date (newest first)
+- Do NOT include review counts in section headers (e.g., "#### Offchain Labs", not "#### Offchain Labs (32 reviews)")
 
 #### Product Column Formatting
 - Product column should contain ONLY the product/project name
@@ -36,9 +43,10 @@
   - Just use the clean product name (e.g., "Discord DAVE", not "Discord DAVE Protocol Code Review")
 - Keep product names concise to help rows fit on single lines:
   - Remove company suffixes like "Labs" when redundant (e.g., "Offchain Labs X" → "Offchain X")
+  - But keep suffixes when they distinguish between similar companies (e.g., keep "Offchain Labs" to distinguish from "Offchain")
   - Shorten verbose descriptions (e.g., "Custom Fee ERC-20 Bridge Upgrade and EIP-7702 Fixes" → "Custom Fee Bridge & EIP-7702")
   - Remove redundant words like "Protocol", "Smart Contracts", "Library" when context is clear
-  - For multi-organization projects, consider using just the main product name (e.g., "SafeTensors Library" instead of "EleutherAI, Hugging Face, & Stability AI SafeTensors Library")
+  - For multi-organization projects, consider using just the main product name (e.g., "SafeTensors" instead of "EleutherAI, Hugging Face, & Stability AI SafeTensors Library")
 
 #### Document Icons and Formatting
 - Use specific icons for different document types:
@@ -60,6 +68,10 @@
   - Do NOT use long announcement titles (e.g., avoid "Meet DAVE: Discord's New End-to-End Encryption")
   - This keeps the table clean and helps rows fit on single lines
 - For URLs: only the displayed text matters for line length, not the actual URL length
+- Different sections have different preferences:
+  - Ethereum/EVM section: Use organization names for announcement text
+  - Technology Product Reviews section: Keep longer descriptive announcement text
+- Announcement links should point to company announcements about the audit, not to the audit PDF itself
 
 ### General Formatting Guidelines
 - Priority: Keep security review table rows fitting on single lines
@@ -74,3 +86,7 @@
 - When moving sections, update both the section content AND the table of contents
 - Double-check that the total number of table rows remains the same after edits
 - Remove duplicate entries - combine multiple audits for the same product when appropriate
+- When creating a Major Clients section:
+  - Ensure ALL reviews for that client are moved to their section
+  - Remove the reviews from their original locations to avoid duplicates
+  - Watch out for similar product names from different companies (e.g., ReserveLending+ is from unFederalReserve, not Reserve Protocol)
