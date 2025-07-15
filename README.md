@@ -749,7 +749,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Ajna Protocol](https://www.ajna.finance/) | Apr 2023 | 12 | | [📄✅](reviews/2023-04-ajnalabs-securityreview.pdf) |
 | [Raft](https://docs.tempus.finance/products/raft) | Apr 2023 | 2 | | [📄✅](reviews/2023-04-tempus-raft-securityreview.pdf) |
 | [MYSO v2](https://www.myso.finance) | Apr 2023 | 2 | [Security review of our v2 contracts](https://twitter.com/MysoFinance/status/1649191996978786305) | [📄✅](reviews/2023-04-mysoloans-securityreview.pdf) |
-| [Smardex AMM](https://www.smardex.io/) | Apr 2023 | 2 | [SmarDex](https://www.smardex.io/assets/audits/trail-of-bits.pdf) | [📄✅](reviews/2023-04-smardexamm-realestateexecutives-securityreview.pdf) |
+| [Smardex AMM](https://www.smardex.io/) | Apr 2023 | 2 | | [📄✅](reviews/2023-04-smardexamm-realestateexecutives-securityreview.pdf) |
 | [Waymont](https://www.waymont.co/) | Mar 2023 | 1 | |  |
 | [Atlendis Smart Contracts](https://www.atlendis.io/) | Mar 2023 | 6 | [Atlendis V2 Audit](https://www.atlendis.io/blog/Atlendis-V2-Trail-of-Bits-Audit) | [📄✅](reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf) |
 | [Primitive Hyper](https://primitive.xyz/) | Mar 2023 | 8 | | [📄✅](reviews/2023-03-primitive-securityreview.pdf) |
