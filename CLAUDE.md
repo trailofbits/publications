@@ -28,6 +28,17 @@
 - Within each section, entries should be sorted by date (newest first)
 - When checking sort order, be aware that some sections may have subsections that are sorted independently
 
+### Security Reviews Table Guidelines
+- Product column should contain ONLY the product/project name
+  - Do NOT include document types like "Letter of Attestation", "Design Review", "Code Review"
+  - Just use the clean product name (e.g., "Discord DAVE", not "Discord DAVE Protocol Code Review")
+- When multiple related documents exist (e.g., security review + letter of attestation):
+  - Combine them into a single row
+  - List all PDFs in the same row's link column
+- Add announcement links when available:
+  - Search for official announcements that mention Trail of Bits
+  - Include these in the announcement column with descriptive link text
+
 ### Editing Guidelines
 - NEVER modify URLs or file paths when making formatting changes
 - Preserve the exact order of entries when only changing date formats
