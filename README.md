@@ -897,21 +897,21 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [NuCypher](https://www.nucypher.com/) | Feb 2019 | 4 | [NuCypher](https://blog.nucypher.com/security-audits-round-2/) | [📄](reviews/nucypher-2.pdf) |
 | [AMP StableWire](https://amp.credit/) | Jan 2019 | 1 | | |
 | [EIP-1283](https://github.com/ethereum/EIPs/pull/1283) | Jan 2019 | 1 | [ChainSecurity](https://medium.com/chainsecurity/constantinople-security-update-3d02017747f2) | [📄](reviews/EIP-1283.pdf) |
-| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | 4 | [Security Audits with Trail of Bits](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31) | [📄](reviews/ampleforth.pdf) |
-| [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 | [How We Approach Security at Origin](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71) | [📄](reviews/origin.pdf) |
+| [Ampleforth](https://www.ampleforth.org/) | Nov 2018 | 4 | [Ampleforth](https://medium.com/ampleforth/source-code-and-security-audits-with-trail-of-bits-2b1ad4a09a31) | [📄](reviews/ampleforth.pdf) |
+| [Origin Protocol](https://www.originprotocol.com/en) | Nov 2018 | 4 | [Origin Protocol](https://medium.com/originprotocol/the-results-of-our-smart-contract-audit-with-trail-of-bits-and-how-we-approach-security-at-origin-175cc1646d71) | [📄](reviews/origin.pdf) |
 | [Paxos Standard](https://www.paxos.com/standard/) | Oct 2018 | 4 | | [📄](reviews/paxos.pdf) |
 | [Basecoin](https://www.basis.io/) | Oct 2018 | 12 | | [📄](reviews/basis.pdf) |
-| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [What we learned auditing our ETH client](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
-| [Compound](https://compound.finance/) | Sep 2018 | 12 | [Compound launches money markets](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488) | | |
-| [NuCypher](https://www.nucypher.com/) | Aug 2018 | 12 | [Security audits: round 1](https://blog.nucypher.com/security-audits--round-1--3/) | [📄](reviews/nucypher.pdf)|
-| [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [Designing an upgradeable Ethereum contract](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
-| [Bloom](https://bloom.co/) | Jul 2018 | 1 | [Bloom development update](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83) |
-| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Stablecoins: Understanding Counterparty Risk](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
-| [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma protocol v1 is live on mainnet](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | |
-| [Golem](https://golem.network/) | Apr 2018 | 4 | [Smart contracts: audit report](https://medium.com/golem-project/smart-contracts-audit-report-ad41fdd5085b) | [📄](reviews/golem.pdf) |
-| [LivePeer](https://livepeer.org/) | Mar 2018 | 4 | [Livepeer security audit results](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4) | [📄](reviews/livepeer.pdf) |
+| [Pantheon](https://pegasys.tech/) | Oct 2018 | 8 | [PegaSys](https://pegasys.tech/what-we-learned-from-auditing-our-ethereum-client/) | [📄](reviews/pantheon.pdf) |
+| [Compound](https://compound.finance/) | Sep 2018 | 12 | [Compound](https://medium.com/compound-finance/compound-launches-money-markets-for-ethereum-assets-f50920f04488) | | |
+| [NuCypher](https://www.nucypher.com/) | Aug 2018 | 12 | [NuCypher](https://blog.nucypher.com/security-audits--round-1--3/) | [📄](reviews/nucypher.pdf)|
+| [CENTRE](https://www.centre.io/) | Jul 2018 | 4 | [CENTRE](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) |
+| [Bloom](https://bloom.co/) | Jul 2018 | 1 | [Bloom](https://blog.hellobloom.io/bloom-development-update-mainnet-launch-blockchain-ux-improvements-open-source-developer-c8ddc194fe83) |
+| [Gemini Dollar](https://gemini.com/dollar/) | Jun 2018 | 8 | [Gemini](https://medium.com/gemini/stablecoins-understanding-counterparty-risk-241d55f0b392) | [📄](reviews/gemini-dollar.pdf) |
+| [Dharma](https://dharma.io/) | May 2018 | 1 | [Dharma](https://blog.dharma.io/dharma-protocol-v1-is-live-on-mainnet-95f8ef770c2c) | |
+| [Golem](https://golem.network/) | Apr 2018 | 4 | [Golem](https://medium.com/golem-project/smart-contracts-audit-report-ad41fdd5085b) | [📄](reviews/golem.pdf) |
+| [LivePeer](https://livepeer.org/) | Mar 2018 | 4 | [Livepeer](https://medium.com/livepeer-blog/livepeer-smart-contract-security-audit-1-results-631c4d7d98a4) | [📄](reviews/livepeer.pdf) |
 | [DappHub](https://dapphub.com/) | Dec 2017 | 8 | | [📄](reviews/dapphub.pdf) |
-| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [Single-collateral Dai security reviews](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) |
+| [MakerDAO Sai](https://makerdao.com/en/) | Oct 2017 | 8 | [MakerDAO](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8) | [📄](reviews/sai.pdf) |
 | [Omega One](https://dark.omega.one/) | Aug 2017 | 6 | | |
 
 #### NervOS
