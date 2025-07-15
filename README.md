@@ -3,6 +3,7 @@
 - [Publications from Trail of Bits](#publications-from-trail-of-bits)
   - [Academic Papers](#academic-papers)
   - [White Papers](#white-papers)
+  - [Guides and Handbooks](#guides-and-handbooks)
   - [Conference Presentations](#conference-presentations)
     - [Automated bug finding and exploitation](#automated-bug-finding-and-exploitation)
     - [Blockchain](#blockchain)
@@ -17,7 +18,6 @@
     - [Side channels](#side-channels)
     - [Supply chain](#supply-chain)
     - [Threat analysis \& malware](#threat-analysis--malware)
-  - [Guides and Handbooks](#guides-and-handbooks)
   - [Datasets](#datasets)
   - [Podcasts](#podcasts)
   - [Public Comments](#public-comments)
@@ -94,6 +94,16 @@
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 2023 |
 | [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
 | [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
+
+## Guides and Handbooks
+
+| Link | Description |
+| ---- | ----------- |
+| [Testing Handbook](https://appsec.guide/) | Guides for configuring and automating static and dynamic analysis tools. |
+| [ZKDocs](https://www.zkdocs.com/) | Interactive documentation on zero-knowledge proof systems. |
+| [Building Secure Smart Contracts](https://secure-contracts.com/) | Best practices for developing secure smart contracts. |
+| [CTF Field Guide](https://trailofbits.github.io/ctf/) | Field guide to winning at Capture The Flag competitions. |
+| [Ruby Security Field Guide](https://trailofbits.github.io/rubysec/) | Practical Ruby security guide. |
 
 ## Conference Presentations
 
@@ -270,18 +280,6 @@
 | [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
 
-## Guides and Handbooks
-
-We publish much of our subject matter expertise in the form of guides and handbooks.
-
-| Link | Repository | Description |
-| ---- | ---------- | ----------- |
-| [Trail of Bits Testing Handbook](https://appsec.guide/) | [trailofbits/testing-handbook](https://github.com/trailofbits/testing-handbook) | The automated testing handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use. |
-| [ZKDocs](https://www.zkdocs.com/) | [trailofbits/zkdocs](https://github.com/trailofbits/zkdocs) | ZKDocs provides comprehensive, detailed, and interactive documentation on zero-knowledge proof systems and related primitives. |
-| [Building Secure Smart Contracts](https://secure-contracts.com/) | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | Guidelines and best practices for developing secure smart contracts. |
-| [CTF Field Guide](https://trailofbits.github.io/ctf/) | [trailofbits/ctf](https://github.com/trailofbits/ctf) | Our field guide to winning at Capture The Flag (CTF). |
-| [Ruby Security Field Guide](https://trailofbits.github.io/rubysec/) | [trailofbits/rubysec](https://github.com/trailofbits/rubysec) | Our field guide for practical Ruby security. |
-
 ## Datasets
 
 | Dataset | Date |
@@ -445,9 +443,9 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [RubyGems.org](https://www.rubygems.org) | Dec 2024 | 5 | | [📄](reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf) |
 | [Kraken Wallet In-App Browser](https://www.kraken.com/wallet) | Nov 2024 | 4 | | [📄✅](reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf) |
 | [Polygon Labs Iden3 Circuits](https://polygon.technology/) | May 2024 | 2 | | [📄✅](reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf) |
-| [Kraken Mobile Wallet](https://www.kraken.com/wallet) | Jan 2024 | 7 | [Kraken Blog](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)| [📄✅](reviews/2024-1-kraken-mobile-wallet-securityreview.pdf) |
 | [Kraken Mobile Wallet iCloud Backup](https://www.kraken.com/wallet) | Sep 2024 | 2 | | [📄✅](reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf) |
 | [Hugging Face Gradio](https://huggingface.co/gradio) | Jul 2024 | 4 | [Hugging Face Blog](https://huggingface.co/blog/gradio-5-security), [Trail of Bits Blog](https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/) | [📄✅](reviews/2024-10-huggingface-gradio-securityreview.pdf) |
+| [Kraken Mobile Wallet](https://www.kraken.com/wallet) | Jan 2024 | 7 | [Kraken Blog](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)| [📄✅](reviews/2024-1-kraken-mobile-wallet-securityreview.pdf) |
 | [Eclipse Temurin](https://adoptium.net/temurin/) | Dec 2023 | 4 | [Eclipse Temurin Response](https://adoptium.net/pdf/temurin-audit-response.pdf), [OSTIF Announcement](https://ostif.org/temurin-audit-complete/), [Eclipse Foundation Announcement](https://adoptium.net/blog/2024/06/external_audit) | [📄✅](reviews/2023-12-eclipse-temurin-securityreview.pdf) |
 | [Arch Linux Pacman](https://archlinux.org/pacman/) | Dec 2023 | 2 | [OTF Announcement](https://www.opentech.fund/security-safety-audits/arch-linuxs-pacman-package-manager-security-audit/) | [📄✅](reviews/2023-12-pacman-securityreview.pdf) |
 | [cURL HTTP3](https://curl.se/) | Dec 2023 | 4 | [OSTIF](https://ostif.org/curl-audit-complete/), [Daniel Stenberg](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/) | [📄](reviews/2023-12-curl-http3-securityreview.pdf) |
@@ -586,8 +584,8 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [wXTZ](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wXTZ.pdf) |
 | [wALGO](https://www.stakerdao.com/) | Nov 2020 | 4 | | [📄](reviews/wALGO.pdf) |
 | [Meld Gold](https://meld.gold/) | Jul 2020 | 2 | | |
-| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) | |
 | [Pixel](https://www.algorand.com/) | Dec 2019 | 4 |  | |
+| [Algorand](https://www.algorand.com/) | Mar 2019 | 14 | [Success and momentum of Algorand](https://medium.com/algorand/success-and-momentum-of-algorand-the-platform-technology-for-the-borderless-economy-35b22cae63c6) | |
 
 #### Avalanche
 
@@ -604,7 +602,7 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [ZetaChain Bitcoin Inscriptions](https://www.zetachain.com/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-zetachain-bitcoin-inscriptions-securityreview.pdf) |
 | [Nomic](https://www.nomic.io/) | Nov 2024 | 10 | [Nomic Completes Security Audit by Trail of Bits](https://blog.nomic.io/security-audit-trail-of-bits-8ae87ce19bf0) | [📄✅](reviews/2024-11-nomic-securityreview.pdf) |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
-| [STAS-JS SDK](https://www.taal.com/#) | Sept 2021 | 4 | | |
+| [STAS-JS SDK](https://www.taal.com/#) | Sep 2021 | 4 | | |
 | [Bitcoin SV](https://nchain.com/) | Jan 2021 | 6 | |
 | [Zcoin](https://zcoin.io/) | Jul 2020 | 2 | [Lelantus Cryptographic Library Audit Results](https://zcoin.io/lelantus-cryptographic-library-audit-results/) | [📄](reviews/zcoin-lelantus-summary.pdf) |
 | [Zcash](https://electriccoin.co/) | Apr 2020| 3 | [Heartwood security assessment results](https://electriccoin.co/blog/heartwood-security-assessment-turns-up-no-major-issues/) | [📄](reviews/Zcash2.pdf) |
@@ -622,12 +620,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Scroll Feynman Upgrade Smart Contract Changes](https://scroll.io/) | Jul 2025 | 1 | | [📄](reviews/2025-07-scroll-feynmanupgradesmartcontractchanges-securityreview.pdf) |
 | [Reserve Protocol Solidity 4.0.0](https://reserve.org/) | Jun 2025 | 3.6 | | [📄✅](reviews/2025-06-reserveprotocol-solidity400-securityreview.pdf) |
 | [Offchain Labs SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | Jun 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
-| [Bunni v2](https://bunni.pro/) | Jan 2025 | 8 | | [📄✅](reviews/2025-01-bacon-labs-bunniv2-securityreview.pdf) |
 | [Offchain Labs Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf) |
 | [Offchain Labs Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
-| [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
 | [Offchain Labs ArbOS 40 Nitro](https://www.offchainlabs.com/) | May 2025 | 6 | | [📄](reviews/2025-05-offchainlabs-arbos40nitro-securityreview.pdf) |
+| [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
 | [Reserve Protocol Solana DTFs](https://reserve.org/) | Apr 2025 | 2 | | [📄✅](reviews/2025-04-reserve-solana-dtfs-securityreview.pdf) |
 | [Offchain Reward Distributor Fixes](https://www.offchainlabs.com/) | Apr 2025 | 0.8 | | [📄](reviews/2025-04-offchainlabs-reward-distributor-fixes-securityreview.pdf) |
 | [Reserve Folio Solidity-Based Contracts](https://reserve.org/) | Apr 2025 | 2 | | [📄✅](reviews/2025-04-reserve-folio-solidity-securityreview.pdf) |
@@ -639,11 +636,12 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | [Offchain Labs Security Council Rotation Update](https://www.offchainlabs.com/) | Mar 2025 | 1.6 | | [📄](reviews/2025-03-offchain-security-council-rotation-securityreview.pdf) |
 | [Offchain Labs DisableGateway Action for USDT](https://www.offchainlabs.com/) | Mar 2025 | 0.4 | | [📄](reviews/2025-03-offchain-disablegateway-action-securityreview.pdf) |
 | [Automata](https://www.ata.network/) | Feb 2025 | 8 | | [📄✅](reviews/2025-02-automata-dcap-attestation-onchain-pccs-securityreview.pdf) |
-| [Balancer v3](https://balancer.fi/) | Dec 2024 | 6 | | [📄✅](reviews/2024-12-balancer-v3-securityreview.pdf) |
+| [Bunni v2](https://bunni.pro/) | Jan 2025 | 8 | | [📄✅](reviews/2025-01-bacon-labs-bunniv2-securityreview.pdf) |
 | [Everstake Ethereum Staking Protocol](https://everstake.one/) | Jan 2025 | 3 | | [📄✅](reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf) |
 | [Parabol Labs Smart Contracts Updates](https://parabol.fi/) | Jan 2025 | 0.4 | | [📄](reviews/2025-01-parabollabs-protocolcontractsupdates-securityreview.pdf) |
-| [Parabol Labs Smart Contracts](https://parabol.fi/) | May 2024 | 2 | | [📄✅](reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf) |
 | [BeethovenX Sonic Staking](https://beets.fi/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf) |
+| [Balancer v3](https://balancer.fi/) | Dec 2024 | 6 | | [📄✅](reviews/2024-12-balancer-v3-securityreview.pdf) |
+| [Parabol Labs Smart Contracts](https://parabol.fi/) | May 2024 | 2 | | [📄✅](reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf) |
 | [ULTI Security Review](https://www.ulti.org/) | Dec 2024 | 1 |  | [📄✅](reviews/2024-12-ULTI-securityreview.pdf) |
 | [Offchain BoLD Fixes](https://www.offchainlabs.com/) | Dec 2024 | 0.8 |  | [📄](reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
 | [EthStaker Deposit CLI](https://ethstaker.cc/) | Dec 2024 | 4 |  | [📄✅](reviews/2024-12-ethstaker-depositcli-securityreview.pdf) |
@@ -1072,10 +1070,10 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | Workshop Title | Venue | Date |
 | --- | --- | --: |
 | [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202019) | TruffleCon 2019 | Oct 2019 |
-| [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | Nov 2018 |
 | [Introduction to Smart Contract Exploitation](workshops/Introduction%20to%20Smart%20Contract%20Exploitation%20-%20GreHack%202018) | GreHack 2018 | Nov 2018 |
-| [DeepState: Bringing Vulnerability Detection Tools into the Dev Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | Oct 2018 |
+| [Manticore EVM Workshop](workshops/Using%20Manticore%20and%20Symbolic%20Execution%20to%20Find%20Smart%20Contracts%20Bugs%20-%20Devcon%204) | Devcon4 2018 | Nov 2018 |
 | [Smart Contract Security Automation Workshop](workshops/Automated%20Smart%20Contracts%20Audit%20-%20TruffleCon%202018) | TruffleCon 2018 | Oct 2018 |
+| [DeepState: Bringing Vulnerability Detection Tools into the Dev Cycle](workshops/DeepState:%20Bringing%20vulnerability%20detection%20tools%20into%20the%20development%20lifecycle%20-%20SecDev%202018) | SecDev 2018 | Oct 2018 |
 | [Smart Contract Security Automation Workshop](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | Sep 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | Mar 2018 |
 | [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | Oct 2017 |
