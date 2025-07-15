@@ -99,11 +99,11 @@
 
 | Link | Description |
 | ---- | ----------- |
-| [Testing Handbook](https://appsec.guide/) | Guides for configuring and automating static and dynamic analysis tools. |
-| [ZKDocs](https://www.zkdocs.com/) | Interactive documentation on zero-knowledge proof systems. |
-| [Building Secure Smart Contracts](https://secure-contracts.com/) | Best practices for developing secure smart contracts. |
-| [CTF Field Guide](https://trailofbits.github.io/ctf/) | Field guide to winning at Capture The Flag competitions. |
-| [Ruby Security Field Guide](https://trailofbits.github.io/rubysec/) | Practical Ruby security guide. |
+| [Testing Handbook](https://appsec.guide/) | Guides for configuring and automating static and dynamic analysis tools |
+| [ZKDocs](https://www.zkdocs.com/) | Interactive documentation on zero-knowledge proof systems |
+| [Building Secure Smart Contracts](https://secure-contracts.com/) | Best practices for developing secure smart contracts |
+| [CTF Field Guide](https://trailofbits.github.io/ctf/) | Field guide to winning at Capture The Flag competitions |
+| [Ruby Security Field Guide](https://trailofbits.github.io/rubysec/) | Practical Ruby security guide |
 
 ## Conference Presentations
 
