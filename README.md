@@ -446,7 +446,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Frax](https://frax.finance/) | Dec 2021 | 4 | | [📄](reviews/FraxQ42021.pdf) |
 | [Frax](https://frax.finance/) | May 2021 | 4 | | [📄](reviews/FraxFinance.pdf) |
 
-#### Reserve Protocol (6 reviews)
+#### Reserve Protocol (5 reviews)
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
@@ -454,7 +454,6 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Reserve Protocol Solana DTFs](https://reserve.org/) | Apr 2025 | 2 | | [📄✅](reviews/2025-04-reserve-solana-dtfs-securityreview.pdf) |
 | [Reserve Folio Solidity-Based Contracts](https://reserve.org/) | Apr 2025 | 2 | | [📄✅](reviews/2025-04-reserve-folio-solidity-securityreview.pdf) |
 | [Reserve Protocol](https://reserve.org/) | Aug 2022 | 8 | | [📄](reviews/2022-08-reserve-protocol-securityreview.pdf), [✅](reviews/2022-08-reserve-protocol-fixreview.pdf) |
-| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [unFederalReserve](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Reserve Protocol](https://reserve.org/) | Mar 2019 | 1 | | [📄](reviews/Reserve_LOA.pdf) |
 
 #### MobileCoin (4 reviews)
@@ -794,6 +793,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Shell Protocol v2](https://shellprotocol.io/) | May 2022 | 4 | | [📄](reviews/ShellProtocolv2.pdf) |
 | [Optimism](https://www.optimism.io/) | Apr 2022 | 6 | | |
 | [NFTX](https://nftx.io/) | Apr 2022 | 4 | [Trail of Bits Audit](https://docs.nftx.io/smart-contracts/bug-bounty/trail-of-bits-audit) | [📄](reviews/NFTX.pdf) |
+| [ReserveLending+](https://unfederalreserve.com/) | Apr 2022 | 4 | [unFederalReserve](https://unfederalreserve.medium.com/security-audit-for-reservelending-update-60b1a90a2d6) | |
 | [Firefly](https://dtrade.org/) | Apr 2022 | 4 | | |
 | [Maple Finance Smart Contracts](https://www.maple.finance/) | Mar 2022 | 1 | | [📄✅](reviews/2022-03-maplefinance-securityreview.pdf) |
 | [Gyroscope](https://gyro.finance/) | Mar 2022 | 6 | | |
