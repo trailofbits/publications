@@ -1028,7 +1028,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [ShardX](https://www.gemini.com/) | Dec 2021 | 2 | | |
 | [DeGate](https://degate.com/?en-US) | Dec 2021 | 4 | | |
 | [Threshold-DSA](https://anyswap.exchange/) | Nov 2021 | 6 | | |
-| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Internet Computer Consensus: Security<br /> Assessment](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
+| [DFINITY Consensus](https://dfinity.org/) | Nov 2021 | 2 | [Forum](https://forum.dfinity.org/t/internet-computer-consensus-security-assessment-by-trail-of-bits-third-party-security-audit-2/11453) | [📄](reviews/DFINITYConsensus.pdf) |
 | [PolySign HSM](https://polysign.io/) | Oct 2021 | 6 | | |
 | [Hop Protocol V2](https://hop.exchange/) | Sep 2021 | 4 | | |
 | [Golden Gate Library](https://layerzero.network/) | Sep 2021 | 1 | | |
@@ -1043,13 +1043,13 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [DFINITY](https://dfinity.org/) | May 2021 | 24 | | [📄](reviews/DFINITY.pdf) |
 | [Arbitrum V2](https://offchainlabs.com/) | Feb 2021 | 8 | | |
 | [eFIL](https://www.gemini.com/blog/gemini-launches-wrapped-filecoin-efil-building-a-bridge-to-defi) | Jan 2021 | 2 | | |
-| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [ToB Audit of the Casper Highway Protocol](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
+| [Highway Consensus](https://casperlabs.io/en/) | Nov 2020 | 4 | [CasperLabs](https://blog.casperlabs.io/trail-of-bits-security-audit-casper-highway-protocol/) | [📄](reviews/CasperLabsHighwayProtocol.pdf) |
 | [Stacks V2](https://www.blockstack.org/) | Sep 2020 | 6 | | |
 | [VRFs](https://chain.link/) | Aug 2020 | 2 | | |
 | [Celo Oracle](clabs.co) | Jul 2020 | 2 | | [📄](reviews/celo-oracle.pdf) |
 | [Arbitrum](https://offchainlabs.com/) | Jul 2020 | 6 | | |
 | [MYKEY](https://mykey.org/en) | Jul 2020 | 4 | | |
-| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4 | [Symbol from NEM completes Trail of Bits<br /> Security Audit](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
+| [Symbol](https://symbolplatform.com/) | Jul 2020 | 4 | [Symbol](https://symbolplatform.com/latest/symbol-from-nem-completes-trail-of-bits-security-audit/) | [📄](reviews/Symbol.pdf) |
 | [Ledger Filecoin](https://protocol.ai/) | Jul 2020 | 2 | | [📄](reviews/LedgerFilecoin.pdf) |
 | [Chainlink](https://chain.link/) | Jun 2020 | 8 | | |
 | [Chainlink Flux](https://chain.link/) | May 2020 | 4 | | |
