@@ -294,7 +294,7 @@
 | [Security Weekly](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
 | [Protect AI](https://youtu.be/saLKE9y4EoU?si=9xqCNiY_Fx3ad9Mu) | Keith Hoodlet | Jun 2025 | MCP Security |
 | [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/ML security |
-| [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain security |
+| [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain |
 | [Security Weekly](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
 | [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
