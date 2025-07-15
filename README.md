@@ -18,7 +18,6 @@
     - [Side channels](#side-channels)
     - [Supply chain](#supply-chain)
     - [Threat analysis \& malware](#threat-analysis--malware)
-  - [Datasets](#datasets)
   - [Podcasts](#podcasts)
   - [Public Comments](#public-comments)
   - [Security Reviews](#security-reviews)
@@ -43,6 +42,7 @@
       - [Other/Multi-Chain](#othermulti-chain)
   - [Disclosures](#disclosures)
   - [Workshops](#workshops)
+  - [Datasets](#datasets)
   - [Service Overviews](#service-overviews)
 - [Legend](#legend)
 
@@ -279,12 +279,6 @@
 | --- | --- | --- |
 | [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
-
-## Datasets
-
-| Dataset | Date |
-| --- |---|
-| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) | Aug 2019 |
 
 ## Podcasts
 
@@ -1115,6 +1109,12 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Smart Contract Security Automation](workshops/Smart%20Contract%20Security%20Automation%20-%20ETHBerlin%202018) | ETH Berlin 2018 | Sep 2018 |
 | [Manticore EVM Workshop](workshops/Manticore%20-%20EthCC%202018) | EthCC 2018 | Mar 2018 |
 | [Manticore Workshop](workshops/Manticore%20-%20GreHack%202017) | GreHack 2017 | Oct 2017 |
+
+## Datasets
+
+| Dataset | Date |
+| --- |---|
+| [Smart Contract Audit Findings](datasets/smart_contract_audit_findings) | Aug 2019 |
 
 ## Service Overviews
 
