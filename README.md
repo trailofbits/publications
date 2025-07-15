@@ -524,7 +524,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Phantom Wallet](https://phantom.app/) | Apr 2022 | 4 | | |
 | [Parallel Finance](https://parallel.fi/) | Mar 2022 | 6 | | [📄](reviews/ParallelFinance.pdf) |
 | [Polkadex](https://www.polkadex.trade/) | Feb 2022 | 10 | | |
-| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Linux Kernel Release Signing and Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
+| [Linux Kernel](https://kernelci.org/about/) | Apr 2021 | 2 |  [Release Signing and Management](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/) | [📄](reviews/LinuxKernelReleaseSigning.pdf) |
 | [Standard Notes](https://standardnotes.org/) | Mar 2020 | 1 | [Crypto Audit](https://blog.standardnotes.org/standard-notes-security-audits-2021/) | [📄](reviews/StandardNotes.pdf) |
 | [Project Callisto](https://www.projectcallisto.org/) | Aug 2018 | 5 |
 
