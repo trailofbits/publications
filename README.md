@@ -697,6 +697,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Ink Foundation Governance System](https://inkonchain.com/) | July 2025 | 1 | | [📄✅](reviews/2025-07-inkfoundation-governancesystem-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
 | [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
 | [Serai DEX](https://serai.exchange/) | Apr 2025 | 3 | | [📄✅](reviews/2025-04-serai-dex-security-review.pdf) |
