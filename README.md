@@ -21,6 +21,14 @@
   - [Podcasts](#podcasts)
   - [Public Comments](#public-comments)
   - [Security Reviews](#security-reviews)
+    - [Major Clients](#major-clients)
+      - [Offchain Labs](#offchain-labs)
+      - [Scroll](#scroll)
+      - [Uniswap](#uniswap)
+      - [Frax Finance](#frax-finance)
+      - [Reserve Protocol](#reserve-protocol)
+      - [MobileCoin](#mobilecoin)
+      - [Western Digital](#western-digital)
     - [AI/ML Reviews](#aiml-reviews)
     - [Cryptography Reviews](#cryptography-reviews)
     - [Technology Product Reviews](#technology-product-reviews)
@@ -941,6 +949,10 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Solang Code Generation](https://solana.com/) | November 2023 | 4 | | [📄](reviews/2023-11-solana-solang-code-generation-securityreview.pdf) |
+| [Solang Code Generation, Part 1](https://solana.com/) | November 2023 | 2 | | [📄](reviews/2023-11-solana-solang-code-generation-part-1-securityreview.pdf) |
+| [Solang Parser and Semantic Analysis](https://solana.com/) | September 2023 | 2 | | [📄](reviews/2023-09-solana-solang-parser-semantic-analysis-securityreview.pdf) |
+| [Solang Solana Library](https://solana.com/) | July 2023 | 1 | | [📄](reviews/2023-07-solana-solang-library-securityreview.pdf) |
 | [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Feb 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Squads V4](https://squads.so/) | Oct 2023 | 2 | [Squads](https://x.com/SquadsProtocol/status/1725548225804005464?s=20) | [📄✅](reviews/2023-10-squadsv4-securityreview.pdf) |
