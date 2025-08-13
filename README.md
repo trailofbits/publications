@@ -295,14 +295,14 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
-| [Security Weekly](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
-| [CTF Radiooo](https://youtu.be/BmCWryz3dsU?si=4T34d9DIP2MOcuo9) | Michael Brown & Evan Downing | Aug 2025 | AixCC |
+| [Security Weekly #342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
+| [CTF Radiooo 01E](https://youtu.be/BmCWryz3dsU?si=4T34d9DIP2MOcuo9) | Michael Brown & Evan Downing | Aug 2025 | AixCC |
 | [Click Here Show](https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394) | Dan Guido | Jun 2025 | Zoom remote control attacks |
-| [Security Weekly](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
+| [Security Weekly #336](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
 | [Protect AI](https://youtu.be/saLKE9y4EoU?si=9xqCNiY_Fx3ad9Mu) | Keith Hoodlet | Jun 2025 | MCP Security |
 | [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/ML security |
 | [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain |
-| [Security Weekly](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
+| [Security Weekly #323](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
 | [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
 | [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
