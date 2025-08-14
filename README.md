@@ -120,7 +120,7 @@
 
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
-| [Our experience competing in the AI Cyber Challenge](presentations/Our%experience%competing%in%the%AI%Cyber%Challenge/Our%experience%competing%in%the%AI%Cyber%Challenge.pdf) | Michael Brown et al.                              | 2025 |
+| [Our experience competing in the AI Cyber Challenge](presentations/Our%20experience%20competing%20in%20the%20AI%20Cyber%20Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf) | Michael Brown et al.                              | 2025 |
 | [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir                                     | 2023 |
 | [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
 | Blind Spots: Identifying Exploitable Program Inputs | Henrik Brodin, Evan Sultanik, and Marek Surovič    | 2023 |
