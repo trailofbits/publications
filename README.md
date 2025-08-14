@@ -101,7 +101,7 @@
 | [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison | Aug 2024 |
 | [Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment](reports/Policy_Language_Security_Comparison_and_TM.pdf) | Ian Smith and Kelly Kaoudis | Aug 2024 |
 | [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf) | Heidy Khlaaf | Mar 2023 |
-| [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | u et al. | Jun 2022 |
+| [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers](papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf) | Evan Sultanik et al. | Jun 2022 |
 | [Do You Really Need a Blockchain? An Operational Risk Assessment](papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf) | Evan Sultanik and Mike Myers | Jun 2022 |
 
 ## Guides and Handbooks
@@ -120,7 +120,7 @@
 
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
-| Our experience competing in the AI Cyber Challenge | Michael Brown et al.                              | 2025 |
+| [Our experience competing in the AI Cyber Challenge](presentations/Our%experience%competing%in%the%AI%Cyber%Challenge/Our%experience%competing%in%the%AI%Cyber%Challenge.pdf) | Michael Brown et al.                              | 2025 |
 | [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir                                     | 2023 |
 | [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
 | Blind Spots: Identifying Exploitable Program Inputs | Henrik Brodin, Evan Sultanik, and Marek Surovič    | 2023 |
@@ -235,7 +235,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| Our experience competing in the AI Cyber Challenge | Michael Brown et al. | 2025 |
+| [Our experience competing in the AI Cyber Challenge]((presentations/Our%experience%competing%in%the%AI%Cyber%Challenge/Our%experience%competing%in%the%AI%Cyber%Challenge.pdf)) | Michael Brown et al. | 2025 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
 | [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
 | [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
@@ -296,7 +296,7 @@
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
 | [Security Weekly #342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
-| [CTF Radiooo 01E](https://youtu.be/BmCWryz3dsU?si=4T34d9DIP2MOcuo9) | Michael Brown & Evan Downing | Aug 2025 | AixCC |
+| [CTF Radiooo 01E](https://youtu.be/BmCWryz3dsU?si=4T34d9DIP2MOcuo9) | Michael Brown & Evan Downing | Aug 2025 | AIxCC |
 | [Click Here Show](https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394) | Dan Guido | Jun 2025 | Zoom remote control attacks |
 | [Security Weekly #336](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
 | [Protect AI](https://youtu.be/saLKE9y4EoU?si=9xqCNiY_Fx3ad9Mu) | Keith Hoodlet | Jun 2025 | MCP Security |
