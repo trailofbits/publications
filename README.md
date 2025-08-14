@@ -235,7 +235,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Our experience competing in the AI Cyber Challenge]((presentations/Our%experience%competing%in%the%AI%Cyber%Challenge/Our%experience%competing%in%the%AI%Cyber%Challenge.pdf)) | Michael Brown et al. | 2025 |
+| [Our experience competing in the AI Cyber Challenge](presentations/Our%experience%competing%in%the%AI%Cyber%Challenge/Our%experience%competing%in%the%AI%Cyber%Challenge.pdf) | Michael Brown et al. | 2025 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
 | [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
 | [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
