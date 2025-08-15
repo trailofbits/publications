@@ -720,6 +720,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Starkware StarkEx Diff Review](https://starkware.co/starkex/) | August 2025 | 0.2 | | [📄](reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf) |
 | [CAP Labs Covered Agent Protocol](https://cap.app/) | May 2025 | 9 | | [📄✅](reviews/2025-05-caplabs-coveredagentprotocol-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
 | [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
