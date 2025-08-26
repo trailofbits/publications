@@ -664,6 +664,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | August 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf) |
 | [Gemini Smart Wallet](https://www.gemini.com/wallet/) | August 2025 | 4 | | [🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
 | [Otim Smart Wallet](https://otim.com/) | Mar 2025 | 3 | | [📄✅](reviews/2025-03-otim-smart-wallet-securityreview.pdf) |
 | [dappOS v2 wallet](https://dappos.com/) | Jul 2023 | 3 | | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
