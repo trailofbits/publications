@@ -61,4 +61,7 @@ jobs:
           # Optional: Custom environment variables for Claude
           # claude_env: |
           #   NODE_ENV: test
+          
+          # Use sticky comments to make Claude reuse the same comment on subsequent interactions
+          use_sticky_comment: true
 
