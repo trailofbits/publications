@@ -1023,6 +1023,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [EVAA Finance](https://evaa.finance/) | Aug 2025 | 8.6 | | [📄✅](reviews/2025-08-evaafinance-securityreview.pdf) |
 | [Swap Coffee TON DEX](https://swap.coffee/dex/) | Jul 2025 | 6 | | [📄✅](reviews/2025-07-swapcoffee-tondex-securityreview.pdf) |
 | [FIVA Yield Protocol](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf) |
 | [FIVA Evaa Integration](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-evaaintegration-securityreview.pdf) |
