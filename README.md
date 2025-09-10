@@ -294,6 +294,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Risky Biz](https://risky.biz/RBNEWSS198/) | Keith Hoodlet | Sep 2025 | AI prompt injections |
+| [Zero Signal](https://www.youtube.com/watch?v=G3pGCEQWJZs&list=PLvtGUUDFmi-aTEsna3wgfMrCH-DpZQJgn&index=2) | Keith Hoodlet | Sep 2025 | AI Security |
 | [Security Weekly #342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
 | [CTF Radiooo 01E](https://youtu.be/BmCWryz3dsU?si=4T34d9DIP2MOcuo9) | Michael Brown & Evan Downing | Aug 2025 | AIxCC |
 | [Click Here Show](https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394) | Dan Guido | Jun 2025 | Zoom remote control attacks |
