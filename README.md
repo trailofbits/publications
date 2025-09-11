@@ -504,6 +504,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Google Longfellow](https://github.com/google/longfellow-zk) | Aug 2025 | 4.6 | | [📄✅](reviews/2025-08-googlelongfellow-securityreview.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Go Crypto Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
 | [Zkonduit EZKL](https://github.com/zkonduit/ezkl) | Mar 2025 | 11 | [EZKL](https://blog.ezkl.xyz/post/audit/) | [📄✅](reviews/2025-03-zkonduit-ezkl-securityreview.pdf) |
