@@ -1002,6 +1002,12 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Parity Fether](https://www.parity.io/) | Aug 2019 | 4 | | |
 | [Parity](https://www.parity.io/) | Jul 2018 | 12 | [Parity completes Trail of Bits security review](https://medium.com/paritytech/parity-completes-trail-of-bits-security-review-bda9d48fd3d4) | [📄](reviews/parity.pdf) |
 
+#### Sui/Move
+
+| Product | Date | Level of <br />Effort | Announcement | Report |
+| ---| --: | :-: | --- | :-: |
+| [Bluefin Foundation Exchange Contracts](https://bluefin.io/) | Jul 2023 | 8 | | [📄✅](reviews/2023-07-bluefinfoundation-exchangecontracts-securityreview.pdf) |
+
 #### Tendermint/Cosmos
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
