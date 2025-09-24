@@ -18,6 +18,7 @@
     - [Side channels](#side-channels)
     - [Supply chain](#supply-chain)
     - [Threat analysis \& malware](#threat-analysis--malware)
+  - [Case Studies](#case-studies)
   - [Podcasts](#podcasts)
   - [Webinars](#webinars)
   - [Public Comments](#public-comments)
@@ -290,6 +291,12 @@
 | --- | --- | --- |
 | [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
+
+## Case Studies
+
+| Title | Author(s) | Year |
+| --- | --- | --- |
+| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | September 2025 |
 
 ## Podcasts
 
