@@ -18,7 +18,6 @@
     - [Side channels](#side-channels)
     - [Supply chain](#supply-chain)
     - [Threat analysis \& malware](#threat-analysis--malware)
-  - [Case Studies](#case-studies)
   - [Podcasts](#podcasts)
   - [Webinars](#webinars)
   - [Public Comments](#public-comments)
@@ -97,6 +96,7 @@
 
 | Paper Title | Author(s) | Publication Date |
 | --- | --- | --- |
+| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | September 2025 |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 2024 |
 | [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison | Aug 2024 |
@@ -291,12 +291,6 @@
 | --- | --- | --- |
 | [Peeling back the 'Shlayers' of macOS Malware](presentations/Peeling%20back%20the%20Shlayers%20of%20macOS%20Malware) | Josh Watson, Erika Noerenberg | 2019 |
 | [The Exploit Intelligence Project Revisited](presentations/The%20Exploit%20Intelligence%20Project) | Dan Guido | 2013 |
-
-## Case Studies
-
-| Title | Author(s) | Year |
-| --- | --- | --- |
-| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | September 2025 |
 
 ## Podcasts
 
