@@ -729,7 +729,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Shape Token Contract](https://shape.network/) | May 2025 | 1 | | [📄✅](reviews/2025-05-shapenetwork-token-securityreview.pdf) |
-| [Shape Network Buyback Contract](https://shape.network/) | September 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
+| [Shape Buyback Contract](https://shape.network/) | September 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
 | [Starkware StarkEx Diff Review](https://starkware.co/starkex/) | August 2025 | 0.2 | | [📄](reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf) |
 | [CAP Labs Covered Agent Protocol](https://cap.app/) | May 2025 | 9 | | [📄✅](reviews/2025-05-caplabs-coveredagentprotocol-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
