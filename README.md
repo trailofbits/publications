@@ -177,6 +177,7 @@
 | [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano, Josselin Feist | 2017 |
 
 ### Compilers
+
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [A Broad Comparative Evaluation of Software Debloating Tools](presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf) | Michael D. Brown, Adam Meily, Eric Kilmer, Ronald Eytchison | 2024 |
@@ -184,7 +185,6 @@
 | [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Michael D. Brown | 2022 |
 | [On the Optimization of Equivalent Concurrent Computations](presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf) | Henrich Lauko, Lukáš Korenčik, Peter Goodman | 2022 |
-
 
 ### Cryptography
 
@@ -203,6 +203,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking) | Evan Downing | 2025 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
