@@ -1103,6 +1103,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Denial of Service in protobuf-python|protobuf-python|Alexis Challande|2025|[CVE-2025-4565](https://github.com/advisories/GHSA-8qvm-5x2c-j2w7)||
 |User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195)||
 |Crash due to uncontrolled recursion in `Well-KnownText`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52981](https://github.com/advisories/GHSA-5xm9-x7x4-4j5x)||
 |Crash due to uncontrolled recursion in `innerForbidCircularReferences`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52980](https://github.com/advisories/GHSA-ghfh-p92w-j4mg)||
