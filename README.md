@@ -49,7 +49,7 @@
       - [Tezos](#tezos)
       - [TON](#ton)
       - [Other/Multi-Chain](#othermulti-chain)
-  - [Disclosures](#disclosures)
+  - [Disclosures and exploits](#disclosures-and-exploits)
   - [Workshops](#workshops)
   - [Datasets](#datasets)
   - [Service Overviews](#service-overviews)
@@ -1099,7 +1099,9 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Loom](https://loomx.io/) | May 2019 | 10 | [Loom SDK Q1 2019 Security Audit](https://twitter.com/loomnetwork/status/1126748703530766336) | |
 | [Building Blocks](https://innovation.wfp.org/project/building-blocks) | Aug 2018 | 7 | [UN WFP uses Ethereum to aid 100k refugees](https://www.parity.io/un-world-food-programme-uses-parity-ethereum-to-aid-100-000-refugees/) | |
 
-## Disclosures
+## Disclosures and exploits
+
+Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
