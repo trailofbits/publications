@@ -1103,7 +1103,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
-|User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195), [CVE-2025-31222]()https://nvd.nist.gov/vuln/detail/cve-2025-31222, [CVE-2025-30440](https://nvd.nist.gov/vuln/detail/cve-2025-30440)|[💬](https://github.com/trailofbits/exploits/tree/main/obts-2025-macos-lpe)|
+|User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195), [CVE-2025-31222](https://nvd.nist.gov/vuln/detail/cve-2025-31222), [CVE-2025-30440](https://nvd.nist.gov/vuln/detail/cve-2025-30440)|[💬](https://github.com/trailofbits/exploits/tree/main/obts-2025-macos-lpe)|
 |Crash due to uncontrolled recursion in `Well-KnownText`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52981](https://github.com/advisories/GHSA-5xm9-x7x4-4j5x)||
 |Crash due to uncontrolled recursion in `innerForbidCircularReferences`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52980](https://github.com/advisories/GHSA-ghfh-p92w-j4mg)||
 |Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
