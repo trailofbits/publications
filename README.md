@@ -729,6 +729,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | October 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
 | [Radius Technology EVMAuth](https://evmauth.io/) | October 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
 | [Shape Token Contract](https://shape.network/) | May 2025 | 1 | | [📄✅](reviews/2025-05-shapenetwork-token-securityreview.pdf) |
 | [Shape Buyback Contract](https://shape.network/) | September 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
