@@ -554,6 +554,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Edera Runtime Container](https://edera.dev/) | October 2025 | 4 | | [📄](reviews/2025-11-edera-container-runtime-securityreview.pdf) |
 | [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
 | [Discord E2EE WebAssembly](https://discord.com/) | Jun 2025 | 3 | | [📄](reviews/2025-06-discord-e2eewebassembly-securityreview.pdf) |
 | [NATS Server](https://nats.io/) | Feb 2025 | 6 | | [📄✅](reviews/2025-04-ostif-nats-securityreview.pdf) |
