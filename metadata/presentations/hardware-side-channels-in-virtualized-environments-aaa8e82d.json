@@ -1,0 +1,21 @@
+{
+  "id": "hardware-side-channels-in-virtualized-environments-aaa8e82d",
+  "title": "Hardware side channels in virtualized environments",
+  "type": "presentation",
+  "publicationDate": "2015",
+  "authors": [
+    "Sophia D'Antoine"
+  ],
+  "url": "presentations/Hardware%20side%20channels%20in%20virtualized%20environments",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "tags": {
+    "concepts": [
+      "side-channels"
+    ]
+  }
+}

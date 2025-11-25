@@ -1,0 +1,15 @@
+{
+  "id": "fraxgov-7c6ccc45",
+  "title": "FraxGov",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://frax.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "FraxGov",
+    "client": "Frax Finance"
+  }
+}

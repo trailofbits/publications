@@ -1,0 +1,18 @@
+{
+  "id": "chainport-2c141c84",
+  "title": "ChainPort",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "http://chainport.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "ChainPort",
+    "client": "Ethereum/EVM"
+  }
+}

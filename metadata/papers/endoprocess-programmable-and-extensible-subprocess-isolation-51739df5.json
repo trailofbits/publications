@@ -1,0 +1,15 @@
+{
+  "id": "endoprocess-programmable-and-extensible-subprocess-isolation-51739df5",
+  "title": "Endoprocess: Programmable and Extensible Subprocess Isolation",
+  "type": "academic-paper",
+  "publicationDate": "2023",
+  "url": "https://dl.acm.org/doi/10.1145/3633500.3633507",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "NSPW 2023",
+    "peerReviewed": true
+  }
+}

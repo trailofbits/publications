@@ -1,0 +1,17 @@
+{
+  "id": "argent-db463bc7",
+  "title": "Argent",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.argent.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Argent",
+    "client": "Wallet Reviews"
+  }
+}

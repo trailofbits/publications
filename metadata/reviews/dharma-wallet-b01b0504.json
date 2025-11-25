@@ -1,0 +1,20 @@
+{
+  "id": "dharma-wallet-b01b0504",
+  "title": "Dharma Wallet",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.dharma.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Dharma Wallet",
+    "client": "Wallet Reviews"
+  }
+}

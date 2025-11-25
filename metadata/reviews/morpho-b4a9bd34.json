@@ -1,0 +1,17 @@
+{
+  "id": "morpho-b4a9bd34",
+  "title": "Morpho",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.morpho.best/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Morpho",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "radius-technology-evmauth-0cbda53d",
+  "title": "Radius Technology EVMAuth",
+  "type": "security-review",
+  "publicationDate": "1.2",
+  "url": "https://evmauth.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Radius Technology EVMAuth",
+    "client": "Ethereum/EVM"
+  }
+}

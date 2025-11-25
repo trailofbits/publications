@@ -1,0 +1,17 @@
+{
+  "id": "hegic-9667550b",
+  "title": "Hegic",
+  "type": "security-review",
+  "publicationDate": "0.43",
+  "url": "https://www.hegic.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Hegic",
+    "client": "Ethereum/EVM"
+  }
+}

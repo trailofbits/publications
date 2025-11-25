@@ -1,0 +1,22 @@
+{
+  "id": "reserve-protocol-solana-dtfs-e24110a4",
+  "title": "Reserve Protocol Solana DTFs",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://reserve.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "Reserve Protocol Solana DTFs",
+    "client": "Reserve Protocol"
+  }
+}

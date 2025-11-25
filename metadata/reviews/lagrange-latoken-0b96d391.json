@@ -1,0 +1,17 @@
+{
+  "id": "lagrange-latoken-0b96d391",
+  "title": "Lagrange LAToken",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://www.lagrange.dev/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Lagrange LAToken",
+    "client": "Ethereum/EVM"
+  }
+}

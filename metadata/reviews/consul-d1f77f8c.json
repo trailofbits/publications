@@ -1,0 +1,14 @@
+{
+  "id": "consul-d1f77f8c",
+  "title": "Consul",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://www.consul.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Consul"
+  }
+}

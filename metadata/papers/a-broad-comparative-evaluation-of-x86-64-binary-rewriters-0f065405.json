@@ -1,0 +1,17 @@
+{
+  "id": "a-broad-comparative-evaluation-of-x86-64-binary-rewriters-0f065405",
+  "title": "A Broad Comparative Evaluation of x86-64 Binary Rewriters",
+  "type": "academic-paper",
+  "publicationDate": "2022",
+  "url": "papers/cset22.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "venue": "CSET 22",
+    "peerReviewed": true
+  }
+}

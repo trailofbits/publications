@@ -1,0 +1,14 @@
+{
+  "id": "hey-com-d8ea0870",
+  "title": "Hey.com",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.hey.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Hey.com"
+  }
+}

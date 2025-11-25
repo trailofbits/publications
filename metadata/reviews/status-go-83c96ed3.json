@@ -1,0 +1,17 @@
+{
+  "id": "status-go-83c96ed3",
+  "title": "Status-go",
+  "type": "security-review",
+  "publicationDate": "9",
+  "url": "https://status.im/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Status-go",
+    "client": "Other/Multi-Chain"
+  }
+}

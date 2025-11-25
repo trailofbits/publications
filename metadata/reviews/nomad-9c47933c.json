@@ -1,0 +1,14 @@
+{
+  "id": "nomad-9c47933c",
+  "title": "Nomad",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.nomadproject.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Nomad"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "paraspace-67daaf22",
+  "title": "ParaSpace",
+  "type": "security-review",
+  "publicationDate": "7",
+  "url": "https://para.space/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "ParaSpace",
+    "client": "Substrate"
+  }
+}

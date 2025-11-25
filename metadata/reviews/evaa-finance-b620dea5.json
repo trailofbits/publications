@@ -1,0 +1,17 @@
+{
+  "id": "evaa-finance-b620dea5",
+  "title": "EVAA Finance",
+  "type": "security-review",
+  "publicationDate": "8.6",
+  "url": "https://evaa.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "EVAA Finance",
+    "client": "TON"
+  }
+}

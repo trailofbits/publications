@@ -1,0 +1,17 @@
+{
+  "id": "ocean-protocol-cc322b3b",
+  "title": "Ocean Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://oceanprotocol.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Ocean Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "slithir-high-precision-security-analysis-with-an-ir-for-soli-be0dc087",
+  "title": "SlithIR: High-Precision Security Analysis with an IR for Solidity",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Josselin Feist"
+  ],
+  "url": "presentations/SlithIR%2C%20An%20Intermediate%20Representation%20of%20Solidity%20to%20enable%20High%20Precision%20Security%20Analysis",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "solidity"
+    ]
+  }
+}

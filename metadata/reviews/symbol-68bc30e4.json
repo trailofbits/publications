@@ -1,0 +1,18 @@
+{
+  "id": "symbol-68bc30e4",
+  "title": "Symbol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://symbolplatform.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Symbol",
+    "client": "Other/Multi-Chain"
+  }
+}

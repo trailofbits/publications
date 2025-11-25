@@ -1,0 +1,17 @@
+{
+  "id": "alephbft-84ea80e3",
+  "title": "AlephBFT",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://alephzero.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "AlephBFT",
+    "client": "Substrate"
+  }
+}

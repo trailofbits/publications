@@ -1,0 +1,31 @@
+{
+  "id": "echidna-a-practical-smart-contract-fuzzer-499ea10b",
+  "title": "Echidna: A Practical Smart Contract Fuzzer",
+  "type": "academic-paper",
+  "publicationDate": "2020",
+  "url": "papers/echidna_fc_poster.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "fuzzing",
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing",
+      "smart-contracts"
+    ],
+    "tools": [
+      "echidna"
+    ]
+  },
+  "metadata": {
+    "venue": "FC 2020",
+    "peerReviewed": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "datadog-agent-6e7cf0f7",
+  "title": "Datadog Agent",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.datadoghq.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Datadog Agent"
+  }
+}

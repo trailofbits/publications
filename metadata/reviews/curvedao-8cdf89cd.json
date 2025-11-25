@@ -1,0 +1,17 @@
+{
+  "id": "curvedao-8cdf89cd",
+  "title": "CurveDAO",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://dao.curve.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "CurveDAO",
+    "client": "Ethereum/EVM"
+  }
+}

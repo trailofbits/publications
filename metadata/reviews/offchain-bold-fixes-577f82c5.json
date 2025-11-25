@@ -1,0 +1,17 @@
+{
+  "id": "offchain-bold-fixes-577f82c5",
+  "title": "Offchain BoLD Fixes",
+  "type": "security-review",
+  "publicationDate": "0.8",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain BoLD Fixes",
+    "client": "Offchain Labs"
+  }
+}

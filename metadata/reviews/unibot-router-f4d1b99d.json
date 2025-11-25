@@ -1,0 +1,17 @@
+{
+  "id": "unibot-router-f4d1b99d",
+  "title": "Unibot Router",
+  "type": "security-review",
+  "publicationDate": "1.6",
+  "url": "https://unibot.app/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Unibot Router",
+    "client": "Ethereum/EVM"
+  }
+}

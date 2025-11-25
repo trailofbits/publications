@@ -1,0 +1,17 @@
+{
+  "id": "uma-project-2a0c968f",
+  "title": "UMA Project",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://umaproject.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "UMA Project",
+    "client": "Ethereum/EVM"
+  }
+}

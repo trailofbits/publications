@@ -1,0 +1,21 @@
+{
+  "id": "pep-740-and-pypi-bootstrapping-provenance-for-the-python-eco-6257bc28",
+  "title": "PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/PEP%20740%20and%20PyPI:%20Bootstrapping%20Provenance%20for%20the%20Python%20Ecosystem",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "supply-chain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "python"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "offchain-setcoregovernorquorumaction-fa06acde",
+  "title": "Offchain SetCoreGovernorQuorumAction",
+  "type": "security-review",
+  "publicationDate": "1.2",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain SetCoreGovernorQuorumAction",
+    "client": "Offchain Labs"
+  }
+}

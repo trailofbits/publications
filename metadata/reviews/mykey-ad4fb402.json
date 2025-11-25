@@ -1,0 +1,18 @@
+{
+  "id": "mykey-ad4fb402",
+  "title": "MYKEY",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://mykey.org/en",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "MYKEY",
+    "client": "Other/Multi-Chain"
+  }
+}

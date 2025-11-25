@@ -1,0 +1,14 @@
+{
+  "id": "zoom-b3f23005",
+  "title": "Zoom",
+  "type": "security-review",
+  "publicationDate": "9",
+  "url": "https://zoom.us/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Zoom"
+  }
+}

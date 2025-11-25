@@ -1,0 +1,17 @@
+{
+  "id": "arcade-b3d23fc4",
+  "title": "Arcade",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.arcade.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Arcade",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sandclock-2d212863",
+  "title": "Sandclock",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.sandclock.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Sandclock",
+    "client": "Ethereum/EVM"
+  }
+}

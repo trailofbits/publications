@@ -1,0 +1,22 @@
+{
+  "id": "starkgate-298cf698",
+  "title": "StarkGate",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://starkgate.starknet.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "starknet"
+    ]
+  },
+  "metadata": {
+    "product": "StarkGate",
+    "client": "Starknet"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "yearn-v2-vaults-82fd2d47",
+  "title": "Yearn v2 Vaults",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://yearn.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Yearn v2 Vaults",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eclipse-jetty-e48a12b0",
+  "title": "Eclipse Jetty",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://eclipse.dev/jetty/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Eclipse Jetty"
+  }
+}

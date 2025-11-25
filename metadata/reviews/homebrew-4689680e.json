@@ -1,0 +1,14 @@
+{
+  "id": "homebrew-4689680e",
+  "title": "Homebrew",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://brew.sh",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Homebrew"
+  }
+}

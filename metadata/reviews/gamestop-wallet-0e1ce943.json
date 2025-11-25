@@ -1,0 +1,22 @@
+{
+  "id": "gamestop-wallet-0e1ce943",
+  "title": "GameStop Wallet",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.gamestop.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "GameStop Wallet",
+    "client": "Wallet Reviews"
+  }
+}

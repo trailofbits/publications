@@ -1,0 +1,14 @@
+{
+  "id": "circleci-server-3-0-ff9a8346",
+  "title": "CircleCI Server 3.0",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://circleci.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "CircleCI Server 3.0"
+  }
+}

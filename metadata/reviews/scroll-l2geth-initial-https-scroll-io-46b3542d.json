@@ -1,0 +1,14 @@
+{
+  "id": "scroll-l2geth-initial-https-scroll-io-46b3542d",
+  "title": "[Scroll l2geth [initial]](https://scroll.io/)",
+  "type": "security-review",
+  "publicationDate": "2",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "[Scroll l2geth [initial]](https://scroll.io/)",
+    "client": "Scroll"
+  }
+}

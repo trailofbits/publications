@@ -1,0 +1,14 @@
+{
+  "id": "nats-server-021c59c3",
+  "title": "NATS Server",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://nats.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "NATS Server"
+  }
+}

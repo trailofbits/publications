@@ -1,0 +1,17 @@
+{
+  "id": "elixir-contracts-3a7258c5",
+  "title": "Elixir Contracts",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://elixir.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Elixir Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

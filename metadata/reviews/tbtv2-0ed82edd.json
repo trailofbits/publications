@@ -1,0 +1,17 @@
+{
+  "id": "tbtv2-0ed82edd",
+  "title": "TBTv2",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://thesis.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "TBTv2",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "spool-platform-e5a760e2",
+  "title": "Spool Platform",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.spool.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Spool Platform"
+  }
+}

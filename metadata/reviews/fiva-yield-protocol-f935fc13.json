@@ -1,0 +1,17 @@
+{
+  "id": "fiva-yield-protocol-f935fc13",
+  "title": "FIVA Yield Protocol",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.thefiva.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "FIVA Yield Protocol",
+    "client": "TON"
+  }
+}

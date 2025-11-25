@@ -1,0 +1,15 @@
+{
+  "id": "uniswap-v3-staker-7d1cabe9",
+  "title": "Uniswap V3 Staker",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://uniswap.org/blog/uniswap-v3/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Uniswap V3 Staker",
+    "client": "Uniswap"
+  }
+}

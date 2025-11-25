@@ -1,0 +1,17 @@
+{
+  "id": "polysign-19f5b157",
+  "title": "PolySign",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.polysign.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "PolySign",
+    "client": "Other/Multi-Chain"
+  }
+}

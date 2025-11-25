@@ -1,0 +1,18 @@
+{
+  "id": "berachain-polaris-geth-09fa7221",
+  "title": "Berachain polaris-geth",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.berachain.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Berachain polaris-geth",
+    "client": "Tendermint/Cosmos"
+  }
+}

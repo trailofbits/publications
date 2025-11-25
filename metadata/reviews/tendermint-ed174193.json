@@ -1,0 +1,23 @@
+{
+  "id": "tendermint-ed174193",
+  "title": "Tendermint",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://interchain.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "cosmos"
+    ]
+  },
+  "metadata": {
+    "product": "Tendermint",
+    "client": "Tendermint/Cosmos"
+  }
+}

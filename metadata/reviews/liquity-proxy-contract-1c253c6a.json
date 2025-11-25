@@ -1,0 +1,17 @@
+{
+  "id": "liquity-proxy-contract-1c253c6a",
+  "title": "Liquity Proxy Contract",
+  "type": "security-review",
+  "publicationDate": "0.57",
+  "url": "https://www.liquity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Liquity Proxy Contract",
+    "client": "Ethereum/EVM"
+  }
+}

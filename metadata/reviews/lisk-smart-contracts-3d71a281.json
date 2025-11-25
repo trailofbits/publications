@@ -1,0 +1,25 @@
+{
+  "id": "lisk-smart-contracts-3d71a281",
+  "title": "Lisk Smart Contracts",
+  "type": "security-review",
+  "publicationDate": "4.6",
+  "url": "https://lisk.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  },
+  "metadata": {
+    "product": "Lisk Smart Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

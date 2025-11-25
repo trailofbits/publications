@@ -1,0 +1,14 @@
+{
+  "id": "linkerd-e7dcfa99",
+  "title": "Linkerd",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://linkerd.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Linkerd"
+  }
+}

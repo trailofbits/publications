@@ -1,0 +1,15 @@
+{
+  "id": "uniswap-v4-core-3ff20bcc",
+  "title": "Uniswap v4 Core",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://docs.uniswap.org/contracts/v4/concepts/intro-to-v4",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Uniswap v4 Core",
+    "client": "Uniswap"
+  }
+}

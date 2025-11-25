@@ -1,0 +1,18 @@
+{
+  "id": "ampleforth-6b362fe6",
+  "title": "Ampleforth",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.ampleforth.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Ampleforth",
+    "client": "Ethereum/EVM"
+  }
+}

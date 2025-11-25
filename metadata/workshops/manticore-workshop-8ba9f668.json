@@ -1,0 +1,19 @@
+{
+  "id": "manticore-workshop-8ba9f668",
+  "title": "Manticore Workshop",
+  "type": "workshop",
+  "publicationDate": "unknown",
+  "url": "workshops/Manticore%20-%20GreHack%202017",
+  "categories": {
+    "publicationType": "workshop",
+    "domain": []
+  },
+  "tags": {
+    "topics": [
+      "symbolic-execution"
+    ],
+    "tools": [
+      "manticore"
+    ]
+  }
+}

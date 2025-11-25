@@ -1,0 +1,17 @@
+{
+  "id": "eosio-2-0-d02b5f18",
+  "title": "EOSIO 2.0",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "http://block.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "EOSIO 2.0",
+    "client": "Other/Multi-Chain"
+  }
+}

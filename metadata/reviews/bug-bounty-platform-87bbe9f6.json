@@ -1,0 +1,17 @@
+{
+  "id": "bug-bounty-platform-87bbe9f6",
+  "title": "Bug Bounty Platform",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://solidified.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Bug Bounty Platform",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "aladdin-f-x-oracle-71e5c812",
+  "title": "Aladdin f(x) Oracle",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://fx.aladdin.club/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Aladdin f(x) Oracle",
+    "client": "Ethereum/EVM"
+  }
+}

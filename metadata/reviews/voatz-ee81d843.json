@@ -1,0 +1,16 @@
+{
+  "id": "voatz-ee81d843",
+  "title": "Voatz",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://voatz.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Voatz"
+  }
+}

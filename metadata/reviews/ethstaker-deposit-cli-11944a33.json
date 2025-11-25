@@ -1,0 +1,17 @@
+{
+  "id": "ethstaker-deposit-cli-11944a33",
+  "title": "EthStaker Deposit CLI",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://ethstaker.cc/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "EthStaker Deposit CLI",
+    "client": "Ethereum/EVM"
+  }
+}

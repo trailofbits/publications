@@ -1,0 +1,17 @@
+{
+  "id": "starkex-d7a530eb",
+  "title": "StarkEx",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://starkware.co/starkex/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "StarkEx",
+    "client": "Starknet"
+  }
+}

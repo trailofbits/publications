@@ -1,0 +1,17 @@
+{
+  "id": "aladdin-f-x-protocol-bf179127",
+  "title": "Aladdin f(x) Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://fx.aladdin.club/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Aladdin f(x) Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

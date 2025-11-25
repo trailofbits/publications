@@ -1,0 +1,16 @@
+{
+  "id": "project-callisto-a540780a",
+  "title": "Project Callisto",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.projectcallisto.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Project Callisto"
+  }
+}

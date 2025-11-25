@@ -1,0 +1,25 @@
+{
+  "id": "parabol-smart-contracts-12c38af0",
+  "title": "Parabol Smart Contracts",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://parabol.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  },
+  "metadata": {
+    "product": "Parabol Smart Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

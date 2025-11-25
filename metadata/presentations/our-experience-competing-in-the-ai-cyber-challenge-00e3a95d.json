@@ -1,0 +1,18 @@
+{
+  "id": "our-experience-competing-in-the-ai-cyber-challenge-00e3a95d",
+  "title": "Our experience competing in the AI Cyber Challenge",
+  "type": "presentation",
+  "publicationDate": "2025",
+  "authors": [
+    "Michael Brown et al."
+  ],
+  "url": "presentations/Our%20experience%20competing%20in%20the%20AI%20Cyber%20Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "program-analysis",
+      "ai-ml"
+    ]
+  }
+}

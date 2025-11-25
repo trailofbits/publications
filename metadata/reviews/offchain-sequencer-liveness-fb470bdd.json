@@ -1,0 +1,17 @@
+{
+  "id": "offchain-sequencer-liveness-fb470bdd",
+  "title": "Offchain Sequencer Liveness",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Sequencer Liveness",
+    "client": "Offchain Labs"
+  }
+}

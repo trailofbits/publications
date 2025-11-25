@@ -1,0 +1,17 @@
+{
+  "id": "primitive-565ba8bb",
+  "title": "Primitive",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://primitive.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Primitive",
+    "client": "Ethereum/EVM"
+  }
+}

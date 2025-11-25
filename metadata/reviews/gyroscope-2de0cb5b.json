@@ -1,0 +1,17 @@
+{
+  "id": "gyroscope-2de0cb5b",
+  "title": "Gyroscope",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://gyro.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Gyroscope",
+    "client": "Ethereum/EVM"
+  }
+}

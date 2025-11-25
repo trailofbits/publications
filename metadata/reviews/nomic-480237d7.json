@@ -1,0 +1,18 @@
+{
+  "id": "nomic-480237d7",
+  "title": "Nomic",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://www.nomic.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Nomic",
+    "client": "Bitcoin & Derivatives"
+  }
+}

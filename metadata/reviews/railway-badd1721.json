@@ -1,0 +1,18 @@
+{
+  "id": "railway-badd1721",
+  "title": "RAILWAY",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://righttoprivacy.foundation/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "RAILWAY",
+    "client": "Ethereum/EVM"
+  }
+}

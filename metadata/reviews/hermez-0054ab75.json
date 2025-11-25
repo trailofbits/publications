@@ -1,0 +1,18 @@
+{
+  "id": "hermez-0054ab75",
+  "title": "Hermez",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://iden3.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Hermez",
+    "client": "Ethereum/EVM"
+  }
+}

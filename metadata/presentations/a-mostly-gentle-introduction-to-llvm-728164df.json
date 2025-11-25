@@ -1,0 +1,21 @@
+{
+  "id": "a-mostly-gentle-introduction-to-llvm-728164df",
+  "title": "A mostly gentle introduction to LLVM",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/A%20mostly%20gentle%20introduction%20to%20LLVM",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "compilers"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "llvm"
+    ]
+  }
+}

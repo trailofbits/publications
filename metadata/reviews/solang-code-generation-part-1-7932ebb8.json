@@ -1,0 +1,22 @@
+{
+  "id": "solang-code-generation-part-1-7932ebb8",
+  "title": "Solang Code Generation, Part 1",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://solana.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "Solang Code Generation, Part 1",
+    "client": "Solana"
+  }
+}

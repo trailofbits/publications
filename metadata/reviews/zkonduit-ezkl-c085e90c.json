@@ -1,0 +1,16 @@
+{
+  "id": "zkonduit-ezkl-c085e90c",
+  "title": "Zkonduit EZKL",
+  "type": "security-review",
+  "publicationDate": "11",
+  "url": "https://github.com/zkonduit/ezkl",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Zkonduit EZKL"
+  }
+}

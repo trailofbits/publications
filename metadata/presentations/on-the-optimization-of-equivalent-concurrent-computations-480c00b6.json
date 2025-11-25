@@ -1,0 +1,18 @@
+{
+  "id": "on-the-optimization-of-equivalent-concurrent-computations-480c00b6",
+  "title": "On the Optimization of Equivalent Concurrent Computations",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "Henrich Lauko",
+    "Lukáš Korenčik",
+    "Peter Goodman"
+  ],
+  "url": "presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "compilers"
+    ]
+  }
+}

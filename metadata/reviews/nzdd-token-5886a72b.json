@@ -1,0 +1,18 @@
+{
+  "id": "nzdd-token-5886a72b",
+  "title": "NZDD token",
+  "type": "security-review",
+  "publicationDate": "0.6",
+  "url": "https://easycrypto.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "NZDD token",
+    "client": "Ethereum/EVM"
+  }
+}

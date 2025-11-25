@@ -1,0 +1,17 @@
+{
+  "id": "firefly-421a6997",
+  "title": "Firefly",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://dtrade.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Firefly",
+    "client": "Ethereum/EVM"
+  }
+}

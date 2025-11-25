@@ -1,0 +1,14 @@
+{
+  "id": "redpanda-platform-38362640",
+  "title": "Redpanda Platform",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://redpanda.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Redpanda Platform"
+  }
+}

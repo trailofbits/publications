@@ -1,0 +1,29 @@
+{
+  "id": "slither-a-static-analysis-framework-for-smart-contracts-372c6726",
+  "title": "Slither: A Static Analysis Framework For Smart Contracts",
+  "type": "academic-paper",
+  "publicationDate": "2019",
+  "url": "papers/wetseb19.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "static-analysis",
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ],
+    "tools": [
+      "slither"
+    ]
+  },
+  "metadata": {
+    "venue": "WETSEB 2019",
+    "peerReviewed": true
+  }
+}

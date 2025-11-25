@@ -1,0 +1,26 @@
+{
+  "id": "how-to-fuzz-like-a-pro-a80aab0c",
+  "title": "How to fuzz like a pro",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "Josselin Feist",
+    "Nat Chin"
+  ],
+  "url": "presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing"
+    ]
+  }
+}

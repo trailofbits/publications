@@ -1,0 +1,17 @@
+{
+  "id": "waymont-dec1786d",
+  "title": "Waymont",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.waymont.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Waymont",
+    "client": "Ethereum/EVM"
+  }
+}

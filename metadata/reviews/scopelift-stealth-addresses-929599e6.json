@@ -1,0 +1,17 @@
+{
+  "id": "scopelift-stealth-addresses-929599e6",
+  "title": "ScopeLift Stealth Addresses",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://scopelift.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "ScopeLift Stealth Addresses",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dexter-fbb5c16a",
+  "title": "Dexter",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://dexter.exchange/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Dexter",
+    "client": "Tezos"
+  }
+}

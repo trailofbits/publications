@@ -1,0 +1,14 @@
+{
+  "id": "openssl-8e0a1307",
+  "title": "OpenSSL",
+  "type": "security-review",
+  "publicationDate": "9",
+  "url": "https://www.openssl.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "OpenSSL"
+  }
+}

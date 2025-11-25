@@ -1,0 +1,17 @@
+{
+  "id": "symbiosis-cfaf0da6",
+  "title": "Symbiosis",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://symbiosis.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Symbiosis",
+    "client": "Ethereum/EVM"
+  }
+}

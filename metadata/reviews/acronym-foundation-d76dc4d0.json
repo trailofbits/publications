@@ -1,0 +1,17 @@
+{
+  "id": "acronym-foundation-d76dc4d0",
+  "title": "Acronym Foundation",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://acronymfoundation.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Acronym Foundation",
+    "client": "Ethereum/EVM"
+  }
+}

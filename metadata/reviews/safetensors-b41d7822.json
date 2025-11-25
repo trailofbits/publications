@@ -1,0 +1,16 @@
+{
+  "id": "safetensors-b41d7822",
+  "title": "SafeTensors",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://github.com/huggingface/safetensors",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "SafeTensors"
+  }
+}

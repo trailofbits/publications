@@ -1,0 +1,23 @@
+{
+  "id": "arbitrum-704fe665",
+  "title": "Arbitrum",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Arbitrum",
+    "client": "Other/Multi-Chain"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "echidna-parade-diverse-multicore-smart-contract-fuzzing-bdbb4579",
+  "title": "echidna-parade: Diverse multicore smart contract fuzzing",
+  "type": "academic-paper",
+  "publicationDate": "2021",
+  "url": "papers/echidna-parade_issta21.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "fuzzing",
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing",
+      "smart-contracts"
+    ],
+    "tools": [
+      "echidna"
+    ]
+  },
+  "metadata": {
+    "venue": "ISSTA 2021",
+    "peerReviewed": true
+  }
+}

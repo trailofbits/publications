@@ -1,0 +1,17 @@
+{
+  "id": "basecoin-575028fe",
+  "title": "Basecoin",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.basis.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Basecoin",
+    "client": "Ethereum/EVM"
+  }
+}

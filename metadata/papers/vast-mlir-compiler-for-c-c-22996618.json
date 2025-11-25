@@ -1,0 +1,25 @@
+{
+  "id": "vast-mlir-compiler-for-c-c-22996618",
+  "title": "VAST: MLIR compiler for C/C++",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/vast-eurollvm-poster.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "compilers",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "c-cpp",
+      "llvm",
+      "mlir"
+    ]
+  },
+  "metadata": {
+    "venue": "EuroLLVM Devs' Meeting 2024",
+    "peerReviewed": true
+  }
+}

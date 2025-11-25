@@ -1,0 +1,17 @@
+{
+  "id": "looksrare-88a7777c",
+  "title": "LooksRare",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://looksrare.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "LooksRare",
+    "client": "Ethereum/EVM"
+  }
+}

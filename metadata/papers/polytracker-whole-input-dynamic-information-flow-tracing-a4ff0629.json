@@ -1,0 +1,22 @@
+{
+  "id": "polytracker-whole-input-dynamic-information-flow-tracing-a4ff0629",
+  "title": "PolyTracker: Whole-Input Dynamic Information Flow Tracing",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/issta24-polytracker.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "tools": [
+      "polytracker"
+    ]
+  },
+  "metadata": {
+    "venue": "ISSTA 2024",
+    "peerReviewed": true
+  }
+}

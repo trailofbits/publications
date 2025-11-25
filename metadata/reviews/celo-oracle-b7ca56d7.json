@@ -1,0 +1,17 @@
+{
+  "id": "celo-oracle-b7ca56d7",
+  "title": "Celo Oracle",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "clabs.co",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Celo Oracle",
+    "client": "Other/Multi-Chain"
+  }
+}

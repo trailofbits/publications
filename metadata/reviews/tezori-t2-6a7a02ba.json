@@ -1,0 +1,18 @@
+{
+  "id": "tezori-t2-6a7a02ba",
+  "title": "Tezori (T2)",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://github.com/Cryptonomic/Tezori",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Tezori (T2)",
+    "client": "Tezos"
+  }
+}

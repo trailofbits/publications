@@ -1,0 +1,17 @@
+{
+  "id": "polkaswap-e23530ae",
+  "title": "Polkaswap",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://soramitsu.co.jp/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Polkaswap",
+    "client": "Substrate"
+  }
+}

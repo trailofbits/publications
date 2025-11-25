@@ -1,0 +1,17 @@
+{
+  "id": "topo-finance-2b4d8d3e",
+  "title": "Topo Finance",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://topo.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Topo Finance",
+    "client": "Ethereum/EVM"
+  }
+}

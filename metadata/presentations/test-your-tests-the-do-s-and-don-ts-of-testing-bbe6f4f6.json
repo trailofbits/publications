@@ -1,0 +1,21 @@
+{
+  "id": "test-your-tests-the-do-s-and-don-ts-of-testing-bbe6f4f6",
+  "title": "Test your tests: the do's and don'ts of testing",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Kurt Willis"
+  ],
+  "url": "presentations/TrustX%202023/Test%20Your%20Tests",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  }
+}

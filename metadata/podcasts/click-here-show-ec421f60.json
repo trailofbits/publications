@@ -1,0 +1,19 @@
+{
+  "id": "click-here-show-ec421f60",
+  "title": "Click Here Show",
+  "type": "podcast",
+  "publicationDate": "2025",
+  "authors": [
+    "Dan Guido"
+  ],
+  "url": "https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": []
+  },
+  "tags": {
+    "topics": [
+      "vulnerability-research"
+    ]
+  }
+}

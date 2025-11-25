@@ -1,0 +1,17 @@
+{
+  "id": "shape-buyback-contract-7e0ad16b",
+  "title": "Shape Buyback Contract",
+  "type": "security-review",
+  "publicationDate": "0.4",
+  "url": "https://shape.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Shape Buyback Contract",
+    "client": "Ethereum/EVM"
+  }
+}

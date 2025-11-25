@@ -1,0 +1,26 @@
+{
+  "id": "immutable-bridge-ab598fd9",
+  "title": "Immutable Bridge",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.immutable.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography"
+    ],
+    "subdomain": [
+      "bridges"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Immutable Bridge",
+    "client": "Ethereum/EVM"
+  }
+}

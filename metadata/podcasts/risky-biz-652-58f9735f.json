@@ -1,0 +1,19 @@
+{
+  "id": "risky-biz-652-58f9735f",
+  "title": "Risky Biz 652",
+  "type": "podcast",
+  "publicationDate": "2022",
+  "authors": [
+    "Dan Guido"
+  ],
+  "url": "https://risky.biz/RB652/",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "cryptography"
+    ],
+    "subdomain": [
+      "zero-knowledge-proofs"
+    ]
+  }
+}

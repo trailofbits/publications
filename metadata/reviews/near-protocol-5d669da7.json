@@ -1,0 +1,17 @@
+{
+  "id": "near-protocol-5d669da7",
+  "title": "NEAR Protocol",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://nearprotocol.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "NEAR Protocol",
+    "client": "Other/Multi-Chain"
+  }
+}

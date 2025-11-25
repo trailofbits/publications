@@ -1,0 +1,22 @@
+{
+  "id": "token-2022-program-1e18d115",
+  "title": "Token-2022 Program",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://spl.solana.com/token-2022",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "Token-2022 Program",
+    "client": "Solana"
+  }
+}

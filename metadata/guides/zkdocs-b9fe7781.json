@@ -1,0 +1,16 @@
+{
+  "id": "zkdocs-b9fe7781",
+  "title": "ZKDocs",
+  "type": "guide",
+  "publicationDate": "unknown",
+  "url": "https://www.zkdocs.com/",
+  "categories": {
+    "publicationType": "guide",
+    "domain": [
+      "cryptography"
+    ],
+    "subdomain": [
+      "zero-knowledge-proofs"
+    ]
+  }
+}

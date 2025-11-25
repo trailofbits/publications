@@ -1,0 +1,17 @@
+{
+  "id": "acala-network-1caa5b23",
+  "title": "Acala Network",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://acala.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Acala Network",
+    "client": "Substrate"
+  }
+}

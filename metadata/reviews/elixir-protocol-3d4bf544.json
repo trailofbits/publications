@@ -1,0 +1,17 @@
+{
+  "id": "elixir-protocol-3d4bf544",
+  "title": "Elixir Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.elixir.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Elixir Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "podcast-init-225-ed772e27",
+  "title": "Podcast.__init__ 225",
+  "type": "podcast",
+  "publicationDate": "2019",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "https://www.pythonpodcast.com/pypi-improvements-episode-225/",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "python"
+    ]
+  }
+}

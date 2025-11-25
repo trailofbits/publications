@@ -1,0 +1,19 @@
+{
+  "id": "zkverify-a1ec3927",
+  "title": "zkVerify",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://zkverify.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "zkVerify",
+    "client": "Substrate"
+  }
+}

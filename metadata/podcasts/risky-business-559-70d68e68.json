@@ -1,0 +1,19 @@
+{
+  "id": "risky-business-559-70d68e68",
+  "title": "Risky Business 559",
+  "type": "podcast",
+  "publicationDate": "2019",
+  "authors": [
+    "Stefan Edwards"
+  ],
+  "url": "https://risky.biz/RB559/",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": []
+  },
+  "tags": {
+    "platforms": [
+      "kubernetes"
+    ]
+  }
+}

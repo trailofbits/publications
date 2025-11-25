@@ -1,0 +1,17 @@
+{
+  "id": "dodo-49fe47ce",
+  "title": "DODO",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://dodoex.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DODO",
+    "client": "Ethereum/EVM"
+  }
+}

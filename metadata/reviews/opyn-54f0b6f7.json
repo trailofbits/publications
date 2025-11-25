@@ -1,0 +1,17 @@
+{
+  "id": "opyn-54f0b6f7",
+  "title": "Opyn",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.opyn.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Opyn",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "deepstate-symbolic-unit-testing-for-c-and-c-dd2b3c96",
+  "title": "DeepState - Symbolic Unit Testing for C and C++",
+  "type": "academic-paper",
+  "publicationDate": "2018",
+  "url": "papers/deepstate-bar18.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "tags": {
+    "technologies": [
+      "c-cpp"
+    ]
+  },
+  "metadata": {
+    "venue": "BAR 2018",
+    "peerReviewed": true
+  }
+}

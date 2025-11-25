@@ -1,0 +1,17 @@
+{
+  "id": "seaport-protocol-936b75cd",
+  "title": "Seaport Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://opensea.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Seaport Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "swap-coffee-ton-dex-4e6a6d8d",
+  "title": "Swap Coffee TON DEX",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://swap.coffee/dex/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Swap Coffee TON DEX",
+    "client": "TON"
+  }
+}

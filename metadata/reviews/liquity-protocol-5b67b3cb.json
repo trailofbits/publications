@@ -1,0 +1,17 @@
+{
+  "id": "liquity-protocol-5b67b3cb",
+  "title": "Liquity Protocol",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.liquity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Liquity Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

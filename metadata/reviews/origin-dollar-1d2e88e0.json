@@ -1,0 +1,20 @@
+{
+  "id": "origin-dollar-1d2e88e0",
+  "title": "Origin Dollar",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.ousd.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Origin Dollar",
+    "client": "Ethereum/EVM"
+  }
+}

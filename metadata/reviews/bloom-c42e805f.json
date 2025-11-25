@@ -1,0 +1,18 @@
+{
+  "id": "bloom-c42e805f",
+  "title": "Bloom",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://bloom.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Bloom",
+    "client": "Ethereum/EVM"
+  }
+}

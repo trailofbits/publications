@@ -1,0 +1,17 @@
+{
+  "id": "strips-finance-5abf0dc9",
+  "title": "Strips Finance",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://strips.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Strips Finance",
+    "client": "Ethereum/EVM"
+  }
+}

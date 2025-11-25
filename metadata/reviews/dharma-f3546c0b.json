@@ -1,0 +1,18 @@
+{
+  "id": "dharma-f3546c0b",
+  "title": "Dharma",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://dharma.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Dharma",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zlib-937f6678",
+  "title": "zlib",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.zlib.net/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "zlib"
+  }
+}

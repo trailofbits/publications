@@ -1,0 +1,22 @@
+{
+  "id": "security-weekly-336-f4801cf9",
+  "title": "Security Weekly #336",
+  "type": "podcast",
+  "publicationDate": "2025",
+  "authors": [
+    "Artur Cygan"
+  ],
+  "url": "https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "fuzzing",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing"
+    ]
+  }
+}

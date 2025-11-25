@@ -1,0 +1,17 @@
+{
+  "id": "plume-cfd7a3cd",
+  "title": "Plume",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.plumenetwork.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Plume",
+    "client": "Ethereum/EVM"
+  }
+}

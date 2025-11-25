@@ -1,0 +1,17 @@
+{
+  "id": "curve-fi-c8abd4ee",
+  "title": "Curve.fi",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://compound.curve.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Curve.fi",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "design-and-implementation-of-a-coverage-guided-ruby-fuzzer-5caace69",
+  "title": "Design and Implementation of a Coverage-Guided Ruby Fuzzer",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/ruzzy-ruby-fuzzer.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "fuzzing"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing"
+    ]
+  },
+  "metadata": {
+    "venue": "CSET 24",
+    "peerReviewed": true
+  }
+}

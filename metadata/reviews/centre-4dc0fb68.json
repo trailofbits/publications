@@ -1,0 +1,22 @@
+{
+  "id": "centre-4dc0fb68",
+  "title": "CENTRE",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.centre.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "CENTRE",
+    "client": "Ethereum/EVM"
+  }
+}

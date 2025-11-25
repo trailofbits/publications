@@ -1,0 +1,17 @@
+{
+  "id": "shape-token-contract-8d0b5595",
+  "title": "Shape Token Contract",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://shape.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Shape Token Contract",
+    "client": "Ethereum/EVM"
+  }
+}

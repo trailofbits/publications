@@ -1,0 +1,21 @@
+{
+  "id": "trusted-publishing-lessons-from-pypi-795ec262",
+  "title": "Trusted Publishing: Lessons from PyPI",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "supply-chain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "everstake-staking-e0a78160",
+  "title": "Everstake Staking",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://everstake.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Everstake Staking",
+    "client": "Ethereum/EVM"
+  }
+}

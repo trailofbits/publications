@@ -1,0 +1,21 @@
+{
+  "id": "serai-dex-74ff6bf7",
+  "title": "Serai DEX",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://serai.exchange/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Serai DEX",
+    "client": "Ethereum/EVM"
+  }
+}

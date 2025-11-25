@@ -1,0 +1,17 @@
+{
+  "id": "tokencard-d3e5fa0e",
+  "title": "TokenCard",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://tokencard.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "TokenCard",
+    "client": "Ethereum/EVM"
+  }
+}

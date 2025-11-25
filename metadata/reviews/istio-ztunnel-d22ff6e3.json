@@ -1,0 +1,14 @@
+{
+  "id": "istio-ztunnel-d22ff6e3",
+  "title": "Istio Ztunnel",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://istio.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Istio Ztunnel"
+  }
+}

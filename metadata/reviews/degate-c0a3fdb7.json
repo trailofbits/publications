@@ -1,0 +1,17 @@
+{
+  "id": "degate-c0a3fdb7",
+  "title": "DeGate",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://degate.com/?en-US",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DeGate",
+    "client": "Other/Multi-Chain"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "openvpn3-a5d9fe8a",
+  "title": "OpenVPN3",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://openvpn.net/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "OpenVPN3"
+  }
+}

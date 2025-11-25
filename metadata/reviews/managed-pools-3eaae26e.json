@@ -1,0 +1,17 @@
+{
+  "id": "managed-pools-3eaae26e",
+  "title": "Managed Pools",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://balancer.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Managed Pools",
+    "client": "Ethereum/EVM"
+  }
+}

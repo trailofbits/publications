@@ -1,0 +1,16 @@
+{
+  "id": "google-longfellow-d6d02146",
+  "title": "Google Longfellow",
+  "type": "security-review",
+  "publicationDate": "4.6",
+  "url": "https://github.com/google/longfellow-zk",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Google Longfellow"
+  }
+}

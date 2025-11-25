@@ -1,0 +1,15 @@
+{
+  "id": "a-broad-comparative-evaluation-of-software-debloating-tools-a7e091f3",
+  "title": "A Broad Comparative Evaluation of Software Debloating Tools",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/debloater-eval.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "USENIX Security 2024",
+    "peerReviewed": true
+  }
+}

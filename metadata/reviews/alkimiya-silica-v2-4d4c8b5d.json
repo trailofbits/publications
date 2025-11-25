@@ -1,0 +1,17 @@
+{
+  "id": "alkimiya-silica-v2-4d4c8b5d",
+  "title": "Alkimiya Silica V2",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://alkimiya.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Alkimiya Silica V2",
+    "client": "Avalanche"
+  }
+}

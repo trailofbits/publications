@@ -1,0 +1,29 @@
+{
+  "id": "manticore-symbolic-execution-for-binaries-and-smart-contract-adccc2de",
+  "title": "Manticore: Symbolic Execution for Binaries and Smart Contracts",
+  "type": "academic-paper",
+  "publicationDate": "2019",
+  "url": "papers/manticore.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "symbolic-execution",
+      "smart-contracts"
+    ],
+    "tools": [
+      "manticore"
+    ]
+  },
+  "metadata": {
+    "venue": "ASE 2019",
+    "peerReviewed": true
+  }
+}

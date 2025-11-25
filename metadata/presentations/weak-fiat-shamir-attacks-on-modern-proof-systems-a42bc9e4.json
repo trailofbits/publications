@@ -1,0 +1,16 @@
+{
+  "id": "weak-fiat-shamir-attacks-on-modern-proof-systems-a42bc9e4",
+  "title": "Weak Fiat-Shamir attacks on modern proof systems",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "Jim Miller"
+  ],
+  "url": "presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography"
+    ]
+  }
+}

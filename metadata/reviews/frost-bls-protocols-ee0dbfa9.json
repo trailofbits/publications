@@ -1,0 +1,17 @@
+{
+  "id": "frost-bls-protocols-ee0dbfa9",
+  "title": "FROST BLS Protocols",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.polysign.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "FROST BLS Protocols",
+    "client": "Other/Multi-Chain"
+  }
+}

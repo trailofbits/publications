@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-41f03835",
+  "title": "Dfinity",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Dfinity"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "worklock-22d212a7",
+  "title": "WorkLock",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.nucypher.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "WorkLock",
+    "client": "Ethereum/EVM"
+  }
+}

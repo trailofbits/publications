@@ -1,0 +1,14 @@
+{
+  "id": "rubygems-org-cfb05765",
+  "title": "RubyGems.org",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.rubygems.org",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "RubyGems.org"
+  }
+}

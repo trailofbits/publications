@@ -1,0 +1,14 @@
+{
+  "id": "cloudevents-da1bec39",
+  "title": "CloudEvents",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://cloudevents.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "CloudEvents"
+  }
+}

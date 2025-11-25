@@ -1,0 +1,17 @@
+{
+  "id": "gro-protocol-9b60692f",
+  "title": "Gro protocol",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.gro.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Gro protocol",
+    "client": "Ethereum/EVM"
+  }
+}

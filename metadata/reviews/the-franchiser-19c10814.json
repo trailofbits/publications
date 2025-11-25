@@ -1,0 +1,17 @@
+{
+  "id": "the-franchiser-19c10814",
+  "title": "The Franchiser",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://uniswap.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "The Franchiser",
+    "client": "Ethereum/EVM"
+  }
+}

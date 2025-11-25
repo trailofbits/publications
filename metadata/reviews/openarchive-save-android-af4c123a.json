@@ -1,0 +1,14 @@
+{
+  "id": "openarchive-save-android-af4c123a",
+  "title": "OpenArchive Save (Android)",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://open-archive.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "OpenArchive Save (Android)"
+  }
+}

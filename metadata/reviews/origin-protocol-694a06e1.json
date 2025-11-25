@@ -1,0 +1,18 @@
+{
+  "id": "origin-protocol-694a06e1",
+  "title": "Origin Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.originprotocol.com/en",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Origin Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

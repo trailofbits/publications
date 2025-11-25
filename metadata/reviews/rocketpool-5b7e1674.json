@@ -1,0 +1,17 @@
+{
+  "id": "rocketpool-5b7e1674",
+  "title": "RocketPool",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://rocketpool.net/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "RocketPool",
+    "client": "Ethereum/EVM"
+  }
+}

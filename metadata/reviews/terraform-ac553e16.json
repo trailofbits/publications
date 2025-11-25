@@ -1,0 +1,14 @@
+{
+  "id": "terraform-ac553e16",
+  "title": "Terraform",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.hashicorp.com/products/terraform/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Terraform"
+  }
+}

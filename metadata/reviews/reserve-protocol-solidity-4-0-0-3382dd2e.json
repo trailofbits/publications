@@ -1,0 +1,20 @@
+{
+  "id": "reserve-protocol-solidity-4-0-0-3382dd2e",
+  "title": "Reserve Protocol Solidity 4.0.0",
+  "type": "security-review",
+  "publicationDate": "3.6",
+  "url": "https://reserve.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "tags": {
+    "technologies": [
+      "solidity"
+    ]
+  },
+  "metadata": {
+    "product": "Reserve Protocol Solidity 4.0.0",
+    "client": "Reserve Protocol"
+  }
+}

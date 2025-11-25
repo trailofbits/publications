@@ -1,0 +1,16 @@
+{
+  "id": "hugging-face-gradio-83b293ad",
+  "title": "Hugging Face Gradio",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://huggingface.co/gradio",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Hugging Face Gradio"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "casper-web-wallet-98fdf931",
+  "title": "Casper Web Wallet",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://casperlabs.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Casper Web Wallet",
+    "client": "Wallet Reviews"
+  }
+}

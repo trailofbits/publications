@@ -1,0 +1,14 @@
+{
+  "id": "cashero-2-0-a69ef1c8",
+  "title": "Cashero-2.0",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.cashero.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Cashero-2.0"
+  }
+}

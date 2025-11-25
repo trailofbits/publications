@@ -1,0 +1,23 @@
+{
+  "id": "building-secure-cairo-e3ea1576",
+  "title": "Building Secure Cairo",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "Filipe Casal",
+    "Simone Monica"
+  ],
+  "url": "presentations/Building%20Secure%20Cairo",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "starknet"
+    ]
+  }
+}

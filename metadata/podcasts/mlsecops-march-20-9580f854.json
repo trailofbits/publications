@@ -1,0 +1,25 @@
+{
+  "id": "mlsecops-march-20-9580f854",
+  "title": "MLSecOps March 20",
+  "type": "podcast",
+  "publicationDate": "2024",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "https://mlsecops.com/podcast/redos-vulnerability-reports-security-relevance-vs.-noisy-nuisance",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "vulnerability-research",
+      "supply-chain-security"
+    ],
+    "concepts": [
+      "denial-of-service"
+    ]
+  }
+}

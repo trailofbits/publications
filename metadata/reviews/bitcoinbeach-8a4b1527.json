@@ -1,0 +1,14 @@
+{
+  "id": "bitcoinbeach-8a4b1527",
+  "title": "BitcoinBeach",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://galoy.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "BitcoinBeach"
+  }
+}

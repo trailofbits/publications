@@ -1,0 +1,17 @@
+{
+  "id": "polygon-edge-e25843b4",
+  "title": "Polygon Edge",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://polygon.technology/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Polygon Edge",
+    "client": "Ethereum/EVM"
+  }
+}

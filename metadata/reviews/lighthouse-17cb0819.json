@@ -1,0 +1,17 @@
+{
+  "id": "lighthouse-17cb0819",
+  "title": "Lighthouse",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://lighthouse.sigmaprime.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Lighthouse",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fraxlend-and-vefpis-8a853c82",
+  "title": "Fraxlend and veFPIS",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://frax.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Fraxlend and veFPIS",
+    "client": "Frax Finance"
+  }
+}

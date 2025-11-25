@@ -1,0 +1,16 @@
+{
+  "id": "input-driven-recursion-ongoing-security-risks-6bc7872d",
+  "title": "Input-Driven Recursion: Ongoing Security Risks",
+  "type": "white-paper",
+  "publicationDate": "2024",
+  "authors": [
+    "Alexis Challande and Brad Swain"
+  ],
+  "url": "papers/trailofbits-20241218-recursion-whitepaper.pdf",
+  "categories": {
+    "publicationType": "white-paper",
+    "domain": [
+      "ai-ml"
+    ]
+  }
+}

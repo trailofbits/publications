@@ -1,0 +1,17 @@
+{
+  "id": "squads-v4-e306d6e5",
+  "title": "Squads V4",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://squads.so/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Squads V4",
+    "client": "Solana"
+  }
+}

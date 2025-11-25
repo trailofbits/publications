@@ -1,0 +1,17 @@
+{
+  "id": "complifi-9f1d1969",
+  "title": "CompliFi",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://compli.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "CompliFi",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-sns-phase-2-0e29d77a",
+  "title": "Dfinity SNS Phase 2",
+  "type": "security-review",
+  "publicationDate": "2.5",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Dfinity SNS Phase 2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "staked-917022a2",
+  "title": "Staked",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://staked.us/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Staked",
+    "client": "Ethereum/EVM"
+  }
+}

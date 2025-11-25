@@ -1,0 +1,22 @@
+{
+  "id": "rattle-an-ethereum-evm-binary-analysis-framework-de12a102",
+  "title": "Rattle - an Ethereum EVM binary analysis framework",
+  "type": "presentation",
+  "publicationDate": "2018",
+  "authors": [
+    "Ryan Stortz"
+  ],
+  "url": "https://www.trailofbits.com/presentations/rattle/",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  }
+}

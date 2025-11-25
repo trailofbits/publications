@@ -1,0 +1,17 @@
+{
+  "id": "bitcoin-sv-262e934c",
+  "title": "Bitcoin SV",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://bitcoinsv.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Bitcoin SV",
+    "client": "Bitcoin & Derivatives"
+  }
+}

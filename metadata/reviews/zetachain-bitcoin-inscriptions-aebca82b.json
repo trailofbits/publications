@@ -1,0 +1,18 @@
+{
+  "id": "zetachain-bitcoin-inscriptions-aebca82b",
+  "title": "ZetaChain Bitcoin Inscriptions",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.zetachain.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "ZetaChain Bitcoin Inscriptions",
+    "client": "Bitcoin & Derivatives"
+  }
+}

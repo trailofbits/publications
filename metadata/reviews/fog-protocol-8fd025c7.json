@@ -1,0 +1,15 @@
+{
+  "id": "fog-protocol-8fd025c7",
+  "title": "Fog Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.mobilecoin.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Fog Protocol",
+    "client": "MobileCoin"
+  }
+}

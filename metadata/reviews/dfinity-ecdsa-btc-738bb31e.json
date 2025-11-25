@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-ecdsa-btc-738bb31e",
+  "title": "DFINITY ECDSA/BTC",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DFINITY ECDSA/BTC",
+    "client": "Other/Multi-Chain"
+  }
+}

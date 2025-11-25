@@ -1,0 +1,18 @@
+{
+  "id": "qredo-blockchain-99c61243",
+  "title": "Qredo Blockchain",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.qredo.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Qredo Blockchain",
+    "client": "Other/Multi-Chain"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "smardex-amm-f1a3c403",
+  "title": "Smardex AMM",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.smardex.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Smardex AMM",
+    "client": "Ethereum/EVM"
+  }
+}

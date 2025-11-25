@@ -1,0 +1,17 @@
+{
+  "id": "rskj-0aea0022",
+  "title": "RSKj",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.rsk.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "RSKj",
+    "client": "Bitcoin & Derivatives"
+  }
+}

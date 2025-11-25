@@ -1,0 +1,17 @@
+{
+  "id": "graph-protocol-5eca3018",
+  "title": "Graph Protocol",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://thegraph.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Graph Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "yield-v2-0e7712be",
+  "title": "Yield V2",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://yield.is/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Yield V2",
+    "client": "Ethereum/EVM"
+  }
+}

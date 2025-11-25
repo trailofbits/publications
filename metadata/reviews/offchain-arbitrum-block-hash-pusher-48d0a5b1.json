@@ -1,0 +1,22 @@
+{
+  "id": "offchain-arbitrum-block-hash-pusher-48d0a5b1",
+  "title": "Offchain Arbitrum Block Hash Pusher",
+  "type": "security-review",
+  "publicationDate": "1.8",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Arbitrum Block Hash Pusher",
+    "client": "Offchain Labs"
+  }
+}

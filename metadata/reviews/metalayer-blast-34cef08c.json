@@ -1,0 +1,17 @@
+{
+  "id": "metalayer-blast-34cef08c",
+  "title": "MetaLayer Blast",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://blast.io/en",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "MetaLayer Blast",
+    "client": "Ethereum/EVM"
+  }
+}

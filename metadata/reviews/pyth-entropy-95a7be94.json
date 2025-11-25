@@ -1,0 +1,17 @@
+{
+  "id": "pyth-entropy-95a7be94",
+  "title": "Pyth Entropy",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://docs.pyth.network/entropy",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Pyth Entropy",
+    "client": "Ethereum/EVM"
+  }
+}

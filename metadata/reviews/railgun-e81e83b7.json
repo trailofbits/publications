@@ -1,0 +1,18 @@
+{
+  "id": "railgun-e81e83b7",
+  "title": "RAILGUN",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://righttoprivacy.foundation/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "RAILGUN",
+    "client": "Wallet Reviews"
+  }
+}

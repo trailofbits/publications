@@ -1,0 +1,17 @@
+{
+  "id": "ockam-3028eb78",
+  "title": "Ockam",
+  "type": "security-review",
+  "publicationDate": "11",
+  "url": "https://docs.ockam.io",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Ockam"
+  }
+}

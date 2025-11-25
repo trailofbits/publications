@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-threshold-ecdsa-5de4714a",
+  "title": "DFINITY Threshold ECDSA",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DFINITY Threshold ECDSA",
+    "client": "Other/Multi-Chain"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "offchain-reward-distributor-fixes-1275c6bd",
+  "title": "Offchain Reward Distributor Fixes",
+  "type": "security-review",
+  "publicationDate": "0.8",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Reward Distributor Fixes",
+    "client": "Offchain Labs"
+  }
+}

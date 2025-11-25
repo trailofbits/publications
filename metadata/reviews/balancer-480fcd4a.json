@@ -1,0 +1,17 @@
+{
+  "id": "balancer-480fcd4a",
+  "title": "Balancer",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://balancer.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Balancer",
+    "client": "Ethereum/EVM"
+  }
+}

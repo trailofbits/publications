@@ -1,0 +1,21 @@
+{
+  "id": "risky-biz-707-8e6a1df5",
+  "title": "Risky Biz 707",
+  "type": "podcast",
+  "publicationDate": "2023",
+  "authors": [
+    "Dan Guido"
+  ],
+  "url": "https://risky.biz/RB707/",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "ai-security"
+    ]
+  }
+}

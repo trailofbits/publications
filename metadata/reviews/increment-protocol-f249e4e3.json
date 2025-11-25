@@ -1,0 +1,17 @@
+{
+  "id": "increment-protocol-f249e4e3",
+  "title": "Increment Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://increment.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Increment Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

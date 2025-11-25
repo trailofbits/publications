@@ -1,0 +1,14 @@
+{
+  "id": "eclipse-temurin-9048a111",
+  "title": "Eclipse Temurin",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://adoptium.net/temurin/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Eclipse Temurin"
+  }
+}

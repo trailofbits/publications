@@ -1,0 +1,19 @@
+{
+  "id": "detecting-variability-bugs-with-hybrid-control-and-data-flow-a65a199f",
+  "title": "Detecting variability bugs with hybrid control and data flow",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Kelly Kaoudis",
+    "Henrik Brodin",
+    "Evan Sultanik"
+  ],
+  "url": "presentations/langsec_2023_ubet.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "program-analysis"
+    ]
+  }
+}

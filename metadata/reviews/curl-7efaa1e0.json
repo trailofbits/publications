@@ -1,0 +1,16 @@
+{
+  "id": "curl-7efaa1e0",
+  "title": "cURL",
+  "type": "security-review",
+  "publicationDate": "9.5",
+  "url": "https://curl.se/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "cURL"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "flare-network-7f3e9419",
+  "title": "Flare Network",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://flare.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Flare Network",
+    "client": "Avalanche"
+  }
+}

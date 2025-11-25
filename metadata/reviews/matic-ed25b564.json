@@ -1,0 +1,17 @@
+{
+  "id": "matic-ed25b564",
+  "title": "Matic",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://matic.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Matic",
+    "client": "Ethereum/EVM"
+  }
+}

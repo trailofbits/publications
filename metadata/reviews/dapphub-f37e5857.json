@@ -1,0 +1,17 @@
+{
+  "id": "dapphub-f37e5857",
+  "title": "DappHub",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://dapphub.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DappHub",
+    "client": "Ethereum/EVM"
+  }
+}

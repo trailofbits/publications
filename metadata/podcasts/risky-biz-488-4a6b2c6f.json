@@ -1,0 +1,28 @@
+{
+  "id": "risky-biz-488-4a6b2c6f",
+  "title": "Risky Biz 488",
+  "type": "podcast",
+  "publicationDate": "2018",
+  "authors": [
+    "JP Smith"
+  ],
+  "url": "https://risky.biz/RB488/",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "symbolic-execution",
+      "smart-contracts"
+    ],
+    "tools": [
+      "manticore"
+    ]
+  }
+}

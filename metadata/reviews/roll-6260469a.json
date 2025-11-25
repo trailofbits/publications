@@ -1,0 +1,17 @@
+{
+  "id": "roll-6260469a",
+  "title": "Roll",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://tryroll.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Roll",
+    "client": "Ethereum/EVM"
+  }
+}

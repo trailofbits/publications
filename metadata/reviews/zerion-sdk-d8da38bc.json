@@ -1,0 +1,17 @@
+{
+  "id": "zerion-sdk-d8da38bc",
+  "title": "Zerion SDK",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://zerion.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Zerion SDK",
+    "client": "Ethereum/EVM"
+  }
+}

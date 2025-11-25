@@ -1,0 +1,18 @@
+{
+  "id": "highway-consensus-4c3b235c",
+  "title": "Highway Consensus",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://casperlabs.io/en/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Highway Consensus",
+    "client": "Other/Multi-Chain"
+  }
+}

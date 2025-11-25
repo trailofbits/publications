@@ -1,0 +1,19 @@
+{
+  "id": "wasmcloud-56f9f8a9",
+  "title": "wasmCloud",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://wasmcloud.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "tags": {
+    "technologies": [
+      "webassembly"
+    ]
+  },
+  "metadata": {
+    "product": "wasmCloud"
+  }
+}

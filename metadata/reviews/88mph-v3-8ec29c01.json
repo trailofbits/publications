@@ -1,0 +1,17 @@
+{
+  "id": "88mph-v3-8ec29c01",
+  "title": "88mph V3",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://88mph.app/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "88mph V3",
+    "client": "Ethereum/EVM"
+  }
+}

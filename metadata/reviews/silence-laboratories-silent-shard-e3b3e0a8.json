@@ -1,0 +1,16 @@
+{
+  "id": "silence-laboratories-silent-shard-e3b3e0a8",
+  "title": "Silence Laboratories Silent Shard",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.silencelaboratories.com",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Silence Laboratories Silent Shard"
+  }
+}

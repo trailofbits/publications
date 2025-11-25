@@ -1,0 +1,25 @@
+{
+  "id": "spiko-smart-contracts-fde143db",
+  "title": "Spiko Smart Contracts",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.spiko.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  },
+  "metadata": {
+    "product": "Spiko Smart Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "reserve-folio-solidity-based-contracts-71425613",
+  "title": "Reserve Folio Solidity-Based Contracts",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://reserve.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "tags": {
+    "technologies": [
+      "solidity"
+    ]
+  },
+  "metadata": {
+    "product": "Reserve Folio Solidity-Based Contracts",
+    "client": "Reserve Protocol"
+  }
+}

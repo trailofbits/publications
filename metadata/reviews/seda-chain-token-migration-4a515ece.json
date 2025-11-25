@@ -1,0 +1,18 @@
+{
+  "id": "seda-chain-token-migration-4a515ece",
+  "title": "SEDA Chain Token Migration",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.seda.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "SEDA Chain Token Migration",
+    "client": "Ethereum/EVM"
+  }
+}

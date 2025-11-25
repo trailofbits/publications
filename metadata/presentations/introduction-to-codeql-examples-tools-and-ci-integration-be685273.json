@@ -1,0 +1,18 @@
+{
+  "id": "introduction-to-codeql-examples-tools-and-ci-integration-be685273",
+  "title": "Introduction to CodeQL: Examples, Tools and CI Integration",
+  "type": "webinar",
+  "publicationDate": "unknown",
+  "url": "https://www.youtube.com/watch?v=rQRlnUQPXDw",
+  "categories": {
+    "publicationType": "webinar",
+    "domain": [
+      "static-analysis"
+    ]
+  },
+  "tags": {
+    "tools": [
+      "codeql"
+    ]
+  }
+}

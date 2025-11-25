@@ -1,0 +1,17 @@
+{
+  "id": "relayer-contracts-fd8d55d6",
+  "title": "Relayer Contracts",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://balancer.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Relayer Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "aggregator-e73a40b2",
+  "title": "Aggregator",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.solon.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Aggregator",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "beethoven-x-6467b6b5",
+  "title": "Beethoven X",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://beets.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Beethoven X",
+    "client": "Ethereum/EVM"
+  }
+}

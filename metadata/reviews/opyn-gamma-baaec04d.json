@@ -1,0 +1,20 @@
+{
+  "id": "opyn-gamma-baaec04d",
+  "title": "Opyn Gamma",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.opyn.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Opyn Gamma",
+    "client": "Ethereum/EVM"
+  }
+}

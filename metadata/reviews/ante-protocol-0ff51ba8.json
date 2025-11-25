@@ -1,0 +1,17 @@
+{
+  "id": "ante-protocol-0ff51ba8",
+  "title": "Ante Protocol",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.ante.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Ante Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

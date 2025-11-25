@@ -1,0 +1,14 @@
+{
+  "id": "yolov7-42a541df",
+  "title": "YOLOv7",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://github.com/WongKinYiu/yolov7/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "YOLOv7"
+  }
+}

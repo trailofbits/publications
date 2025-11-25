@@ -1,0 +1,20 @@
+{
+  "id": "pixelswap-dex-44b4cfb7",
+  "title": "PixelSwap DEX",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.pixelswap.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "PixelSwap DEX",
+    "client": "Other/Multi-Chain"
+  }
+}

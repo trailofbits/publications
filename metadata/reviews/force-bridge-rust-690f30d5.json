@@ -1,0 +1,25 @@
+{
+  "id": "force-bridge-rust-690f30d5",
+  "title": "Force Bridge - Rust",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://www.nervos.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "bridges"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  },
+  "metadata": {
+    "product": "Force Bridge - Rust",
+    "client": "NervOS"
+  }
+}

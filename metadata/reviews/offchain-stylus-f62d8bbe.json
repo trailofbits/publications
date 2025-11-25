@@ -1,0 +1,17 @@
+{
+  "id": "offchain-stylus-f62d8bbe",
+  "title": "Offchain Stylus",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Stylus",
+    "client": "Offchain Labs"
+  }
+}

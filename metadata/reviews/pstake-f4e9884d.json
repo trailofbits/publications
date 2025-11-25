@@ -1,0 +1,17 @@
+{
+  "id": "pstake-f4e9884d",
+  "title": "pSTAKE",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://persistence.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "pSTAKE",
+    "client": "Ethereum/EVM"
+  }
+}

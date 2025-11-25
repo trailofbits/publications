@@ -1,0 +1,14 @@
+{
+  "id": "vgs-proxy-503a6153",
+  "title": "VGS Proxy",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.verygoodsecurity.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "VGS Proxy"
+  }
+}

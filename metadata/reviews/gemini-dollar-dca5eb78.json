@@ -1,0 +1,17 @@
+{
+  "id": "gemini-dollar-dca5eb78",
+  "title": "Gemini Dollar",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://gemini.com/dollar/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Gemini Dollar",
+    "client": "Ethereum/EVM"
+  }
+}

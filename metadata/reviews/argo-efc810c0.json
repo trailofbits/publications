@@ -1,0 +1,16 @@
+{
+  "id": "argo-efc810c0",
+  "title": "Argo",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://argoproj.github.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Argo"
+  }
+}

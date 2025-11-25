@@ -1,0 +1,17 @@
+{
+  "id": "flarefinance-97f37915",
+  "title": "FlareFinance",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://flr.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "FlareFinance",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blind-spots-automatically-detecting-ignored-program-inputs-bd6b8e7f",
+  "title": "Blind Spots: Automatically detecting ignored program inputs",
+  "type": "academic-paper",
+  "publicationDate": "2023",
+  "url": "https://arxiv.org/abs/2301.08700",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "venue": "LangSec 2023",
+    "peerReviewed": true
+  }
+}

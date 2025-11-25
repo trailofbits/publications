@@ -1,0 +1,31 @@
+{
+  "id": "write-better-smart-contracts-with-slither-s-python-api-b7beab20",
+  "title": "Write better smart contracts with Slither's Python API",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "Troy Sargent"
+  ],
+  "url": "presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "static-analysis",
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ],
+    "technologies": [
+      "python"
+    ],
+    "tools": [
+      "slither"
+    ]
+  }
+}

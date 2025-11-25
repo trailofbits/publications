@@ -1,0 +1,19 @@
+{
+  "id": "zero-knowledge-122-16b9a759",
+  "title": "Zero Knowledge 122",
+  "type": "podcast",
+  "publicationDate": "2020",
+  "authors": [
+    "Ben Perez"
+  ],
+  "url": "https://www.zeroknowledge.fm/122",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "cryptography"
+    ],
+    "subdomain": [
+      "zero-knowledge-proofs"
+    ]
+  }
+}

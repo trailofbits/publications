@@ -1,0 +1,21 @@
+{
+  "id": "roundme-rounding-analysis-made-simpler-727d5db0",
+  "title": "Roundme: rounding analysis made simpler",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Josselin Feist"
+  ],
+  "url": "presentations/TrustX%202023/roundme",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  }
+}

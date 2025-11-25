@@ -1,0 +1,17 @@
+{
+  "id": "aztec-protocol-adc99cb7",
+  "title": "AZTEC Protocol",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://www.aztecprotocol.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "AZTEC Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

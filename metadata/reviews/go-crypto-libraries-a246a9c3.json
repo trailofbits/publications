@@ -1,0 +1,16 @@
+{
+  "id": "go-crypto-libraries-a246a9c3",
+  "title": "Go Crypto Libraries",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://go.dev",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Go Crypto Libraries"
+  }
+}

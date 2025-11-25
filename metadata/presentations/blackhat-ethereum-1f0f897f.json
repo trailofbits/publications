@@ -1,0 +1,22 @@
+{
+  "id": "blackhat-ethereum-1f0f897f",
+  "title": "Blackhat Ethereum",
+  "type": "presentation",
+  "publicationDate": "2018",
+  "authors": [
+    "Ryan Stortz",
+    "Jay Little"
+  ],
+  "url": "presentations/Blackhat%20Ethereum",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  }
+}

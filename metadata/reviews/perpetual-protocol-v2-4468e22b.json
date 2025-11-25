@@ -1,0 +1,17 @@
+{
+  "id": "perpetual-protocol-v2-4468e22b",
+  "title": "Perpetual Protocol V2",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://perp.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Perpetual Protocol V2",
+    "client": "Ethereum/EVM"
+  }
+}

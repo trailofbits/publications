@@ -1,0 +1,26 @@
+{
+  "id": "bondex-smart-contracts-4d149cd7",
+  "title": "Bondex Smart Contracts",
+  "type": "security-review",
+  "publicationDate": "0.6",
+  "url": "https://bondex.app/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts",
+      "defi"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  },
+  "metadata": {
+    "product": "Bondex Smart Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

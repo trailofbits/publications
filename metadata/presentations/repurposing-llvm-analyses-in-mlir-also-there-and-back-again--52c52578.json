@@ -1,0 +1,23 @@
+{
+  "id": "repurposing-llvm-analyses-in-mlir-also-there-and-back-again--52c52578",
+  "title": "Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "Henrich Lauko"
+  ],
+  "url": "presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "compilers",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "llvm",
+      "mlir"
+    ]
+  }
+}

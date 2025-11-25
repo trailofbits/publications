@@ -1,0 +1,21 @@
+{
+  "id": "curvance-90e32c82",
+  "title": "Curvance",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.curvance.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "fuzzing"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing"
+    ]
+  },
+  "metadata": {
+    "product": "Curvance"
+  }
+}

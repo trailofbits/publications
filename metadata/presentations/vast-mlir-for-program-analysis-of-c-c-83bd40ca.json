@@ -1,0 +1,23 @@
+{
+  "id": "vast-mlir-for-program-analysis-of-c-c-83bd40ca",
+  "title": "VAST: MLIR for program analysis of C/C++",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "Henrich Lauko"
+  ],
+  "url": "presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "compilers",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "c-cpp",
+      "mlir"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "paymail-protocol-fdeacb76",
+  "title": "Paymail Protocol",
+  "type": "security-review",
+  "publicationDate": "7",
+  "url": "https://nchain.com/en/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Paymail Protocol",
+    "client": "Bitcoin & Derivatives"
+  }
+}

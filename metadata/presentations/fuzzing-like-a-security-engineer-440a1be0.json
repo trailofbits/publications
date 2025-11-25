@@ -1,0 +1,26 @@
+{
+  "id": "fuzzing-like-a-security-engineer-440a1be0",
+  "title": "Fuzzing like a security engineer",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Nat Chin"
+  ],
+  "url": "presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing"
+    ]
+  }
+}

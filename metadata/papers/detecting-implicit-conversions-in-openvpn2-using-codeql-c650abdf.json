@@ -1,0 +1,21 @@
+{
+  "id": "detecting-implicit-conversions-in-openvpn2-using-codeql-c650abdf",
+  "title": "Detecting Implicit Conversions in OpenVPN2 Using CodeQL",
+  "type": "white-paper",
+  "publicationDate": "2025",
+  "authors": [
+    "Paweł Płatek"
+  ],
+  "url": "reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf",
+  "categories": {
+    "publicationType": "white-paper",
+    "domain": [
+      "static-analysis"
+    ]
+  },
+  "tags": {
+    "tools": [
+      "codeql"
+    ]
+  }
+}

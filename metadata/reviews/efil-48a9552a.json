@@ -1,0 +1,21 @@
+{
+  "id": "efil-48a9552a",
+  "title": "eFIL",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.gemini.com/blog/gemini-launches-wrapped-filecoin-efil-building-a-bridge-to-defi",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "bridges",
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "eFIL",
+    "client": "Other/Multi-Chain"
+  }
+}

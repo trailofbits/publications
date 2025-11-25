@@ -1,0 +1,14 @@
+{
+  "id": "orbit-f5dd0669",
+  "title": "Orbit",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://fleetdm.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Orbit"
+  }
+}

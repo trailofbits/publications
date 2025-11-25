@@ -1,0 +1,17 @@
+{
+  "id": "elrond-44b56ce5",
+  "title": "Elrond",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://elrond.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Elrond",
+    "client": "Other/Multi-Chain"
+  }
+}

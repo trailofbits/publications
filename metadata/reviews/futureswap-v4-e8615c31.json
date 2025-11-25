@@ -1,0 +1,17 @@
+{
+  "id": "futureswap-v4-e8615c31",
+  "title": "Futureswap V4",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.futureswap.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Futureswap V4",
+    "client": "Ethereum/EVM"
+  }
+}

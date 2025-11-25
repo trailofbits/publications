@@ -1,0 +1,17 @@
+{
+  "id": "umee-60860ff0",
+  "title": "Umee",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.umee.cc/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Umee",
+    "client": "Tendermint/Cosmos"
+  }
+}

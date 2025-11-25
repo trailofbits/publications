@@ -1,0 +1,17 @@
+{
+  "id": "offchain-usdc-gateway-bbe9a0af",
+  "title": "Offchain USDC Gateway",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain USDC Gateway",
+    "client": "Offchain Labs"
+  }
+}

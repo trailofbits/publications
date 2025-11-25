@@ -1,0 +1,17 @@
+{
+  "id": "persistence-eth2-0-72befa40",
+  "title": "Persistence ETH2.0",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://persistence.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Persistence ETH2.0",
+    "client": "Ethereum/EVM"
+  }
+}

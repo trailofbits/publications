@@ -1,0 +1,15 @@
+{
+  "id": "toward-automated-grammar-extraction-via-semantic-labeling-of-f1ecb183",
+  "title": "Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations",
+  "type": "academic-paper",
+  "publicationDate": "2020",
+  "url": "papers/semantic_labeling_langsec2020.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "LangSec 2020",
+    "peerReviewed": true
+  }
+}

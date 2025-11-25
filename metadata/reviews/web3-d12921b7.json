@@ -1,0 +1,22 @@
+{
+  "id": "web3-d12921b7",
+  "title": "Web3",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://web3.foundation/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Web3",
+    "client": "Wallet Reviews"
+  }
+}

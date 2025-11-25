@@ -1,0 +1,17 @@
+{
+  "id": "offchain-security-council-rotation-a79535bc",
+  "title": "Offchain Security Council Rotation",
+  "type": "security-review",
+  "publicationDate": "1.6",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Security Council Rotation",
+    "client": "Offchain Labs"
+  }
+}

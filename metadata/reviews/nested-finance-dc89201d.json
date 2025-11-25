@@ -1,0 +1,17 @@
+{
+  "id": "nested-finance-dc89201d",
+  "title": "Nested Finance",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://nested.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Nested Finance",
+    "client": "Ethereum/EVM"
+  }
+}

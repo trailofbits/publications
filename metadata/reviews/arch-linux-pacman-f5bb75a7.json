@@ -1,0 +1,19 @@
+{
+  "id": "arch-linux-pacman-f5bb75a7",
+  "title": "Arch Linux Pacman",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://archlinux.org/pacman/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "tags": {
+    "platforms": [
+      "linux"
+    ]
+  },
+  "metadata": {
+    "product": "Arch Linux Pacman"
+  }
+}

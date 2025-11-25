@@ -1,0 +1,20 @@
+{
+  "id": "ston-fi-dex-v2-019b7c16",
+  "title": "STON.fi DEX V2",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://ston.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "STON.fi DEX V2",
+    "client": "TON"
+  }
+}

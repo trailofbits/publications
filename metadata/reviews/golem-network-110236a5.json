@@ -1,0 +1,17 @@
+{
+  "id": "golem-network-110236a5",
+  "title": "Golem Network",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://golem.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Golem Network",
+    "client": "Ethereum/EVM"
+  }
+}

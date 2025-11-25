@@ -1,0 +1,17 @@
+{
+  "id": "computable-2b91e448",
+  "title": "Computable",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.computable.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Computable",
+    "client": "Ethereum/EVM"
+  }
+}

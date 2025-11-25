@@ -1,0 +1,21 @@
+{
+  "id": "securing-your-package-ecosystem-with-trusted-publishing-6ca81c56",
+  "title": "Securing your Package Ecosystem with Trusted Publishing",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Securing%20your%20Package%20Ecosystem%20with%20Trusted%20Publishing",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "supply-chain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  }
+}

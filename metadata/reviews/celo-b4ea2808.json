@@ -1,0 +1,17 @@
+{
+  "id": "celo-b4ea2808",
+  "title": "Celo",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://celo.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Celo",
+    "client": "Other/Multi-Chain"
+  }
+}

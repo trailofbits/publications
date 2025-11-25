@@ -1,0 +1,17 @@
+{
+  "id": "your-mitigations-are-my-opportunities-c0d849e0",
+  "title": "Your Mitigations are My Opportunities",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Yarden Shafir"
+  ],
+  "url": "presentations/Your%20Mitigations%20are%20My%20Opportunities",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "program-analysis"
+    ]
+  }
+}

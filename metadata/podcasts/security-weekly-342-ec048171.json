@@ -1,0 +1,19 @@
+{
+  "id": "security-weekly-342-ec048171",
+  "title": "Security Weekly #342",
+  "type": "podcast",
+  "publicationDate": "2025",
+  "authors": [
+    "Will Vandevanter"
+  ],
+  "url": "https://www.youtube.com/watch?v=C2kSdo7aNzU",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": []
+  },
+  "tags": {
+    "topics": [
+      "vulnerability-research"
+    ]
+  }
+}

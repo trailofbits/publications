@@ -1,0 +1,22 @@
+{
+  "id": "solana-fda4210c",
+  "title": "Solana",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://solana.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "Solana",
+    "client": "Solana"
+  }
+}

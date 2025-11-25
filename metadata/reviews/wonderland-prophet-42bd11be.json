@@ -1,0 +1,20 @@
+{
+  "id": "wonderland-prophet-42bd11be",
+  "title": "Wonderland Prophet",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://defi.sucks/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Wonderland Prophet",
+    "client": "Ethereum/EVM"
+  }
+}

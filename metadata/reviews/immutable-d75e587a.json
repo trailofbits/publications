@@ -1,0 +1,17 @@
+{
+  "id": "immutable-d75e587a",
+  "title": "Immutable",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.immutable.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Immutable",
+    "client": "Ethereum/EVM"
+  }
+}

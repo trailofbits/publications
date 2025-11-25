@@ -1,0 +1,17 @@
+{
+  "id": "attestations-a-new-generation-of-signatures-on-pypi-b54ebcba",
+  "title": "Attestations: a new generation of signatures on PyPI",
+  "type": "presentation",
+  "publicationDate": "2025",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Attestations:%20a%20new%20generation%20of%20signatures%20on%20PyPI",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography",
+      "supply-chain"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "microsoft-verasion-go-cose-9a8aac63",
+  "title": "Microsoft/Verasion Go-COSE",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://github.com/veraison",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Microsoft/Verasion Go-COSE"
+  }
+}

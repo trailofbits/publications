@@ -1,0 +1,22 @@
+{
+  "id": "solang-code-generation-645b98db",
+  "title": "Solang Code Generation",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://solana.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "Solang Code Generation",
+    "client": "Solana"
+  }
+}

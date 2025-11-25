@@ -1,0 +1,18 @@
+{
+  "id": "ailayer-6079-contracts-9dfcf0b3",
+  "title": "AiLayer 6079 Contracts",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://6079.ai",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "AiLayer 6079 Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

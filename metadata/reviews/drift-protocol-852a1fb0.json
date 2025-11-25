@@ -1,0 +1,17 @@
+{
+  "id": "drift-protocol-852a1fb0",
+  "title": "Drift Protocol",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.drift.trade/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Drift Protocol",
+    "client": "Solana"
+  }
+}
