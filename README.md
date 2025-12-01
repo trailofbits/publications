@@ -709,6 +709,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Ava Labs AvalancheGo](https://www.avalabs.org/) | Aug 2025 | 10 | | [📄](reviews/2025-08-ava-labs-avalanchego-securityreview.pdf)|
 | [Alkimiya Silica V2](https://alkimiya.io/) | Jun 2022 | 6 | | |
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
