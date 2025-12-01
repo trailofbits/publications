@@ -732,6 +732,9 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Offchain Labs Arbitrum ArbOS 50 and 51 (Fusaka)](https://www.offchainlabs.com/) | December 2025 | 25.6 | | [📄](reviews/2025-12-offchain-arb0s50-and-51-securityreview.pdf) |
+| [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | December 2025 | 1.6 | | [📄✅](reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf) |
+| [Offchain Labs Upgrade Executor](https://www.offchainlabs.com/) | July 2025 | 0.2 | | [📄](reviews/2025-07-offchain-upgrade-executor-securityreview.pdf) |
 | [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | October 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
 | [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | October 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
 | [Radius Technology EVMAuth](https://evmauth.io/) | October 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
