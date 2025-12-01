@@ -192,6 +192,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [One, Two, TEE: Trust in Numbers Meets Hardware Security](presentations/One,%20Two,%20TEE:%20Trust%20in%20Numbers%20Meets%20Hardware%20Security) | Paul Bottinelli | 2025 |
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
