@@ -853,7 +853,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
-| [Aave V3](https://aave.com/) | Nov 2021 | 12 | |[📄✅](reviews/2021-11-aave-v3-securityreview.pdf) | |
+| [Aave V3](https://aave.com/) | Nov 2021 | 12 | | |
 | [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 | | |
 | [Fuji Finance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 | | |
