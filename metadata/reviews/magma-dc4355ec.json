@@ -1,0 +1,20 @@
+{
+  "id": "magma-dc4355ec",
+  "title": "Magma",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://magmawallet.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Magma",
+    "client": "Wallet Reviews"
+  }
+}

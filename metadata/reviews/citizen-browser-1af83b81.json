@@ -1,0 +1,14 @@
+{
+  "id": "citizen-browser-1af83b81",
+  "title": "Citizen Browser",
+  "type": "security-review",
+  "publicationDate": "0.43",
+  "url": "https://themarkup.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Citizen Browser"
+  }
+}

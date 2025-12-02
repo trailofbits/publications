@@ -1,0 +1,14 @@
+{
+  "id": "fuchsia-platform-f0a81175",
+  "title": "Fuchsia Platform",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://fuchsia.dev/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Fuchsia Platform"
+  }
+}

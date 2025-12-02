@@ -1,0 +1,20 @@
+{
+  "id": "definer-d4515af3",
+  "title": "DeFiner",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://definer.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "DeFiner",
+    "client": "Ethereum/EVM"
+  }
+}

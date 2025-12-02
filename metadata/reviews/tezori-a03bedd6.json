@@ -1,0 +1,19 @@
+{
+  "id": "tezori-a03bedd6",
+  "title": "Tezori",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://github.com/Cryptonomic/Tezori",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Tezori",
+    "client": "Tezos"
+  }
+}

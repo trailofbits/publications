@@ -1,0 +1,17 @@
+{
+  "id": "opensearch-benchmark-assessment-a8428ab4",
+  "title": "OpenSearch Benchmark Assessment",
+  "type": "white-paper",
+  "publicationDate": "2024",
+  "authors": [
+    "Evan Downing",
+    "Riccardo Schirone",
+    "Francesco Bertolaccini",
+    "and Ronald Eytchison"
+  ],
+  "url": "reports/OpenSearch-Benchmarking.pdf",
+  "categories": {
+    "publicationType": "white-paper",
+    "domain": []
+  }
+}

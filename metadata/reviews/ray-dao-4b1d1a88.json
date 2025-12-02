@@ -1,0 +1,17 @@
+{
+  "id": "ray-dao-4b1d1a88",
+  "title": "RAY-DAO",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://staked.us/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "RAY-DAO",
+    "client": "Ethereum/EVM"
+  }
+}

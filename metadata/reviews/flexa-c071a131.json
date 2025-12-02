@@ -1,0 +1,17 @@
+{
+  "id": "flexa-c071a131",
+  "title": "Flexa",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://flexa.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Flexa",
+    "client": "Ethereum/EVM"
+  }
+}

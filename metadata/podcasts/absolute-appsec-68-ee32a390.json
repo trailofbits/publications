@@ -1,0 +1,20 @@
+{
+  "id": "absolute-appsec-68-ee32a390",
+  "title": "Absolute AppSec 68",
+  "type": "podcast",
+  "publicationDate": "2019",
+  "authors": [
+    "Stefan Edwards",
+    "Bobby Tonic"
+  ],
+  "url": "https://www.youtube.com/watch?v=bOR21l96zz4",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": []
+  },
+  "tags": {
+    "platforms": [
+      "kubernetes"
+    ]
+  }
+}

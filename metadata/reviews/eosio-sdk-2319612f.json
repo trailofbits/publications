@@ -1,0 +1,17 @@
+{
+  "id": "eosio-sdk-2319612f",
+  "title": "EOSIO SDK",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "http://block.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "EOSIO SDK",
+    "client": "Other/Multi-Chain"
+  }
+}

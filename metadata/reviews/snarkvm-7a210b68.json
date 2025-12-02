@@ -1,0 +1,14 @@
+{
+  "id": "snarkvm-7a210b68",
+  "title": "snarkVM",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.aleo.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "snarkVM"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "set-protocol-b6ab0e57",
+  "title": "Set Protocol",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.setprotocol.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Set Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

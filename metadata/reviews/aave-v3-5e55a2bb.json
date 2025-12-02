@@ -1,0 +1,17 @@
+{
+  "id": "aave-v3-5e55a2bb",
+  "title": "Aave V3",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://aave.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Aave V3",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hop-protocol-v2-0e089741",
+  "title": "Hop Protocol V2",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://hop.exchange/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Hop Protocol V2",
+    "client": "Other/Multi-Chain"
+  }
+}

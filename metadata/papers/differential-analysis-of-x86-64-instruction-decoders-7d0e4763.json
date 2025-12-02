@@ -1,0 +1,15 @@
+{
+  "id": "differential-analysis-of-x86-64-instruction-decoders-7d0e4763",
+  "title": "Differential analysis of x86-64 instruction decoders",
+  "type": "academic-paper",
+  "publicationDate": "2021",
+  "url": "papers/mishegos-langsec2021.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "LangSec 2021",
+    "peerReviewed": true
+  }
+}

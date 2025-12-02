@@ -1,0 +1,17 @@
+{
+  "id": "nomisma-c23dd075",
+  "title": "Nomisma",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "http://nomisma.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Nomisma",
+    "client": "Ethereum/EVM"
+  }
+}

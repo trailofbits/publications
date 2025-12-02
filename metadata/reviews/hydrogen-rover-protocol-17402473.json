@@ -1,0 +1,17 @@
+{
+  "id": "hydrogen-rover-protocol-17402473",
+  "title": "Hydrogen Rover Protocol",
+  "type": "security-review",
+  "publicationDate": ".45",
+  "url": "https://roverstaking.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Hydrogen Rover Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

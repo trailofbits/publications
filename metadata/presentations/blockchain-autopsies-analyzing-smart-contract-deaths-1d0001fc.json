@@ -1,0 +1,25 @@
+{
+  "id": "blockchain-autopsies-analyzing-smart-contract-deaths-1d0001fc",
+  "title": "Blockchain Autopsies - Analyzing Smart Contract Deaths",
+  "type": "presentation",
+  "publicationDate": "2018",
+  "authors": [
+    "Jay Little"
+  ],
+  "url": "presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  }
+}

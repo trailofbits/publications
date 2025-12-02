@@ -1,0 +1,17 @@
+{
+  "id": "pint-f4c4f909",
+  "title": "PINT",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://pub.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "PINT",
+    "client": "Substrate"
+  }
+}

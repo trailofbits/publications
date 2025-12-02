@@ -1,0 +1,17 @@
+{
+  "id": "beethovenx-sonic-staking-b97de65e",
+  "title": "BeethovenX Sonic Staking",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://beets.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "BeethovenX Sonic Staking",
+    "client": "Ethereum/EVM"
+  }
+}

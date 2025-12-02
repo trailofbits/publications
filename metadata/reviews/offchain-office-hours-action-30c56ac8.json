@@ -1,0 +1,17 @@
+{
+  "id": "offchain-office-hours-action-30c56ac8",
+  "title": "Offchain Office Hours Action",
+  "type": "security-review",
+  "publicationDate": ".6",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Office Hours Action",
+    "client": "Offchain Labs"
+  }
+}

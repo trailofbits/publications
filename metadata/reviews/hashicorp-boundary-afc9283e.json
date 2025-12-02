@@ -1,0 +1,14 @@
+{
+  "id": "hashicorp-boundary-afc9283e",
+  "title": "Hashicorp Boundary",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.hashicorp.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Hashicorp Boundary"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "loom-6b07bf3b",
+  "title": "Loom",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://loomx.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Loom",
+    "client": "Other/Multi-Chain"
+  }
+}

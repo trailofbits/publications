@@ -1,0 +1,20 @@
+{
+  "id": "ywhales-205192c5",
+  "title": "yWhales",
+  "type": "podcast",
+  "publicationDate": "2023",
+  "authors": [
+    "Dan Guido"
+  ],
+  "url": "https://www.youtube.com/watch?v=LqkH1jYFE2g&list=PLciHOL_J7IwpS8Cdl9lMB8Mxqu0as8yPi&index=6",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  }
+}

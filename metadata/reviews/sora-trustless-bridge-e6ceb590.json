@@ -1,0 +1,25 @@
+{
+  "id": "sora-trustless-bridge-e6ceb590",
+  "title": "SORA Trustless Bridge",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://soramitsu.co.jp/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "bridges"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  },
+  "metadata": {
+    "product": "SORA Trustless Bridge",
+    "client": "Other/Multi-Chain"
+  }
+}

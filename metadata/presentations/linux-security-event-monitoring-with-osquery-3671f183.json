@@ -1,0 +1,19 @@
+{
+  "id": "linux-security-event-monitoring-with-osquery-3671f183",
+  "title": "Linux Security Event Monitoring with osquery",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Alessandro Gario"
+  ],
+  "url": "presentations/osquery%20Linux%20security%20event%20monitoring",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": []
+  },
+  "tags": {
+    "platforms": [
+      "linux"
+    ]
+  }
+}

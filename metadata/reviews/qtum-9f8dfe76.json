@@ -1,0 +1,17 @@
+{
+  "id": "qtum-9f8dfe76",
+  "title": "QTUM",
+  "type": "security-review",
+  "publicationDate": "0.43",
+  "url": "https://qtum.org/en",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "QTUM",
+    "client": "Ethereum/EVM"
+  }
+}

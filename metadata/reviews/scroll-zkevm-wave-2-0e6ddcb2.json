@@ -1,0 +1,22 @@
+{
+  "id": "scroll-zkevm-wave-2-0e6ddcb2",
+  "title": "Scroll ZkEVM Wave 2",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://scroll.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Scroll ZkEVM Wave 2",
+    "client": "Scroll"
+  }
+}

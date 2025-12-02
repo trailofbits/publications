@@ -1,0 +1,22 @@
+{
+  "id": "scroll-zkevm-4844-blob-f6f02d04",
+  "title": "Scroll ZkEVM 4844 Blob",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://scroll.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Scroll ZkEVM 4844 Blob",
+    "client": "Scroll"
+  }
+}

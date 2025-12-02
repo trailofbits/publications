@@ -1,0 +1,21 @@
+{
+  "id": "linux-kernel-168f24d2",
+  "title": "Linux Kernel",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://kernelci.org/about/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "linux"
+    ]
+  },
+  "metadata": {
+    "product": "Linux Kernel"
+  }
+}

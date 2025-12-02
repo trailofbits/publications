@@ -1,0 +1,21 @@
+{
+  "id": "absolute-appsec-97-b303e4e0",
+  "title": "Absolute AppSec 97",
+  "type": "podcast",
+  "publicationDate": "2020",
+  "authors": [
+    "Stefan Edwards"
+  ],
+  "url": "https://www.youtube.com/watch?v=GvNXxOc30lM",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "threat-modeling"
+    ]
+  }
+}

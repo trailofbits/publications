@@ -1,0 +1,15 @@
+{
+  "id": "reserve-protocol-5049d962",
+  "title": "Reserve Protocol",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://reserve.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Reserve Protocol",
+    "client": "Reserve Protocol"
+  }
+}

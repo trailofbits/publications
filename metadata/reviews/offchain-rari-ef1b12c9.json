@@ -1,0 +1,17 @@
+{
+  "id": "offchain-rari-ef1b12c9",
+  "title": "Offchain RARI",
+  "type": "security-review",
+  "publicationDate": ".6",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain RARI",
+    "client": "Offchain Labs"
+  }
+}

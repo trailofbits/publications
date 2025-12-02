@@ -1,0 +1,14 @@
+{
+  "id": "eclipse-jkube-82a81d37",
+  "title": "Eclipse JKube",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://eclipse.dev/jkube/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Eclipse JKube"
+  }
+}

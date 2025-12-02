@@ -1,0 +1,16 @@
+{
+  "id": "succinct-zk-light-client-17c2f1df",
+  "title": "Succinct ZK Light Client",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.succinct.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Succinct ZK Light Client"
+  }
+}

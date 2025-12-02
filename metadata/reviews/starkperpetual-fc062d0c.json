@@ -1,0 +1,17 @@
+{
+  "id": "starkperpetual-fc062d0c",
+  "title": "StarkPerpetual",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://docs.starkware.co/starkex-v4/starkex-deep-dive/message-encodings/in-perpetual",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "StarkPerpetual",
+    "client": "Starknet"
+  }
+}

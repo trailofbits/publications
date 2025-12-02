@@ -1,0 +1,17 @@
+{
+  "id": "kolibri-4bd1c7aa",
+  "title": "Kolibri",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://tezos.foundation/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Kolibri",
+    "client": "Tezos"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "otim-smart-wallet-e9421b5d",
+  "title": "Otim Smart Wallet",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://otim.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Otim Smart Wallet",
+    "client": "Wallet Reviews"
+  }
+}

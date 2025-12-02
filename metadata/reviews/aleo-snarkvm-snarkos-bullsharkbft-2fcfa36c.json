@@ -1,0 +1,16 @@
+{
+  "id": "aleo-snarkvm-snarkos-bullsharkbft-2fcfa36c",
+  "title": "Aleo snarkVM, snarkOS, BullsharkBFT",
+  "type": "security-review",
+  "publicationDate": "18",
+  "url": "https://aleo.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Aleo snarkVM, snarkOS, BullsharkBFT"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "manticore-evm-workshop-91519578",
+  "title": "Manticore EVM Workshop",
+  "type": "workshop",
+  "publicationDate": "unknown",
+  "url": "workshops/Manticore%20-%20EthCC%202018",
+  "categories": {
+    "publicationType": "workshop",
+    "domain": []
+  },
+  "tags": {
+    "topics": [
+      "symbolic-execution"
+    ],
+    "tools": [
+      "manticore"
+    ],
+    "platforms": [
+      "ethereum"
+    ]
+  }
+}

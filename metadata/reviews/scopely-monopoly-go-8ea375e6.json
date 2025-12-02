@@ -1,0 +1,16 @@
+{
+  "id": "scopely-monopoly-go-8ea375e6",
+  "title": "Scopely Monopoly Go!",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.monopolygo.com",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Scopely Monopoly Go!"
+  }
+}

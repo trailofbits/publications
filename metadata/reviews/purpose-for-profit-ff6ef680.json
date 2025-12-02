@@ -1,0 +1,17 @@
+{
+  "id": "purpose-for-profit-ff6ef680",
+  "title": "Purpose for Profit",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://x.company/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Purpose for Profit",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "smart-pool-e089287c",
+  "title": "Smart Pool",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://balancer.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Smart Pool",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kraken-wallet-in-app-browser-62dc2a48",
+  "title": "Kraken Wallet In-App Browser",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.kraken.com/wallet",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Kraken Wallet In-App Browser"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dfinity-consensus-226c93a2",
+  "title": "DFINITY Consensus",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "DFINITY Consensus",
+    "client": "Other/Multi-Chain"
+  }
+}

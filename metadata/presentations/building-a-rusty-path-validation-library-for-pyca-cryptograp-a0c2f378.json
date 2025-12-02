@@ -1,0 +1,21 @@
+{
+  "id": "building-a-rusty-path-validation-library-for-pyca-cryptograp-a0c2f378",
+  "title": "Building a Rusty path validation library for PyCA Cryptography",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  }
+}

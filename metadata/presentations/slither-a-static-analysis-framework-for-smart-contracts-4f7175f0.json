@@ -1,0 +1,28 @@
+{
+  "id": "slither-a-static-analysis-framework-for-smart-contracts-4f7175f0",
+  "title": "Slither: A Static Analysis Framework for Smart Contracts",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Josselin Feist"
+  ],
+  "url": "presentations/Slither:%20A%20Static%20Analysis%20Framework%20for%20Smart%20Contracts",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "static-analysis",
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ],
+    "tools": [
+      "slither"
+    ]
+  }
+}

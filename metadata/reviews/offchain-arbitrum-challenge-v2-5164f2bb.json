@@ -1,0 +1,22 @@
+{
+  "id": "offchain-arbitrum-challenge-v2-5164f2bb",
+  "title": "Offchain Arbitrum Challenge v2",
+  "type": "security-review",
+  "publicationDate": "20",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Arbitrum Challenge v2",
+    "client": "Offchain Labs"
+  }
+}

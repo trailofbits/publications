@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-canister-sandbox-1a2e4725",
+  "title": "DFINITY Canister Sandbox",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DFINITY Canister Sandbox",
+    "client": "Other/Multi-Chain"
+  }
+}

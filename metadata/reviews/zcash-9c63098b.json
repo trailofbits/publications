@@ -1,0 +1,17 @@
+{
+  "id": "zcash-9c63098b",
+  "title": "Zcash",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://electriccoin.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Zcash",
+    "client": "Bitcoin & Derivatives"
+  }
+}

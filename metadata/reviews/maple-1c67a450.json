@@ -1,0 +1,17 @@
+{
+  "id": "maple-1c67a450",
+  "title": "Maple",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.maple.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Maple",
+    "client": "Ethereum/EVM"
+  }
+}

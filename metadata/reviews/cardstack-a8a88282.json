@@ -1,0 +1,17 @@
+{
+  "id": "cardstack-a8a88282",
+  "title": "Cardstack",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://cardstack.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Cardstack",
+    "client": "Ethereum/EVM"
+  }
+}

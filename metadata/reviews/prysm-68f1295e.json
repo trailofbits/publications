@@ -1,0 +1,17 @@
+{
+  "id": "prysm-68f1295e",
+  "title": "Prysm",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://prysmaticlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Prysm",
+    "client": "Ethereum/EVM"
+  }
+}

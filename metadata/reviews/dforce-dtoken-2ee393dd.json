@@ -1,0 +1,17 @@
+{
+  "id": "dforce-dtoken-2ee393dd",
+  "title": "dForce dToken",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://dforce.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "dForce dToken",
+    "client": "Ethereum/EVM"
+  }
+}

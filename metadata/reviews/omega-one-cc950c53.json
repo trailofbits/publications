@@ -1,0 +1,17 @@
+{
+  "id": "omega-one-cc950c53",
+  "title": "Omega One",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://dark.omega.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Omega One",
+    "client": "Ethereum/EVM"
+  }
+}

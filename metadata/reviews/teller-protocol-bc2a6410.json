@@ -1,0 +1,17 @@
+{
+  "id": "teller-protocol-bc2a6410",
+  "title": "Teller Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.teller.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Teller Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

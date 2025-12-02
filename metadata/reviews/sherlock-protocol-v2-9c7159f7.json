@@ -1,0 +1,17 @@
+{
+  "id": "sherlock-protocol-v2-9c7159f7",
+  "title": "Sherlock Protocol V2",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.sherlock.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Sherlock Protocol V2",
+    "client": "Ethereum/EVM"
+  }
+}
