@@ -511,6 +511,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Zama](https://docs.zama.org/protocol/zama-protocol-litepaper) | Oct 2025 | 32.2 |
 | [DFINITY Oisy](https://oisy.com/) | Sept 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-oisy-securityreview.pdf) |
 | [Google Longfellow](https://github.com/google/longfellow-zk) | Aug 2025 | 4.6 | | [📄✅](reviews/2025-08-googlelongfellow-securityreview.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
