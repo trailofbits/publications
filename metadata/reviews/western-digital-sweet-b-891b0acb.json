@@ -1,0 +1,15 @@
+{
+  "id": "western-digital-sweet-b-891b0acb",
+  "title": "Western Digital Sweet B",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://github.com/westerndigitalcorporation/sweet-b",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Western Digital Sweet B",
+    "client": "Western Digital"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "offchain-arbos-40-nitro-4e8153f4",
+  "title": "Offchain ArbOS 40 Nitro",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain ArbOS 40 Nitro",
+    "client": "Offchain Labs"
+  }
+}

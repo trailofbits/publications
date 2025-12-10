@@ -1,0 +1,17 @@
+{
+  "id": "succinct-light-client-75c0a0db",
+  "title": "Succinct Light Client",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.succinct.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Succinct Light Client",
+    "client": "Ethereum/EVM"
+  }
+}

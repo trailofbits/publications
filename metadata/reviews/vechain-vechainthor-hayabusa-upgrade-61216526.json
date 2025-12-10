@@ -1,0 +1,18 @@
+{
+  "id": "vechain-vechainthor-hayabusa-upgrade-61216526",
+  "title": "VeChain VeChainThor Hayabusa Upgrade",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://github.com/vechain/thor/releases/tag/v2.3.0",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "VeChain VeChainThor Hayabusa Upgrade",
+    "client": "Ethereum/EVM"
+  }
+}

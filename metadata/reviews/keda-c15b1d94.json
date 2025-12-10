@@ -1,0 +1,19 @@
+{
+  "id": "keda-c15b1d94",
+  "title": "KEDA",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://keda.sh/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "tags": {
+    "platforms": [
+      "kubernetes"
+    ]
+  },
+  "metadata": {
+    "product": "KEDA"
+  }
+}

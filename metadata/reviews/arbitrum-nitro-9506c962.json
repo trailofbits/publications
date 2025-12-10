@@ -1,0 +1,23 @@
+{
+  "id": "arbitrum-nitro-9506c962",
+  "title": "Arbitrum Nitro",
+  "type": "security-review",
+  "publicationDate": "16",
+  "url": "https://offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Arbitrum Nitro",
+    "client": "Other/Multi-Chain"
+  }
+}

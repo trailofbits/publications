@@ -1,0 +1,26 @@
+{
+  "id": "what-are-the-actual-flaws-in-important-smart-contracts-d69c978f",
+  "title": "What are the Actual Flaws in Important Smart Contracts?",
+  "type": "academic-paper",
+  "publicationDate": "2020",
+  "url": "papers/smart_contract_flaws_fc2020.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  },
+  "metadata": {
+    "venue": "FC 2020",
+    "peerReviewed": true
+  }
+}

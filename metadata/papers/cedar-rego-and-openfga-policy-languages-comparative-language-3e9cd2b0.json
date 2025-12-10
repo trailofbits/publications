@@ -1,0 +1,14 @@
+{
+  "id": "cedar-rego-and-openfga-policy-languages-comparative-language-3e9cd2b0",
+  "title": "Cedar, Rego, and OpenFGA Policy Languages: Comparative Language Security Assessment",
+  "type": "white-paper",
+  "publicationDate": "2024",
+  "authors": [
+    "Ian Smith and Kelly Kaoudis"
+  ],
+  "url": "reports/Policy_Language_Security_Comparison_and_TM.pdf",
+  "categories": {
+    "publicationType": "white-paper",
+    "domain": []
+  }
+}

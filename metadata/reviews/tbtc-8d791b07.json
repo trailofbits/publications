@@ -1,0 +1,17 @@
+{
+  "id": "tbtc-8d791b07",
+  "title": "tBTC",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://thesis.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "tBTC",
+    "client": "Ethereum/EVM"
+  }
+}

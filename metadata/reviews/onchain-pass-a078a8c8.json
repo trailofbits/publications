@@ -1,0 +1,18 @@
+{
+  "id": "onchain-pass-a078a8c8",
+  "title": "Onchain Pass",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.onchain.ro/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Onchain Pass",
+    "client": "Ethereum/EVM"
+  }
+}

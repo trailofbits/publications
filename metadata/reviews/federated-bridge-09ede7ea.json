@@ -1,0 +1,20 @@
+{
+  "id": "federated-bridge-09ede7ea",
+  "title": "Federated Bridge",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.rsk.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "bridges"
+    ]
+  },
+  "metadata": {
+    "product": "Federated Bridge",
+    "client": "Ethereum/EVM"
+  }
+}

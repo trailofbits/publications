@@ -1,0 +1,17 @@
+{
+  "id": "bunni-v2-12fb2ae1",
+  "title": "Bunni v2",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://bunni.pro/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Bunni v2",
+    "client": "Ethereum/EVM"
+  }
+}

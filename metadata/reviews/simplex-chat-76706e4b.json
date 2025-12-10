@@ -1,0 +1,17 @@
+{
+  "id": "simplex-chat-76706e4b",
+  "title": "SimpleX Chat",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://simplex.chat/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "SimpleX Chat"
+  }
+}

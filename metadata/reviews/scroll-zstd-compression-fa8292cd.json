@@ -1,0 +1,15 @@
+{
+  "id": "scroll-zstd-compression-fa8292cd",
+  "title": "Scroll zstd Compression",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://scroll.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Scroll zstd Compression",
+    "client": "Scroll"
+  }
+}

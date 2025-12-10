@@ -1,0 +1,17 @@
+{
+  "id": "aave-protocol-27bcaee2",
+  "title": "Aave Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://aave.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Aave Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

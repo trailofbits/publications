@@ -1,0 +1,21 @@
+{
+  "id": "crosschain-bridge-9ba30359",
+  "title": "CrossChain-Bridge",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://anyswap.exchange/bridge",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "bridges"
+    ]
+  },
+  "metadata": {
+    "product": "CrossChain-Bridge",
+    "client": "Other/Multi-Chain"
+  }
+}

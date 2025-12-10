@@ -1,0 +1,17 @@
+{
+  "id": "paxos-standard-e8227494",
+  "title": "Paxos Standard",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.paxos.com/standard/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Paxos Standard",
+    "client": "Ethereum/EVM"
+  }
+}

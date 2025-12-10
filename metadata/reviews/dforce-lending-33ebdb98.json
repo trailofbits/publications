@@ -1,0 +1,20 @@
+{
+  "id": "dforce-lending-33ebdb98",
+  "title": "dForce Lending",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://dforce.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "dForce Lending",
+    "client": "Ethereum/EVM"
+  }
+}

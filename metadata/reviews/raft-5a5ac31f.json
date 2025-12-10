@@ -1,0 +1,17 @@
+{
+  "id": "raft-5a5ac31f",
+  "title": "Raft",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://docs.tempus.finance/products/raft",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Raft",
+    "client": "Ethereum/EVM"
+  }
+}

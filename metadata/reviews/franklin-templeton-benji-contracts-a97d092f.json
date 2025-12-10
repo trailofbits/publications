@@ -1,0 +1,17 @@
+{
+  "id": "franklin-templeton-benji-contracts-a97d092f",
+  "title": "Franklin Templeton Benji Contracts",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Franklin Templeton Benji Contracts",
+    "client": "Solana"
+  }
+}

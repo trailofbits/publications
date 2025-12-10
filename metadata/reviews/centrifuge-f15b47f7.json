@@ -1,0 +1,17 @@
+{
+  "id": "centrifuge-f15b47f7",
+  "title": "Centrifuge",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://centrifuge.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Centrifuge",
+    "client": "Ethereum/EVM"
+  }
+}

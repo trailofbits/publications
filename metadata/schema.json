@@ -1,0 +1,185 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Trail of Bits Publication Metadata",
+  "description": "Metadata schema for Trail of Bits publications",
+  "type": "object",
+  "required": ["id", "title", "type", "publicationDate"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for this publication"
+    },
+    "title": {
+      "type": "string",
+      "description": "Publication title"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "academic-paper",
+        "white-paper",
+        "guide",
+        "presentation",
+        "podcast",
+        "webinar",
+        "public-comment",
+        "security-review",
+        "disclosure",
+        "workshop",
+        "dataset",
+        "service-overview"
+      ],
+      "description": "Type of publication"
+    },
+    "publicationDate": {
+      "type": "string",
+      "description": "Publication date (YYYY, YYYY-MM, YYYY-MM-DD format preferred, but flexible)"
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of authors"
+    },
+    "url": {
+      "type": "string",
+      "description": "Relative path or URL to the publication"
+    },
+    "categories": {
+      "type": "object",
+      "properties": {
+        "publicationType": {
+          "type": "string"
+        },
+        "domain": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "blockchain",
+              "cryptography",
+              "application-security",
+              "supply-chain",
+              "ai-ml",
+              "fuzzing",
+              "static-analysis",
+              "dynamic-analysis",
+              "program-analysis",
+              "reversing",
+              "compilers",
+              "kernel",
+              "platform-security",
+              "mobile-security",
+              "cloud-native",
+              "infrastructure",
+              "engineering",
+              "education"
+            ]
+          }
+        },
+        "subdomain": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "tags": {
+      "type": "object",
+      "properties": {
+        "topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "High-level security topics"
+        },
+        "technologies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Programming languages and frameworks"
+        },
+        "tools": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Specific security tools"
+        },
+        "platforms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Blockchain platforms, OS, etc."
+        },
+        "concepts": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Security concepts"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Type-specific metadata",
+      "properties": {
+        "venue": {
+          "type": "string",
+          "description": "Conference, journal, or event name"
+        },
+        "venueType": {
+          "type": "string",
+          "enum": ["conference", "journal", "workshop", "symposium", "meetup", "podcast"]
+        },
+        "client": {
+          "type": "string",
+          "description": "Client name for security reviews"
+        },
+        "product": {
+          "type": "string",
+          "description": "Product name for security reviews"
+        },
+        "blockchain": {
+          "type": "string",
+          "description": "Blockchain platform for reviews"
+        },
+        "reviewType": {
+          "type": "string",
+          "enum": ["security-assessment", "code-review", "threat-model", "letter-of-attestation", "fix-review", "design-review"]
+        },
+        "technologyStack": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "announcementUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "videoUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "arxivUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "peerReviewed": {
+          "type": "boolean"
+        },
+        "project": {
+          "type": "string",
+          "description": "Associated project (e.g., AIxCC, DARPA)"
+        }
+      }
+    }
+  }
+}

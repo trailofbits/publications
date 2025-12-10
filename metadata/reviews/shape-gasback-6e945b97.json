@@ -1,0 +1,17 @@
+{
+  "id": "shape-gasback-6e945b97",
+  "title": "Shape Gasback",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://shape.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Shape Gasback",
+    "client": "Other/Multi-Chain"
+  }
+}

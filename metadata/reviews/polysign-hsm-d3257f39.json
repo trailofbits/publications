@@ -1,0 +1,17 @@
+{
+  "id": "polysign-hsm-d3257f39",
+  "title": "PolySign HSM",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://polysign.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "PolySign HSM",
+    "client": "Other/Multi-Chain"
+  }
+}

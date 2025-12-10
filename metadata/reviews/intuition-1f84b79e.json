@@ -1,0 +1,17 @@
+{
+  "id": "intuition-1f84b79e",
+  "title": "Intuition",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.intuition.systems",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Intuition",
+    "client": "Ethereum/EVM"
+  }
+}

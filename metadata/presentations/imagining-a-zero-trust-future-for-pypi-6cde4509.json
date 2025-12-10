@@ -1,0 +1,21 @@
+{
+  "id": "imagining-a-zero-trust-future-for-pypi-6cde4509",
+  "title": "Imagining a zero-trust future for PyPI",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Imagining%20a%20zero-trust%20future%20for%20PyPI",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "supply-chain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "rust"
+    ]
+  }
+}

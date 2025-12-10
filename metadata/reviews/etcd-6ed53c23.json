@@ -1,0 +1,14 @@
+{
+  "id": "etcd-6ed53c23",
+  "title": "etcd",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://etcd.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "etcd"
+  }
+}

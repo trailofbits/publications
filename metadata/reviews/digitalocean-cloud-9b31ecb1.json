@@ -1,0 +1,14 @@
+{
+  "id": "digitalocean-cloud-9b31ecb1",
+  "title": "DigitalOcean Cloud",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "http://cloud.digitalocean.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "DigitalOcean Cloud"
+  }
+}

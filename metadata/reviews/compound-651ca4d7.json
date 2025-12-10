@@ -1,0 +1,22 @@
+{
+  "id": "compound-651ca4d7",
+  "title": "Compound",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://compound.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Compound",
+    "client": "Ethereum/EVM"
+  }
+}

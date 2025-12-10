@@ -1,0 +1,17 @@
+{
+  "id": "folks-finance-protocol-2045bce3",
+  "title": "Folks Finance Protocol",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://folks.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Folks Finance Protocol",
+    "client": "Algorand"
+  }
+}

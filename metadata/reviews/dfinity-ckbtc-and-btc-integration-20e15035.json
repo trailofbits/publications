@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-ckbtc-and-btc-integration-20e15035",
+  "title": "Dfinity ckBTC and BTC Integration",
+  "type": "security-review",
+  "publicationDate": "2.5",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Dfinity ckBTC and BTC Integration"
+  }
+}

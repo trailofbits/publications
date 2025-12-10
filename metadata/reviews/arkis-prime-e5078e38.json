@@ -1,0 +1,20 @@
+{
+  "id": "arkis-prime-e5078e38",
+  "title": "Arkis Prime",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.arkis.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Arkis Prime",
+    "client": "Other/Multi-Chain"
+  }
+}

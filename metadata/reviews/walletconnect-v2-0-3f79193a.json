@@ -1,0 +1,21 @@
+{
+  "id": "walletconnect-v2-0-3f79193a",
+  "title": "WalletConnect v2.0",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://walletconnect.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "WalletConnect v2.0",
+    "client": "Wallet Reviews"
+  }
+}

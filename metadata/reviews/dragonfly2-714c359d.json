@@ -1,0 +1,14 @@
+{
+  "id": "dragonfly2-714c359d",
+  "title": "DragonFly2",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://d7y.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "DragonFly2"
+  }
+}

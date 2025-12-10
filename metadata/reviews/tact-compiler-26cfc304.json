@@ -1,0 +1,18 @@
+{
+  "id": "tact-compiler-26cfc304",
+  "title": "Tact Compiler",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://github.com/tact-lang/tact",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "compilers"
+    ]
+  },
+  "metadata": {
+    "product": "Tact Compiler",
+    "client": "TON"
+  }
+}

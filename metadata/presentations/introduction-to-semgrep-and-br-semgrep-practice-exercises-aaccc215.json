@@ -1,0 +1,24 @@
+{
+  "id": "introduction-to-semgrep-and-br-semgrep-practice-exercises-aaccc215",
+  "title": "Introduction to Semgrep and<br /> Semgrep Practice Exercises",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "Maciej Domański",
+    "Matt Schwager",
+    "Spencer Michaels"
+  ],
+  "url": "presentations/Introduction%20To%20Semgrep/Testing%20Handbook%20-%20Semgrep.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "static-analysis",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "tools": [
+      "semgrep"
+    ]
+  }
+}

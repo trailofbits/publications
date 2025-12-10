@@ -1,0 +1,22 @@
+{
+  "id": "pantheon-71445659",
+  "title": "Pantheon",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://pegasys.tech/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Pantheon",
+    "client": "Ethereum/EVM"
+  }
+}

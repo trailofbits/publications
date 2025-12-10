@@ -1,0 +1,16 @@
+{
+  "id": "standard-notes-8825fb62",
+  "title": "Standard Notes",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://standardnotes.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Standard Notes"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "algorand-d549537d",
+  "title": "Algorand",
+  "type": "security-review",
+  "publicationDate": "14",
+  "url": "https://www.algorand.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "algorand"
+    ]
+  },
+  "metadata": {
+    "product": "Algorand",
+    "client": "Algorand"
+  }
+}

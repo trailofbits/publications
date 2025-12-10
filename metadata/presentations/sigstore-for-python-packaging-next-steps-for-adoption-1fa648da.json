@@ -1,0 +1,21 @@
+{
+  "id": "sigstore-for-python-packaging-next-steps-for-adoption-1fa648da",
+  "title": "Sigstore for Python Packaging: Next Steps for Adoption",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "supply-chain"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "python"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "introduction-to-semgrep-6cb5e67d",
+  "title": "Introduction to Semgrep",
+  "type": "webinar",
+  "publicationDate": "unknown",
+  "url": "https://www.youtube.com/watch?v=yKQlTbVlf0Q",
+  "categories": {
+    "publicationType": "webinar",
+    "domain": [
+      "static-analysis"
+    ]
+  },
+  "tags": {
+    "tools": [
+      "semgrep"
+    ]
+  }
+}

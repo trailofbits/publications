@@ -1,0 +1,22 @@
+{
+  "id": "starknet-token-15d19e32",
+  "title": "StarkNet token",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://starkware.co/starknet/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "starknet"
+    ]
+  },
+  "metadata": {
+    "product": "StarkNet token",
+    "client": "Starknet"
+  }
+}

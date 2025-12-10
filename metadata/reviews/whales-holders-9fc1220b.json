@@ -1,0 +1,17 @@
+{
+  "id": "whales-holders-9fc1220b",
+  "title": "Whales Holders",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://whalesdmcc.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Whales Holders",
+    "client": "TON"
+  }
+}

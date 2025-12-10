@@ -1,0 +1,16 @@
+{
+  "id": "dfinity-candid-31bb5c6a",
+  "title": "Dfinity Candid",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Dfinity Candid"
+  }
+}

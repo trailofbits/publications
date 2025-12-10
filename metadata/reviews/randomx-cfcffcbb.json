@@ -1,0 +1,18 @@
+{
+  "id": "randomx-cfcffcbb",
+  "title": "RandomX",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.arweave.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "RandomX",
+    "client": "Other/Multi-Chain"
+  }
+}

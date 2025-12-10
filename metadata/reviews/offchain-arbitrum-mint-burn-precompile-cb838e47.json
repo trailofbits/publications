@@ -1,0 +1,22 @@
+{
+  "id": "offchain-arbitrum-mint-burn-precompile-cb838e47",
+  "title": "Offchain Arbitrum Mint/Burn Precompile",
+  "type": "security-review",
+  "publicationDate": "1.8",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Arbitrum Mint/Burn Precompile",
+    "client": "Offchain Labs"
+  }
+}

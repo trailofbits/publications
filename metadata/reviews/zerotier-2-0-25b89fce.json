@@ -1,0 +1,14 @@
+{
+  "id": "zerotier-2-0-25b89fce",
+  "title": "ZeroTier 2.0",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.zerotier.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "ZeroTier 2.0"
+  }
+}

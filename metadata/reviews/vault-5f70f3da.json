@@ -1,0 +1,14 @@
+{
+  "id": "vault-5f70f3da",
+  "title": "Vault",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.hashicorp.com/products/vault/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Vault"
+  }
+}

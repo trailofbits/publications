@@ -1,0 +1,16 @@
+{
+  "id": "analyzing-the-md5-collision-in-flame-db1b598f",
+  "title": "Analyzing the MD5 collision in Flame",
+  "type": "presentation",
+  "publicationDate": "2012",
+  "authors": [
+    "Alex Sotirov"
+  ],
+  "url": "presentations/Analyzing%20the%20MD5%20Collision%20in%20Flame",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography"
+    ]
+  }
+}

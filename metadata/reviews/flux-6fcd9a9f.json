@@ -1,0 +1,14 @@
+{
+  "id": "flux-6fcd9a9f",
+  "title": "Flux",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://fluxcd.io",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Flux"
+  }
+}

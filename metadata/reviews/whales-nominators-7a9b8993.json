@@ -1,0 +1,17 @@
+{
+  "id": "whales-nominators-7a9b8993",
+  "title": "Whales Nominators",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://whalesdmcc.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Whales Nominators",
+    "client": "TON"
+  }
+}

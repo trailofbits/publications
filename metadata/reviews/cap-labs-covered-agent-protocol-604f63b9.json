@@ -1,0 +1,17 @@
+{
+  "id": "cap-labs-covered-agent-protocol-604f63b9",
+  "title": "CAP Labs Covered Agent Protocol",
+  "type": "security-review",
+  "publicationDate": "9",
+  "url": "https://cap.app/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "CAP Labs Covered Agent Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

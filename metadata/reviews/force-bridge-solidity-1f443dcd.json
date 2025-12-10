@@ -1,0 +1,26 @@
+{
+  "id": "force-bridge-solidity-1f443dcd",
+  "title": "Force Bridge - Solidity",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.nervos.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "bridges",
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "solidity"
+    ]
+  },
+  "metadata": {
+    "product": "Force Bridge - Solidity",
+    "client": "NervOS"
+  }
+}

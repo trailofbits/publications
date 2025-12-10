@@ -1,0 +1,16 @@
+{
+  "id": "unity-coin-aced0e33",
+  "title": "Unity Coin",
+  "type": "security-review",
+  "publicationDate": "1",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Unity Coin",
+    "client": "Ethereum/EVM"
+  }
+}
