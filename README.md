@@ -1118,7 +1118,16 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Vulnerabilities in LUKS2 disk encryption for confidential VMs|Linux LUKS2|Tjaden Hess|2025|[CVE-2025-59054](https://nvd.nist.gov/vuln/detail/CVE-2025-59054), [CVE-2025-58356](https://nvd.nist.gov/vuln/detail/CVE-2025-58356)|[💬](https://blog.trailofbits.com/2025/10/30/vulnerabilities-in-luks2-disk-encryption-for-confidential-vms/)|
+|Prompt injection to RCE in AI agents|AI Agents (multiple platforms)|Will Vandevanter|2025|❌|[💬](https://blog.trailofbits.com/2025/10/22/prompt-injection-to-rce-in-ai-agents/)|
+|Code integrity bypass in Electron applications|Electron Applications (Signal, 1Password, Slack)|Darius Houle|2025|[CVE-2025-55305](https://nvd.nist.gov/vuln/detail/CVE-2025-55305)|[💬](https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/)|
+|Memory corruption in NVIDIA Triton Inference Server|NVIDIA Triton|Will Vandevanter|2025|[CVE-2025-23310](https://nvd.nist.gov/vuln/detail/CVE-2025-23310), [CVE-2025-23311](https://nvd.nist.gov/vuln/detail/CVE-2025-23311)|[💬](https://blog.trailofbits.com/2025/08/04/uncovering-memory-corruption-in-nvidia-triton-as-a-new-hire/)|
+|Exploiting zero days in abandoned hardware|Netgear WGR614v9, BitDefender Box V1|Alan Cao, Will Tan|2025|❌|[💬](https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/)|
+|MCP plaintext API key storage|Model Context Protocol|Keith Hoodlet|2025|❌|[💬](https://blog.trailofbits.com/2025/04/30/insecure-credential-storage-plagues-mcp/)|
+|MCP ANSI escape sequence attacks|Model Context Protocol|Keith Hoodlet|2025|❌|[💬](https://blog.trailofbits.com/2025/04/29/deceiving-users-with-ansi-terminal-codes-in-mcp/)|
+|MCP Line Jumping vulnerability|Model Context Protocol|Keith Hoodlet|2025|❌|[💬](https://blog.trailofbits.com/2025/04/23/how-mcp-servers-can-steal-your-conversation-history/)|
 |User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195), [CVE-2025-31222](https://nvd.nist.gov/vuln/detail/cve-2025-31222), [CVE-2025-30440](https://nvd.nist.gov/vuln/detail/cve-2025-30440)|[💬](https://github.com/trailofbits/exploits/tree/main/obts-2025-macos-lpe)|
+|Cryptography bugs in elliptic library|elliptic JavaScript library|Markus Schiffermuller|2024|[CVE-2024-48948](https://nvd.nist.gov/vuln/detail/CVE-2024-48948), [CVE-2024-48949](https://nvd.nist.gov/vuln/detail/CVE-2024-48949), [CVE-2024-48950](https://nvd.nist.gov/vuln/detail/CVE-2024-48950), [CVE-2024-48951](https://nvd.nist.gov/vuln/detail/CVE-2024-48951), [CVE-2024-48952](https://nvd.nist.gov/vuln/detail/CVE-2024-48952)|[💬](https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/)|
 |Crash due to uncontrolled recursion in `Well-KnownText`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52981](https://github.com/advisories/GHSA-5xm9-x7x4-4j5x)||
 |Crash due to uncontrolled recursion in `innerForbidCircularReferences`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52980](https://github.com/advisories/GHSA-ghfh-p92w-j4mg)||
 |Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
@@ -1130,7 +1139,7 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 |num-bigint disclosure|num-bigint|Samuel Moelius|2024|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
 |Memory corruption during X.509 validation in GnuTLS|GnuTLS|William Woodruff|2024|[CVE-2024-28835](https://www.cve.org/cverecord?id=CVE-2024-28835)||
 |Linux kernel modules kASLR bypass|Linux|Dominik Czarnota|2024|❌|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
-|Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|None|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
+|Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|❌|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
 |Billion hashes attack against Go JOSE libraries|go-jose|Matt Schwager|2023|GO-2023-2334, GO-2023-2409|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
 |Expo Secure Store: Shortening AES GCM Authentication Tags|expo-secure-store|Joop van de Pol|2023|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
