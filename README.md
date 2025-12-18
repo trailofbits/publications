@@ -96,7 +96,7 @@
 
 | Paper Title | Author(s) | Publication Date |
 | --- | --- | --- |
-| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | September 2025 |
+| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | Sep 2025 |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 2024 |
 | [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison | Aug 2024 |
@@ -370,6 +370,9 @@
 | --- | --- | --- |
 | [MCP Security Deep Dive: From Attacks to Defense](https://app.getcontrast.io/register/trail-of-bits-mcp-security-deep-dive-from-vulnerability-to-defense) | Keith Hoodlet, Cliff Smith, Vineeth Sai Narajala, Manish Bhatt | Jul 2025 |
 | [Security Audits: Best Practices with Trail of Bits](https://workbrew.com/webinars/security-audits) | Chris Dahlheimer, Lindsay Rakowski, & Vanessa Gennarelli | Mar 2025 |
+| [Top TEE bugs you should fix before your audit](https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit) | Tjaden Hess, Paul Bottinelli, & Jules Drean | TBD |
+| [After Wiretap and Battering RAM: What Changes for TEE-Based Blockchain Infrastructure](https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure) | Tjaden Hess & Andy Campbell | TBD |
+| [Building secure end-to-end encrypted systems](https://watch.getcontrast.io/register/trail-of-bits-running-effective-threat-models-in-e2ee) | Marc Ilunga & Fredrik Dahlgren | TBD |
 | [Mastering Web Research with Burp Suite](https://www.youtube.com/watch?v=0PV5QEQTmPg) | Keith Hoodlet, Cliff Smith, & James Kettle | Jun 2024 |
 | [Introduction to CodeQL: Examples, Tools and CI Integration](https://www.youtube.com/watch?v=rQRlnUQPXDw) | Filipe Casal & Fredrik Dahlgren | Mar 2024 |
 | [Introduction to Semgrep](https://www.youtube.com/watch?v=yKQlTbVlf0Q) | Maciej Domanski & Matt Schwager | Jan 2024 |
@@ -398,10 +401,10 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | December 2025 | 0.4 | | [📄](reviews/2025-12-offchain-arbitrum-quorum-changes-securityreview.pdf) |
-| [Offchain Labs Arbitrum ArbOS 50 and 51 (Fusaka)](https://www.offchainlabs.com/) | December 2025 | | | [📄](reviews/2025-12-offchain-arbos50-and-51-securityreview.pdf) |
-| [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | December 2025 | 1.6 | | [📄✅](reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf) |
-| [Offchain Labs Upgrade Executor](https://www.offchainlabs.com/) | July 2025 | 0.2 | | [📄](reviews/2025-07-offchain-upgrade-executor-securityreview.pdf) |
+| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Dec 2025 | 0.4 | | [📄](reviews/2025-12-offchain-arbitrum-quorum-changes-securityreview.pdf) |
+| [Offchain Labs Arbitrum ArbOS 50 and 51 (Fusaka)](https://www.offchainlabs.com/) | Dec 2025 | | | [📄](reviews/2025-12-offchain-arbos50-and-51-securityreview.pdf) |
+| [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | Dec 2025 | 1.6 | | [📄✅](reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf) |
+| [Offchain Labs Upgrade Executor](https://www.offchainlabs.com/) | Jul 2025 | 0.2 | | [📄](reviews/2025-07-offchain-upgrade-executor-securityreview.pdf) |
 | [Offchain SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | Jun 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
 | [Offchain Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf) |
 | [Offchain Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
@@ -514,7 +517,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Zama](https://docs.zama.org/protocol/zama-protocol-litepaper) | Oct 2025 | 32.2 |
-| [DFINITY Oisy](https://oisy.com/) | Sept 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-oisy-securityreview.pdf) |
+| [DFINITY Oisy](https://oisy.com/) | Sep 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-oisy-securityreview.pdf) |
 | [Google Longfellow](https://github.com/google/longfellow-zk) | Aug 2025 | 4.6 | | [📄✅](reviews/2025-08-googlelongfellow-securityreview.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Go Crypto Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
@@ -632,7 +635,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
-| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
+| [Ren](https://renproject.io/) | Aug 2020 | 4 | [Aug Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
 | [Hey.com](https://www.hey.com/) | Jun 2020 | 1 | [Serious Security](https://www.hey.com/security/) | [📄](reviews/Hey.pdf) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What's Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/) |
@@ -683,8 +686,8 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | August 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf) |
-| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | August 2025 | 4 | | [🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
+| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | Aug 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf) |
+| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | Aug 2025 | 4 | | [🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
 | [Otim Smart Wallet](https://otim.com/) | Mar 2025 | 3 | | [📄✅](reviews/2025-03-otim-smart-wallet-securityreview.pdf) |
 | [dappOS v2 wallet](https://dappos.com/) | Jul 2023 | 3 | | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
 | [WalletConnect v2.0](https://walletconnect.com/) | Mar 2023 | 4 | [WalletConnect](https://medium.com/walletconnect/walletconnect-v2-0s-independent-security-audit-by-trail-of-bits-e8e59d11e517) | [📄✅](reviews/2023-03-walletconnectv2-securityreview.pdf) |
@@ -741,12 +744,12 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | October 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
-| [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | October 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
-| [Radius Technology EVMAuth](https://evmauth.io/) | October 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
+| [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | Oct 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
+| [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Oct 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
+| [Radius Technology EVMAuth](https://evmauth.io/) | Oct 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
 | [Shape Token Contract](https://shape.network/) | May 2025 | 1 | | [📄✅](reviews/2025-05-shapenetwork-token-securityreview.pdf) |
-| [Shape Buyback Contract](https://shape.network/) | September 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
-| [Starkware StarkEx Diff Review](https://starkware.co/starkex/) | August 2025 | 0.2 | | [📄](reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf) |
+| [Shape Buyback Contract](https://shape.network/) | Sep 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
+| [Starkware StarkEx Diff Review](https://starkware.co/starkex/) | Aug 2025 | 0.2 | | [📄](reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf) |
 | [CAP Labs Covered Agent Protocol](https://cap.app/) | May 2025 | 9 | | [📄✅](reviews/2025-05-caplabs-coveredagentprotocol-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
 | [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
@@ -991,10 +994,10 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Solang Code Generation](https://solana.com/) | November 2023 | 4 | | [📄](reviews/2023-11-solana-solang-code-generation-securityreview.pdf) |
-| [Solang Code Generation, Part 1](https://solana.com/) | November 2023 | 2 | | [📄](reviews/2023-11-solana-solang-code-generation-part-1-securityreview.pdf) |
-| [Solang Parser and Semantic Analysis](https://solana.com/) | September 2023 | 2 | | [📄](reviews/2023-09-solana-solang-parser-semantic-analysis-securityreview.pdf) |
-| [Solang Solana Library](https://solana.com/) | July 2023 | 1 | | [📄](reviews/2023-07-solana-solang-library-securityreview.pdf) |
+| [Solang Code Generation](https://solana.com/) | Nov 2023 | 4 | | [📄](reviews/2023-11-solana-solang-code-generation-securityreview.pdf) |
+| [Solang Code Generation, Part 1](https://solana.com/) | Nov 2023 | 2 | | [📄](reviews/2023-11-solana-solang-code-generation-part-1-securityreview.pdf) |
+| [Solang Parser and Semantic Analysis](https://solana.com/) | Sep 2023 | 2 | | [📄](reviews/2023-09-solana-solang-parser-semantic-analysis-securityreview.pdf) |
+| [Solang Solana Library](https://solana.com/) | Jul 2023 | 1 | | [📄](reviews/2023-07-solana-solang-library-securityreview.pdf) |
 | [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Feb 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Squads V4](https://squads.so/) | Oct 2023 | 2 | [Squads](https://x.com/SquadsProtocol/status/1725548225804005464?s=20) | [📄✅](reviews/2023-10-squadsv4-securityreview.pdf) |
