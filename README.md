@@ -122,6 +122,9 @@
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
 | [Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software](presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf) | Ronald Eytchison                              | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge%20-%20Ronald%20Eytchison) | Ronald Eytchison | 2025 |
+| [Buttercup: The Future of Trail of Bits's Solution to the DARPA's AI Cyber Challenge](presentations/Buttercup%3A%20The%20Future%20of%20Trail%20of%20Bits's%20Solution%20to%20the%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge%20-%20Henrik%20Brodin%20and%20Ronald%20Eytchison) | Henrik Brodin, Ronald Eytchison | 2025 |
 | [Our experience competing in the AI Cyber Challenge](presentations/Our%20experience%20competing%20in%20the%20AI%20Cyber%20Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf) | Michael Brown et al.                              | 2025 |
 | [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir                                     | 2023 |
 | [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
@@ -151,6 +154,10 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Mutation testing with Slither - A new way to find high severity issues](presentations/Mutation%20testing%20with%20Slither%20-%20A%20new%20way%20to%20find%20high%20severity%20issues) | Guillermo Larregay | 2025 |
+| [Slither's Model Context Protocol: Giving LLMs Ground Truth from Static Analysis](presentations/Slither's%20Model%20Context%20Protocol%3A%20Giving%20LLMs%20Ground%20Truth%20from%20Static%20Analysis) | Ben Samuels | 2025 |
+| [The $1.5B Problem: How Exchanges Can Build Safer Cold Storage](presentations/The%20%241.5B%20Problem%3A%20How%20Exchanges%20Can%20Build%20Safer%20Cold%20Storage) | Benjamin Samuels | 2025 |
+| [How to Become a Smart Contract Auditor](presentations/How%20to%20Become%20a%20Smart%20Contract%20Auditor) | nisedo | 2025 |
 | [Test your tests: the do's and don'ts of testing](presentations/TrustX%202023/Test%20Your%20Tests) | Kurt Willis | 2023 |
 | [Slither: a static analysis tool for Vyper and Solidity](presentations/TrustX%202023/Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer) | Troy Sargent | 2023 |
 | [Roundme: rounding analysis made simpler](presentations/TrustX%202023/roundme) | Josselin Feist | 2023 |
@@ -182,6 +189,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| LLVM Developers' Meeting | Julius Alexandre | 2025 |
 | [A Broad Comparative Evaluation of Software Debloating Tools](presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf) | Michael D. Brown, Adam Meily, Eric Kilmer, Ronald Eytchison | 2024 |
 | [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
 | [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
@@ -192,6 +200,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| Cut To The QUIC: Slashing QUIC's Performance With A Hash DoS | Paul Bottinelli | 2025 |
 | [One, Two, TEE: Trust in Numbers Meets Hardware Security](presentations/One,%20Two,%20TEE:%20Trust%20in%20Numbers%20Meets%20Hardware%20Security) | Paul Bottinelli | 2025 |
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
@@ -239,6 +248,11 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| Weaponizing Image Scaling Against Production AI Systems | Kikimora Morozova | 2025 |
+| Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems | Will Vandevanter | 2025 |
+| From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo) | Evan Sultanik | 2025 |
+| [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
+| [Frontier AI in Cybersecurity: Risks and Opportunities](presentations/Frontier%20AI%20in%20Cybersecurity%3A%20Risks%20and%20Opportunities) | Dan Guido, Riccardo Schirone | 2025 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
 | [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
 | [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
@@ -249,6 +263,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| macOS Privilege Escalation Via Traceroute6 | Paweł Płatek | 2025 |
 | [Swift Reversing](presentations/Swift%20Reversing) | Ryan Stortz | 2016 |
 | [Modern iOS Application Security](presentations/Modern%20iOS%20Application%20Security) | Sophia D'Antoine, Dan Guido | 2016 |
 | [The Mobile Exploit Intelligence Project](presentations/The%20Mobile%20Exploit%20Intelligence%20Project) | Dan Guido | 2012 |
@@ -370,9 +385,9 @@
 | --- | --- | --- |
 | [MCP Security Deep Dive: From Attacks to Defense](https://app.getcontrast.io/register/trail-of-bits-mcp-security-deep-dive-from-vulnerability-to-defense) | Keith Hoodlet, Cliff Smith, Vineeth Sai Narajala, Manish Bhatt | Jul 2025 |
 | [Security Audits: Best Practices with Trail of Bits](https://workbrew.com/webinars/security-audits) | Chris Dahlheimer, Lindsay Rakowski, & Vanessa Gennarelli | Mar 2025 |
-| [Top TEE bugs you should fix before your audit](https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit) | Tjaden Hess, Paul Bottinelli, & Jules Drean | TBD |
-| [After Wiretap and Battering RAM: What Changes for TEE-Based Blockchain Infrastructure](https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure) | Tjaden Hess & Andy Campbell | TBD |
-| [Building secure end-to-end encrypted systems](https://watch.getcontrast.io/register/trail-of-bits-running-effective-threat-models-in-e2ee) | Marc Ilunga & Fredrik Dahlgren | TBD |
+| [Top TEE bugs you should fix before your audit](https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit) | Tjaden Hess, Paul Bottinelli, & Jules Drean | 2025 |
+| [After Wiretap and Battering RAM: What Changes for TEE-Based Blockchain Infrastructure](https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure) | Tjaden Hess & Andy Campbell | 2025 |
+| [Building secure end-to-end encrypted systems](https://watch.getcontrast.io/register/trail-of-bits-running-effective-threat-models-in-e2ee) | Marc Ilunga & Fredrik Dahlgren | 2025 |
 | [Mastering Web Research with Burp Suite](https://www.youtube.com/watch?v=0PV5QEQTmPg) | Keith Hoodlet, Cliff Smith, & James Kettle | Jun 2024 |
 | [Introduction to CodeQL: Examples, Tools and CI Integration](https://www.youtube.com/watch?v=rQRlnUQPXDw) | Filipe Casal & Fredrik Dahlgren | Mar 2024 |
 | [Introduction to Semgrep](https://www.youtube.com/watch?v=yKQlTbVlf0Q) | Maciej Domanski & Matt Schwager | Jan 2024 |
