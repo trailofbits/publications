@@ -1,0 +1,18 @@
+{
+  "id": "berachain-berachain-55344e8c",
+  "title": "Berachain berachain",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.berachain.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Berachain berachain",
+    "client": "Tendermint/Cosmos"
+  }
+}

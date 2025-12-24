@@ -1,0 +1,17 @@
+{
+  "id": "alphax-c7befdbd",
+  "title": "AlphaX",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://alphafinance.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "AlphaX",
+    "client": "Ethereum/EVM"
+  }
+}

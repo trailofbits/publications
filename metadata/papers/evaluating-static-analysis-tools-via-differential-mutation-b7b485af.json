@@ -1,0 +1,17 @@
+{
+  "id": "evaluating-static-analysis-tools-via-differential-mutation-b7b485af",
+  "title": "Evaluating Static Analysis Tools via Differential Mutation",
+  "type": "academic-paper",
+  "publicationDate": "2021",
+  "url": "papers/qrs21.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "static-analysis"
+    ]
+  },
+  "metadata": {
+    "venue": "QRS 2021",
+    "peerReviewed": true
+  }
+}

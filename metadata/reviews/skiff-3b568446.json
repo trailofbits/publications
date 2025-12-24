@@ -1,0 +1,14 @@
+{
+  "id": "skiff-3b568446",
+  "title": "Skiff",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.skiff.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Skiff"
+  }
+}

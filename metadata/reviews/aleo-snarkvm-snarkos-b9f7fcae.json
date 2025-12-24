@@ -1,0 +1,16 @@
+{
+  "id": "aleo-snarkvm-snarkos-b9f7fcae",
+  "title": "Aleo snarkVM & snarkOS",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.aleo.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Aleo snarkVM & snarkOS"
+  }
+}

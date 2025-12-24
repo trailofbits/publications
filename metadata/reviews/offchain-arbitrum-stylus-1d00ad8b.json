@@ -1,0 +1,22 @@
+{
+  "id": "offchain-arbitrum-stylus-1d00ad8b",
+  "title": "Offchain Arbitrum Stylus",
+  "type": "security-review",
+  "publicationDate": "47",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Arbitrum Stylus",
+    "client": "Offchain Labs"
+  }
+}

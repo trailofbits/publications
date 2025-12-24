@@ -1,0 +1,18 @@
+{
+  "id": "ndau-5b96b544",
+  "title": "ndau",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://oneiro.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "ndau",
+    "client": "Tendermint/Cosmos"
+  }
+}

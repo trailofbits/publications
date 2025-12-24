@@ -1,0 +1,17 @@
+{
+  "id": "fuji-finance-8cf1447a",
+  "title": "Fuji Finance",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://app.fujidao.org/#/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Fuji Finance",
+    "client": "Ethereum/EVM"
+  }
+}

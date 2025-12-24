@@ -1,0 +1,14 @@
+{
+  "id": "openarchive-save-ios-559e77ab",
+  "title": "OpenArchive Save (iOS)",
+  "type": "security-review",
+  "publicationDate": "1.2",
+  "url": "https://open-archive.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "OpenArchive Save (iOS)"
+  }
+}

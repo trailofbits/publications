@@ -1,0 +1,17 @@
+{
+  "id": "columbus-5-fbf88aef",
+  "title": "Columbus-5",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.terra.money/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Columbus-5",
+    "client": "Tendermint/Cosmos"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "spruceid-5b2070c7",
+  "title": "SpruceID",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://tezos.foundation/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "SpruceID"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aligned-7696bb66",
+  "title": "Aligned",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://www.alignedlayer.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Aligned"
+  }
+}

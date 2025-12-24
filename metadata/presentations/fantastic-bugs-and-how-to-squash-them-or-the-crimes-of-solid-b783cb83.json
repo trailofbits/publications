@@ -1,0 +1,25 @@
+{
+  "id": "fantastic-bugs-and-how-to-squash-them-or-the-crimes-of-solid-b783cb83",
+  "title": "Fantastic Bugs and How to Squash Them; or, the Crimes of Solidity",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Evan Sultanik"
+  ],
+  "url": "presentations/Anatomy%20of%20an%20unsafe%20programming%20language",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts",
+      "defi"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "solidity"
+    ]
+  }
+}

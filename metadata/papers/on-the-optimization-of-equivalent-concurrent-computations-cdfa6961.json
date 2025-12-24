@@ -1,0 +1,15 @@
+{
+  "id": "on-the-optimization-of-equivalent-concurrent-computations-cdfa6961",
+  "title": "On the Optimization of Equivalent Concurrent Computations",
+  "type": "academic-paper",
+  "publicationDate": "2022",
+  "url": "papers/eqsat-pldi-egraphs2022.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "PLDI EGRAPHS 2022",
+    "peerReviewed": true
+  }
+}

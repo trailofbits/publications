@@ -1,0 +1,15 @@
+{
+  "id": "uniswap-mobile-wallet-46283e67",
+  "title": "Uniswap Mobile Wallet",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://freewallet.org/uni-wallet",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Uniswap Mobile Wallet",
+    "client": "Uniswap"
+  }
+}

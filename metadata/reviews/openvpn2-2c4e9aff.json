@@ -1,0 +1,16 @@
+{
+  "id": "openvpn2-2c4e9aff",
+  "title": "OpenVPN2",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://openvpn.net/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "OpenVPN2"
+  }
+}

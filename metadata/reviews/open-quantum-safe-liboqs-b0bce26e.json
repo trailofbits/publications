@@ -1,0 +1,17 @@
+{
+  "id": "open-quantum-safe-liboqs-b0bce26e",
+  "title": "Open Quantum Safe liboqs",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://openquantumsafe.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Open Quantum Safe liboqs"
+  }
+}

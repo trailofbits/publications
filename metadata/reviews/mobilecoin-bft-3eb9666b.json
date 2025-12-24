@@ -1,0 +1,15 @@
+{
+  "id": "mobilecoin-bft-3eb9666b",
+  "title": "MobileCoin BFT",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.mobilecoin.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "MobileCoin BFT",
+    "client": "MobileCoin"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "automatic-bug-finding-for-the-blockchain-fa36c133",
+  "title": "Automatic bug finding for the blockchain",
+  "type": "presentation",
+  "publicationDate": "2017",
+  "authors": [
+    "Felipe Manzano",
+    "Josselin Feist"
+  ],
+  "url": "presentations/Automatic%20bugfinding%20for%20the%20blockchain",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  }
+}

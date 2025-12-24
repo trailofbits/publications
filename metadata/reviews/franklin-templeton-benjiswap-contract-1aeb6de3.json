@@ -1,0 +1,17 @@
+{
+  "id": "franklin-templeton-benjiswap-contract-1aeb6de3",
+  "title": "Franklin Templeton BenjiSwap Contract",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Franklin Templeton BenjiSwap Contract",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "aelf-78c90b05",
+  "title": "AElf",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://aelf.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "AElf",
+    "client": "Other/Multi-Chain"
+  }
+}

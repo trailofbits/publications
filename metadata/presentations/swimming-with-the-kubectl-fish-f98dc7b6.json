@@ -1,0 +1,17 @@
+{
+  "id": "swimming-with-the-kubectl-fish-f98dc7b6",
+  "title": "Swimming with the kubectl fish",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Stefan Edwards"
+  ],
+  "url": "presentations/Swimming%20with%20the%20kubectl%20fish",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "platform-security",
+      "infrastructure"
+    ]
+  }
+}

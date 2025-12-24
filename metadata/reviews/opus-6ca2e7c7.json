@@ -1,0 +1,17 @@
+{
+  "id": "opus-6ca2e7c7",
+  "title": "Opus",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://lindylabs.net/opus",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Opus",
+    "client": "Starknet"
+  }
+}

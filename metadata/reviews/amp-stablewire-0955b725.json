@@ -1,0 +1,17 @@
+{
+  "id": "amp-stablewire-0955b725",
+  "title": "AMP StableWire",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://amp.credit/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "AMP StableWire",
+    "client": "Ethereum/EVM"
+  }
+}

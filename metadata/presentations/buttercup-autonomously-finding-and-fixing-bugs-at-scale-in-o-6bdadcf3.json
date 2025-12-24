@@ -1,0 +1,22 @@
+{
+  "id": "buttercup-autonomously-finding-and-fixing-bugs-at-scale-in-o-6bdadcf3",
+  "title": "Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software",
+  "type": "presentation",
+  "publicationDate": "2025",
+  "authors": [
+    "Ronald Eytchison"
+  ],
+  "url": "presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "program-analysis"
+    ]
+  },
+  "tags": {
+    "tools": [
+      "buttercup"
+    ]
+  }
+}

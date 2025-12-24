@@ -1,0 +1,18 @@
+{
+  "id": "preventing-account-takeovers-on-centralized-cryptocurrency-e-8c8695c1",
+  "title": "Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices",
+  "type": "white-paper",
+  "publicationDate": "2025",
+  "authors": [
+    "Shaun Mirani",
+    "Kelly Kaoudis",
+    "and Evan Sultanik"
+  ],
+  "url": "papers/account-takeover-recommended-practices.pdf",
+  "categories": {
+    "publicationType": "white-paper",
+    "domain": [
+      "cryptography"
+    ]
+  }
+}

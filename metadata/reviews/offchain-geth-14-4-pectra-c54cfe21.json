@@ -1,0 +1,17 @@
+{
+  "id": "offchain-geth-14-4-pectra-c54cfe21",
+  "title": "Offchain Geth 14.4 Pectra",
+  "type": "security-review",
+  "publicationDate": "0.8",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Geth 14.4 Pectra",
+    "client": "Offchain Labs"
+  }
+}

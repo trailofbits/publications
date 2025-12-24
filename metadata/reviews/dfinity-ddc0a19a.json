@@ -1,0 +1,17 @@
+{
+  "id": "dfinity-ddc0a19a",
+  "title": "DFINITY",
+  "type": "security-review",
+  "publicationDate": "24",
+  "url": "https://dfinity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DFINITY",
+    "client": "Other/Multi-Chain"
+  }
+}

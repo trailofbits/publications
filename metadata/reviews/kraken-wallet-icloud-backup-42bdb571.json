@@ -1,0 +1,14 @@
+{
+  "id": "kraken-wallet-icloud-backup-42bdb571",
+  "title": "Kraken Wallet iCloud Backup",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.kraken.com/wallet",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Kraken Wallet iCloud Backup"
+  }
+}

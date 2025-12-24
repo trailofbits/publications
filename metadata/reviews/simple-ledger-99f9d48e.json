@@ -1,0 +1,17 @@
+{
+  "id": "simple-ledger-99f9d48e",
+  "title": "Simple Ledger",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://simpleledger.cash/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Simple Ledger",
+    "client": "Bitcoin & Derivatives"
+  }
+}

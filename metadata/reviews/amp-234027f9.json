@@ -1,0 +1,17 @@
+{
+  "id": "amp-234027f9",
+  "title": "Amp",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://amptoken.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Amp",
+    "client": "Ethereum/EVM"
+  }
+}

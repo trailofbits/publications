@@ -1,0 +1,17 @@
+{
+  "id": "shardx-a5303ecd",
+  "title": "ShardX",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.gemini.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "ShardX",
+    "client": "Other/Multi-Chain"
+  }
+}

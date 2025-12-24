@@ -1,0 +1,17 @@
+{
+  "id": "c-r-e-a-m-7c92d477",
+  "title": "C.R.E.A.M.",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://app.cream.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "C.R.E.A.M.",
+    "client": "Ethereum/EVM"
+  }
+}

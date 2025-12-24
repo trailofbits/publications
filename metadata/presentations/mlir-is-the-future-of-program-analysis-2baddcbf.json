@@ -1,0 +1,24 @@
+{
+  "id": "mlir-is-the-future-of-program-analysis-2baddcbf",
+  "title": "MLIR is the future of program analysis",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Peter Goodman"
+  ],
+  "url": "presentations/MLIR%20is%20the%20future%20of%20program%20analysis",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "program-analysis",
+      "compilers",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "mlir"
+    ]
+  }
+}

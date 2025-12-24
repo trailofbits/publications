@@ -1,0 +1,21 @@
+{
+  "id": "holistic-ml-threat-models-77f76872",
+  "title": "Holistic ML Threat Models",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "Adelin Travers"
+  ],
+  "url": "presentations/Holistic%20ML%20Threat%20Models",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "threat-modeling"
+    ]
+  }
+}

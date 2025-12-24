@@ -1,0 +1,15 @@
+{
+  "id": "uniswap-a1008985",
+  "title": "Uniswap",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://uniswap.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Uniswap",
+    "client": "Uniswap"
+  }
+}

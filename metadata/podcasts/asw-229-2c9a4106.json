@@ -1,0 +1,21 @@
+{
+  "id": "asw-229-2c9a4106",
+  "title": "ASW 229",
+  "type": "podcast",
+  "publicationDate": "2023",
+  "authors": [
+    "Nick Selby"
+  ],
+  "url": "https://youtu.be/wHuZzV0Da_s",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "threat-modeling"
+    ]
+  }
+}

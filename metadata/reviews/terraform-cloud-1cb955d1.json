@@ -1,0 +1,14 @@
+{
+  "id": "terraform-cloud-1cb955d1",
+  "title": "Terraform Cloud",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.terraform.io/cloud",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Terraform Cloud"
+  }
+}

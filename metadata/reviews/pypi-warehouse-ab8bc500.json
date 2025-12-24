@@ -1,0 +1,16 @@
+{
+  "id": "pypi-warehouse-ab8bc500",
+  "title": "PyPI Warehouse",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://warehouse.pypa.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "PyPI Warehouse"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wxtz-53dfb5a0",
+  "title": "wXTZ",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.stakerdao.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "wXTZ",
+    "client": "Algorand"
+  }
+}

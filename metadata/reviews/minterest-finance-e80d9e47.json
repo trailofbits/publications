@@ -1,0 +1,17 @@
+{
+  "id": "minterest-finance-e80d9e47",
+  "title": "Minterest Finance",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://minterest.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Minterest Finance",
+    "client": "Ethereum/EVM"
+  }
+}

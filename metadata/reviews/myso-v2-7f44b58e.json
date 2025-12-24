@@ -1,0 +1,17 @@
+{
+  "id": "myso-v2-7f44b58e",
+  "title": "MYSO v2",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.myso.finance",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "MYSO v2",
+    "client": "Ethereum/EVM"
+  }
+}

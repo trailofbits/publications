@@ -1,0 +1,17 @@
+{
+  "id": "syndicate-9118bf68",
+  "title": "Syndicate",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.syndicateprotocol.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Syndicate",
+    "client": "Ethereum/EVM"
+  }
+}

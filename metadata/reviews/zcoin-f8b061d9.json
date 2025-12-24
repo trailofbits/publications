@@ -1,0 +1,18 @@
+{
+  "id": "zcoin-f8b061d9",
+  "title": "Zcoin",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://zcoin.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Zcoin",
+    "client": "Bitcoin & Derivatives"
+  }
+}
