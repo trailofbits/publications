@@ -561,7 +561,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Zoo KittyCAD Code Review](https://zoo.dev/) | June 2024 | 4 | | [📄✅](reviews/2024-06-zoo-kittycad-securityreview.pdf) |
+| [X XChat](https://x.com/) | Oct 2025 | 4 | | [📄✅](reviews/2025-10-x-xchat-securityreview.pdf) |
 | [Edera Runtime Container](https://edera.dev/) | Oct 2025 | 4 | | [📄](reviews/2025-11-edera-container-runtime-securityreview.pdf) |
 | [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
 | [Discord E2EE WebAssembly](https://discord.com/) | Jun 2025 | 3 | | [📄](reviews/2025-06-discord-e2eewebassembly-securityreview.pdf) |
@@ -572,6 +572,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Polygon Labs Iden3 Circuits](https://polygon.technology/) | May 2024 | 2 | | [📄✅](reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf) |
 | [Kraken Wallet iCloud Backup](https://www.kraken.com/wallet) | Sep 2024 | 2 | | [📄✅](reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf) |
 | [Hugging Face Gradio](https://huggingface.co/gradio) | Jul 2024 | 4 | [Hugging Face](https://huggingface.co/blog/gradio-5-security), [Trail of Bits](https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/) | [📄✅](reviews/2024-10-huggingface-gradio-securityreview.pdf) |
+| [Zoo KittyCAD Code Review](https://zoo.dev/) | Jun 2024 | 4.6 | | [📄✅](reviews/2024-06-zoo-kittycad-securityreview.pdf) |
 | [Kraken Mobile Wallet](https://www.kraken.com/wallet) | Jan 2024 | 7 | [Kraken](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)| [📄✅](reviews/2024-1-kraken-mobile-wallet-securityreview.pdf) |
 | [Eclipse Temurin](https://adoptium.net/temurin/) | Dec 2023 | 4 | [Response](https://adoptium.net/pdf/temurin-audit-response.pdf), [OSTIF](https://ostif.org/temurin-audit-complete/), [Eclipse Foundation](https://adoptium.net/blog/2024/06/external_audit) | [📄✅](reviews/2023-12-eclipse-temurin-securityreview.pdf) |
 | [Arch Linux Pacman](https://archlinux.org/pacman/) | Dec 2023 | 2 | [OTF](https://www.opentech.fund/security-safety-audits/arch-linuxs-pacman-package-manager-security-audit/) | [📄✅](reviews/2023-12-pacman-securityreview.pdf) |
