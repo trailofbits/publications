@@ -10,3 +10,6 @@ Authors
 
 - Henrik Brodin
 - Ronald Eytchison
+
+Resources
+* [Slides](Buttercup%20Ringzer0.pdf)

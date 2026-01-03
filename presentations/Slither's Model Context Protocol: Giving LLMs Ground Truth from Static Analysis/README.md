@@ -9,3 +9,6 @@ Presented at
 Author
 
 - Ben Samuels
+
+Resources
+* [Slides](Slither%20MCP%20Talk.pdf)

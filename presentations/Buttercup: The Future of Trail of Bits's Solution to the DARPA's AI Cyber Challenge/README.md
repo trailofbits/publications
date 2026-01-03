@@ -9,3 +9,6 @@ Presented at
 Author
 
 - Trent Brunson
+
+Resources
+* [Slides](Buttercup%20-%20Coffee%20%26%20Concepts%20-%20Griffiss%20Institute.pdf)
