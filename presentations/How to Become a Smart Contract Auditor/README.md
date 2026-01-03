@@ -14,4 +14,5 @@ Author
 
 Resources
 
+* [Slides](HowToBecomeASmartContractAuditor.pdf)
 * [Recording](https://www.youtube.com/live/BdSiiBIHOP0?si=djDJiRw4PPw5fnaZ)

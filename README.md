@@ -189,7 +189,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| LLVM Developers' Meeting | Julius Alexandre | 2025 |
+| [Constant-Time Coding Support in LLVM](presentations/Constant-Time%20Coding%20Support%20in%20LLVM) | Julius Alexandre | 2025 |
 | [A Broad Comparative Evaluation of Software Debloating Tools](presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf) | Michael D. Brown, Adam Meily, Eric Kilmer, Ronald Eytchison | 2024 |
 | [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
 | [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
