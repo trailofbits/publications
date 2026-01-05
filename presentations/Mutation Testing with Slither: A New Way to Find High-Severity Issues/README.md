@@ -1,4 +1,4 @@
-# Mutation testing with Slither - A new way to find high severity issues
+# Mutation Testing with Slither: A New Way to Find High-Severity Issues
 
 This presentation introduces mutation testing capabilities in Slither, demonstrating a new approach to finding high-severity vulnerabilities in smart contracts.
 
