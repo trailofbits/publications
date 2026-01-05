@@ -200,7 +200,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Cut to the QUIC: Slashing QUIC's Performance with a Hash DoS](presentations/Cut%20To%20The%20QUIC%3A%20Slashing%20QUIC%27s%20Performance%20With%20A%20Hash%20DoS) | Paul Bottinelli | 2025 |
+| [Cut to the QUIC: Slashing QUIC's Performance with a Hash DoS](presentations/Cut%20to%20the%20QUIC%3A%20Slashing%20QUIC%27s%20Performance%20with%20a%20Hash%20DoS) | Paul Bottinelli | 2025 |
 | [One, Two, TEE: Trust in Numbers Meets Hardware Security](presentations/One,%20Two,%20TEE:%20Trust%20in%20Numbers%20Meets%20Hardware%20Security) | Paul Bottinelli | 2025 |
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
@@ -250,7 +250,7 @@
 | --- | --- | --- |
 | [Weaponizing Image Scaling Against Production AI Systems](presentations/Weaponizing%20Image%20Scaling%20Against%20Production%20AI%20Systems) | Kikimora Morozova | 2025 |
 | [Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems](presentations/Indirect%20Prompt%20Injection%3A%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI%20ML%20Systems) | Will Vandevanter | 2025 |
-| [From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
+| [From Polyglots to Prompt Injections: Parsing Is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20Is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
 | [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
 | [Frontier AI in Cybersecurity: Risks and Opportunities](presentations/Frontier%20AI%20in%20Cybersecurity%3A%20Risks%20and%20Opportunities) | Dan Guido, Riccardo Schirone | 2025 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
@@ -263,7 +263,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [macOS Privilege Escalation Via Traceroute6](presentations/macOS%20Privilege%20Escalation%20Via%20Traceroute6) | Paweł Płatek | 2025 |
+| [macOS Privilege Escalation via Traceroute6](presentations/macOS%20Privilege%20Escalation%20via%20Traceroute6) | Paweł Płatek | 2025 |
 | [Swift Reversing](presentations/Swift%20Reversing) | Ryan Stortz | 2016 |
 | [Modern iOS Application Security](presentations/Modern%20iOS%20Application%20Security) | Sophia D'Antoine, Dan Guido | 2016 |
 | [The Mobile Exploit Intelligence Project](presentations/The%20Mobile%20Exploit%20Intelligence%20Project) | Dan Guido | 2012 |

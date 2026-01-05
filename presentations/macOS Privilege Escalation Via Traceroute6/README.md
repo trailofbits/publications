@@ -1,4 +1,4 @@
-# macOS Privilege Escalation Via Traceroute6
+# macOS Privilege Escalation via Traceroute6
 
 This presentation demonstrates a privilege escalation vulnerability in macOS exploiting the traceroute6 utility.
 
@@ -11,5 +11,6 @@ Author
 - Paweł Płatek
 
 Resources
-* [Slides](OBTS_v8_pPlatek.pdf)
-* [Recording](https://www.youtube.com/watch?v=fhkH0Cad96g)
+
+- [Slides](macos-privilege-escalation-via-traceroute6.pdf)
+- [Recording](https://www.youtube.com/watch?v=fhkH0Cad96g)
