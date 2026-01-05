@@ -313,8 +313,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Insecure Agents Episode 18](https://insecureagents.com/episodes/18-kiki-morozova) | Kikimora Morozova | Dec 2025 | AI prompt injections |
 | [Risky Biz](https://risky.biz/RBNEWSS198/) | Keith Hoodlet | Sep 2025 | AI prompt injections |
-| [Insecure Agents Episode 18](https://insecureagents.com/episodes/18-kiki-morozova) | Kikimora Morozova | Sep 2025 | Machine learning, prompt injection, vulnerabilities, exploits |
 | [Zero Signal](https://www.youtube.com/watch?v=G3pGCEQWJZs&list=PLvtGUUDFmi-aTEsna3wgfMrCH-DpZQJgn&index=2) | Keith Hoodlet | Sep 2025 | AI Security |
 | [Unsupervised Learning](https://www.youtube.com/watch?v=nvU0GbA9F9Q) | Michael Brown | Aug 2025 | AIxCC |
 | [Security Weekly #342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
