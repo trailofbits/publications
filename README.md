@@ -250,7 +250,7 @@
 | --- | --- | --- |
 | Weaponizing Image Scaling Against Production AI Systems | Kikimora Morozova | 2025 |
 | Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems | Will Vandevanter | 2025 |
-| From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo) | Evan Sultanik | 2025 |
+| [From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
 | [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
 | [Frontier AI in Cybersecurity: Risks and Opportunities](presentations/Frontier%20AI%20in%20Cybersecurity%3A%20Risks%20and%20Opportunities) | Dan Guido, Riccardo Schirone | 2025 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
@@ -263,7 +263,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| macOS Privilege Escalation Via Traceroute6 | Paweł Płatek | 2025 |
+| [macOS Privilege Escalation Via Traceroute6](presentations/macOS%20Privilege%20Escalation%20Via%20Traceroute6) | Paweł Płatek | 2025 |
 | [Swift Reversing](presentations/Swift%20Reversing) | Ryan Stortz | 2016 |
 | [Modern iOS Application Security](presentations/Modern%20iOS%20Application%20Security) | Sophia D'Antoine, Dan Guido | 2016 |
 | [The Mobile Exploit Intelligence Project](presentations/The%20Mobile%20Exploit%20Intelligence%20Project) | Dan Guido | 2012 |
