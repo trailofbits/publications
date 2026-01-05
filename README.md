@@ -200,7 +200,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Cut to the QUIC: Slashing QUIC's Performance with a Hash DoS](presentations/Cut%20to%20the%20QUIC:%20Slashing%20QUIC's%20Performance%20with%20a%20Hash%20DoS) | Paul Bottinelli | 2025 |
+| [Cut to the QUIC: Slashing QUIC's Performance with a Hash DoS](presentations/Cut%20To%20The%20QUIC%3A%20Slashing%20QUIC%27s%20Performance%20With%20A%20Hash%20DoS) | Paul Bottinelli | 2025 |
 | [One, Two, TEE: Trust in Numbers Meets Hardware Security](presentations/One,%20Two,%20TEE:%20Trust%20in%20Numbers%20Meets%20Hardware%20Security) | Paul Bottinelli | 2025 |
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
@@ -215,7 +215,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking) | Evan Downing | 2025 |
+| [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking%3A%20An%20Exploration%20of%20OpenSearch%20vs%20Elasticsearch) | Evan Downing | 2025 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -314,6 +314,7 @@
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
 | [Risky Biz](https://risky.biz/RBNEWSS198/) | Keith Hoodlet | Sep 2025 | AI prompt injections |
+| [Insecure Agents Episode 18](https://insecureagents.com/episodes/18-kiki-morozova) | Kikimora Morozova | Sep 2025 | Machine learning, prompt injection, vulnerabilities, exploits |
 | [Zero Signal](https://www.youtube.com/watch?v=G3pGCEQWJZs&list=PLvtGUUDFmi-aTEsna3wgfMrCH-DpZQJgn&index=2) | Keith Hoodlet | Sep 2025 | AI Security |
 | [Unsupervised Learning](https://www.youtube.com/watch?v=nvU0GbA9F9Q) | Michael Brown | Aug 2025 | AIxCC |
 | [Security Weekly #342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
