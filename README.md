@@ -154,7 +154,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Mutation Testing with Slither: A New Way to Find High-Severity Issues](presentations/Mutation%20Testing%20with%20Slither%3A%20A%20New%20Way%20to%20Find%20High-Severity%20Issues/README.md) | Guillermo Larregay | 2025 |
+| [Mutation Testing with Slither: A New Way to Find High-Severity Issues](presentations/Mutation%20Testing%20with%20Slither%3A%20A%20New%20Way%20to%20Find%20High-Severity%20Issues) | Guillermo Larregay | 2025 |
 | [Slither's Model Context Protocol: Giving LLMs Ground Truth from Static Analysis](presentations/Slither's%20Model%20Context%20Protocol%3A%20Giving%20LLMs%20Ground%20Truth%20from%20Static%20Analysis) | Ben Samuels | 2025 |
 | [The $1.5B Problem: How Exchanges Can Build Safer Cold Storage](presentations/The%20%241.5B%20Problem%3A%20How%20Exchanges%20Can%20Build%20Safer%20Cold%20Storage) | Benjamin Samuels | 2025 |
 | [How to Become a Smart Contract Auditor](presentations/How%20to%20Become%20a%20Smart%20Contract%20Auditor) | nisedo | 2025 |
@@ -248,8 +248,8 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| Weaponizing Image Scaling Against Production AI Systems | Kikimora Morozova | 2025 |
-| Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems | Will Vandevanter | 2025 |
+| [Weaponizing Image Scaling Against Production AI Systems](presentations/Weaponizing%20Image%20Scaling%20Against%20Production%20AI%20Systems) | Kikimora Morozova | 2025 |
+| [Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems](presentations/Indirect%20Prompt%20Injection%3A%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI%20ML%20Systems) | Will Vandevanter | 2025 |
 | [From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
 | [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
 | [Frontier AI in Cybersecurity: Risks and Opportunities](presentations/Frontier%20AI%20in%20Cybersecurity%3A%20Risks%20and%20Opportunities) | Dan Guido, Riccardo Schirone | 2025 |
