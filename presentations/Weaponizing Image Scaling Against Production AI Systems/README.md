@@ -1,4 +1,4 @@
-# Weaponizing Image Scaling Against Production AI Systems
+# Weaponizing Image Scaling against Production AI Systems
 
 This presentation demonstrates how image scaling operations can be weaponized to attack production AI systems, revealing vulnerabilities in common image preprocessing pipelines used by machine learning models.
 
@@ -14,5 +14,4 @@ Author
 
 Resources
 
-* [Slides](Weaponizing Image Scaling.pdf)
-
+- [Slides](Weaponizing%20Image%20Scaling.pdf)

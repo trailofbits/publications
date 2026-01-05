@@ -122,9 +122,9 @@
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
 | [Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software](presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf) | Ronald Eytchison                              | 2025 |
-| [Buttercup and DARPA's AI Cyber Challenge](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge%20-%20Ronald%20Eytchison) | Ronald Eytchison | 2025 |
-| [Buttercup: The Future of Trail of Bits's Solution to the DARPA's AI Cyber Challenge](presentations/Buttercup%3A%20The%20Future%20of%20Trail%20of%20Bits's%20Solution%20to%20the%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
-| [Buttercup and DARPA's AI Cyber Challenge](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge%20-%20Henrik%20Brodin%20and%20Ronald%20Eytchison) | Henrik Brodin, Ronald Eytchison | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge, CSAW](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Ronald%20Eytchison) | Ronald Eytchison | 2025 |
+| [Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge](presentations/Buttercup:%20The%20Future%20of%20Trail%20of%20Bits'%20Solution%20to%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge, Ringzer0](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Henrik%20Brodin%20and%20Ronald%20Eytchison) | Henrik Brodin, Ronald Eytchison | 2025 |
 | [Our experience competing in the AI Cyber Challenge](presentations/Our%20experience%20competing%20in%20the%20AI%20Cyber%20Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf) | Michael Brown et al.                              | 2025 |
 | [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir                                     | 2023 |
 | [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
@@ -154,7 +154,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Mutation testing with Slither - A new way to find high severity issues](presentations/Mutation%20testing%20with%20Slither%20-%20A%20new%20way%20to%20find%20high%20severity%20issues) | Guillermo Larregay | 2025 |
+| [Mutation Testing with Slither: A New Way to Find High-Severity Issues](presentations/Mutation%20Testing%20with%20Slither%3A%20A%20New%20Way%20to%20Find%20High-Severity%20Issues/README.md) | Guillermo Larregay | 2025 |
 | [Slither's Model Context Protocol: Giving LLMs Ground Truth from Static Analysis](presentations/Slither's%20Model%20Context%20Protocol%3A%20Giving%20LLMs%20Ground%20Truth%20from%20Static%20Analysis) | Ben Samuels | 2025 |
 | [The $1.5B Problem: How Exchanges Can Build Safer Cold Storage](presentations/The%20%241.5B%20Problem%3A%20How%20Exchanges%20Can%20Build%20Safer%20Cold%20Storage) | Benjamin Samuels | 2025 |
 | [How to Become a Smart Contract Auditor](presentations/How%20to%20Become%20a%20Smart%20Contract%20Auditor) | nisedo | 2025 |
@@ -200,7 +200,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| Cut To The QUIC: Slashing QUIC's Performance With A Hash DoS | Paul Bottinelli | 2025 |
+| [Cut to the QUIC: Slashing QUIC's Performance with a Hash DoS](presentations/Cut%20to%20the%20QUIC:%20Slashing%20QUIC's%20Performance%20with%20a%20Hash%20DoS) | Paul Bottinelli | 2025 |
 | [One, Two, TEE: Trust in Numbers Meets Hardware Security](presentations/One,%20Two,%20TEE:%20Trust%20in%20Numbers%20Meets%20Hardware%20Security) | Paul Bottinelli | 2025 |
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |

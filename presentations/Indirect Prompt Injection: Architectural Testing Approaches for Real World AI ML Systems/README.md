@@ -11,4 +11,4 @@ Author
 - Will Vandevanter
 
 Resources
-* [Slides](Indirect%20Prompt%20Injection_%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI_ML%20Systems.pdf)
+- [Slides](Indirect%20Prompt%20Injection_%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI_ML%20Systems.pdf)

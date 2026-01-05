@@ -11,4 +11,5 @@ Author
 - Ben Samuels
 
 Resources
-* [Slides](Slither%20MCP%20Talk.pdf)
+
+- [Slides](Slither's%20Model%20Context%20Protocol:%20Giving%20LLMs%20Ground%20Truth%20from%20Static%20Analysis.pdf)
