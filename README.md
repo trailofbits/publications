@@ -248,7 +248,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Weaponizing Image Scaling Against Production AI Systems](presentations/Weaponizing%20Image%20Scaling%20Against%20Production%20AI%20Systems) | Kikimora Morozova | 2025 |
+| [Weaponizing Image Scaling Against Production AI Systems](presentations/Weaponizing%20Image%20Scaling%20Against%20Production%20AI%20Systems) | Kikimora Morozova, Suha Sabi Hussain | 2025 |
 | [Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems](presentations/Indirect%20Prompt%20Injection%3A%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI%20ML%20Systems) | Will Vandevanter | 2025 |
 | [From Polyglots to Prompt Injections: Parsing Is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20Is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
 | [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
