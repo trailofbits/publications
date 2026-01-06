@@ -4,7 +4,7 @@ This presentation discusses Buttercup—Trail of Bits' automated, AI-powered sys
 
 Presented at
 
-- [Ringzer0 Counter Measure](https://ringzer0.training/countermeasure25-buttercup-and-darpas-ai-cyber-challenge/)
+- [Ringzer0 Countermeasure](https://ringzer0.training/countermeasure25-buttercup-and-darpas-ai-cyber-challenge/)
 
 Authors
 
