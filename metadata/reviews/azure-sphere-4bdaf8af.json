@@ -1,0 +1,14 @@
+{
+  "id": "azure-sphere-4bdaf8af",
+  "title": "Azure Sphere",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://azure.microsoft.com/en-us/services/azure-sphere/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Azure Sphere"
+  }
+}

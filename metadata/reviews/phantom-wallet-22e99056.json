@@ -1,0 +1,20 @@
+{
+  "id": "phantom-wallet-22e99056",
+  "title": "Phantom Wallet",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://phantom.app/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Phantom Wallet",
+    "client": "Wallet Reviews"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "meld-gold-143de22e",
+  "title": "Meld Gold",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://meld.gold/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Meld Gold",
+    "client": "Algorand"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "walgo-8f912bf8",
+  "title": "wALGO",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.stakerdao.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "wALGO",
+    "client": "Algorand"
+  }
+}

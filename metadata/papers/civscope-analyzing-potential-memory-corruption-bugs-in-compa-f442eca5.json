@@ -1,0 +1,20 @@
+{
+  "id": "civscope-analyzing-potential-memory-corruption-bugs-in-compa-f442eca5",
+  "title": "CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces",
+  "type": "academic-paper",
+  "publicationDate": "2023",
+  "url": "papers/civscope.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "tags": {
+    "concepts": [
+      "memory-safety"
+    ]
+  },
+  "metadata": {
+    "venue": "SOSP KISV 2023",
+    "peerReviewed": true
+  }
+}

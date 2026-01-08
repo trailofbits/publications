@@ -1,0 +1,21 @@
+{
+  "id": "kubernetes-56e17126",
+  "title": "Kubernetes",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://kubernetes.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "kubernetes"
+    ]
+  },
+  "metadata": {
+    "product": "Kubernetes"
+  }
+}

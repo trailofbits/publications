@@ -1,0 +1,14 @@
+{
+  "id": "bitmex-4aed5574",
+  "title": "BitMEX",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.bitmex.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "BitMEX"
+  }
+}

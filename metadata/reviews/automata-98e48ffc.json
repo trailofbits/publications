@@ -1,0 +1,18 @@
+{
+  "id": "automata-98e48ffc",
+  "title": "Automata",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.ata.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Automata",
+    "client": "Ethereum/EVM"
+  }
+}

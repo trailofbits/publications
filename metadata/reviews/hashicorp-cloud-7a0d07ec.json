@@ -1,0 +1,14 @@
+{
+  "id": "hashicorp-cloud-7a0d07ec",
+  "title": "HashiCorp Cloud",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://cloud.hashicorp.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "HashiCorp Cloud"
+  }
+}

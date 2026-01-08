@@ -1,0 +1,18 @@
+{
+  "id": "go-schnorrkel-ccfbd2a4",
+  "title": "go-schnorrkel",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://chainsafe.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "go-schnorrkel",
+    "client": "Other/Multi-Chain"
+  }
+}

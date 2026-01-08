@@ -1,0 +1,16 @@
+{
+  "id": "improving-pypi-s-security-with-two-factor-authentication-e6f56687",
+  "title": "Improving PyPI's security with Two Factor Authentication",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "William Woodruff"
+  ],
+  "url": "presentations/Improving%20PyPI%27s%20security%20with%20Two%20Factor%20Authentication",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "supply-chain"
+    ]
+  }
+}

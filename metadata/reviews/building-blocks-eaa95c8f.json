@@ -1,0 +1,26 @@
+{
+  "id": "building-blocks-eaa95c8f",
+  "title": "Building Blocks",
+  "type": "security-review",
+  "publicationDate": "7",
+  "url": "https://innovation.wfp.org/project/building-blocks",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Building Blocks",
+    "client": "Other/Multi-Chain"
+  }
+}

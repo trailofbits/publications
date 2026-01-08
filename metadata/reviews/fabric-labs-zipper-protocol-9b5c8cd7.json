@@ -1,0 +1,17 @@
+{
+  "id": "fabric-labs-zipper-protocol-9b5c8cd7",
+  "title": "Fabric Labs Zipper Protocol",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://zipper.trade/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Fabric Labs Zipper Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

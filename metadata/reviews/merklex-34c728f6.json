@@ -1,0 +1,17 @@
+{
+  "id": "merklex-34c728f6",
+  "title": "MerkleX",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://merklex.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "MerkleX",
+    "client": "Ethereum/EVM"
+  }
+}

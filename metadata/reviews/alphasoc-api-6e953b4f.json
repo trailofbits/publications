@@ -1,0 +1,14 @@
+{
+  "id": "alphasoc-api-6e953b4f",
+  "title": "AlphaSOC API",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://alphasoc.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "AlphaSOC API"
+  }
+}

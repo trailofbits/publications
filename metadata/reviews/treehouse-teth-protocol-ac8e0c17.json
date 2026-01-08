@@ -1,0 +1,17 @@
+{
+  "id": "treehouse-teth-protocol-ac8e0c17",
+  "title": "Treehouse tETH Protocol",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.treehouse.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Treehouse tETH Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

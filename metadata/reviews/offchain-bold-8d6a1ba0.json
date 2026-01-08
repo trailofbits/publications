@@ -1,0 +1,17 @@
+{
+  "id": "offchain-bold-8d6a1ba0",
+  "title": "Offchain BoLD",
+  "type": "security-review",
+  "publicationDate": "5",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain BoLD",
+    "client": "Offchain Labs"
+  }
+}

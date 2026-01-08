@@ -1,0 +1,17 @@
+{
+  "id": "relay-3831ff26",
+  "title": "Relay",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://thesis.co/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Relay",
+    "client": "Ethereum/EVM"
+  }
+}

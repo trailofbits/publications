@@ -1,0 +1,20 @@
+{
+  "id": "polkadex-57cffaed",
+  "title": "Polkadex",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.polkadex.trade/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "defi"
+    ]
+  },
+  "metadata": {
+    "product": "Polkadex",
+    "client": "Substrate"
+  }
+}

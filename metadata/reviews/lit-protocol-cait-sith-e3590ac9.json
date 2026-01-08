@@ -1,0 +1,17 @@
+{
+  "id": "lit-protocol-cait-sith-e3590ac9",
+  "title": "Lit Protocol Cait-Sith",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://www.litprotocol.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Lit Protocol Cait-Sith"
+  }
+}

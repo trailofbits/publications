@@ -1,0 +1,20 @@
+{
+  "id": "taraxa-ficus-bridge-7a87f7f4",
+  "title": "Taraxa Ficus Bridge",
+  "type": "security-review",
+  "publicationDate": "1.6",
+  "url": "https://docs.taraxa.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "bridges"
+    ]
+  },
+  "metadata": {
+    "product": "Taraxa Ficus Bridge",
+    "client": "Ethereum/EVM"
+  }
+}

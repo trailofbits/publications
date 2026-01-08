@@ -1,0 +1,17 @@
+{
+  "id": "oasis-labs-8bdda0b4",
+  "title": "Oasis Labs",
+  "type": "security-review",
+  "publicationDate": "13",
+  "url": "https://www.oasislabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Oasis Labs",
+    "client": "Ethereum/EVM"
+  }
+}

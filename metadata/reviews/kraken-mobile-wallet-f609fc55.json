@@ -1,0 +1,14 @@
+{
+  "id": "kraken-mobile-wallet-f609fc55",
+  "title": "Kraken Mobile Wallet",
+  "type": "security-review",
+  "publicationDate": "7",
+  "url": "https://www.kraken.com/wallet",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Kraken Mobile Wallet"
+  }
+}

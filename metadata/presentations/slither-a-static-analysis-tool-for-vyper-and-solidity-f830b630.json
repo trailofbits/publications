@@ -1,0 +1,29 @@
+{
+  "id": "slither-a-static-analysis-tool-for-vyper-and-solidity-f830b630",
+  "title": "Slither: a static analysis tool for Vyper and Solidity",
+  "type": "presentation",
+  "publicationDate": "2023",
+  "authors": [
+    "Troy Sargent"
+  ],
+  "url": "presentations/TrustX%202023/Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "static-analysis",
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "solidity",
+      "rust"
+    ],
+    "tools": [
+      "slither"
+    ]
+  }
+}

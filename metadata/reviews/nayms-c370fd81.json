@@ -1,0 +1,17 @@
+{
+  "id": "nayms-c370fd81",
+  "title": "Nayms",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://nayms.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Nayms",
+    "client": "Ethereum/EVM"
+  }
+}

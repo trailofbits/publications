@@ -1,0 +1,17 @@
+{
+  "id": "timeswap-2d9d64af",
+  "title": "Timeswap",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://timeswap.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Timeswap",
+    "client": "Ethereum/EVM"
+  }
+}

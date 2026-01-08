@@ -1,0 +1,22 @@
+{
+  "id": "devcon-auction-raffle-1be3f896",
+  "title": "Devcon Auction Raffle",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://raffle.devcon.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "Devcon Auction Raffle",
+    "client": "Ethereum/EVM"
+  }
+}

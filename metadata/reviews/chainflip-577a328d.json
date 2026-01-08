@@ -1,0 +1,16 @@
+{
+  "id": "chainflip-577a328d",
+  "title": "Chainflip",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://chainflip.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Chainflip"
+  }
+}

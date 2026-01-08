@@ -1,0 +1,14 @@
+{
+  "id": "curl-http3-d670e7ce",
+  "title": "cURL HTTP3",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://curl.se/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "cURL HTTP3"
+  }
+}

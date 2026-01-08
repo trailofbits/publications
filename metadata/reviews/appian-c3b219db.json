@@ -1,0 +1,14 @@
+{
+  "id": "appian-c3b219db",
+  "title": "Appian",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://appian.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Appian"
+  }
+}

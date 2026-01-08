@@ -1,0 +1,15 @@
+{
+  "id": "frax-ccbe0a1e",
+  "title": "Frax",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://frax.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Frax",
+    "client": "Frax Finance"
+  }
+}

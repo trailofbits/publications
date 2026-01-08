@@ -1,0 +1,14 @@
+{
+  "id": "vault-enterprise-2fd7f6e0",
+  "title": "Vault Enterprise",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.vaultproject.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Vault Enterprise"
+  }
+}

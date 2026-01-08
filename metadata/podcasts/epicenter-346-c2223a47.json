@@ -1,0 +1,24 @@
+{
+  "id": "epicenter-346-c2223a47",
+  "title": "Epicenter 346",
+  "type": "podcast",
+  "publicationDate": "2020",
+  "authors": [
+    "Dan Guido"
+  ],
+  "url": "https://epicenter.tv/episodes/346",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  }
+}

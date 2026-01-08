@@ -1,0 +1,14 @@
+{
+  "id": "coredns-6cffde2d",
+  "title": "CoreDNS",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://coredns.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "CoreDNS"
+  }
+}

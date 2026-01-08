@@ -1,0 +1,17 @@
+{
+  "id": "stas-sdk-5e927253",
+  "title": "STAS SDK",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.taal.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "STAS SDK",
+    "client": "Bitcoin & Derivatives"
+  }
+}

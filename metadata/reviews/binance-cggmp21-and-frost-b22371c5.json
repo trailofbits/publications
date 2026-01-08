@@ -1,0 +1,16 @@
+{
+  "id": "binance-cggmp21-and-frost-b22371c5",
+  "title": "Binance CGGMP21 and FROST",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.binance.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Binance CGGMP21 and FROST"
+  }
+}

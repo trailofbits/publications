@@ -1,0 +1,15 @@
+{
+  "id": "test-harness-mutilation-de4c6292",
+  "title": "Test Harness Mutilation",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/test_harness_mutilation.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "Mutation 2024",
+    "peerReviewed": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "threshold-dsa-88b8f3d6",
+  "title": "Threshold-DSA",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://anyswap.exchange/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Threshold-DSA",
+    "client": "Other/Multi-Chain"
+  }
+}

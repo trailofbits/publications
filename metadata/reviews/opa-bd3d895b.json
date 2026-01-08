@@ -1,0 +1,16 @@
+{
+  "id": "opa-bd3d895b",
+  "title": "OPA",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://github.com/open-policy-agent/gatekeeper",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "OPA"
+  }
+}

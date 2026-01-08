@@ -1,0 +1,19 @@
+{
+  "id": "discord-e2ee-webassembly-185e7a77",
+  "title": "Discord E2EE WebAssembly",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://discord.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "tags": {
+    "technologies": [
+      "webassembly"
+    ]
+  },
+  "metadata": {
+    "product": "Discord E2EE WebAssembly"
+  }
+}

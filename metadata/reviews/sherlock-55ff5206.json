@@ -1,0 +1,17 @@
+{
+  "id": "sherlock-55ff5206",
+  "title": "Sherlock",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.sherlock.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Sherlock",
+    "client": "Ethereum/EVM"
+  }
+}

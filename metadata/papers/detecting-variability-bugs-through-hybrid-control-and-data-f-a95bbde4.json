@@ -1,0 +1,17 @@
+{
+  "id": "detecting-variability-bugs-through-hybrid-control-and-data-f-a95bbde4",
+  "title": "Detecting variability bugs through hybrid control and data flow analysis",
+  "type": "academic-paper",
+  "publicationDate": "2023",
+  "url": "papers/ubet_langsec_2023.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "venue": "LangSec 2023",
+    "peerReviewed": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vrfs-3d8377ba",
+  "title": "VRFs",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://chain.link/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "VRFs",
+    "client": "Other/Multi-Chain"
+  }
+}

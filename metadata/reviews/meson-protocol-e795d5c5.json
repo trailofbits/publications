@@ -1,0 +1,17 @@
+{
+  "id": "meson-protocol-e795d5c5",
+  "title": "Meson Protocol",
+  "type": "security-review",
+  "publicationDate": "0.6",
+  "url": "https://docs.meson.fi/references/audit-reports",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Meson Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

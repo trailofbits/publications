@@ -1,0 +1,23 @@
+{
+  "id": "eip-1283-df411920",
+  "title": "EIP-1283",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://github.com/ethereum/EIPs/pull/1283",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "EIP-1283",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "seriously-stop-using-rsa-0fe1355e",
+  "title": "Seriously, stop using RSA",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Ben Perez"
+  ],
+  "url": "presentations/Seriously%2C%20stop%20using%20RSA",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography"
+    ]
+  }
+}

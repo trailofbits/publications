@@ -1,0 +1,19 @@
+{
+  "id": "a-broad-comparative-evaluation-of-software-debloating-tools-e97487fe",
+  "title": "A Broad Comparative Evaluation of Software Debloating Tools",
+  "type": "presentation",
+  "publicationDate": "2024",
+  "authors": [
+    "Michael D. Brown",
+    "Adam Meily",
+    "Eric Kilmer",
+    "Ronald Eytchison"
+  ],
+  "url": "presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "compilers"
+    ]
+  }
+}

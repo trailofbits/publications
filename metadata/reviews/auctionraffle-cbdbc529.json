@@ -1,0 +1,22 @@
+{
+  "id": "auctionraffle-cbdbc529",
+  "title": "AuctionRaffle",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://ethereum.org/en/foundation/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "AuctionRaffle",
+    "client": "Ethereum/EVM"
+  }
+}

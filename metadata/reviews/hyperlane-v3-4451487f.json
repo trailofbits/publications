@@ -1,0 +1,17 @@
+{
+  "id": "hyperlane-v3-4451487f",
+  "title": "Hyperlane v3",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.hyperlane.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Hyperlane v3",
+    "client": "Ethereum/EVM"
+  }
+}

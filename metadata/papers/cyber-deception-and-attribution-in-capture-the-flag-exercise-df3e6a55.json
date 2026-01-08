@@ -1,0 +1,15 @@
+{
+  "id": "cyber-deception-and-attribution-in-capture-the-flag-exercise-df3e6a55",
+  "title": "Cyber-Deception and Attribution in Capture-the-Flag Exercises",
+  "type": "academic-paper",
+  "publicationDate": "2015",
+  "url": "papers/deception_attribution_ctf.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "FOSINT-SI 2015",
+    "peerReviewed": true
+  }
+}

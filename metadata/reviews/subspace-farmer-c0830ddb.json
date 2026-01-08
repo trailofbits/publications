@@ -1,0 +1,17 @@
+{
+  "id": "subspace-farmer-c0830ddb",
+  "title": "Subspace Farmer",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://subspace.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Subspace Farmer",
+    "client": "Ethereum/EVM"
+  }
+}

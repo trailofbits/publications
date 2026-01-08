@@ -1,0 +1,15 @@
+{
+  "id": "mobilecoin-4bfa03ca",
+  "title": "MobileCoin",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.mobilecoin.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "MobileCoin",
+    "client": "MobileCoin"
+  }
+}

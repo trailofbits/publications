@@ -1,0 +1,17 @@
+{
+  "id": "primitive-hyper-25bdb770",
+  "title": "Primitive Hyper",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://primitive.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Primitive Hyper",
+    "client": "Ethereum/EVM"
+  }
+}

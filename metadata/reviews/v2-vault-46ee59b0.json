@@ -1,0 +1,17 @@
+{
+  "id": "v2-vault-46ee59b0",
+  "title": "V2 Vault",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.riskharbor.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "V2 Vault",
+    "client": "Ethereum/EVM"
+  }
+}

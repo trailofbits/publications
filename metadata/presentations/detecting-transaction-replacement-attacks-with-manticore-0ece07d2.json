@@ -1,0 +1,24 @@
+{
+  "id": "detecting-transaction-replacement-attacks-with-manticore-0ece07d2",
+  "title": "Detecting transaction replacement attacks with Manticore",
+  "type": "presentation",
+  "publicationDate": "2020",
+  "authors": [
+    "Sam Moelius"
+  ],
+  "url": "presentations/Detecting%20transaction%20replacement%20attacks%20with%20Manticore",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "symbolic-execution"
+    ],
+    "tools": [
+      "manticore"
+    ]
+  }
+}

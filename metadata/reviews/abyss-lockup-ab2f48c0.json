@@ -1,0 +1,17 @@
+{
+  "id": "abyss-lockup-ab2f48c0",
+  "title": "Abyss Lockup",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.allnodes.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Abyss Lockup",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "salty-io-protocol-0d1ba5b3",
+  "title": "Salty.IO Protocol",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://docs.salty.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Salty.IO Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

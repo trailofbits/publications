@@ -1,0 +1,24 @@
+{
+  "id": "testing-and-verifying-smart-contracts-from-theory-to-practic-d1c80a20",
+  "title": "Testing and Verifying Smart Contracts: From Theory to Practice",
+  "type": "presentation",
+  "publicationDate": "2021",
+  "authors": [
+    "Josselin Feist"
+  ],
+  "url": "presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  }
+}

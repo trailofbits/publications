@@ -1,0 +1,18 @@
+{
+  "id": "warp-contracts-8ae9db3c",
+  "title": "Warp Contracts",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://en.advancedblockchain.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Warp Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "offchain-bold-dac-rewards-a9f6432c",
+  "title": "Offchain BoLD & DAC Rewards",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain BoLD & DAC Rewards",
+    "client": "Offchain Labs"
+  }
+}

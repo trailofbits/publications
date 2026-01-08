@@ -1,0 +1,17 @@
+{
+  "id": "gsquared-06bd7fa4",
+  "title": "GSquared",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://docs.gro.xyz/gro-docs/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "GSquared",
+    "client": "Ethereum/EVM"
+  }
+}

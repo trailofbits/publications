@@ -1,0 +1,22 @@
+{
+  "id": "demystifying-fuzzing-dbffe842",
+  "title": "Demystifying Fuzzing",
+  "type": "presentation",
+  "publicationDate": "2022",
+  "authors": [
+    "Nat Chin"
+  ],
+  "url": "presentations/Demystifying%20Fuzzing/",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "fuzzing",
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "fuzzing"
+    ]
+  }
+}

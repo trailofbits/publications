@@ -1,0 +1,14 @@
+{
+  "id": "securedrop-6a85542b",
+  "title": "SecureDrop",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://freedom.press/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "SecureDrop"
+  }
+}

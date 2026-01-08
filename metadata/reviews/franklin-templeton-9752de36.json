@@ -1,0 +1,17 @@
+{
+  "id": "franklin-templeton-9752de36",
+  "title": "Franklin Templeton",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.franklintempleton.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Franklin Templeton",
+    "client": "Ethereum/EVM"
+  }
+}

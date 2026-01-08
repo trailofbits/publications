@@ -1,0 +1,17 @@
+{
+  "id": "wormhole-governors-and-watchers-abbddc3a",
+  "title": "Wormhole Governors and Watchers",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://wormhole.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Wormhole Governors and Watchers",
+    "client": "Other/Multi-Chain"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "property-testing-of-smart-contracts-a77cf00d",
+  "title": "Property-testing of smart contracts",
+  "type": "presentation",
+  "publicationDate": "2018",
+  "authors": [
+    "JP Smith"
+  ],
+  "url": "presentations/Property-based%20testing%20of%20smart%20contracts",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "property-testing",
+      "smart-contracts"
+    ]
+  }
+}

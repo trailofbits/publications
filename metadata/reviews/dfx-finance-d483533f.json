@@ -1,0 +1,17 @@
+{
+  "id": "dfx-finance-d483533f",
+  "title": "DFX Finance",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://dfx.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "DFX Finance",
+    "client": "Ethereum/EVM"
+  }
+}
