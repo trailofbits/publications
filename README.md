@@ -532,6 +532,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Bron Labs MCP Library](https://bron.org/) | Jan 2026 | 8 | | [📄✅](reviews/2026-01-bron-mcp-securityreview.pdf) |
 | [DFINITY Orbit](https://dfinity.org/) | Sept 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-orbit-securityreview.pdf) |
 | [Zama](https://docs.zama.org/protocol/zama-protocol-litepaper) | Oct 2025 | 32.2 |
 | [DFINITY Oisy](https://oisy.com/) | Sep 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-oisy-securityreview.pdf) |
