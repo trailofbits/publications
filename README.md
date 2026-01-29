@@ -533,6 +533,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [BSV Blockchain TS-SDK](https://bsvassociation.org/) | Jan 2026 | 6 | | [📄✅](reviews/2026-01-bsv-association-ts-sdk-securityreview.pdf) |
 | [NEAR One Confidential Key Derivation](https://docs.near.org/chain-abstraction/chain-signatures) | Dec 2025 | 4 | | [📄✅](reviews/2025-12-near-one-confidential-key-derivation-securityreview.pdf) |
 | [Bron Labs MCP Library](https://bron.org/) | Jan 2026 | 8 | | [📄✅](reviews/2026-01-bron-mcp-securityreview.pdf) |
 | [DFINITY Orbit](https://dfinity.org/) | Sept 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-orbit-securityreview.pdf) |
