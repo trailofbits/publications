@@ -418,7 +418,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
 | [Offchain Labs Arbitrum Nitro External DA](https://www.offchainlabs.com/) | Jan 2026 | 4 | | [📄✅](reviews/2026-01-offchain-nitro-external-da-securityreview.pdf) |
-| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Dec 2025 | 0.4 | | [📄](reviews/2025-12-offchain-arbitrum-quorum-changes-securityreview.pdf) |
+| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Jan 2026 | 0.6 | | [📄](reviews/2026-1-offchain-arbitrum-quorum-changes-securityreview.pdf) |
 | [Offchain Labs Arbitrum ArbOS 50 and 51 (Fusaka)](https://www.offchainlabs.com/) | Dec 2025 | | | [📄](reviews/2025-12-offchain-arbos50-and-51-securityreview.pdf) |
 | [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | Dec 2025 | 1.6 | | [📄✅](reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf) |
 | [Offchain Labs Upgrade Executor](https://www.offchainlabs.com/) | Jul 2025 | 0.2 | | [📄](reviews/2025-07-offchain-upgrade-executor-securityreview.pdf) |
