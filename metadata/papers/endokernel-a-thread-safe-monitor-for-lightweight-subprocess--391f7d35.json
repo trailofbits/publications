@@ -1,0 +1,15 @@
+{
+  "id": "endokernel-a-thread-safe-monitor-for-lightweight-subprocess--391f7d35",
+  "title": "Endokernel: A Thread Safe Monitor for Lightweight Subprocess Isolation",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/usenixsecurity24-endokernel.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "Usenix Security 2024",
+    "peerReviewed": true
+  }
+}

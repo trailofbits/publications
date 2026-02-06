@@ -1,0 +1,17 @@
+{
+  "id": "offchain-custom-fee-token-47d6efaa",
+  "title": "Offchain Custom Fee Token",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Custom Fee Token",
+    "client": "Offchain Labs"
+  }
+}

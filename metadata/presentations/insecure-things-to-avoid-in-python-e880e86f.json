@@ -1,0 +1,19 @@
+{
+  "id": "insecure-things-to-avoid-in-python-e880e86f",
+  "title": "Insecure Things to Avoid in Python",
+  "type": "presentation",
+  "publicationDate": "2018",
+  "authors": [
+    "Dominik Czarnota"
+  ],
+  "url": "presentations/Insecure%20Things%20to%20Avoid%20in%20Python",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": []
+  },
+  "tags": {
+    "technologies": [
+      "python"
+    ]
+  }
+}

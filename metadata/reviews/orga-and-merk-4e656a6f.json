@@ -1,0 +1,18 @@
+{
+  "id": "orga-and-merk-4e656a6f",
+  "title": "Orga and Merk",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://turbofish.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Orga and Merk",
+    "client": "Tendermint/Cosmos"
+  }
+}

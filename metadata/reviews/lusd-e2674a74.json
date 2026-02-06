@@ -1,0 +1,17 @@
+{
+  "id": "lusd-e2674a74",
+  "title": "LUSD",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.liquity.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "LUSD",
+    "client": "Ethereum/EVM"
+  }
+}

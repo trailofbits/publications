@@ -1,0 +1,17 @@
+{
+  "id": "optics-01e678be",
+  "title": "Optics",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://celo.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Optics",
+    "client": "Ethereum/EVM"
+  }
+}

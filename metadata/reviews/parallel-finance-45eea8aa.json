@@ -1,0 +1,17 @@
+{
+  "id": "parallel-finance-45eea8aa",
+  "title": "Parallel Finance",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://parallel.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Parallel Finance",
+    "client": "Substrate"
+  }
+}

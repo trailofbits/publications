@@ -1,0 +1,14 @@
+{
+  "id": "digitalocean-oidc-57f2099b",
+  "title": "DigitalOcean OIDC",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.digitalocean.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "DigitalOcean OIDC"
+  }
+}

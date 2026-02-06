@@ -1,0 +1,19 @@
+{
+  "id": "risky-biz-526-d5fcf7d7",
+  "title": "Risky Biz 526",
+  "type": "podcast",
+  "publicationDate": "2019",
+  "authors": [
+    "JP Smith"
+  ],
+  "url": "https://risky.biz/RB526/",
+  "categories": {
+    "publicationType": "podcast",
+    "domain": [
+      "cryptography"
+    ],
+    "subdomain": [
+      "post-quantum"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "uniswap-browser-extension-80068e7e",
+  "title": "Uniswap Browser Extension",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://uniswap.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Uniswap Browser Extension",
+    "client": "Uniswap"
+  }
+}

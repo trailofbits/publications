@@ -1,0 +1,16 @@
+{
+  "id": "interest-token-a831f744",
+  "title": "Interest Token",
+  "type": "security-review",
+  "publicationDate": "0.28",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Interest Token",
+    "client": "Other/Multi-Chain"
+  }
+}

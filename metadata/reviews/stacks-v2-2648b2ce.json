@@ -1,0 +1,17 @@
+{
+  "id": "stacks-v2-2648b2ce",
+  "title": "Stacks V2",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.blockstack.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Stacks V2",
+    "client": "Other/Multi-Chain"
+  }
+}

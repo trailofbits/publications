@@ -1,0 +1,17 @@
+{
+  "id": "ava-labs-c7d1c92c",
+  "title": "Ava Labs",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.avalabs.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Ava Labs",
+    "client": "Avalanche"
+  }
+}

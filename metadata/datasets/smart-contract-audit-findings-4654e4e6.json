@@ -1,0 +1,21 @@
+{
+  "id": "smart-contract-audit-findings-4654e4e6",
+  "title": "Smart Contract Audit Findings",
+  "type": "dataset",
+  "publicationDate": "unknown",
+  "url": "datasets/smart_contract_audit_findings",
+  "categories": {
+    "publicationType": "dataset",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  }
+}

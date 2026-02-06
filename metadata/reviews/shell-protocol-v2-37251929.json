@@ -1,0 +1,17 @@
+{
+  "id": "shell-protocol-v2-37251929",
+  "title": "Shell Protocol v2",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://shellprotocol.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Shell Protocol v2",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "uniswap-v3-172a9b0e",
+  "title": "Uniswap V3",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://uniswap.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Uniswap V3",
+    "client": "Uniswap"
+  }
+}

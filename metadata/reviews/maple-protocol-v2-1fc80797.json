@@ -1,0 +1,17 @@
+{
+  "id": "maple-protocol-v2-1fc80797",
+  "title": "Maple Protocol v2",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.maple.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Maple Protocol v2",
+    "client": "Ethereum/EVM"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "potato-points-to-analysis-via-domain-specific-mlir-dialect-e30a66e7",
+  "title": "PoTATo: Points-to analysis via domain specific MLIR dialect",
+  "type": "academic-paper",
+  "publicationDate": "2024",
+  "url": "papers/potato-eurollvm-poster.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "compilers",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "llvm",
+      "mlir"
+    ]
+  },
+  "metadata": {
+    "venue": "EuroLLVM Devs' Meeting 2024",
+    "peerReviewed": true
+  }
+}

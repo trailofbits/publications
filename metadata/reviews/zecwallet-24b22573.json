@@ -1,0 +1,20 @@
+{
+  "id": "zecwallet-24b22573",
+  "title": "ZecWallet",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://github.com/ZcashFoundation/zecwallet",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "ZecWallet",
+    "client": "Wallet Reviews"
+  }
+}

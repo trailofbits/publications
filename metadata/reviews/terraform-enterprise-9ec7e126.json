@@ -1,0 +1,14 @@
+{
+  "id": "terraform-enterprise-9ec7e126",
+  "title": "Terraform Enterprise",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.terraform.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Terraform Enterprise"
+  }
+}

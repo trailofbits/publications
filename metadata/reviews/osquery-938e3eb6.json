@@ -1,0 +1,14 @@
+{
+  "id": "osquery-938e3eb6",
+  "title": "osquery",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://osquery.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "osquery"
+  }
+}

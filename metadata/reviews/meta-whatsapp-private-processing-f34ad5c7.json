@@ -1,0 +1,14 @@
+{
+  "id": "meta-whatsapp-private-processing-f34ad5c7",
+  "title": "Meta WhatsApp Private Processing",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.meta.com/whatsapp/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Meta WhatsApp Private Processing"
+  }
+}

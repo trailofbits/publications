@@ -1,0 +1,14 @@
+{
+  "id": "panoptic-46ca9533",
+  "title": "Panoptic",
+  "type": "security-review",
+  "publicationDate": "9",
+  "url": "https://panoptic.xyz/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Panoptic"
+  }
+}

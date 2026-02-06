@@ -1,0 +1,20 @@
+{
+  "id": "dappos-v2-wallet-c5d542e8",
+  "title": "dappOS v2 wallet",
+  "type": "security-review",
+  "publicationDate": "3",
+  "url": "https://dappos.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "dappOS v2 wallet",
+    "client": "Wallet Reviews"
+  }
+}

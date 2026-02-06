@@ -1,0 +1,22 @@
+{
+  "id": "eth2-0-deposit-cli-f2ce9fee",
+  "title": "ETH2.0 Deposit CLI",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://ethereum.org/en/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "ethereum"
+    ]
+  },
+  "metadata": {
+    "product": "ETH2.0 Deposit CLI",
+    "client": "Ethereum/EVM"
+  }
+}

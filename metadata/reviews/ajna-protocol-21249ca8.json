@@ -1,0 +1,17 @@
+{
+  "id": "ajna-protocol-21249ca8",
+  "title": "Ajna Protocol",
+  "type": "security-review",
+  "publicationDate": "12",
+  "url": "https://www.ajna.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Ajna Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

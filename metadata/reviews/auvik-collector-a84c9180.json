@@ -1,0 +1,14 @@
+{
+  "id": "auvik-collector-a84c9180",
+  "title": "Auvik Collector",
+  "type": "security-review",
+  "publicationDate": "8",
+  "url": "https://www.auvik.com/system-security/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Auvik Collector"
+  }
+}

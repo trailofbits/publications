@@ -1,0 +1,18 @@
+{
+  "id": "careful-with-mac-then-sign-a-computational-analysis-of-the-e-aa41cd83",
+  "title": "Careful with MAc-then-SIGn: A Computational Analysis of the EDHOC Lightweight Authenticated Key Exchange Protocol",
+  "type": "academic-paper",
+  "publicationDate": "2023",
+  "url": "papers/edhoc-euros&P-2023.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": [
+      "cryptography",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "venue": "Euro S&P 2023",
+    "peerReviewed": true
+  }
+}

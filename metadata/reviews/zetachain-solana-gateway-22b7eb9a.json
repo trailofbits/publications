@@ -1,0 +1,23 @@
+{
+  "id": "zetachain-solana-gateway-22b7eb9a",
+  "title": "ZetaChain Solana Gateway",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://www.zetachain.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "ZetaChain Solana Gateway",
+    "client": "Solana"
+  }
+}

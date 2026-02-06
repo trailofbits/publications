@@ -1,0 +1,17 @@
+{
+  "id": "puffer-finance-contracts-14ed5d00",
+  "title": "Puffer Finance Contracts",
+  "type": "security-review",
+  "publicationDate": "1.2",
+  "url": "https://www.puffer.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Puffer Finance Contracts",
+    "client": "Ethereum/EVM"
+  }
+}

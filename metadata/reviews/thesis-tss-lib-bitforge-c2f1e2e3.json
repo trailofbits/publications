@@ -1,0 +1,19 @@
+{
+  "id": "thesis-tss-lib-bitforge-c2f1e2e3",
+  "title": "Thesis tss-lib BitForge",
+  "type": "security-review",
+  "publicationDate": "0.2",
+  "url": "https://threshold.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ],
+    "subdomain": [
+      "threshold-cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Thesis tss-lib BitForge"
+  }
+}

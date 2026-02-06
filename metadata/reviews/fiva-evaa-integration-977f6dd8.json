@@ -1,0 +1,18 @@
+{
+  "id": "fiva-evaa-integration-977f6dd8",
+  "title": "FIVA Evaa Integration",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.thefiva.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "FIVA Evaa Integration",
+    "client": "TON"
+  }
+}

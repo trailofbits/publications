@@ -1,0 +1,17 @@
+{
+  "id": "balancer-v3-cf46db40",
+  "title": "Balancer v3",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://balancer.fi/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Balancer v3",
+    "client": "Ethereum/EVM"
+  }
+}

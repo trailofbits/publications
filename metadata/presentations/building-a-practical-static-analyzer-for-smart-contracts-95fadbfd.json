@@ -1,0 +1,24 @@
+{
+  "id": "building-a-practical-static-analyzer-for-smart-contracts-95fadbfd",
+  "title": "Building a Practical Static Analyzer for Smart Contracts",
+  "type": "presentation",
+  "publicationDate": "2021",
+  "authors": [
+    "Josselin Feist"
+  ],
+  "url": "presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "smart-contracts"
+    ]
+  },
+  "tags": {
+    "topics": [
+      "smart-contracts"
+    ]
+  }
+}

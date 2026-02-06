@@ -1,0 +1,17 @@
+{
+  "id": "ondo-dec72479",
+  "title": "Ondo",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://ondo.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Ondo",
+    "client": "Ethereum/EVM"
+  }
+}

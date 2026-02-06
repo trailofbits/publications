@@ -1,0 +1,14 @@
+{
+  "id": "voice-ecd5cfa7",
+  "title": "Voice",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://block.one/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "Voice"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nftx-45bb5cb6",
+  "title": "NFTX",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://nftx.io/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "NFTX",
+    "client": "Ethereum/EVM"
+  }
+}

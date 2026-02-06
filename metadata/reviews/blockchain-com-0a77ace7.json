@@ -1,0 +1,18 @@
+{
+  "id": "blockchain-com-0a77ace7",
+  "title": "Blockchain.com",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.blockchain.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Blockchain.com",
+    "client": "Other/Multi-Chain"
+  }
+}

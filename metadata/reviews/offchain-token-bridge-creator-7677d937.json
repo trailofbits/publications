@@ -1,0 +1,22 @@
+{
+  "id": "offchain-token-bridge-creator-7677d937",
+  "title": "Offchain Token Bridge Creator",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Token Bridge Creator",
+    "client": "Offchain Labs"
+  }
+}

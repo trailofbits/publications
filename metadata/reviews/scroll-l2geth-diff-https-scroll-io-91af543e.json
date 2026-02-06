@@ -1,0 +1,14 @@
+{
+  "id": "scroll-l2geth-diff-https-scroll-io-91af543e",
+  "title": "[Scroll l2geth [diff] ](https://scroll.io/)",
+  "type": "security-review",
+  "publicationDate": "2",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": []
+  },
+  "metadata": {
+    "product": "[Scroll l2geth [diff] ](https://scroll.io/)",
+    "client": "Scroll"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "xudt-a1cef485",
+  "title": "xUDT",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.nervos.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "xUDT",
+    "client": "NervOS"
+  }
+}

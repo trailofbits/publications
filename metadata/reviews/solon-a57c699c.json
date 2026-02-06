@@ -1,0 +1,17 @@
+{
+  "id": "solon-a57c699c",
+  "title": "Solon",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://www.solon.finance/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Solon",
+    "client": "Ethereum/EVM"
+  }
+}

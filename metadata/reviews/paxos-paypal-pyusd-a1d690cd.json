@@ -1,0 +1,17 @@
+{
+  "id": "paxos-paypal-pyusd-a1d690cd",
+  "title": "Paxos PayPal PYUSD",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://paxos.com/pyusd/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Paxos PayPal PYUSD",
+    "client": "Ethereum/EVM"
+  }
+}

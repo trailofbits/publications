@@ -1,0 +1,17 @@
+{
+  "id": "0x-protocol-409f1e1a",
+  "title": "0x Protocol",
+  "type": "security-review",
+  "publicationDate": "10",
+  "url": "https://0x.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "0x Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

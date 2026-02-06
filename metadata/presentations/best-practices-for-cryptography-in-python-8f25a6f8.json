@@ -1,0 +1,21 @@
+{
+  "id": "best-practices-for-cryptography-in-python-8f25a6f8",
+  "title": "Best Practices for Cryptography in Python",
+  "type": "presentation",
+  "publicationDate": "2019",
+  "authors": [
+    "Paul Kehrer"
+  ],
+  "url": "presentations/Best%20Practices%20for%20Cryptography%20in%20Python",
+  "categories": {
+    "publicationType": "presentation",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "tags": {
+    "technologies": [
+      "python"
+    ]
+  }
+}

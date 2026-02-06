@@ -1,0 +1,17 @@
+{
+  "id": "golden-gate-library-78aeb6be",
+  "title": "Golden Gate Library",
+  "type": "security-review",
+  "publicationDate": "1",
+  "url": "https://layerzero.network/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Golden Gate Library",
+    "client": "Other/Multi-Chain"
+  }
+}

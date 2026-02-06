@@ -1,0 +1,16 @@
+{
+  "id": "eclipse-mosquitto-ca79c41d",
+  "title": "Eclipse Mosquitto",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://mosquitto.org/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Eclipse Mosquitto"
+  }
+}

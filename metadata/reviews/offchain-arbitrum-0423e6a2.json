@@ -1,0 +1,22 @@
+{
+  "id": "offchain-arbitrum-0423e6a2",
+  "title": "Offchain Arbitrum",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "arbitrum"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Arbitrum",
+    "client": "Offchain Labs"
+  }
+}

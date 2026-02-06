@@ -1,0 +1,15 @@
+{
+  "id": "weak-fiat-shamir-attacks-on-modern-proof-systems-1ae06733",
+  "title": "Weak Fiat-Shamir Attacks on Modern Proof Systems",
+  "type": "academic-paper",
+  "publicationDate": "2023",
+  "url": "papers/weakfs_ieee_s&p_2023.pdf",
+  "categories": {
+    "publicationType": "academic-paper",
+    "domain": []
+  },
+  "metadata": {
+    "venue": "IEEE S&P 2023",
+    "peerReviewed": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "snow-61e1cdf0",
+  "title": "Snow",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://github.com/mcginty/snow",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Snow"
+  }
+}

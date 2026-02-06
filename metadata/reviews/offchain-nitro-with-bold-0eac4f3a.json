@@ -1,0 +1,17 @@
+{
+  "id": "offchain-nitro-with-bold-0eac4f3a",
+  "title": "Offchain Nitro with BoLD",
+  "type": "security-review",
+  "publicationDate": "2.6",
+  "url": "https://www.offchainlabs.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "ai-ml"
+    ]
+  },
+  "metadata": {
+    "product": "Offchain Nitro with BoLD",
+    "client": "Offchain Labs"
+  }
+}

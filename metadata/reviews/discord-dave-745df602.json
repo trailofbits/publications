@@ -1,0 +1,16 @@
+{
+  "id": "discord-dave-745df602",
+  "title": "Discord DAVE",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://discord.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "cryptography"
+    ]
+  },
+  "metadata": {
+    "product": "Discord DAVE"
+  }
+}

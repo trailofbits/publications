@@ -1,0 +1,22 @@
+{
+  "id": "solang-parser-and-semantic-analysis-0cda7a28",
+  "title": "Solang Parser and Semantic Analysis",
+  "type": "security-review",
+  "publicationDate": "2",
+  "url": "https://solana.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "solana"
+    ]
+  },
+  "metadata": {
+    "product": "Solang Parser and Semantic Analysis",
+    "client": "Solana"
+  }
+}

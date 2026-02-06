@@ -1,0 +1,21 @@
+{
+  "id": "ton-foundation-multisignature-wallet-e663c9a2",
+  "title": "TON Foundation Multisignature Wallet",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://ton.foundation/en/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain",
+      "cryptography"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "TON Foundation Multisignature Wallet",
+    "client": "TON"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pixel-95aa965d",
+  "title": "Pixel",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.algorand.com/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "tags": {
+    "platforms": [
+      "algorand"
+    ]
+  },
+  "metadata": {
+    "product": "Pixel",
+    "client": "Algorand"
+  }
+}

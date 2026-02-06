@@ -1,0 +1,17 @@
+{
+  "id": "yield-protocol-e13a4fa3",
+  "title": "Yield Protocol",
+  "type": "security-review",
+  "publicationDate": "6",
+  "url": "https://yield.is/Yield.pdf",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ]
+  },
+  "metadata": {
+    "product": "Yield Protocol",
+    "client": "Ethereum/EVM"
+  }
+}

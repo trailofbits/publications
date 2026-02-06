@@ -1,0 +1,20 @@
+{
+  "id": "gemini-smart-wallet-595fbc32",
+  "title": "Gemini Smart Wallet",
+  "type": "security-review",
+  "publicationDate": "4",
+  "url": "https://www.gemini.com/wallet/",
+  "categories": {
+    "publicationType": "security-review",
+    "domain": [
+      "blockchain"
+    ],
+    "subdomain": [
+      "wallets"
+    ]
+  },
+  "metadata": {
+    "product": "Gemini Smart Wallet",
+    "client": "Wallet Reviews"
+  }
+}
