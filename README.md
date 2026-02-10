@@ -1072,6 +1072,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [TONCO CLAMM DEX v1.6](https://app.tonco.io/#/swap) | Jan 2026 | 11 | [TONCO v1.6 is live](https://x.com/Tonco_io/status/2020808567419195632) | [📄✅](reviews/2026-02-tonco-clamm-securityreview.pdf) |
 | [EVAA Finance](https://evaa.finance/) | Aug 2025 | 8.6 | | [📄✅](reviews/2025-08-evaafinance-securityreview.pdf) |
 | [Swap Coffee TON DEX](https://swap.coffee/dex/) | Jul 2025 | 6 | | [📄✅](reviews/2025-07-swapcoffee-tondex-securityreview.pdf) |
 | [FIVA Yield Protocol](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf) |
