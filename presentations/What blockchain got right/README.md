@@ -1,16 +1,18 @@
-## What blockchain got right
+---
+title: "What Blockchain Got Right"
+date: 2019-04-29
+authors:
+  - Dan Guido
+  - JP Smith
+  - Artem Dinaburg
+conference:
+  - HCSS 2019
+  - Nullcon Berlin 2022
+resources:
+  - label: Slides
+    path: "what_blockchain_got_right.pdf"
+  - label: Recording (Nullcon Berlin 2022)
+    url: https://www.youtube.com/watch?v=ydRQf7HQi20
+---
 
-Presented at
-
-* [High Confidence Software and Systems](https://cps-vo.org/group/hcss_conference/program) (HCSS) 2019 Keynote
-* [Nullcon Berlin 2022](https://nullcon.net/berlin-2022/conference-speakers/)
-
-Resources
-
-* Slides: [What blockchain got right](what_blockchain_got_right.pdf)
-* Video: [Nullcon Berlin 2022](https://www.youtube.com/watch?v=ydRQf7HQi20)
-
-Authors
-* Dan Guido
-* JP Smith
-* Artem Dinaburg
+A keynote presentation examining the innovations and techniques that blockchain technology has introduced which have broader applicability to software security and systems design. Presented first at the High Confidence Software and Systems conference as a keynote address, then revisited at Nullcon Berlin in 2022.

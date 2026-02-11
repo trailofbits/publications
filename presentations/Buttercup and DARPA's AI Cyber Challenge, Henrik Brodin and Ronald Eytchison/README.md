@@ -1,16 +1,14 @@
-# Buttercup and DARPA's AI Cyber Challenge, Ringzer0
+---
+title: "Buttercup and DARPA's AI Cyber Challenge"
+date: 2025-11-07
+authors:
+  - Henrik Brodin
+  - Ronald Eytchison
+conference:
+  - Ringzer0 Countermeasure 2025
+resources:
+  - label: Slides
+    path: "Buttercup and DARPA's AI Cyber Challenge - Ringzer0.pdf"
+---
 
-This presentation discusses Buttercup—Trail of Bits' automated, AI-powered system for finding and fixing bugs in open-source software—and its success in DARPA's AI Cyber Challenge, where it won 2nd place and a $3 million prize.
-
-Presented at
-
-- [Ringzer0 Countermeasure](https://ringzer0.training/countermeasure25-buttercup-and-darpas-ai-cyber-challenge/)
-
-Authors
-
-- Henrik Brodin
-- Ronald Eytchison
-
-Resources
-
-- [Slides](Buttercup%20and%20DARPA’s%20AI%20Cyber%20Challenge%20-%20Ringzer0.pdf)
+This presentation discusses Buttercup, Trail of Bits' automated, AI-powered system for finding and fixing bugs in open-source software, and its success in DARPA's AI Cyber Challenge where it won 2nd place and a $3 million prize. It covers how Buttercup autonomously discovers and patches real vulnerabilities using static analysis and AI-guided fuzzing, the multi-agent architecture, and lessons learned about when AI helps versus hurts.

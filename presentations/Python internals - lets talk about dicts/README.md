@@ -1,18 +1,16 @@
-# Python internals - let's talk about dicts
+---
+title: "Python internals - let's talk about dicts"
+date: 2019-09
+authors:
+  - Dominik Czarnota
+conference:
+  - PyConPL 2019
+  - Pykonik Tech Talks #43
+resources:
+  - label: Slides
+    url: https://docs.google.com/presentation/d/1jVhSF_YnR-z0_1ftsQWjluYZxiaq2xDX3kSouDbccP8
+  - label: Recording
+    url: https://www.youtube.com/watch?v=KOVgbnGvGTg
+---
 
-This talk shows some corners of Python dictionary data structure. It discusses quirks with dictionary keys hashing, flaws of overriding dicts and how to do it properly, shows a `__missing__` magic method example and ways to update dict without overriding its keys. It also explains issues regarding hashing of mutable values.
-
-
-Resources:
-* [Slides](https://docs.google.com/presentation/d/1jVhSF_YnR-z0_1ftsQWjluYZxiaq2xDX3kSouDbccP8)
-* [Video from Pykonik Tech Talks #43](https://www.youtube.com/watch?v=KOVgbnGvGTg)
-
-Presented at
-
-* [PyConPL 2019](https://pl.pycon.org/2019/en/agenda/#:~:text=Dominik,dicts), September 2019
-* [Pykonik Tech Talks #43](https://www.pykonik.org/tech-talks/43/), March 2019
-
-
-Authored by
-
-* Dominik 'disconnect3d' Czarnota
+This talk explores corners of the Python dictionary data structure. It discusses quirks with dictionary key hashing, flaws of overriding dicts and how to do it properly, demonstrates the __missing__ magic method, and shows ways to update a dict without overriding its keys. It also explains issues regarding hashing of mutable values.

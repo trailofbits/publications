@@ -1,17 +1,17 @@
-# Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch
+---
+title: "Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch"
+date: 2025-09-08
+authors:
+  - Evan Downing
+conference:
+  - OpenSearchCon North America 2025
+resources:
+  - label: Slides
+    path: "Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch.pdf"
+  - label: Recording
+    url: https://youtu.be/QF0eCS1xr8I
+  - label: Blog Post
+    url: https://blog.trailofbits.com/2025/03/06/benchmarking-opensearch-and-elasticsearch/
+---
 
-This talk presents our [work](https://blog.trailofbits.com/2025/03/06/benchmarking-opensearch-and-elasticsearch/) developing our automated benchmarking framework running OpenSearch Benchmark. Using GitHub Actions and AWS, we make benchmarking OpenSearch and Elasticsearch easy. Using our framework, we reveal performance inconsistencies and outliers that impacted results. Today, our work continues on newer releases of both platforms, with preliminary findings suggesting improved performance for both engines.
-
-Presented at
-
-- [OpenSearchCon 2025](https://events.linuxfoundation.org/opensearchcon-north-america/)
-
-Author
-
-- Evan Downing
-
-Resources
-
-- [Conference Schedule](https://opensearchconna2025.sched.com/)
-- [Slides](Repeatable%20Benchmarking:%20An%20Exploration%20of%20OpenSearch%20vs%20Elasticsearch.pdf)
-- [Recording](https://youtu.be/QF0eCS1xr8I?si=C26o0eMggQ7KKs9Z)
+This talk presents Trail of Bits' automated benchmarking framework for running OpenSearch Benchmark using GitHub Actions and AWS to make benchmarking OpenSearch and Elasticsearch easy. Using this framework, the team reveals performance inconsistencies and outliers that impacted results, with preliminary findings on newer releases suggesting improved performance for both engines.
