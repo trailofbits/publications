@@ -313,6 +313,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Risky Biz](https://risky.biz/RBNEWSSI114/) | Dan Guido | Feb 2026 | AI at Trail of Bits |
+| [What's in the SOSS? 53](https://openssf.org/podcast/2026/02/09/whats-in-the-soss-podcast-53-s3e5-aixcc-part-3-buttercups-hybrid-approach-trail-of-bits-journey-to-second-place-in-aixcc/) | Michael Brown | Feb 2026 | AIxCC & Buttercup |
 | [Insecure Agents 18](https://insecureagents.com/episodes/18-kiki-morozova) | Kikimora Morozova | Dec 2025 | AI prompt injections |
 | [Risky Biz](https://risky.biz/RBNEWSS198/) | Keith Hoodlet | Sep 2025 | AI prompt injections |
 | [Zero Signal](https://www.youtube.com/watch?v=G3pGCEQWJZs&list=PLvtGUUDFmi-aTEsna3wgfMrCH-DpZQJgn&index=2) | Keith Hoodlet | Sep 2025 | AI Security |
@@ -322,10 +324,12 @@
 | [Click Here Show](https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394) | Dan Guido | Jun 2025 | Zoom remote control attacks |
 | [Security Weekly 336](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
 | [Protect AI](https://youtu.be/saLKE9y4EoU?si=9xqCNiY_Fx3ad9Mu) | Keith Hoodlet | Jun 2025 | MCP Security |
+| [Open Source Security](https://www.youtube.com/watch?v=EKXV6vxRTHM) | William Woodruff | May 2025 | Zizmor & GitHub Actions security |
 | [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/ML security |
 | [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain |
 | [Security Weekly 323](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
+| [The Impulsive Thinker](https://theimpulsivethinker.libsyn.com/unlocking-ai-a-tool-not-a-magic-bullet-for-adhd-entrepreneurs) | Dan Guido | Feb 2025 | AI as a practical tool |
 | [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
 | [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
 | [Risky Biz 759](https://youtu.be/4zpPk3Y4CYA?si=Pvd8px1DQHRPsRtM&t=3046)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
