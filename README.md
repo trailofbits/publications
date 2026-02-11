@@ -171,10 +171,12 @@
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
 | [Safely integrating with ERC20 tokens](presentations/Safely%20integrating%20with%20ERC20%20tokens) | Josselin Feist | 2021 |
 | [Detecting transaction replacement attacks with Manticore](presentations/Detecting%20transaction%20replacement%20attacks%20with%20Manticore) | Sam Moelius | 2020 |
+| [DeFi Hacks and Future Threats: The Role of Economics in Secure Protocol Design](presentations/DeFi%20Hacks%20and%20Future%20Threats) | Dan Guido | 2020 |
 | [Fantastic Bugs and How to Squash Them; or, the Crimes of Solidity](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2019 |
 | [SlithIR: High-Precision Security Analysis with an IR for Solidity](presentations/SlithIR%2C%20An%20Intermediate%20Representation%20of%20Solidity%20to%20enable%20High%20Precision%20Security%20Analysis) | Josselin Feist | 2019 |
 | [Slither: A Static Analysis Framework for Smart Contracts](presentations/Slither:%20A%20Static%20Analysis%20Framework%20for%20Smart%20Contracts) | Josselin Feist | 2019 |
 | [What blockchain got right](presentations/What%20blockchain%20got%20right) | Dan Guido | 2019 |
+| [Traditional Infosec for Blockchain Firms](presentations/Traditional%20Infosec%20for%20Blockchain%20Firms) | Dan Guido | 2019 |
 | [Property-testing of smart contracts](presentations/Property-based%20testing%20of%20smart%20contracts) | JP Smith | 2018 |
 | [Anatomy of an unsafe programming language](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2018 |
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
@@ -216,6 +218,7 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking%3A%20An%20Exploration%20of%20OpenSearch%20vs%20Elasticsearch) | Evan Downing | 2025 |
+| [Evidence-driven Security Engineering](presentations/Evidence-driven%20Security%20Engineering) | Dan Guido | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
