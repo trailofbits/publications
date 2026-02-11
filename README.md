@@ -374,6 +374,7 @@
 | [Risky Biz 526](https://risky.biz/RB526/) | JP Smith | Jan 2019 | Post-quantum crypto in CTFs |
 | [Absolute AppSec 37](https://www.youtube.com/watch?v=beGo7l0u5cY) | Stefan Edwards | Nov 2018 | Programming languages,  symbex |
 | [Risky Biz 510](https://risky.biz/RB510/) | Lauren Pearl | Aug 2018 | Open source security engineering |
+| [The Smartest Contract 15](https://web.archive.org/web/20181018135712/http://www.thesmartestcontract.com/15) | JP Smith | Aug 2018 | Trail of Bits security tools & auditing |
 | [Absolute AppSec 34](https://www.youtube.com/watch?v=gtikYoT6vKc) | Stefan Edwards | Oct 2018 | Security testing, blockchain |
 | [Zero Knowledge 16](https://www.zeroknowledge.fm/16) | JP Smith | Mar 2018 | Smart contract security |
 | [Risky Biz 488](https://risky.biz/RB488/) | JP Smith | Feb 2018 | Smart contract testing w/ Manticore |
