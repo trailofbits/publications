@@ -133,6 +133,7 @@
  | [A Sermon on the Indulgences of Computational Sacrifice; or, The Superabundant Benedictions of Programming an Absurd NES Game](https://www.youtube.com/watch?v=RTjP3fnQ5d8) | Evan Sultanik | 2021 |
 | [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
 | [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff                                  | 2020 |
+| [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](presentations/Semantic%20Labeling%20of%20Parsers) | Carson Harmon, Brad Larsen, Evan Sultanik | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik                                     | 2019 |
 | [Symbolically Executing a Fuzzy Tyrant](presentations/Symbolically%20Executing%20a%20Fuzzy%20Tyrant) | Stefan Edwards                                    | 2019 |
 | [Kernel space fault injection with KRF](presentations/Kernel%20space%20fault%20injection%20with%20KRF) | William Woodruff                                  | 2019 |
@@ -162,10 +163,10 @@
 | [Slither: a static analysis tool for Vyper and Solidity](presentations/TrustX%202023/Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer) | Troy Sargent | 2023 |
 | [Roundme: rounding analysis made simpler](presentations/TrustX%202023/roundme) | Josselin Feist | 2023 |
 | [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 |
-| [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 |
+| [Fuzzing like a security engineer](presentations/How%20to%20Fuzz%20Like%20a%20Pro/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 |
 | [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
-| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
+| [How to fuzz like a pro](presentations/How%20to%20Fuzz%20Like%20a%20Pro) | Josselin Feist, Nat Chin | 2022 |
 | [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
