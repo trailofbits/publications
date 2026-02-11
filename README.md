@@ -329,7 +329,7 @@
 | [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain |
 | [Security Weekly 323](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
-| [The Impulsive Thinker](https://theimpulsivethinker.libsyn.com/unlocking-ai-a-tool-not-a-magic-bullet-for-adhd-entrepreneurs) | Dan Guido | Feb 2025 | AI as a practical tool |
+| [The Impulsive Thinker](https://theimpulsivethinker.libsyn.com/unlocking-ai-a-tool-not-a-magic-bullet-for-adhd-entrepreneurs) | Dan Guido | Feb 2025 | Mental health & neurodivergence |
 | [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
 | [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
 | [Risky Biz 759](https://youtu.be/4zpPk3Y4CYA?si=Pvd8px1DQHRPsRtM&t=3046)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
