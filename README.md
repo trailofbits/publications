@@ -122,17 +122,18 @@
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
 | [Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software](presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf) | Ronald Eytchison                              | 2025 |
-| [Buttercup and DARPA's AI Cyber Challenge, CSAW](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Ronald%20Eytchison) | Ronald Eytchison | 2025 |
 | [Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge](presentations/Buttercup:%20The%20Future%20of%20Trail%20of%20Bits'%20Solution%20to%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
 | [Buttercup and DARPA's AI Cyber Challenge, Ringzer0](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Henrik%20Brodin%20and%20Ronald%20Eytchison) | Henrik Brodin, Ronald Eytchison | 2025 |
 | [Our experience competing in the AI Cyber Challenge](presentations/Our%20experience%20competing%20in%20the%20AI%20Cyber%20Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf) | Michael Brown et al.                              | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge, CSAW](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Ronald%20Eytchison) | Ronald Eytchison | 2024 |
 | [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir                                     | 2023 |
-| [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
+| [Detecting variability bugs with hybrid control and data flow](presentations/Automatically%20Detecting%20Variability%20Bugs%20Through%20Hybrid%20Control%20and%20Data%20Flow%20Analysis) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
 | Blind Spots: Identifying Exploitable Program Inputs | Henrik Brodin, Evan Sultanik, and Marek Surovič    | 2023 |
 | [MLIR is the future of program analysis](presentations/MLIR%20is%20the%20future%20of%20program%20analysis) | Peter Goodman                                     | 2023 |
- | [A Sermon on the Indulgences of Computational Sacrifice; or, The Superabundant Benedictions of Programming an Absurd NES Game](https://www.youtube.com/watch?v=RTjP3fnQ5d8) | Evan Sultanik | 2021 |
+| [A Sermon on the Indulgences of Computational Sacrifice; or, The Superabundant Benedictions of Programming an Absurd NES Game](https://www.youtube.com/watch?v=RTjP3fnQ5d8) | Evan Sultanik | 2021 |
 | [Differential analysis of x86-64 instruction decoders](presentations/Differential%20analysis%20of%20x86-64%20decoders) | William Woodruff, Niki Carroll, Sebastiaan Peters | 2021 |
-| [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or_%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff                                  | 2020 |
+| [How to find bugs when (ground) truth isn't real](presentations/Differential%20fuzzing,%20or%20how%20to%20find%20bugs%20when%20%28ground%29%20truth%20isn't%20real) | William Woodruff                                  | 2020 |
+| [Toward Automated Grammar Extraction via Semantic Labeling of Parser Implementations](presentations/Semantic%20Labeling%20of%20Parsers) | Carson Harmon, Brad Larsen, Evan Sultanik | 2020 |
 | [The Treachery of Files and Two New Tools that Tame It](presentations/The%20Treachery%20of%20Files) | Evan Sultanik                                     | 2019 |
 | [Symbolically Executing a Fuzzy Tyrant](presentations/Symbolically%20Executing%20a%20Fuzzy%20Tyrant) | Stefan Edwards                                    | 2019 |
 | [Kernel space fault injection with KRF](presentations/Kernel%20space%20fault%20injection%20with%20KRF) | William Woodruff                                  | 2019 |
@@ -162,19 +163,21 @@
 | [Slither: a static analysis tool for Vyper and Solidity](presentations/TrustX%202023/Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer) | Troy Sargent | 2023 |
 | [Roundme: rounding analysis made simpler](presentations/TrustX%202023/roundme) | Josselin Feist | 2023 |
 | [Smart Contracts: The Beta](presentations/Smart%20Contracts:%20The%20Beta/DSS%20101.pdf) | Nat Chin | 2023 |
-| [Fuzzing like a security engineer](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC-EthTaipei/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 |
+| [Fuzzing like a security engineer](presentations/How%20to%20Fuzz%20Like%20a%20Pro/Eth%20Taipei%20Workshop.pdf) | Nat Chin | 2023 |
 | [Write better smart contracts with Slither's Python API](presentations/Write%20Better%20Smart%20Contracts%20By%20Checking%20Them%20With%20Slither's%20Python%20API) | Troy Sargent | 2022 |
 | [Building Secure Cairo](presentations/Building%20Secure%20Cairo) | Filipe Casal, Simone Monica | 2022 |
-| [How to fuzz like a pro](presentations/How%20to%20fuzz%20like%20a%20pro-Defi%20Security%20Summit-EthCC) | Josselin Feist, Nat Chin | 2022 |
-| [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing/) | Nat Chin | 2022 |
+| [How to fuzz like a pro](presentations/How%20to%20Fuzz%20Like%20a%20Pro) | Josselin Feist, Nat Chin | 2022 |
+| [Demystifying Fuzzing](presentations/Demystifying%20Fuzzing) | Nat Chin | 2022 |
 | [Building a Practical Static Analyzer for Smart Contracts](presentations/Building%20a%20Practical%20Static%20Analyzer%20for%20Smart%20Contracts) | Josselin Feist | 2021 |
 | [Testing and Verifying Smart Contracts: From Theory to Practice](presentations/Testing%20and%20Verifying%20Smart%20Contracts:%20From%20Theory%20to%20Practice) | Josselin Feist | 2021 |
 | [Safely integrating with ERC20 tokens](presentations/Safely%20integrating%20with%20ERC20%20tokens) | Josselin Feist | 2021 |
 | [Detecting transaction replacement attacks with Manticore](presentations/Detecting%20transaction%20replacement%20attacks%20with%20Manticore) | Sam Moelius | 2020 |
+| [DeFi Hacks and Future Threats: The Role of Economics in Secure Protocol Design](presentations/DeFi%20Hacks%20and%20Future%20Threats) | Dan Guido | 2020 |
 | [Fantastic Bugs and How to Squash Them; or, the Crimes of Solidity](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2019 |
 | [SlithIR: High-Precision Security Analysis with an IR for Solidity](presentations/SlithIR%2C%20An%20Intermediate%20Representation%20of%20Solidity%20to%20enable%20High%20Precision%20Security%20Analysis) | Josselin Feist | 2019 |
 | [Slither: A Static Analysis Framework for Smart Contracts](presentations/Slither:%20A%20Static%20Analysis%20Framework%20for%20Smart%20Contracts) | Josselin Feist | 2019 |
 | [What blockchain got right](presentations/What%20blockchain%20got%20right) | Dan Guido | 2019 |
+| [Traditional Infosec for Blockchain Firms](presentations/Traditional%20Infosec%20for%20Blockchain%20Firms) | Dan Guido | 2019 |
 | [Property-testing of smart contracts](presentations/Property-based%20testing%20of%20smart%20contracts) | JP Smith | 2018 |
 | [Anatomy of an unsafe programming language](presentations/Anatomy%20of%20an%20unsafe%20programming%20language) | Evan Sultanik | 2018 |
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
@@ -191,7 +194,7 @@
 | --- | --- | --- |
 | [Constant-Time Coding Support in LLVM](presentations/Constant-Time%20Coding%20Support%20in%20LLVM) | Julius Alexandre | 2025 |
 | [A Broad Comparative Evaluation of Software Debloating Tools](presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf) | Michael D. Brown, Adam Meily, Eric Kilmer, Ronald Eytchison | 2024 |
-| [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
+| [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
 | [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
 | [A Broad Comparative Evaluation of x86-64 Binary Rewriters](presentations/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters/A%20Broad%20Comparative%20Evaluation%20of%20x86-64%20Binary%20Rewriters.pdf) | Michael D. Brown | 2022 |
 | [On the Optimization of Equivalent Concurrent Computations](presentations/On%20the%20Optimization%20of%20Equivalent%20Concurrent%20Computations/PLDI-EGRAPHS-2022.pdf) | Henrich Lauko, Lukáš Korenčik, Peter Goodman | 2022 |
@@ -216,6 +219,7 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking%3A%20An%20Exploration%20of%20OpenSearch%20vs%20Elasticsearch) | Evan Downing | 2025 |
+| [Evidence-driven Security Engineering](presentations/Evidence-driven%20Security%20Engineering) | Dan Guido | 2019 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -251,11 +255,11 @@
 | [Weaponizing Image Scaling Against Production AI Systems](presentations/Weaponizing%20Image%20Scaling%20Against%20Production%20AI%20Systems) | Kikimora Morozova, Suha Sabi Hussain | 2025 |
 | [Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems](presentations/Indirect%20Prompt%20Injection%3A%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI%20ML%20Systems) | Will Vandevanter | 2025 |
 | [From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
-| [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
 | [Frontier AI in Cybersecurity: Risks and Opportunities](presentations/Frontier%20AI%20in%20Cybersecurity%3A%20Risks%20and%20Opportunities) | Dan Guido, Riccardo Schirone | 2025 |
+| [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2024 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
 | [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
-| [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
+| [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis) | Michael D. Brown                                     | 2023 |
 | [Exploiting Machine Learning Pickle Files](presentations/Never%20a%20Dill%20Moment:%20Exploiting%20Machine%20Learning%20Pickle%20Files) | Carson Harmon, Evan Sultanik, Jim Miller, Suha Sabi Hussain | 2021 |
 | [PrivacyRaven: Comprehensive Privacy Testing for Deep Learning](presentations/PrivacyRaven:%20Comprehensive%20Privacy%20Testing%20for%20Deep%20Learning) | Suha Sabi Hussain | 2020 |
 
@@ -289,13 +293,13 @@
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 | [Attestations: a new generation of signatures on PyPI](presentations/Attestations:%20a%20new%20generation%20of%20signatures%20on%20PyPI) | William Woodruff | 2025 |
-| [The Next 5 Years of Supply Chain Security on PyPI](presentations/The%20Next%205%20Years%20of%20Supply%20Chain%20Security%20on%20PyPI/) | William Woodruff | 2024 |
+| [The Next 5 Years of Supply Chain Security on PyPI](presentations/The%20Next%205%20Years%20of%20Supply%20Chain%20Security%20on%20PyPI) | William Woodruff | 2024 |
 | [PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem](presentations/PEP%20740%20and%20PyPI:%20Bootstrapping%20Provenance%20for%20the%20Python%20Ecosystem) | William Woodruff | 2024 |
 | [Imagining a zero-trust future for PyPI](presentations/Imagining%20a%20zero-trust%20future%20for%20PyPI) | William Woodruff | 2024 |
-| [Build Provenance: Lessons (so far) from Homebrew](presentations/Build%20Provenance:%20Lessons%20(so%20Far)%20from%20Homebrew) | Joe Sweeney | 2024 |
-| [What does it look like to code-sign for an entire packaging ecosystem?](presentations/What%20does%20it%20look%20like%20to%20code-sign%20for%20an%20entire%20packaging%20ecosystem/) | William Woodruff | 2023 |
+| [Build Provenance: Lessons (so far) from Homebrew](presentations/Build%20Provenance:%20Lessons%20%28so%20Far%29%20from%20Homebrew) | Joe Sweeney | 2024 |
+| [What does it look like to code-sign for an entire packaging ecosystem?](presentations/What%20does%20it%20look%20like%20to%20code-sign%20for%20an%20entire%20packaging%20ecosystem) | William Woodruff | 2023 |
 | [Securing your Package Ecosystem with Trusted Publishing](presentations/Securing%20your%20Package%20Ecosystem%20with%20Trusted%20Publishing) | William Woodruff | 2023 |
-| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI/) | William Woodruff | 2023 |
+| [Trusted Publishing: Lessons from PyPI](presentations/Trusted%20Publishing:%20Lessons%20from%20PyPI) | William Woodruff | 2023 |
 | [Ergonomic codesigning for the Python ecosystem with Sigstore](presentations/Ergonomic%20codesigning%20for%20the%20Python%20ecosystem%20with%20Sigstore) | William Woodruff | 2023 |
 | [Sigstore for Python Packaging: Next Steps for Adoption](presentations/Sigstore%20for%20Python%20Packaging%3A%20Next%20Steps%20for%20Adoption) | William Woodruff | 2022 |
 | [Python Packaging Mystery Meat](presentations/Python%20Packaging%20Mystery%20Meat) | William Woodruff | 2022 |
