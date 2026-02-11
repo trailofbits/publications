@@ -1,19 +1,26 @@
-# The Treachery of Files
+---
+title: "The Treachery of Files"
+date: 2019-12
+authors:
+  - Evan Sultanik
+conference:
+  - BSides Philly 2017
+  - Empire Hacking 2019
+resources:
+  - label: Slides (BSides Philly 2017)
+    path: "File Polyglottery BSides Philly 2017.pdf"
+  - label: Slides (Empire Hacking 2019)
+    path: "The Treachery of Files Empire Hacking 2019.pdf"
+  - label: Recording (BSides Philly 2017)
+    url: https://www.youtube.com/watch?v=fdKPnsWp9ho
+  - label: Recording (Empire Hacking 2019)
+    url: https://www.youtube.com/watch?v=LqRbfzhcI5g
+  - label: Blog Post
+    url: https://blog.trailofbits.com/2019/11/01/two-new-tools-that-tame-the-treachery-of-files/
+  - label: PolyFile
+    url: https://github.com/trailofbits/polyfile
+  - label: PolyTracker
+    url: https://github.com/trailofbits/polytracker
+---
 
-Parsing is hard, even when a file format is well specified. But when the specification is ambiguous, it leads to unintended and strange parser and interpreter behaviors that make file formats susceptible to security vulnerabilities. What if we could automatically generate a “safe” subset of any file format, along with an associated, verified parser? This talk explores that question, provides examples of malicious files, examines some troublesome parsers, and introduces two new tools for reverse engineering files and parsers. PolyFile is a tool for exploring the contents and structure of files to detect funky file tricks like steganography, polyglots, and chimeras. PolyTracker can instrument parsers to perform efficient universal taint tracking, to associate which bytes of the input file are operated on by which functions. Used in conjunction, these tools will permit us to specify safer subsets of file formats.
-
-Resources
-
-* [Blog post on the tooling](https://blog.trailofbits.com/2019/11/01/two-new-tools-that-tame-the-treachery-of-files/)
-* [PoC||GTFO](https://sultanik.com/pocorgtfo/), the journal in which most of the funky file format tricks were published
-* https://github.com/trailofbits/polyfile
-* https://github.com/trailofbits/polytracker
-
-Presented at
-
-* [BSides Philly 2017](https://www.youtube.com/watch?v=fdKPnsWp9ho): an earlier but more technically deep version
-* [Empire Hacking, December 2019](https://www.youtube.com/watch?v=LqRbfzhcI5g): a newer version with much more breadth
-
-Authored by
-
-* Evan Sultanik
+Parsing is hard, even when a file format is well specified. When the specification is ambiguous, it leads to unintended parser behaviors that make file formats susceptible to security vulnerabilities. This talk explores whether we could automatically generate a safe subset of any file format along with an associated verified parser, provides examples of malicious files, and introduces PolyFile and PolyTracker -- two new tools for reverse engineering files and parsers.

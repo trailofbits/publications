@@ -1,4 +1,14 @@
-# The Next 5 Years of Supply Chain Security on PyPI
+---
+title: "The Next 5 Years of Supply Chain Security on PyPI"
+date: 2024-11-12
+authors:
+  - William Woodruff
+conference:
+  - SigstoreCon 2024
+resources:
+  - label: Slides
+    path: "slides.pdf"
+---
 
 Over the last 5 years, PyPI has adopted a large number of technologies and
 standards aimed at improving the integrity of the Python packaging ecosystem:
@@ -21,11 +31,3 @@ limited to):
 * TOFU-style identity locking via lockfiles, including (potentially) Python's
   PEP 751;
 * Using TUF to distribute complex identity policies.
-
-Presented at:
-
-* [Sigstorecon](https://events.linuxfoundation.org/sigstorecon-supply-chain-day/), 2024
-
-Authored by:
-
-* William Woodruff

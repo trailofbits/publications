@@ -1,5 +1,14 @@
-Sigstore for Python Packaging: Next Steps for Adoption
-=============
+---
+title: "Sigstore for Python Packaging: Next Steps for Adoption"
+date: 2022-10-25
+authors:
+  - William Woodruff
+conference:
+  - SigstoreCon 2022
+resources:
+  - label: Slides
+    path: "slides.pdf"
+---
 
 Sigstore is coming to the Python packaging ecosystem!
 
@@ -18,11 +27,3 @@ authenticity and integrity without having to substantially alter their workflows
 and "proactive" users, who should be able to opt into *additional* security
 guarantees (such as verification against TUF-attested claims) both when
 packaging and consuming others' packages.
-
-Presented at:
-
-* SigstoreCon, 2022
-
-Authored by:
-
-* William Woodruff

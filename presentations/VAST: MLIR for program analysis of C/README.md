@@ -1,5 +1,16 @@
-VAST: MLIR for program analysis of C/C++
-=====================================================================================
+---
+title: "VAST: MLIR for program analysis of C/C++"
+date: 2022-11
+authors:
+  - Henrich Lauko
+conference:
+  - LLVM Developers' Meeting 2022
+resources:
+  - label: Slides
+    path: "slides.pdf"
+  - label: Recording
+    url: https://youtu.be/YFqWa4pxXzM?si=5GZjmm7-AsM8DkhN
+---
 
 Program analysis has specific requirements for compiler toolchains that are
 usually unsatisfied. Ideally, an analysis tool would pick the best-fit
@@ -12,15 +23,3 @@ library for multi-level C/C++ representation. With VAST, an analysis does not
 need to commit to a single best fit. Instead, an analysis can have simultaneous
 visibility into multiple progressions of the code, from very high-level down to
 very low-level.
-
-Resources:
-* [Slides](slides.pdf)
-* [Video](https://youtu.be/YFqWa4pxXzM?si=5GZjmm7-AsM8DkhN)
-
-Presented at:
-
-* [LLVM Developers' Meeting, 2022](https://llvm.swoogo.com/2022devmtg/session/1093944/vast-mlir-for-program-analysis-of-cc++)
-
-Authored by:
-
-* Henrich Lauko

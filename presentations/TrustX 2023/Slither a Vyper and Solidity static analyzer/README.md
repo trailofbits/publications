@@ -1,16 +1,17 @@
-## Slither: a static analysis tool for Vyper and Solidity
+---
+title: "Slither: A Static Analysis Tool for Vyper and Solidity"
+date: 2023-11-13
+authors:
+  - Troy Sargent
+conference:
+  - Secureum TrustX 2023
+resources:
+  - label: Slides
+    path: "TrustX 2023 - Slither a Vyper and Solidity static analyzer.pdf"
+  - label: Recording
+    url: https://youtu.be/UolRTfsFx3Q?si=JPJROuunWn9lfzyV
+  - label: Slither
+    url: https://github.com/crytic/slither
+---
 
-This talk discusses how to use Slither for static analysis of both Solidity and Vyper smart contracts. This presentation shows how to find bugs in Vyper codebases and provides tips on how to use Slither effectively.
-
-Presented at
-
-* [TrustX 2023 - Slither: a static analysis tool for Vyper and Solidity](https://youtu.be/UolRTfsFx3Q?si=JPJROuunWn9lfzyV)
-
-Resources
-
-* [Slides](./TrustX%202023%20-%20Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer.pdf)
-* [Slither](https://github.com/crytic/slither)
-
-Author
-
-* Troy Sargent
+This talk discusses how to use Slither for static analysis of both Solidity and Vyper smart contracts. It shows how to find bugs in Vyper codebases and provides tips on how to use Slither effectively.

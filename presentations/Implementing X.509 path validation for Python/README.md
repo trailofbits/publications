@@ -1,5 +1,14 @@
-Implementing X.509 path validation for Python
-=============================================
+---
+title: "Implementing X.509 path validation for Python"
+date: 2024-04-02
+authors:
+  - William Woodruff
+conference:
+  - Open Source Cryptography Workshop 2024
+resources:
+  - label: Slides
+    path: "slides.pdf"
+---
 
 Over the past year, [PyCA Cryptography](https://github.com/pyca/cryptography)
 (the dominant cryptographic library for Python) has been developing an
@@ -14,11 +23,3 @@ maintainers with the initiative, foster reuse of the components developed
 (including the internal, pure-Rust path validation API), as well as spur
 discussion about misuse-resistant API design and potential reuse of the
 testvector suite in other X.509 path validation implementations.
-
-Presented at:
-
-* [Open Source Cryptography Workshop](https://opensourcecryptowork.shop/2024/), 2024
-
-Authored by:
-
-* William Woodruff

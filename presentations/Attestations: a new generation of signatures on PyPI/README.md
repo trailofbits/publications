@@ -1,4 +1,14 @@
-# Attestations: a new generation of signatures on PyPI
+---
+title: "Attestations: a new generation of signatures on PyPI"
+date: 2025-05-17
+authors:
+  - William Woodruff
+conference:
+  - PyCon US 2025
+resources:
+  - label: Slides
+    path: "slides.pdf"
+---
 
 End-to-end signing and verification is one of the hardest technical and social
 challenges in open source packaging: it rests at the fault lines of error- and
@@ -26,11 +36,3 @@ required. Audience members will leave the talk with an improved understanding of
 the challenges latent in end-user signing, how PEP 740's design and PyPI's
 implementation overcome those challenges, and how they can both produce and
 consume attestations today.
-
-Presented at:
-
-* [PyCon 2025](https://us.pycon.org/2025/schedule/presentation/76/)
-
-Authored by:
-
-* William Woodruff

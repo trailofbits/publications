@@ -1,4 +1,14 @@
-# PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem
+---
+title: "PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem"
+date: 2024-10-22
+authors:
+  - William Woodruff
+conference:
+  - SOSS Fusion 2024
+resources:
+  - label: Slides
+    path: "slides.pdf"
+---
 
 PyPI is the official package index for the Python programming language, and one
 of the largest OSS package indices, serving over 1.2 billion downloads of over
@@ -15,11 +25,3 @@ packaging more broadly) is using PEP 740 to "bootstrap" strong, maintainer
 digital provenance for Python packages on top of PyPI's pre-existing support for
 Trusted Publishing, without the traditional downsides of key and identity
 management, complex signing ceremonies, and so forth.
-
-Presented at:
-
-* [SOSS Fusion](https://events.linuxfoundation.org/soss-fusion/), 2024
-
-Authored by:
-
-* William Woodruff

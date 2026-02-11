@@ -1,13 +1,15 @@
-Automated Tools for Securing the Software Supply Chain
-=============================
+---
+title: "Automated Tools for Securing the Software Supply Chain"
+date: 2022
+authors:
+  - Michael Brown
+  - Evan Sultanik
+  - Will Woodruff
+conference:
+  - ITEA Cybersecurity Workshop 2022
+resources:
+  - label: Slides
+    path: "Automated Tools for Securing the Software Supply Chain.pdf"
+---
 
-We discuss the inherent challenges in securing the software supply chain and the shortcomings of existing approaches. We discuss the motivation, design, and implementation of It-Depends and Pip-audit and demonstrate how these tools can be used to generate SBOMs and provide insight into the security posture of a given software package.
-
-
-Presented at:
-
-* International Test and Evaluation (ITEA Cybersecurity Workshop), 2022
-
-Authored by:
-
-* Michael Brown, Evan Sultanik, Will Woodruff
+This presentation discusses the inherent challenges in securing the software supply chain and the shortcomings of existing approaches. It covers the motivation, design, and implementation of It-Depends and pip-audit, demonstrating how these tools can be used to generate SBOMs and provide insight into the security posture of a given software package.

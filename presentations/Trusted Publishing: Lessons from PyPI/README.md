@@ -1,4 +1,14 @@
-# Trusted Publishing: Lessons from PyPI
+---
+title: "Trusted Publishing: Lessons from PyPI"
+date: 2023-10-26
+authors:
+  - William Woodruff
+conference:
+  - PackagingCon 2023
+resources:
+  - label: Slides
+    path: "Trusted Publishing: Lessons from PyPI.pdf"
+---
 
 This talk will provide a developer-minded introduction to "trusted publishing,"
 an OpenID Connect-based authentication scheme that PyPI has successfully
