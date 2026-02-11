@@ -96,7 +96,7 @@
 
 | Paper Title | Author(s) | Publication Date |
 | --- | --- | --- |
-| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | September 2025 |
+| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | Sep 2025 |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 2024 |
 | [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison | Aug 2024 |
@@ -122,6 +122,9 @@
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
 | [Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software](presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf) | Ronald Eytchison                              | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge, CSAW](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Ronald%20Eytchison) | Ronald Eytchison | 2025 |
+| [Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge](presentations/Buttercup:%20The%20Future%20of%20Trail%20of%20Bits'%20Solution%20to%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
+| [Buttercup and DARPA's AI Cyber Challenge, Ringzer0](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Henrik%20Brodin%20and%20Ronald%20Eytchison) | Henrik Brodin, Ronald Eytchison | 2025 |
 | [Our experience competing in the AI Cyber Challenge](presentations/Our%20experience%20competing%20in%20the%20AI%20Cyber%20Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf) | Michael Brown et al.                              | 2025 |
 | [Your Mitigations are My Opportunities](presentations/Your%20Mitigations%20are%20My%20Opportunities) | Yarden Shafir                                     | 2023 |
 | [Detecting variability bugs with hybrid control and data flow](presentations/langsec_2023_ubet.pdf) | Kelly Kaoudis, Henrik Brodin, Evan Sultanik       | 2023 |
@@ -151,6 +154,10 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Mutation Testing with Slither: A New Way to Find High-Severity Issues](presentations/Mutation%20Testing%20with%20Slither%3A%20A%20New%20Way%20to%20Find%20High-Severity%20Issues) | Guillermo Larregay | 2025 |
+| [Slither's Model Context Protocol: Giving LLMs Ground Truth from Static Analysis](presentations/Slither's%20Model%20Context%20Protocol%3A%20Giving%20LLMs%20Ground%20Truth%20from%20Static%20Analysis) | Ben Samuels | 2025 |
+| [The $1.5B Problem: How Exchanges Can Build Safer Cold Storage](presentations/The%20%241.5B%20Problem%3A%20How%20Exchanges%20Can%20Build%20Safer%20Cold%20Storage) | Benjamin Samuels | 2025 |
+| [How to Become a Smart Contract Auditor](presentations/How%20to%20Become%20a%20Smart%20Contract%20Auditor) | nisedo | 2025 |
 | [Test your tests: the do's and don'ts of testing](presentations/TrustX%202023/Test%20Your%20Tests) | Kurt Willis | 2023 |
 | [Slither: a static analysis tool for Vyper and Solidity](presentations/TrustX%202023/Slither%20a%20Vyper%20and%20Solidity%20static%20analyzer) | Troy Sargent | 2023 |
 | [Roundme: rounding analysis made simpler](presentations/TrustX%202023/roundme) | Josselin Feist | 2023 |
@@ -182,6 +189,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Constant-Time Coding Support in LLVM](presentations/Constant-Time%20Coding%20Support%20in%20LLVM) | Julius Alexandre | 2025 |
 | [A Broad Comparative Evaluation of Software Debloating Tools](presentations/A%20Broad%20Comparative%20Evaluation%20of%20Software%20Debloating%20Tools/debloater-eval.pdf) | Michael D. Brown, Adam Meily, Eric Kilmer, Ronald Eytchison | 2024 |
 | [Repurposing LLVM analyses in MLIR: Also there and back again across the tower of IRs](presentations/Repurposing%20LLVM%20analyses%20in%20MLIR:%20Also%20there%20and%20back%20again%20across%20%20the%20Tower%20of%20IRs) | Henrich Lauko | 2024 |
 | [VAST: MLIR for program analysis of C/C++](presentations/VAST:%20MLIR%20for%20program%20analysis%20of%20C) | Henrich Lauko | 2022 |
@@ -192,6 +200,8 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Cut To The QUIC: Slashing QUIC's Performance With A Hash DoS](presentations/Cut%20To%20The%20QUIC%3A%20Slashing%20QUIC%27s%20Performance%20With%20A%20Hash%20DoS) | Paul Bottinelli | 2025 |
+| [One, Two, TEE: Trust in Numbers Meets Hardware Security](presentations/One,%20Two,%20TEE:%20Trust%20in%20Numbers%20Meets%20Hardware%20Security) | Paul Bottinelli | 2025 |
 | [Weak Fiat-Shamir attacks on modern proof systems](presentations/Weak%20Fiat-Shamir%20attacks%20on%20modern%20proof%20systems) | Jim Miller | 2024 |
 | [Building a Rusty path validation library for PyCA Cryptography](presentations/Building%20a%20Rusty%20path%20validation%20library%20for%20PyCA%20Cryptography) | William Woodruff | 2024 |
 | [Implementing X.509 path validation for Python](presentations/Implementing%20X.509%20path%20validation%20for%20Python) | William Woodruff | 2024 |
@@ -205,7 +215,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
-| [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking) | Evan Downing | 2025 |
+| [Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch](presentations/Repeatable%20Benchmarking%3A%20An%20Exploration%20of%20OpenSearch%20vs%20Elasticsearch) | Evan Downing | 2025 |
 | [Linux Security Event Monitoring with osquery](presentations/osquery%20Linux%20security%20event%20monitoring) | Alessandro Gario | 2019 |
 | [osql: The community oriented osquery fork](presentations/osql%3A%20The%20community%20oriented%20osquery%20fork) | Stefano Bonicatti, Mark Mossberg | 2019 |
 | [Getting started with osquery](presentations/Getting%20started%20with%20osquery) | Lauren Pearl, Andy Ying | 2018 |
@@ -238,6 +248,11 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [Weaponizing Image Scaling Against Production AI Systems](presentations/Weaponizing%20Image%20Scaling%20Against%20Production%20AI%20Systems) | Kikimora Morozova, Suha Sabi Hussain | 2025 |
+| [Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems](presentations/Indirect%20Prompt%20Injection%3A%20Architectural%20Testing%20Approaches%20for%20Real%20World%20AI%20ML%20Systems) | Will Vandevanter | 2025 |
+| [From Polyglots to Prompt Injections: Parsing is Still Execution (And Your LLM Didn't Get the Memo)](presentations/From%20Polyglots%20to%20Prompt%20Injections%3A%20Parsing%20is%20Still%20Execution%20%28And%20Your%20LLM%20Didn%27t%20Get%20the%20Memo%29) | Evan Sultanik | 2025 |
+| [The Present and Future of AI and Security](presentations/The%20Present%20and%20Future%20of%20AI%20and%20Security) | Evan Downing | 2025 |
+| [Frontier AI in Cybersecurity: Risks and Opportunities](presentations/Frontier%20AI%20in%20Cybersecurity%3A%20Risks%20and%20Opportunities) | Dan Guido, Riccardo Schirone | 2025 |
 | [Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs](presentations/Incubated%20Machine%20Learning%20Exploits%3A%20Backdooring%20ML%20Pipelines%20Using%20Input-Handling%20Bugs) | Suha Sabi Hussain | 2024 |
 | [Holistic ML Threat Models](presentations/Holistic%20ML%20Threat%20Models) | Adelin Travers | 2024 |
 | [Using Graph-Based Machine Learning Algorithms for Software Analysis](presentations/Using%20Graph-Based%20Machine%20Learning%20Algorithms%20for%20Software%20Analysis/) | Michael D. Brown                                     | 2023 |
@@ -248,6 +263,7 @@
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
+| [macOS Privilege Escalation Via Traceroute6](presentations/macOS%20Privilege%20Escalation%20Via%20Traceroute6) | Paweł Płatek | 2025 |
 | [Swift Reversing](presentations/Swift%20Reversing) | Ryan Stortz | 2016 |
 | [Modern iOS Application Security](presentations/Modern%20iOS%20Application%20Security) | Sophia D'Antoine, Dan Guido | 2016 |
 | [The Mobile Exploit Intelligence Project](presentations/The%20Mobile%20Exploit%20Intelligence%20Project) | Dan Guido | 2012 |
@@ -297,18 +313,23 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Risky Biz](https://risky.biz/RBNEWSSI114/) | Dan Guido | Feb 2026 | AI at Trail of Bits |
+| [What's in the SOSS? 53](https://openssf.org/podcast/2026/02/09/whats-in-the-soss-podcast-53-s3e5-aixcc-part-3-buttercups-hybrid-approach-trail-of-bits-journey-to-second-place-in-aixcc/) | Michael Brown | Feb 2026 | AIxCC & Buttercup |
+| [Insecure Agents 18](https://insecureagents.com/episodes/18-kiki-morozova) | Kikimora Morozova | Dec 2025 | AI prompt injections |
 | [Risky Biz](https://risky.biz/RBNEWSS198/) | Keith Hoodlet | Sep 2025 | AI prompt injections |
 | [Zero Signal](https://www.youtube.com/watch?v=G3pGCEQWJZs&list=PLvtGUUDFmi-aTEsna3wgfMrCH-DpZQJgn&index=2) | Keith Hoodlet | Sep 2025 | AI Security |
 | [Unsupervised Learning](https://www.youtube.com/watch?v=nvU0GbA9F9Q) | Michael Brown | Aug 2025 | AIxCC |
-| [Security Weekly #342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
+| [Security Weekly 342](https://www.youtube.com/watch?v=C2kSdo7aNzU) | Will Vandevanter | Aug 2025 | NVIDIA vulnerability disclosure |
 | [CTF Radiooo 01E](https://youtu.be/BmCWryz3dsU?si=4T34d9DIP2MOcuo9) | Michael Brown & Evan Downing | Aug 2025 | AIxCC |
 | [Click Here Show](https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394) | Dan Guido | Jun 2025 | Zoom remote control attacks |
-| [Security Weekly #336](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
+| [Security Weekly 336](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
 | [Protect AI](https://youtu.be/saLKE9y4EoU?si=9xqCNiY_Fx3ad9Mu) | Keith Hoodlet | Jun 2025 | MCP Security |
+| [Open Source Security](https://www.youtube.com/watch?v=EKXV6vxRTHM) | William Woodruff | May 2025 | Zizmor & GitHub Actions security |
 | [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/ML security |
 | [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain |
-| [Security Weekly #323](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
+| [Security Weekly 323](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
+| [The Impulsive Thinker](https://theimpulsivethinker.libsyn.com/unlocking-ai-a-tool-not-a-magic-bullet-for-adhd-entrepreneurs) | Dan Guido | Feb 2025 | Neurodivergence |
 | [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
 | [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
 | [Risky Biz 759](https://youtu.be/4zpPk3Y4CYA?si=Pvd8px1DQHRPsRtM&t=3046)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
@@ -367,6 +388,9 @@
 
 | Title | Speakers | Date |
 | --- | --- | --- |
+| [Top TEE bugs you should fix before your audit](https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit) | Tjaden Hess, Paul Bottinelli, & Jules Drean | Dec 2025 |
+| [Building secure end-to-end encrypted systems](https://watch.getcontrast.io/register/trail-of-bits-running-effective-threat-models-in-e2ee) | Marc Ilunga & Fredrik Dahlgren | Dec 2025 |
+| [After Wiretap and Battering RAM: What Changes for TEE-Based Blockchain Infrastructure](https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure) | Tjaden Hess & Andy Campbell | Nov 2025 |
 | [MCP Security Deep Dive: From Attacks to Defense](https://app.getcontrast.io/register/trail-of-bits-mcp-security-deep-dive-from-vulnerability-to-defense) | Keith Hoodlet, Cliff Smith, Vineeth Sai Narajala, Manish Bhatt | Jul 2025 |
 | [Security Audits: Best Practices with Trail of Bits](https://workbrew.com/webinars/security-audits) | Chris Dahlheimer, Lindsay Rakowski, & Vanessa Gennarelli | Mar 2025 |
 | [Mastering Web Research with Burp Suite](https://www.youtube.com/watch?v=0PV5QEQTmPg) | Keith Hoodlet, Cliff Smith, & James Kettle | Jun 2024 |
@@ -397,6 +421,11 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Offchain Labs Arbitrum Nitro External DA](https://www.offchainlabs.com/) | Jan 2026 | 4 | | [📄✅](reviews/2026-01-offchain-nitro-external-da-securityreview.pdf) |
+| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Jan 2026 | 0.6 | | [📄](reviews/2026-1-offchain-arbitrum-quorum-changes-securityreview.pdf) |
+| [Offchain Labs Arbitrum ArbOS 50 and 51 (Fusaka)](https://www.offchainlabs.com/) | Dec 2025 | | | [📄](reviews/2025-12-offchain-arbos50-and-51-securityreview.pdf) |
+| [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | Dec 2025 | 1.6 | | [📄✅](reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf) |
+| [Offchain Labs Upgrade Executor](https://www.offchainlabs.com/) | Jul 2025 | 0.2 | | [📄](reviews/2025-07-offchain-upgrade-executor-securityreview.pdf) |
 | [Offchain SetCoreGovernorQuorumAction](https://www.offchainlabs.com/) | Jun 2025 | 1.2 | | [📄](reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf) |
 | [Offchain Arbitrum Mint/Burn Precompile](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄✅](reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf) |
 | [Offchain Arbitrum Block Hash Pusher](https://www.offchainlabs.com/) | Jun 2025 | 1.8 | | [📄](reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf) |
@@ -508,6 +537,13 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Calyx Institute HSM Provisioning Ceremony Scripts](https://calyxos.org/) | Jan 2026 | 1 | | [📄✅](reviews/2026-01-calyx-hsm-provisioning-ceremony-scripts-securityreview.pdf) |
+| [BSV Blockchain TS-SDK](https://bsvassociation.org/) | Jan 2026 | 6 | | [📄✅](reviews/2026-01-bsv-association-ts-sdk-securityreview.pdf) |
+| [NEAR One Confidential Key Derivation](https://docs.near.org/chain-abstraction/chain-signatures) | Dec 2025 | 4 | | [📄✅](reviews/2025-12-near-one-confidential-key-derivation-securityreview.pdf) |
+| [Bron Labs MCP Library](https://bron.org/) | Jan 2026 | 8 | | [📄✅](reviews/2026-01-bron-mcp-securityreview.pdf) |
+| [DFINITY Orbit](https://dfinity.org/) | Sept 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-orbit-securityreview.pdf) |
+| [Zama](https://docs.zama.org/protocol/zama-protocol-litepaper) | Oct 2025 | 32.2 |
+| [DFINITY Oisy](https://oisy.com/) | Sep 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-oisy-securityreview.pdf) |
 | [Google Longfellow](https://github.com/google/longfellow-zk) | Aug 2025 | 4.6 | | [📄✅](reviews/2025-08-googlelongfellow-securityreview.pdf) |
 | [Open Quantum Safe liboqs](https://openquantumsafe.org/) | Apr 2025 | 5 | [Open Quantum Safe](https://openquantumsafe.org/liboqs/security.html) | [📄](reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf) |
 | [Go Crypto Libraries](https://go.dev) | Mar 2025 | 12 | [Go](https://go.dev/blog/tob-crypto-audit) | [📄✅](reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf) |
@@ -554,6 +590,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [X XChat](https://x.com/) | Oct 2025 | 4 | | [📄✅](reviews/2025-10-x-xchat-securityreview.pdf) |
 | [Edera Runtime Container](https://edera.dev/) | Oct 2025 | 4 | | [📄](reviews/2025-11-edera-container-runtime-securityreview.pdf) |
 | [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
 | [Discord E2EE WebAssembly](https://discord.com/) | Jun 2025 | 3 | | [📄](reviews/2025-06-discord-e2eewebassembly-securityreview.pdf) |
@@ -564,6 +601,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Polygon Labs Iden3 Circuits](https://polygon.technology/) | May 2024 | 2 | | [📄✅](reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf) |
 | [Kraken Wallet iCloud Backup](https://www.kraken.com/wallet) | Sep 2024 | 2 | | [📄✅](reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf) |
 | [Hugging Face Gradio](https://huggingface.co/gradio) | Jul 2024 | 4 | [Hugging Face](https://huggingface.co/blog/gradio-5-security), [Trail of Bits](https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/) | [📄✅](reviews/2024-10-huggingface-gradio-securityreview.pdf) |
+| [Zoo KittyCAD Code Review](https://zoo.dev/) | Jun 2024 | 4.6 | | [📄✅](reviews/2024-06-zoo-kittycad-securityreview.pdf) |
 | [Kraken Mobile Wallet](https://www.kraken.com/wallet) | Jan 2024 | 7 | [Kraken](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)| [📄✅](reviews/2024-1-kraken-mobile-wallet-securityreview.pdf) |
 | [Eclipse Temurin](https://adoptium.net/temurin/) | Dec 2023 | 4 | [Response](https://adoptium.net/pdf/temurin-audit-response.pdf), [OSTIF](https://ostif.org/temurin-audit-complete/), [Eclipse Foundation](https://adoptium.net/blog/2024/06/external_audit) | [📄✅](reviews/2023-12-eclipse-temurin-securityreview.pdf) |
 | [Arch Linux Pacman](https://archlinux.org/pacman/) | Dec 2023 | 2 | [OTF](https://www.opentech.fund/security-safety-audits/arch-linuxs-pacman-package-manager-security-audit/) | [📄✅](reviews/2023-12-pacman-securityreview.pdf) |
@@ -623,7 +661,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [BitMEX](https://www.bitmex.com/) | Jan 2021 | 4 | | |
 | [SecureDrop](https://freedom.press/) | Dec 2020 | 8 | [2nd audit of SecureDrop Workstation](https://securedrop.org/news/second-independent-audit-of-securedrop-workstation-completed/) | [📄](reviews/SecureDropWorkstation.pdf) |
 | [Citizen Browser](https://themarkup.org/) | Dec 2020 | 0.43 | [How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)|
-| [Ren](https://renproject.io/) | Aug 2020 | 4 | [August Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
+| [Ren](https://renproject.io/) | Aug 2020 | 4 | [Aug Development Update](https://medium.com/@loong/4ce9bb0fb98b) | [📄](reviews/renvm.pdf) |
 | [Hey.com](https://www.hey.com/) | Jun 2020 | 1 | [Serious Security](https://www.hey.com/security/) | [📄](reviews/Hey.pdf) |
 | [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/) | Jun 2020 | 12 | [Azure Sphere 20.07 Security Enhancements](https://techcommunity.microsoft.com/t5/internet-of-things/azure-sphere-20-07-security-enhancements/ba-p/1548973) |
 | [Zoom](https://zoom.us/) | May 2020 | 9 | [90 Days Done, What's Next for Zoom](https://blog.zoom.us/ceo-report-90-days-done-whats-next-for-zoom/) |
@@ -674,8 +712,8 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | August 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf) |
-| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | August 2025 | 4 | | [🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
+| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | Aug 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf) |
+| [Gemini Smart Wallet](https://www.gemini.com/wallet/) | Aug 2025 | 4 | | [🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
 | [Otim Smart Wallet](https://otim.com/) | Mar 2025 | 3 | | [📄✅](reviews/2025-03-otim-smart-wallet-securityreview.pdf) |
 | [dappOS v2 wallet](https://dappos.com/) | Jul 2023 | 3 | | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
 | [WalletConnect v2.0](https://walletconnect.com/) | Mar 2023 | 4 | [WalletConnect](https://medium.com/walletconnect/walletconnect-v2-0s-independent-security-audit-by-trail-of-bits-e8e59d11e517) | [📄✅](reviews/2023-03-walletconnectv2-securityreview.pdf) |
@@ -705,6 +743,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Ava Labs AvalancheGo](https://www.avalabs.org/) | Aug 2025 | 10 | | [📄](reviews/2025-08-ava-labs-avalanchego-securityreview.pdf)|
 | [Alkimiya Silica V2](https://alkimiya.io/) | Jun 2022 | 6 | | |
 | [Ava Labs](https://www.avalabs.org/) | Apr 2022 | 8 | | |
 | [Flare Network](https://flare.xyz/) | Mar 2021 | 8 | | |
@@ -731,12 +770,13 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | October 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
-| [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | October 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
-| [Radius Technology EVMAuth](https://evmauth.io/) | October 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
+| [Aave v4](https://aave.com) | Feb 2026 | 6 | | [📄✅](reviews/2026-02-aave-v4-securityreview.pdf) |
+| [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | Oct 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
+| [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Oct 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
+| [Radius Technology EVMAuth](https://evmauth.io/) | Oct 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
 | [Shape Token Contract](https://shape.network/) | May 2025 | 1 | | [📄✅](reviews/2025-05-shapenetwork-token-securityreview.pdf) |
-| [Shape Buyback Contract](https://shape.network/) | September 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
-| [Starkware StarkEx Diff Review](https://starkware.co/starkex/) | August 2025 | 0.2 | | [📄](reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf) |
+| [Shape Buyback Contract](https://shape.network/) | Sep 2025 | 0.4 | | [📄✅](reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf) |
+| [Starkware StarkEx Diff Review](https://starkware.co/starkex/) | Aug 2025 | 0.2 | | [📄](reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf) |
 | [CAP Labs Covered Agent Protocol](https://cap.app/) | May 2025 | 9 | | [📄✅](reviews/2025-05-caplabs-coveredagentprotocol-securityreview.pdf) |
 | [Fabric Labs Zipper Protocol](https://zipper.trade/) | May 2025 | 1 | | [📄✅](reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf) |
 | [Lagrange LAToken](https://www.lagrange.dev/) | Apr 2025 | 3 | | [📄](reviews/2025-04-lagrange-latoken-securityreview.pdf) |
@@ -849,7 +889,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Maple](https://www.maple.finance/) | Nov 2021 | 4 | [Maple](https://github.com/maple-labs/loan#audit-reports) | [📄](reviews/MapleFinance.pdf) |
 | [Advanced Blockchain](https://www.advancedblockchain.com/) | Nov 2021 | 6 | | [📄](reviews/AdvancedBlockchainQ42021.pdf) |
 | [Opyn](https://www.opyn.co/) | Nov 2021 | 6 | | [📄](reviews/Opyn.pdf) |
-| [Aave V3](https://aave.com/) | Nov 2021 | 12 | | |
+| [Aave V3](https://aave.com/) | Nov 2021 | 12 | | [📄✅](reviews/2021-11-aave-v3-securityreview.pdf) | |
 | [Tokemak](https://www.tokemak.xyz/) | Oct 2021 | 3 | | |
 | [Fuji Finance](https://app.fujidao.org/#/) | Oct 2021 | 6 | | [📄](reviews/FujiProtocol.pdf) || **Substrate** |
 | [V2 Vault](https://www.riskharbor.com/) | Oct 2021 | 4 | | |
@@ -981,10 +1021,10 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| [Solang Code Generation](https://solana.com/) | November 2023 | 4 | | [📄](reviews/2023-11-solana-solang-code-generation-securityreview.pdf) |
-| [Solang Code Generation, Part 1](https://solana.com/) | November 2023 | 2 | | [📄](reviews/2023-11-solana-solang-code-generation-part-1-securityreview.pdf) |
-| [Solang Parser and Semantic Analysis](https://solana.com/) | September 2023 | 2 | | [📄](reviews/2023-09-solana-solang-parser-semantic-analysis-securityreview.pdf) |
-| [Solang Solana Library](https://solana.com/) | July 2023 | 1 | | [📄](reviews/2023-07-solana-solang-library-securityreview.pdf) |
+| [Solang Code Generation](https://solana.com/) | Nov 2023 | 4 | | [📄](reviews/2023-11-solana-solang-code-generation-securityreview.pdf) |
+| [Solang Code Generation, Part 1](https://solana.com/) | Nov 2023 | 2 | | [📄](reviews/2023-11-solana-solang-code-generation-part-1-securityreview.pdf) |
+| [Solang Parser and Semantic Analysis](https://solana.com/) | Sep 2023 | 2 | | [📄](reviews/2023-09-solana-solang-parser-semantic-analysis-securityreview.pdf) |
+| [Solang Solana Library](https://solana.com/) | Jul 2023 | 1 | | [📄](reviews/2023-07-solana-solang-library-securityreview.pdf) |
 | [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Feb 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Squads V4](https://squads.so/) | Oct 2023 | 2 | [Squads](https://x.com/SquadsProtocol/status/1725548225804005464?s=20) | [📄✅](reviews/2023-10-squadsv4-securityreview.pdf) |
@@ -1037,6 +1077,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [TONCO CLAMM DEX v1.6](https://app.tonco.io/#/swap) | Jan 2026 | 11 | [TONCO v1.6 is live](https://x.com/Tonco_io/status/2020808567419195632) | [📄✅](reviews/2026-02-tonco-clamm-securityreview.pdf) |
 | [EVAA Finance](https://evaa.finance/) | Aug 2025 | 8.6 | | [📄✅](reviews/2025-08-evaafinance-securityreview.pdf) |
 | [Swap Coffee TON DEX](https://swap.coffee/dex/) | Jul 2025 | 6 | | [📄✅](reviews/2025-07-swapcoffee-tondex-securityreview.pdf) |
 | [FIVA Yield Protocol](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf) |
@@ -1109,7 +1150,18 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Vulnerabilities in LUKS2 disk encryption for confidential VMs|Linux LUKS2|Tjaden Hess|2025|[CVE-2025-59054](https://nvd.nist.gov/vuln/detail/CVE-2025-59054), [CVE-2025-58356](https://nvd.nist.gov/vuln/detail/CVE-2025-58356)|[💬](https://blog.trailofbits.com/2025/10/30/vulnerabilities-in-luks2-disk-encryption-for-confidential-vms/)|
+|Prompt injection to RCE in AI agents|AI Agents (multiple platforms)|Will Vandevanter|2025|❌|[💬](https://blog.trailofbits.com/2025/10/22/prompt-injection-to-rce-in-ai-agents/)|
+|Code integrity bypass in Electron applications|Electron Applications (Signal, 1Password, Slack)|Darius Houle|2025|[CVE-2025-55305](https://nvd.nist.gov/vuln/detail/CVE-2025-55305)|[💬](https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/)|
+|Weaponizing image scaling against production AI systems|Google Gemini, Vertex AI, Genspark|Kikimora Morozova, Suha Sabi Hussain|2025|❌|[💬](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)|
+|Prompt injection engineering for attackers: Exploiting GitHub Copilot|GitHub Copilot Agent|Kevin Higgs|2025|❌|[💬](https://blog.trailofbits.com/2025/08/06/prompt-injection-engineering-for-attackers-exploiting-github-copilot/)|
+|Memory corruption in NVIDIA Triton Inference Server|NVIDIA Triton|Will Vandevanter|2025|[CVE-2025-23310](https://nvd.nist.gov/vuln/detail/CVE-2025-23310), [CVE-2025-23311](https://nvd.nist.gov/vuln/detail/CVE-2025-23311)|[💬](https://blog.trailofbits.com/2025/08/04/uncovering-memory-corruption-in-nvidia-triton-as-a-new-hire/)|
+|Exploiting zero days in abandoned hardware|Netgear WGR614v9, BitDefender Box V1|Alan Cao, Will Tan|2025|❌|[💬](https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/)|
+|MCP plaintext API key storage|Model Context Protocol|Cliff Smith, Suha Hussain, and Will Vandevanter|2025|❌|[💬](https://blog.trailofbits.com/2025/04/30/insecure-credential-storage-plagues-mcp/)|
+|MCP ANSI escape sequence attacks|Model Context Protocol|Cliff Smith, Suha Hussain, and Will Vandevanter|2025|❌|[💬](https://blog.trailofbits.com/2025/04/29/deceiving-users-with-ansi-terminal-codes-in-mcp/)|
+|MCP Line Jumping vulnerability|Model Context Protocol|Cliff Smith, Suha Hussain, and Will Vandevanter|2025|❌|[💬](https://blog.trailofbits.com/2025/04/23/how-mcp-servers-can-steal-your-conversation-history/)|
 |User to root privilege escalation from an integer overflow in libinfo|macOS|Paweł Płatek|2025|[CVE-2025-24195](https://nvd.nist.gov/vuln/detail/CVE-2025-24195), [CVE-2025-31222](https://nvd.nist.gov/vuln/detail/cve-2025-31222), [CVE-2025-30440](https://nvd.nist.gov/vuln/detail/cve-2025-30440)|[💬](https://github.com/trailofbits/exploits/tree/main/obts-2025-macos-lpe)|
+|Cryptography bugs in elliptic library|elliptic JavaScript library|Markus Schiffermuller|2024|[CVE-2024-48948](https://nvd.nist.gov/vuln/detail/CVE-2024-48948), [CVE-2024-48949](https://nvd.nist.gov/vuln/detail/CVE-2024-48949), [CVE-2024-48950](https://nvd.nist.gov/vuln/detail/CVE-2024-48950), [CVE-2024-48951](https://nvd.nist.gov/vuln/detail/CVE-2024-48951), [CVE-2024-48952](https://nvd.nist.gov/vuln/detail/CVE-2024-48952)|[💬](https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/)|
 |Crash due to uncontrolled recursion in `Well-KnownText`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52981](https://github.com/advisories/GHSA-5xm9-x7x4-4j5x)||
 |Crash due to uncontrolled recursion in `innerForbidCircularReferences`|Elastic|Alexis Challande, Brad Swain|2024|[CVE-2024-52980](https://github.com/advisories/GHSA-ghfh-p92w-j4mg)||
 |Crash due to uncontrolled recursion in Wire|Wire|Alexis Challande, Brad Swain|2024|[CVE-2024-58103](https://nvd.nist.gov/vuln/detail/CVE-2024-58103)||
@@ -1121,7 +1173,7 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 |num-bigint disclosure|num-bigint|Samuel Moelius|2024|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
 |Memory corruption during X.509 validation in GnuTLS|GnuTLS|William Woodruff|2024|[CVE-2024-28835](https://www.cve.org/cverecord?id=CVE-2024-28835)||
 |Linux kernel modules kASLR bypass|Linux|Dominik Czarnota|2024|❌|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
-|Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|None|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
+|Pedersen DKG vulnerability disclosure|Multiple|Fredrik Dahlgren|2024|❌|[💬](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/)|
 |LeftoverLocals disclosure|multiple GPUs|Tyler Sorensen|2024|[CVE-2023-4969](https://www.cve.org/cverecord?id=CVE-2023-4969)|[💬](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)|
 |Billion hashes attack against Go JOSE libraries|go-jose|Matt Schwager|2023|GO-2023-2334, GO-2023-2409|[💬](https://blog.trailofbits.com/2024/03/08/out-of-the-kernel-into-the-tokens/)|
 |Expo Secure Store: Shortening AES GCM Authentication Tags|expo-secure-store|Joop van de Pol|2023|❌|[💬](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/)|
