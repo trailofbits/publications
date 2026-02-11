@@ -1150,6 +1150,7 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 
 |Name|Product|Discoverer|Year|ID|Blog|
 |---|---|---|---|---|---|
+|Denial of Service in protobuf-python|protobuf-python|Alexis Challande|2025|[CVE-2025-4565](https://github.com/advisories/GHSA-8qvm-5x2c-j2w7)||
 |Vulnerabilities in LUKS2 disk encryption for confidential VMs|Linux LUKS2|Tjaden Hess|2025|[CVE-2025-59054](https://nvd.nist.gov/vuln/detail/CVE-2025-59054), [CVE-2025-58356](https://nvd.nist.gov/vuln/detail/CVE-2025-58356)|[💬](https://blog.trailofbits.com/2025/10/30/vulnerabilities-in-luks2-disk-encryption-for-confidential-vms/)|
 |Prompt injection to RCE in AI agents|AI Agents (multiple platforms)|Will Vandevanter|2025|❌|[💬](https://blog.trailofbits.com/2025/10/22/prompt-injection-to-rce-in-ai-agents/)|
 |Code integrity bypass in Electron applications|Electron Applications (Signal, 1Password, Slack)|Darius Houle|2025|[CVE-2025-55305](https://nvd.nist.gov/vuln/detail/CVE-2025-55305)|[💬](https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/)|
