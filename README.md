@@ -313,6 +313,8 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [Risky Biz](https://risky.biz/RBNEWSSI114/) | Dan Guido | Feb 2026 | AI at Trail of Bits |
+| [What's in the SOSS? 53](https://openssf.org/podcast/2026/02/09/whats-in-the-soss-podcast-53-s3e5-aixcc-part-3-buttercups-hybrid-approach-trail-of-bits-journey-to-second-place-in-aixcc/) | Michael Brown | Feb 2026 | AIxCC & Buttercup |
 | [Insecure Agents 18](https://insecureagents.com/episodes/18-kiki-morozova) | Kikimora Morozova | Dec 2025 | AI prompt injections |
 | [Risky Biz](https://risky.biz/RBNEWSS198/) | Keith Hoodlet | Sep 2025 | AI prompt injections |
 | [Zero Signal](https://www.youtube.com/watch?v=G3pGCEQWJZs&list=PLvtGUUDFmi-aTEsna3wgfMrCH-DpZQJgn&index=2) | Keith Hoodlet | Sep 2025 | AI Security |
@@ -322,10 +324,12 @@
 | [Click Here Show](https://podcasts.apple.com/us/podcast/mic-drop-the-ego-exploit/id1225077306?i=1000712717394) | Dan Guido | Jun 2025 | Zoom remote control attacks |
 | [Security Weekly 336](https://youtu.be/1YvQi5Bc9_M?si=j-grngtTaI7Rloq6) | Artur Cygan | Jun 2025 | Fuzzing Barcodes |
 | [Protect AI](https://youtu.be/saLKE9y4EoU?si=9xqCNiY_Fx3ad9Mu) | Keith Hoodlet | Jun 2025 | MCP Security |
+| [Open Source Security](https://www.youtube.com/watch?v=EKXV6vxRTHM) | William Woodruff | May 2025 | Zizmor & GitHub Actions security |
 | [MLSecOps](https://youtu.be/8WsgV0svqPM?si=iB_9rUl33vPIT8sL) | Keith Hoodlet | Apr 2025 | AI/ML security |
 | [Risky Biz 786](https://youtu.be/DNAOwukOQi4?si=4KPfY2RnPMxVwSJJ&t=2556) | Tjaden Hess | Apr 2025 | Cryptography & blockchain |
 | [Security Weekly 323](https://youtu.be/zn3LT4BqOJo?si=3zY5YkRU4ArgM-vn) | Keith Hoodlet | Mar 2025 | GenAI in Appsec |
 | [Xyonix](https://youtu.be/y8TF7MELevg?si=gv60OR2_L86fsL2L) | Keith Hoodlet | Mar 2025 | AI/ML security |
+| [The Impulsive Thinker](https://theimpulsivethinker.libsyn.com/unlocking-ai-a-tool-not-a-magic-bullet-for-adhd-entrepreneurs) | Dan Guido | Feb 2025 | Neurodivergence |
 | [Bugcrowd](https://youtu.be/b7EULU_X7fQ?si=DZFenK1x00PaD5yV) | Keith Hoodlet | Oct 2024 | AI/ML Bias |
 | [Risky Biz](https://risky.biz/RBNEWSSI62/)  | Dan Guido | Oct 2024 | Post-quantum cryptography |
 | [Risky Biz 759](https://youtu.be/4zpPk3Y4CYA?si=Pvd8px1DQHRPsRtM&t=3046)  | Dan Guido | Aug 2024 | DARPA's AI Cyber Challenge |
@@ -417,7 +421,8 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Dec 2025 | 0.4 | | [📄](reviews/2025-12-offchain-arbitrum-quorum-changes-securityreview.pdf) |
+| [Offchain Labs Arbitrum Nitro External DA](https://www.offchainlabs.com/) | Jan 2026 | 4 | | [📄✅](reviews/2026-01-offchain-nitro-external-da-securityreview.pdf) |
+| [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Jan 2026 | 0.6 | | [📄](reviews/2026-1-offchain-arbitrum-quorum-changes-securityreview.pdf) |
 | [Offchain Labs Arbitrum ArbOS 50 and 51 (Fusaka)](https://www.offchainlabs.com/) | Dec 2025 | | | [📄](reviews/2025-12-offchain-arbos50-and-51-securityreview.pdf) |
 | [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | Dec 2025 | 1.6 | | [📄✅](reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf) |
 | [Offchain Labs Upgrade Executor](https://www.offchainlabs.com/) | Jul 2025 | 0.2 | | [📄](reviews/2025-07-offchain-upgrade-executor-securityreview.pdf) |
@@ -532,6 +537,11 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Calyx Institute HSM Provisioning Ceremony Scripts](https://calyxos.org/) | Jan 2026 | 1 | | [📄✅](reviews/2026-01-calyx-hsm-provisioning-ceremony-scripts-securityreview.pdf) |
+| [BSV Blockchain TS-SDK](https://bsvassociation.org/) | Jan 2026 | 6 | | [📄✅](reviews/2026-01-bsv-association-ts-sdk-securityreview.pdf) |
+| [NEAR One Confidential Key Derivation](https://docs.near.org/chain-abstraction/chain-signatures) | Dec 2025 | 4 | | [📄✅](reviews/2025-12-near-one-confidential-key-derivation-securityreview.pdf) |
+| [Bron Labs MCP Library](https://bron.org/) | Jan 2026 | 8 | | [📄✅](reviews/2026-01-bron-mcp-securityreview.pdf) |
+| [DFINITY Orbit](https://dfinity.org/) | Sept 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-orbit-securityreview.pdf) |
 | [Zama](https://docs.zama.org/protocol/zama-protocol-litepaper) | Oct 2025 | 32.2 |
 | [DFINITY Oisy](https://oisy.com/) | Sep 2025 | 4 | | [📄✅](reviews/2025-09-dfinity-oisy-securityreview.pdf) |
 | [Google Longfellow](https://github.com/google/longfellow-zk) | Aug 2025 | 4.6 | | [📄✅](reviews/2025-08-googlelongfellow-securityreview.pdf) |
@@ -760,6 +770,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Aave v4](https://aave.com) | Feb 2026 | 6 | | [📄✅](reviews/2026-02-aave-v4-securityreview.pdf) |
 | [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | Oct 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
 | [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Oct 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
 | [Radius Technology EVMAuth](https://evmauth.io/) | Oct 2025 | 1.2 | | [📄✅](reviews/2025-10-radiustechnology-evmauth-securityreview.pdf) |
@@ -1066,6 +1077,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### TON
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [TONCO CLAMM DEX v1.6](https://app.tonco.io/#/swap) | Jan 2026 | 11 | [TONCO v1.6 is live](https://x.com/Tonco_io/status/2020808567419195632) | [📄✅](reviews/2026-02-tonco-clamm-securityreview.pdf) |
 | [EVAA Finance](https://evaa.finance/) | Aug 2025 | 8.6 | | [📄✅](reviews/2025-08-evaafinance-securityreview.pdf) |
 | [Swap Coffee TON DEX](https://swap.coffee/dex/) | Jul 2025 | 6 | | [📄✅](reviews/2025-07-swapcoffee-tondex-securityreview.pdf) |
 | [FIVA Yield Protocol](https://www.thefiva.com/) | May 2025 | 6 | | [📄✅](reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf) |
