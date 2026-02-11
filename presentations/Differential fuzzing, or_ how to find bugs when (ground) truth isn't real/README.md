@@ -10,4 +10,9 @@ resources:
     path: "Differential fuzzing, or_ how to find bugs when (ground) truth isn't real.pdf"
 ---
 
-Fuzzing is a well-understood bug-finding technique with known constraints: it requires a notion of ground truth for program misbehavior, such as memory access violations or exceptions. But many programs are written in high-level, managed languages that either lack these sentinels or use them to report all errors, masking interesting bugs. This talk explores how differential fuzzing can be used to find interesting bugs in these contexts by comparing outputs across multiple implementations of the same specification.
+Fuzzing is a well-understood bug finding technique, with known constraints: it requires a notion
+of "ground truth" for program misbehavior, such as memory access violations, exceptions,
+misuse of synchronization primitives, and so on. But many programs are written in high-level,
+managed languages that either lack these sentinels or use them to report all errors, masking
+"interesting" bugs. How can we find "interesting" bugs in these contexts? With differential
+fuzzing!

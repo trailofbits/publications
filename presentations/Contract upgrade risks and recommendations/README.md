@@ -16,4 +16,11 @@ resources:
     url: https://blog.trailofbits.com/2018/10/29/how-contract-migration-works/
 ---
 
-A popular trend in smart contract design is to promote the development of upgradable contracts. Existing techniques to upgrade contracts have flaws, increase complexity significantly, and ultimately introduce bugs. This presentation details the analysis of existing smart contract upgrade strategies, describes weaknesses observed in practice, and provides recommendations for contracts that require upgrades. Key takeaways include favoring the simplest upgrade system for your needs, avoiding the fragile delegatecall proxy pattern when possible, and considering contract migration as an alternative to upgradability patterns.
+A popular trend in smart contract design is to promote the development of upgradable contracts. Existing techniques to upgrade contracts have flaws, increase the complexity of the contract significantly, and ultimately introduce bugs. We will detail our analysis of existing smart contract upgrade strategies, describe the weaknesses we have observed in practice, and provide recommendations for contracts that require upgrades.
+
+Takeaways
+* Upgradability is useful for developers as it allows for features to be added and bugs to be fixed after the fact. However, it also adds complexity and increases the likelihood of deployment mistakes.
+* Use the simplest upgrade system that suits your needs. Compared to data separation, the delegatecall proxy pattern is very fragile and adds even more complexity.
+* Instead of these upgradability patterns, consider contract migration. Migration is more involved, but it allows for recovery from many more scenarios.
+
+Josselin Feist is a security engineer at Trail of Bits.

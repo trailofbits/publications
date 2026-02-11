@@ -12,4 +12,11 @@ resources:
     url: https://youtu.be/pfViYCignjY
 ---
 
-LLVM IR has a rich history of tools and analyses, but with the rise of MLIR there is a challenge of transitioning these valuable legacy analyses to the new representation. This talk walks through a solution that allows repurposing LLVM analyses in MLIR seamlessly using a "tower of IRs" that connects the LLVM representation to the desired MLIR dialect, enabling analysis outcomes from LLVM IR to be related directly to an MLIR dialect.
+LLVM IR boasts a rich history of tools and analyses, but with the emerging rise
+of MLIR, there is a challenge of transitioning these valuable legacy analyses to
+the new representation. Ideally, we would not have to touch them at all and
+repurpose them in MLIR seamlessly. Imagine being able to relate your analysis
+outcomes from LLVM IR directly to your MLIR dialect – pretty cool, right? In
+this talk, I will walk you through a solution that allows us to achieve
+precisely that using what we call a "tower of IRs," connecting LLVM
+representation to the desired MLIR dialect.

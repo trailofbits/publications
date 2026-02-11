@@ -16,4 +16,8 @@ resources:
     url: https://github.com/trailofbits/manticore
 ---
 
-Smart contracts enforce user trust by using a consensus-based protocol. Due to their reasonably small code size, contracts are a good target for the application of formal methods, and their business-oriented logic allows leveraging property-based techniques. This presentation discusses the state of smart contract program analysis techniques and tools, demonstrates their usage through real-world bugs found by semi-automated tools, and highlights current challenges and research opportunities.
+Blockchain technology and its application in smart contracts are a recent and growing topic of research. Smart contracts enforce user trust by using a consensus-based protocol. Due to their reasonably small code size, contracts are a good target for the application of formal methods. Additionally, their business-oriented logic allows to leverage property-based techniques. However, several recent large incidents have demonstrated that smart contracts are not without vulnerabilities. In this presentation, we will discuss the state of smart contracts program analysis techniques and tools. We will demonstrate their usage through real-world bugs found by (semi)-automated tools. Finally, we will highlight the current challenges and research opportunities.
+
+Takeaways
+* Blockchain brings several challenges and research opportunities for program analysis
+* Fully and semi automated tools are already being used by developers and auditors
