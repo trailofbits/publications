@@ -389,7 +389,7 @@
 | Title | Speakers | Date |
 | --- | --- | --- |
 | [Top TEE bugs you should fix before your audit](https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit) | Tjaden Hess, Paul Bottinelli, & Jules Drean | Dec 2025 |
-| [Building secure end-to-end encrypted systems](https://watch.getcontrast.io/register/trail-of-bits-running-effective-threat-models-in-e2ee) | Marc Ilunga & Fredrik Dahlgren | 2025 |
+| [Building secure end-to-end encrypted systems](https://watch.getcontrast.io/register/trail-of-bits-running-effective-threat-models-in-e2ee) | Marc Ilunga & Fredrik Dahlgren | Dec 2025 |
 | [After Wiretap and Battering RAM: What Changes for TEE-Based Blockchain Infrastructure](https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure) | Tjaden Hess & Andy Campbell | Nov 2025 |
 | [MCP Security Deep Dive: From Attacks to Defense](https://app.getcontrast.io/register/trail-of-bits-mcp-security-deep-dive-from-vulnerability-to-defense) | Keith Hoodlet, Cliff Smith, Vineeth Sai Narajala, Manish Bhatt | Jul 2025 |
 | [Security Audits: Best Practices with Trail of Bits](https://workbrew.com/webinars/security-audits) | Chris Dahlheimer, Lindsay Rakowski, & Vanessa Gennarelli | Mar 2025 |
