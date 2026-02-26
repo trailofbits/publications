@@ -542,6 +542,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Anza Token-2022 Confidential Transfer, Cryptography](https://www.anza.xyz/) | Jan 2026 | 7 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-cryptography-securityreview.pdf.pdf) |
 | [Calyx Institute HSM Provisioning Ceremony Scripts](https://calyxos.org/) | Jan 2026 | 1 | | [📄✅](reviews/2026-01-calyx-hsm-provisioning-ceremony-scripts-securityreview.pdf) |
 | [BSV Blockchain TS-SDK](https://bsvassociation.org/) | Jan 2026 | 6 | | [📄✅](reviews/2026-01-bsv-association-ts-sdk-securityreview.pdf) |
 | [Bron Labs MCP Library](https://bron.org/) | Jan 2026 | 8 | | [📄✅](reviews/2026-01-bron-mcp-securityreview.pdf) |
@@ -715,6 +716,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Anza Token-2022 Confidential Transfer, Blockchain](https://www.anza.xyz/) | Jan 2026 | 3 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-blockchain-securityreview.pdf) |
 | [Gemini Smart Wallet](https://www.gemini.com/wallet/) | Aug 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf)[🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
 | [Otim Smart Wallet](https://otim.com/) | Mar 2025 | 3 | | [📄✅](reviews/2025-03-otim-smart-wallet-securityreview.pdf) |
 | [dappOS v2 wallet](https://dappos.com/) | Jul 2023 | 3 | | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
