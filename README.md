@@ -542,6 +542,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Anza BLS Signatures](https://anza.xyz) | Mar 2026 | 1 | | [📄](reviews/2026-03-anza-blssignatures-securityreview.pdf) |
 | [DV Labs Charon Pedersen DKG](https://github.com/ObolNetwork/charon) | Feb 2026 | 2 | | [📄✅](reviews/2026-02-dv-labs-charon-pedersen-dkg-securityreview.pdf) |
 | [Anza Token-2022 Confidential Transfer, Cryptography](https://www.anza.xyz/) | Jan 2026 | 7 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-cryptography-securityreview.pdf) |
 | [Calyx Institute HSM Provisioning Ceremony Scripts](https://calyxos.org/) | Jan 2026 | 1 | | [📄✅](reviews/2026-01-calyx-hsm-provisioning-ceremony-scripts-securityreview.pdf) |
