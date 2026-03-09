@@ -1098,6 +1098,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Chainlink LlamaRisk LlamaGuard NAV CRE](https://chain.link/) | Feb 2026 | 1 | | [📄✅](reviews/2026-02-chainlink-llamariskllamaguardnavcre-securityreview.pdf) |
 | [Shape Gasback](https://shape.network/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-shape-gasback-securityreview.pdf) |
 | [PixelSwap DEX](https://www.pixelswap.io/) | Dec 2024 | 6 | | [📄✅](reviews/2024-12-pixelswap-dex-securityreview.pdf) |
 | [Arkis Prime](https://www.arkis.xyz/) | Dec 2024 | 5 | | [📄✅](reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf) |
