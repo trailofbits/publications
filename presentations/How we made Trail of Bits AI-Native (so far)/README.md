@@ -6,8 +6,10 @@ authors:
 conference:
   - "[un]prompted"
 resources:
-  - label: Slides (PDF)
+  - label: Slides
     path: "slides.pdf"
+  - label: Slides (with speaker notes)
+    path: "slides-with-notes.pdf"
   - label: Slides (Google Slides)
     url: https://docs.google.com/presentation/d/1k4sp0NpIgjY2HdP9dgRCEDKRNvj-DSdZUoDIsJ3JUfk/edit?usp=sharing
   - label: Conference
