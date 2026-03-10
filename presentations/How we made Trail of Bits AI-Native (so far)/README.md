@@ -14,6 +14,16 @@ resources:
     url: https://docs.google.com/presentation/d/1k4sp0NpIgjY2HdP9dgRCEDKRNvj-DSdZUoDIsJ3JUfk/edit?usp=sharing
   - label: Conference
     url: https://unpromptedcon.org/
+  - label: "trailofbits/skills"
+    url: https://github.com/trailofbits/skills
+  - label: "trailofbits/skills-curated"
+    url: https://github.com/trailofbits/skills-curated
+  - label: "trailofbits/claude-code-config"
+    url: https://github.com/trailofbits/claude-code-config
+  - label: "trailofbits/claude-code-devcontainer"
+    url: https://github.com/trailofbits/claude-code-devcontainer
+  - label: "trailofbits/dropkit"
+    url: https://github.com/trailofbits/dropkit
 ---
 
 AI isn't a feature you "adopt." It is a force that commoditizes effort and shortens the half-life of best practices, especially in security work where trust, evidence, and privacy are non-negotiable. This talk explains the strategy used to turn Trail of Bits into an AI-native consulting firm. The core idea is a compounding operating system built from incentives, defaults, guardrails, and verification loops that let humans and autonomous agents ship high-rigor work at dramatically higher throughput.
