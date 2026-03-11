@@ -1099,6 +1099,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [EthStaker Deposit CLI](https://github.com/ethstaker/ethstaker-deposit-cli) | Mar 2026 | 1 | | [📄✅](reviews/2026-03-ethstaker-deposit-cli-securityreview.pdf) |
 | [Chainlink LlamaRisk LlamaGuard NAV CRE](https://chain.link/) | Feb 2026 | 1 | | [📄✅](reviews/2026-02-chainlink-llamariskllamaguardnavcre-securityreview.pdf) |
 | [Shape Gasback](https://shape.network/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-shape-gasback-securityreview.pdf) |
 | [PixelSwap DEX](https://www.pixelswap.io/) | Dec 2024 | 6 | | [📄✅](reviews/2024-12-pixelswap-dex-securityreview.pdf) |
