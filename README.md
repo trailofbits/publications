@@ -1104,7 +1104,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Shape Gasback](https://shape.network/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-shape-gasback-securityreview.pdf) |
 | [PixelSwap DEX](https://www.pixelswap.io/) | Dec 2024 | 6 | | [📄✅](reviews/2024-12-pixelswap-dex-securityreview.pdf) |
 | [Arkis Prime](https://www.arkis.xyz/) | Dec 2024 | 5 | | [📄✅](reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf) |
-| [Franklin Templeton Aptos](https://digitalassets.franklintempleton.com/benji/) | Oct 2024 | 3 | | [📄✅](reviews/2024-10-franklintempleton-aptos-securityreview) |
+| [Franklin Templeton Aptos](https://digitalassets.franklintempleton.com/benji/) | Oct 2024 | 3 | | [📄✅](reviews/2024-10-franklintempleton-aptos-securityreview.pdf) |
 | [Wormhole Governors and Watchers](https://wormhole.com/) | Mar 2023 | 8 | | [📄✅](reviews/2023-03-wormhole-securityreview.pdf) |
 | [DFINITY Canister Sandbox](https://dfinity.org/) | Sep 2022 | 2 | | [📄](reviews/DFINITYCanisterSandbox.pdf)[✅](reviews/DFINITYCanisterSandboxFixReview.pdf) |
 | [DFINITY ECDSA/BTC](https://dfinity.org/) | Sep 2022 | 4 | | [📄](reviews/DFINITYThresholdECDSAandBtcCanisters.pdf)[✅](reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf) |
