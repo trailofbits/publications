@@ -777,6 +777,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Shape TokenLock](https://shape.network/audits) | Mar 2026 | 0.4 | | [📄✅](reviews/2026-03-shape-tokenlock-securityreview.pdf) |
 | [Aave v4](https://aave.com) | Feb 2026 | 6 | | [📄✅](reviews/2026-02-aave-v4-securityreview.pdf) |
 | [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | Oct 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
 | [Franklin Templeton BenjiSwap Contract](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Oct 2025 | 1 | | [📄✅](reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf) |
