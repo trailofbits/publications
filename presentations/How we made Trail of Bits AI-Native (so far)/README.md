@@ -12,6 +12,8 @@ resources:
     path: "slides-with-notes.pdf"
   - label: Slides (Google Slides)
     url: https://docs.google.com/presentation/d/1k4sp0NpIgjY2HdP9dgRCEDKRNvj-DSdZUoDIsJ3JUfk/edit?usp=sharing
+  - label: Recording
+    url: https://www.youtube.com/watch?v=kgwvAyF7qsA
   - label: Conference
     url: https://unpromptedcon.org/
   - label: "trailofbits/skills"
