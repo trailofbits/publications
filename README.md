@@ -604,7 +604,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | --- | --: | :-: | --- | :-: |
 | [X XChat](https://x.com/) | Oct 2025 | 4 | | [📄✅](reviews/2025-10-x-xchat-securityreview.pdf) |
 | [Edera Runtime Container](https://edera.dev/) | Oct 2025 | 4 | | [📄](reviews/2025-11-edera-container-runtime-securityreview.pdf) |
-| [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
+| [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | [WhatsApp](https://blog.whatsapp.com/get-the-tone-of-your-message-right-with-private-writing-help), [Trail of Bits](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/) | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
 | [Discord E2EE WebAssembly](https://discord.com/) | Jun 2025 | 3 | | [📄](reviews/2025-06-discord-e2eewebassembly-securityreview.pdf) |
 | [NATS Server](https://nats.io/) | Feb 2025 | 6 | | [📄✅](reviews/2025-04-ostif-nats-securityreview.pdf) |
 | [Istio Ztunnel](https://istio.io/) | Dec 2024 | 2 | [OSTIF](https://ostif.org/istio-ztunnel-audit-complete/), [Istio](https://istio.io/latest/blog/2025/ztunnel-security-assessment/) | [📄✅](/reviews/2024-12-istio-ztunnel-securityreview.pdf) |
