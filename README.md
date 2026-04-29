@@ -783,6 +783,9 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Gensyn Buyback-and-Burn Vault](https://www.gensyn.ai/) | Apr 2026 | 1 | | [📄✅](reviews/2026-04-gensyn-buyback-and-burn-vault-securityreview.pdf) |
+| [Gensyn Bridged Token](https://www.gensyn.ai/) | Apr 2026 | 0.2 | | [📄](reviews/2026-04-gensyn-bridged-gensyn-token-securityreview.pdf) |
+| [Gensyn ERC-20 Token](https://www.gensyn.ai/) | Sep 2025 | 0.2 | | [📄](reviews/2026-04-gensyn-erc-20-token-securityreview.pdf) |
 | [Gensyn Delphi Dynamic Paramutuel Markets](https://app.delphi.fyi/) | Apr 2026 | 3.4 | | [📄✅](reviews/2026-04-gensyn-delphidynamicparamutuelmarkets-securityreview.pdf) |
 | [Shape TokenLock](https://shape.network/audits) | Mar 2026 | 0.4 | | [📄✅](reviews/2026-03-shape-tokenlock-securityreview.pdf) |
 | [Aave v4](https://aave.com) | Feb 2026 | 6 | | [📄✅](reviews/2026-02-aave-v4-securityreview.pdf) |
