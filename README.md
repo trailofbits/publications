@@ -783,6 +783,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Franklin Templeton BenjiSwap Differential Review](https://digitalassets.franklintempleton.com/benji/) | Apr 2026 | 1.2 | | [📄✅](reviews/2026-04-franklintempleton-benjiswapdifferentialreview-securityreview.pdf) |
 | [Gensyn Buyback-and-Burn Vault](https://www.gensyn.ai/) | Apr 2026 | 1 | | [📄✅](reviews/2026-04-gensyn-buyback-and-burn-vault-securityreview.pdf) |
 | [Gensyn Bridged Token](https://www.gensyn.ai/) | Apr 2026 | 0.2 | | [📄](reviews/2026-04-gensyn-bridged-gensyn-token-securityreview.pdf) |
 | [Gensyn ERC-20 Token](https://www.gensyn.ai/) | Sep 2025 | 0.2 | | [📄](reviews/2026-04-gensyn-erc-20-token-securityreview.pdf) |
