@@ -783,6 +783,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Kiln Lagoon Vault Diff Review](https://docs.lagoon.finance/resources/audits) | May 2026 | 1 | | [📄✅](reviews/2026-05-kiln-lagoonvaultdiffreview-securityreview.pdf) |
 | [Franklin Templeton BenjiSwap Differential Review](https://digitalassets.franklintempleton.com/benji/) | Apr 2026 | 1.2 | | [📄✅](reviews/2026-04-franklintempleton-benjiswapdifferentialreview-securityreview.pdf) |
 | [Gensyn Buyback-and-Burn Vault](https://www.gensyn.ai/) | Apr 2026 | 1 | | [📄✅](reviews/2026-04-gensyn-buyback-and-burn-vault-securityreview.pdf) |
 | [Gensyn Bridged Token](https://www.gensyn.ai/) | Apr 2026 | 0.2 | | [📄](reviews/2026-04-gensyn-bridged-gensyn-token-securityreview.pdf) |
