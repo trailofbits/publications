@@ -1042,6 +1042,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Jobcoin Clock-in Program](https://jobcoin.app/clock-in/) | Mar 2026 | 0.6 | | [📄✅](reviews/2026.03-jobcoin-clockinprogram-securityreview.pdf) |
 | [Anza Token-2022 Confidential Transfer, Blockchain](https://www.anza.xyz/) | Jan 2026 | 3 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-blockchain-securityreview.pdf) |
 | [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Feb 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
