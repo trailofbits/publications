@@ -569,6 +569,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Discord DAVE](https://discord.com/) | Aug 2024 | 4 | [Discord](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | Jun 2024 | 10 | | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | Apr 2024 | 1 | [Iron Fish](https://ironfish.network/learn/blog/2024-05-14-fish-hash-audit) | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
+| [AgileBits Snow](https://github.com/mcginty/snow) | Mar 2024 | 4 | | [📄✅](reviews/2024-03-agilebits-snow-securityreview.pdf) |
 | [Silence Laboratories Silent Shard](https://www.silencelaboratories.com) | Feb 2024 | 5 | | [📄✅](reviews/2024-02-silencelaboratories-silentshard-securityreview.pdf) |
 | [Snow](https://github.com/mcginty/snow) | Jan 2024 | 4 | | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Trail of Bits](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
