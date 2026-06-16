@@ -183,7 +183,7 @@
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
 | [Blackhat Ethereum](presentations/Blackhat%20Ethereum) | Ryan Stortz, Jay Little | 2018 |
 | [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Jay Little | 2018 |
-| [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/) | Ryan Stortz | 2018 |
+| [Rattle - an Ethereum EVM binary analysis framework](presentations/Rattle%20-%20an%20Ethereum%20EVM%20binary%20analysis%20framework) | Ryan Stortz | 2018 |
 | [Securing value on the Ethereum blockchain](presentations/Securing%20value%20on%20the%20Ethereum%20blockchain) | Dan Guido | 2018 |
 | [Binary analysis, meet the blockchain](presentations/Binary%20analysis%2C%20meet%20the%20blockchain) | Mark Mossberg | 2018 |
 | [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano, Josselin Feist | 2017 |
@@ -409,7 +409,7 @@
 | --- | --- | --- |
 | [Automated Artifical Intelligence Bill Of Materials for AI/ML Ops](./public-comments/AIBOM-RFI-response.pdf) | U.S. Army PEO IEW&S | Dec 2023 |
 | [Open-Source Software Security: Areas of Long-Term Focus and Prioritization](./public-comments/tob-response-to-oncd-cisa-rfi-2023.pdf) | ONCD, CISA, NSF, DARPA, OMB | Nov 2023 |
-| [Understanding the National Security Implications of AI](https://www.trailofbits.com/documents/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
+| [Understanding the National Security Implications of AI](./public-comments/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
 | [AI Accountability, Regulation, and Audits](https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/) | NTIA | Jun 2023 |
 | [A Comprehensive Risk Assessment Framework for AI Assurance in Ethical, Legal, and Societal Domains](./public-comments/comprehensive-risk-assessment-framework-AI-Assurance-ELS-Domains.pdf) | DARPA | Jun 2023 |
 | [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
