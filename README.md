@@ -610,6 +610,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Turnkey Key Management System](https://www.turnkey.com/) | Jun 2026 | 8 | | [📄✅](reviews/2026-06-turnkey-keymanagementsystem-securityreview.pdf) |
 | [Persona Identities Claims Verification](https://withpersona.com/) | May 2026 | 3 | | [🔖](reviews/2026-05-personaidentities-claimsverification-securityreview.pdf) |
 | [PyPI Warehouse](https://warehouse.pypa.io/) | Apr 2026 | 6 | | [📄](reviews/2026-04-pypi-warehouse-securityreview.pdf) |
+| [Propeller Heads Turbine Front End and SDK](https://propellerheads.xyz/) | Mar 2026 | 2 | | [📄✅](reviews/2026-03-propellerheads-turbinefrontendsdk-securityreview.pdf) |
 | [Propeller Heads Turbine](https://propellerheads.xyz/) | Mar 2026 | 8 | | [📄✅](reviews/2026-03-propellerheads-turbine-securityreview.pdf) |
 | [Zoo Text-to-CAD Platform](https://zoo.dev/) | Mar 2026 | 4 | | [📄✅](reviews/2026-03-Zoo-TextToCad-security-review.pdf) |
 | [X XChat](https://x.com/) | Oct 2025 | 4 | | [📄✅](reviews/2025-10-x-xchat-securityreview.pdf) |
