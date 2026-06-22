@@ -609,6 +609,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | --- | --: | :-: | --- | :-: |
 | [Turnkey Key Management System](https://www.turnkey.com/) | Jun 2026 | 8 | | [📄✅](reviews/2026-06-turnkey-keymanagementsystem-securityreview.pdf) |
 | [PyPI Warehouse](https://warehouse.pypa.io/) | Apr 2026 | 6 | | [📄](reviews/2026-04-pypi-warehouse-securityreview.pdf) |
+| [Zoo Text-to-CAD Platform](https://zoo.dev/) | Mar 2026 | 4 | | [📄✅](reviews/2026.03-Zoo-TextToCad-securityreview.pdf) |
 | [X XChat](https://x.com/) | Oct 2025 | 4 | | [📄✅](reviews/2025-10-x-xchat-securityreview.pdf) |
 | [Edera Runtime Container](https://edera.dev/) | Oct 2025 | 4 | | [📄](reviews/2025-11-edera-container-runtime-securityreview.pdf) |
 | [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | [WhatsApp](https://blog.whatsapp.com/get-the-tone-of-your-message-right-with-private-writing-help), [Trail of Bits](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/) | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
