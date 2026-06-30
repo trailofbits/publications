@@ -121,6 +121,7 @@
 
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
+| [Finding Hidden Overflows in Go: Fuzzing Beyond the Compiler's Limits](presentations/Finding%20Hidden%20Overflows%20in%20Go%3A%20Fuzzing%20Beyond%20the%20Compiler%27s%20Limits) | Kevin Valerio | 2026 |
 | [Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software](presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf) | Ronald Eytchison                              | 2025 |
 | [Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge](presentations/Buttercup:%20The%20Future%20of%20Trail%20of%20Bits'%20Solution%20to%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
 | [Buttercup and DARPA's AI Cyber Challenge, Ringzer0](presentations/Buttercup%20and%20DARPA's%20AI%20Cyber%20Challenge,%20Henrik%20Brodin%20and%20Ronald%20Eytchison) | Henrik Brodin, Ronald Eytchison | 2025 |
@@ -183,7 +184,7 @@
 | [Contract upgrade risks and recommendations](presentations/Contract%20upgrade%20risks%20and%20recommendations) | Josselin Feist | 2018 |
 | [Blackhat Ethereum](presentations/Blackhat%20Ethereum) | Ryan Stortz, Jay Little | 2018 |
 | [Blockchain Autopsies - Analyzing Smart Contract Deaths](presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Jay Little | 2018 |
-| [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/) | Ryan Stortz | 2018 |
+| [Rattle - an Ethereum EVM binary analysis framework](presentations/Rattle%20-%20an%20Ethereum%20EVM%20binary%20analysis%20framework) | Ryan Stortz | 2018 |
 | [Securing value on the Ethereum blockchain](presentations/Securing%20value%20on%20the%20Ethereum%20blockchain) | Dan Guido | 2018 |
 | [Binary analysis, meet the blockchain](presentations/Binary%20analysis%2C%20meet%20the%20blockchain) | Mark Mossberg | 2018 |
 | [Automatic bug finding for the blockchain](presentations/Automatic%20bugfinding%20for%20the%20blockchain) | Felipe Manzano, Josselin Feist | 2017 |
@@ -409,7 +410,7 @@
 | --- | --- | --- |
 | [Automated Artifical Intelligence Bill Of Materials for AI/ML Ops](./public-comments/AIBOM-RFI-response.pdf) | U.S. Army PEO IEW&S | Dec 2023 |
 | [Open-Source Software Security: Areas of Long-Term Focus and Prioritization](./public-comments/tob-response-to-oncd-cisa-rfi-2023.pdf) | ONCD, CISA, NSF, DARPA, OMB | Nov 2023 |
-| [Understanding the National Security Implications of AI](https://www.trailofbits.com/documents/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
+| [Understanding the National Security Implications of AI](./public-comments/whitehouse_otsp_national_security_ai.pdf) | Whitehouse OTSP | Jul 2023 |
 | [AI Accountability, Regulation, and Audits](https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/) | NTIA | Jun 2023 |
 | [A Comprehensive Risk Assessment Framework for AI Assurance in Ethical, Legal, and Societal Domains](./public-comments/comprehensive-risk-assessment-framework-AI-Assurance-ELS-Domains.pdf) | DARPA | Jun 2023 |
 | [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
@@ -447,6 +448,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Offchain Labs Reward Distributor Fixes](https://www.offchainlabs.com/) | Jun 2026 | 0.8 | | [📄](reviews/2026.06-offchainlabs-rewarddistributorfixes-securityreview.pdf) |
 | [Offchain Labs Stylus SDK](https://www.offchainlabs.com/) | Apr 2026 | 9 | | [📄](reviews/2026-04-offchain-stylus-sdk-securityreview.pdf) |
 | [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Feb 2026 | 1.2 | | [📄](reviews/2026-02-offchain-arbitrum-quorum-changes-securityreview.pdf) |
 | [Offchain Labs Arbitrum Nitro External DA](https://www.offchainlabs.com/) | Jan 2026 | 4 | | [📄✅](reviews/2026-01-offchain-nitro-external-da-securityreview.pdf) |
@@ -544,7 +546,9 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Ripple Labs XRP Ledger Confidential Transfer](https://ripple.com/) | Apr 2026 | 6 | | [📄✅](reviews/2026-04-ripple-labs-xrp-ledger-confidential-transfer-securityreview.pdf) |
 | [Open Home Foundation SecureTar v3](https://www.openhomefoundation.org/) | Mar 2026 | 1 | | [📄✅](reviews/2026-03-open-home-foundation-securetar-v3-securityreview.pdf) |
+| [Obsidian Sync](https://obsidian.md/) | Dec 2025 | 2 | | [📄✅](reviews/2025.12-obsidiansync-securityreview.pdf) |
 | [NEAR One PedPop+](https://nearone.org/) | May 2025 | 4 | | [📄](reviews/2025-05-near-one-pedpop+-securityreview.pdf) |
 | [NEAR One MPC Chain Signatures](https://docs.near.org/chain-abstraction/chain-signatures) | Mar 2025 | 6 | | [📄](reviews/2025-03-near-one-mpc-chain-signatures-securityreview.pdf) |
 | [NEAR One Robust ECDSA](https://docs.near.org/chain-abstraction/chain-signatures) | Feb 2026 | 6.4 | | [📄✅](reviews/2026-02-near-one-robust-ecdsa-securityreview.pdf) |
@@ -568,6 +572,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | [Discord DAVE](https://discord.com/) | Aug 2024 | 4 | [Discord](https://discord.com/blog/meet-dave-e2ee-for-audio-video) | [📄✅](reviews/2024-08-discord-dave-protocol-designreview.pdf) |
 | [Lit Protocol Cait-Sith](https://www.litprotocol.com/) | Jun 2024 | 10 | | [📄✅](reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf) |
 | [Iron Fish FishHash](https://ironfish.network/) | Apr 2024 | 1 | [Iron Fish](https://ironfish.network/learn/blog/2024-05-14-fish-hash-audit) | [📄✅](reviews/2024-04-ironfish-fishhash-securityreview.pdf) |
+| [AgileBits Snow](https://github.com/mcginty/snow) | Mar 2024 | 4 | | [📄✅](reviews/2024-03-agilebits-snow-securityreview.pdf) |
 | [Silence Laboratories Silent Shard](https://www.silencelaboratories.com) | Feb 2024 | 5 | | [📄✅](reviews/2024-02-silencelaboratories-silentshard-securityreview.pdf) |
 | [Snow](https://github.com/mcginty/snow) | Jan 2024 | 4 | | [📄✅](reviews/2024-01-agilebits-snow-securityreview.pdf) |
 | [Ockam](https://docs.ockam.io) | Nov 2023 | 11 | [Trail of Bits](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/) | [📄](reviews/2023-11-ockam-designreview.pdf) |
@@ -603,10 +608,18 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Turnkey Key Management System](https://www.turnkey.com/) | Jun 2026 | 8 | | [📄✅](reviews/2026-06-turnkey-keymanagementsystem-securityreview.pdf) |
+| [Persona Identities Claims Verification](https://withpersona.com/) | May 2026 | 3 | | [🔖](reviews/2026-05-personaidentities-claimsverification-securityreview.pdf) |
+| [PyPI Warehouse](https://warehouse.pypa.io/) | Apr 2026 | 6 | | [📄](reviews/2026-04-pypi-warehouse-securityreview.pdf) |
+| [Propeller Heads Turbine Front End and SDK](https://propellerheads.xyz/) | Mar 2026 | 2 | | [📄✅](reviews/2026-03-propellerheads-turbinefrontendsdk-securityreview.pdf) |
+| [Propeller Heads Turbine](https://propellerheads.xyz/) | Mar 2026 | 8 | | [📄✅](reviews/2026-03-propellerheads-turbine-securityreview.pdf) |
+| [Zoo Text-to-CAD Platform](https://zoo.dev/) | Mar 2026 | 4 | | [📄✅](reviews/2026-03-Zoo-TextToCad-security-review.pdf) |
+| [iVerify](https://iverify.io/) | Jun 2026 | 2 | | [📄✅](reviews/2026-06-iverify-securityreview.pdf) |
 | [X XChat](https://x.com/) | Oct 2025 | 4 | | [📄✅](reviews/2025-10-x-xchat-securityreview.pdf) |
 | [Edera Runtime Container](https://edera.dev/) | Oct 2025 | 4 | | [📄](reviews/2025-11-edera-container-runtime-securityreview.pdf) |
-| [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
+| [Meta WhatsApp Private Processing](https://www.meta.com/whatsapp/) | Aug 2025 | 12 | [WhatsApp](https://blog.whatsapp.com/get-the-tone-of-your-message-right-with-private-writing-help), [Trail of Bits](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/) | [📄✅](reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf) |
 | [Discord E2EE WebAssembly](https://discord.com/) | Jun 2025 | 3 | | [📄](reviews/2025-06-discord-e2eewebassembly-securityreview.pdf) |
+| [libVLC](https://images.videolan.org/vlc/libvlc.html) | May 2025 | 5 | | [📄](reviews/2025-05-libvlc-securityreview.pdf) |
 | [NATS Server](https://nats.io/) | Feb 2025 | 6 | | [📄✅](reviews/2025-04-ostif-nats-securityreview.pdf) |
 | [Istio Ztunnel](https://istio.io/) | Dec 2024 | 2 | [OSTIF](https://ostif.org/istio-ztunnel-audit-complete/), [Istio](https://istio.io/latest/blog/2025/ztunnel-security-assessment/) | [📄✅](/reviews/2024-12-istio-ztunnel-securityreview.pdf) |
 | [RubyGems.org](https://www.rubygems.org) | Dec 2024 | 5 | | [📄](reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf) |
@@ -781,6 +794,12 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Kiln Lagoon Vault Diff Review](https://docs.lagoon.finance/resources/audits) | May 2026 | 1 | | [📄✅](reviews/2026-05-kiln-lagoonvaultdiffreview-securityreview.pdf) |
+| [Franklin Templeton BenjiSwap Differential Review](https://digitalassets.franklintempleton.com/benji/) | Apr 2026 | 1.2 | | [📄✅](reviews/2026-04-franklintempleton-benjiswapdifferentialreview-securityreview.pdf) |
+| [Gensyn Buyback-and-Burn Vault](https://www.gensyn.ai/) | Apr 2026 | 1 | | [📄✅](reviews/2026-04-gensyn-buyback-and-burn-vault-securityreview.pdf) |
+| [Gensyn Bridged Token](https://www.gensyn.ai/) | Apr 2026 | 0.2 | | [📄](reviews/2026-04-gensyn-bridged-gensyn-token-securityreview.pdf) |
+| [Gensyn ERC-20 Token](https://www.gensyn.ai/) | Sep 2025 | 0.2 | | [📄](reviews/2026-04-gensyn-erc-20-token-securityreview.pdf) |
+| [Gensyn Delphi Dynamic Paramutuel Markets](https://app.delphi.fyi/) | Apr 2026 | 3.4 | | [📄✅](reviews/2026-04-gensyn-delphidynamicparamutuelmarkets-securityreview.pdf) |
 | [Shape TokenLock](https://shape.network/audits) | Mar 2026 | 0.4 | | [📄✅](reviews/2026-03-shape-tokenlock-securityreview.pdf) |
 | [Aave v4](https://aave.com) | Feb 2026 | 6 | | [📄✅](reviews/2026-02-aave-v4-securityreview.pdf) |
 | [VeChain VeChainThor Hayabusa Upgrade](https://github.com/vechain/thor/releases/tag/v2.3.0) | Oct 2025 | 6 | | [📄✅](reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf) |
@@ -1033,6 +1052,8 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Telcoin Solana Peg Stability Vault](https://bank.telco.in/) | May 2026 | 1.2 | | [📄✅](reviews/2026-06-telcoin-solanapegstabilityvault-securityreview.pdf) |
+| [Jobcoin Clock-in Program](https://jobcoin.app/clock-in/) | Mar 2026 | 0.6 | | [📄✅](reviews/2026.03-jobcoin-clockinprogram-securityreview.pdf) |
 | [Anza Token-2022 Confidential Transfer, Blockchain](https://www.anza.xyz/) | Jan 2026 | 3 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-blockchain-securityreview.pdf) |
 | [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Feb 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
