@@ -547,6 +547,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [Ripple Labs XRP Ledger Confidential Transfer](https://ripple.com/) | Apr 2026 | 6 | | [📄✅](reviews/2026-04-ripple-labs-xrp-ledger-confidential-transfer-securityreview.pdf) |
+| [HyperLink AWS Nitro TEE](https://hyperlink.xyz/) | Mar 2026 | 2.2 | | [📄✅](reviews/2026-03-hyperlink-awsnitrotee-securityreview.pdf) |
 | [Open Home Foundation SecureTar v3](https://www.openhomefoundation.org/) | Mar 2026 | 1 | | [📄✅](reviews/2026-03-open-home-foundation-securetar-v3-securityreview.pdf) |
 | [Obsidian Sync](https://obsidian.md/) | Dec 2025 | 2 | | [📄✅](reviews/2025.12-obsidiansync-securityreview.pdf) |
 | [NEAR One PedPop+](https://nearone.org/) | May 2025 | 4 | | [📄](reviews/2025-05-near-one-pedpop+-securityreview.pdf) |
