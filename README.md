@@ -448,6 +448,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Offchain Labs Arbitrum ArbOS 60/61](https://www.offchainlabs.com/) | Jul 2026 | 24 | | [📄](reviews/2026-07-offchainlabs-arbitrumarbos6061-securityreview.pdf) |
 | [Offchain Labs Reward Distributor Fixes](https://www.offchainlabs.com/) | Jun 2026 | 0.8 | | [📄](reviews/2026.06-offchainlabs-rewarddistributorfixes-securityreview.pdf) |
 | [Offchain Labs Stylus SDK](https://www.offchainlabs.com/) | Apr 2026 | 9 | | [📄](reviews/2026-04-offchain-stylus-sdk-securityreview.pdf) |
 | [Offchain Labs Arbitrum Quorum Changes](https://www.offchainlabs.com/) | Feb 2026 | 1.2 | | [📄](reviews/2026-02-offchain-arbitrum-quorum-changes-securityreview.pdf) |
