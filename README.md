@@ -1132,6 +1132,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Mina Decentralized Treasury | Jun 2026 | 4.6 | | [📄✅](reviews/2026-06-mina-decentralizedtreasury-securityreview.pdf) |
 | [EthStaker Deposit CLI](https://github.com/ethstaker/ethstaker-deposit-cli) | Mar 2026 | 1 | | [📄✅](reviews/2026-03-ethstaker-deposit-cli-securityreview.pdf) |
 | [Chainlink LlamaRisk LlamaGuard NAV CRE](https://chain.link/) | Feb 2026 | 1 | | [📄✅](reviews/2026-02-chainlink-llamariskllamaguardnavcre-securityreview.pdf) |
+| [Liquidium Cross-Chain Lending](https://liquidium.fi/) | Nov 2025 | 4 | | [📄✅](reviews/2025-11-liquidium-cross-chain-lending-securityreview.pdf) |
 | [Shape Gasback](https://shape.network/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-shape-gasback-securityreview.pdf) |
 | [PixelSwap DEX](https://www.pixelswap.io/) | Dec 2024 | 6 | | [📄✅](reviews/2024-12-pixelswap-dex-securityreview.pdf) |
 | [Arkis Prime](https://www.arkis.xyz/) | Dec 2024 | 5 | | [📄✅](reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf) |
