@@ -21,6 +21,7 @@
   - [Podcasts](#podcasts)
   - [Webinars](#webinars)
   - [Public Comments](#public-comments)
+  - [Case Studies](#case-studies)
   - [Security Reviews](#security-reviews)
     - [Major Clients](#major-clients)
       - [Frax Finance](#frax-finance)
@@ -415,6 +416,18 @@
 | [A Comprehensive Risk Assessment Framework for AI Assurance in Ethical, Legal, and Societal Domains](./public-comments/comprehensive-risk-assessment-framework-AI-Assurance-ELS-Domains.pdf) | DARPA | Jun 2023 |
 | [Understanding Crypto Markets Security](https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf) | CFTC | Mar 2023 |
 | [Regulation of Intrusion and Surveillance Software](https://www.regulations.gov/document/BIS-2015-0011-0209) | Commerce Dept | Jul 2015 |
+
+## Case Studies
+
+In-depth looks at how clients have worked with Trail of Bits: the challenge, our approach, and the outcomes. Level of effort is in engineer-weeks.
+
+| Client | Focus | Date | Level of <br />Effort | Case Study |
+| --- | --- | --: | :-: | :-: |
+| [Turnkey](https://www.turnkey.com/) | TEE and AWS Nitro Enclaves infrastructure | Jun 2026 | 8 | [📖](case-studies/turnkey-casestudy.pdf) |
+| [Scopely](https://www.monopolygo.com/) | Monopoly GO! PRNG fairness design assessment | Dec 2024 | 2 | [📖](case-studies/scopely-monopolygo-casestudy.pdf) |
+| [Hugging Face](https://huggingface.co/gradio) | Gradio 5.0 pre-release security assessment | Jun – Jul 2024 | 4 | [📖](case-studies/huggingface-gradio-casestudy.pdf) |
+| [Scroll](https://scroll.io/) | zkEVM circuit security reviews | Apr – Sep 2023 | 45.8 | [📖](case-studies/scroll-zkevm-casestudy.pdf) |
+| [Vanta](https://www.vanta.com/) | Multi-tenant isolation architecture review | | 12 | [📖](case-studies/vanta-casestudy.pdf) |
 
 ## Security Reviews
 
@@ -1278,6 +1291,7 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 | ✅ | Fix review report |
 | 🔖 | Letter of Attestation |
 | 📛 | Threat Model report |
+| 📖 | Case study |
 | 📰 | Whitepaper |
 
 | Header | Definition |
