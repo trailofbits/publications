@@ -424,10 +424,10 @@ In-depth looks at how clients have worked with Trail of Bits: the challenge, our
 | Client | Focus | Date | Level of <br />Effort | Case Study |
 | --- | --- | --: | :-: | :-: |
 | [Turnkey](https://www.turnkey.com/) | TEE and AWS Nitro Enclaves infrastructure | Jun 2026 | 8 | [📖](case-studies/turnkey-casestudy.pdf) |
+| [Vanta](https://www.vanta.com/) | Multi-tenant isolation architecture review | Nov – Dec 2025 | 6 | [📖](case-studies/vanta-casestudy.pdf) |
 | [Scopely](https://www.monopolygo.com/) | Monopoly GO! PRNG fairness design assessment | Dec 2024 | 2 | [📖](case-studies/scopely-monopolygo-casestudy.pdf) |
 | [Hugging Face](https://huggingface.co/gradio) | Gradio 5.0 pre-release security assessment | Jun – Jul 2024 | 4 | [📖](case-studies/huggingface-gradio-casestudy.pdf) |
 | [Scroll](https://scroll.io/) | zkEVM circuit security reviews | Apr – Sep 2023 | 45.8 | [📖](case-studies/scroll-zkevm-casestudy.pdf) |
-| [Vanta](https://www.vanta.com/) | Multi-tenant isolation architecture review | | 12 | [📖](case-studies/vanta-casestudy.pdf) |
 
 ## Security Reviews
 
