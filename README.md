@@ -626,6 +626,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Cape Claims Verification](https://cape.co/) | Jul 2026 | | | [🔖](reviews/cape-claimsverification-letterofattestation.pdf) |
 | [PyTorch ExecuTorch](https://pytorch.org/projects/executorch/) | Jun 2026 | 9 | [OSTIF](https://ostif.org/pytorch-executorch-audit-complete/)| [📄✅](reviews/2026-06-pytorch-executorch-securityreview.pdf) |
 | [Turnkey Key Management System](https://www.turnkey.com/) | Jun 2026 | 8 | | [📄✅](reviews/2026-06-turnkey-keymanagementsystem-securityreview.pdf) |
 | [Persona Identities Claims Verification](https://withpersona.com/) | May 2026 | 3 | | [🔖](reviews/2026-05-personaidentities-claimsverification-securityreview.pdf) |
