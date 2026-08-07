@@ -461,6 +461,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Offchain Labs Yield-Bearing Bridge](https://www.offchainlabs.com/) | Aug 2026 | 4 | | [📄](reviews/2026-08-offchain-yield-bearing-bridge-securityreview.pdf) |
 | [Offchain Labs 3.2.0 Upgrade Action Contract](https://www.offchainlabs.com/) | Jul 2026 | 0.8 | | [📄](reviews/2026-07-offchainlabs-3.2.0-upgradeactioncontract-securityreview.pdf) |
 | [Offchain Labs Sequencer Feed Ticketing](https://www.offchainlabs.com/) | Jul 2026 | 1.8 | | [📄](reviews/2026-07-offchainlabs-sequencerfeedticketing-securityreview.pdf) |
 | [Offchain Labs Arbitrum ArbOS 60/61](https://www.offchainlabs.com/) | Jul 2026 | 24 | | [📄](reviews/2026-07-offchainlabs-arbitrumarbos6061-securityreview.pdf) |
