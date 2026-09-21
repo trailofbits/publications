@@ -557,6 +557,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [OpenAI OpenClaw](https://openclaw.ai) | Sep 2026 | 3 | | [📄](reviews/2026-09-openai-openclaw-securityreview.pdf) |
 | [YOLOv7](https://github.com/WongKinYiu/yolov7/) | Oct 2023 | 4 | | [📄](reviews/2023-10-yolov7-securityreview.pdf) |
 | [SafeTensors](https://github.com/huggingface/safetensors) | Mar 2023 | 2 | | [📄](reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf) |
 
