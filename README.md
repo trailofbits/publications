@@ -1151,7 +1151,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
-| Yon Labs White Paper | Sep 2026 | | | [🔖](reviews/2026-09-yonlabs-whitepaper-letterofattestation.pdf) |
+| [Yon Labs White Paper](https://yon.network) | Sep 2026 | | | [🔖](reviews/2026-09-yonlabs-whitepaper-letterofattestation.pdf) |
 | [cNEAR](https://issuer.assetize.xyz/listings/cnear) | Aug 2026 | 1.2 | | [📄✅](reviews/2026-09-cnear-securityreview.pdf) |
 | [The Quantum Resistant Ledger go-qrllib Library](https://theqrl.org) | Jul 2026 | 3.2 | | [📄✅](reviews/2026-07-thequantumresistantledger-go-qrlliblibrarysecurityreview.pdf) |
 | Mina Decentralized Treasury | Jun 2026 | 4.6 | | [📄✅](reviews/2026-06-mina-decentralizedtreasury-securityreview.pdf) |
