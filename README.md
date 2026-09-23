@@ -631,6 +631,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Amazon Bee Private Compute](https://bee.computer/) | Sep 2026 | 8 | | [📄✅](reviews/2026-09-amazonbeeprivatecompute-securityreview.pdf) |
 | [Wikimedia Foundation OATHAuth MediaWiki Module](https://wikimediafoundation.org/) | Aug 2026 | 4.6 | | [📄✅](reviews/2026-08-wikimediafoundation-oathauthmediawikimodule-securityreview.pdf) |
 | [Cape Claims Verification](https://cape.co/) | Jul 2026 | | | [🔖](reviews/cape-claimsverification-letterofattestation.pdf) |
 | [PyTorch ExecuTorch](https://pytorch.org/projects/executorch/) | Jun 2026 | 9 | [OSTIF](https://ostif.org/pytorch-executorch-audit-complete/)| [📄✅](reviews/2026-06-pytorch-executorch-securityreview.pdf) |
