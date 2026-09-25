@@ -1315,3 +1315,5 @@ Check the [exploits repository](https://github.com/trailofbits/exploits) too.
 | Header | Definition |
 | --- | --- |
 | Level of Effort | Defined in person-weeks for the project |
+
+[⬆ Back to top](#publications-from-trail-of-bits)
