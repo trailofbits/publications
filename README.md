@@ -122,6 +122,7 @@
 
 | Presentation Title | Author(s)                                         | Year |
 | --- |---------------------------------------------------| --- |
+| [Auditing Scapy With Agents](presentations/Auditing%20Scapy%20With%20Agents) | Clinton Thomas | 2026 |
 | [Finding Hidden Overflows in Go: Fuzzing Beyond the Compiler's Limits](presentations/Finding%20Hidden%20Overflows%20in%20Go%3A%20Fuzzing%20Beyond%20the%20Compiler%27s%20Limits) | Kevin Valerio | 2026 |
 | [Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software](presentations/Buttercup:%20Autonomously%20Finding%20and%20Fixing%20Bugs%20at%20Scale%20in%20Open-Source%20Software/buttercup-cucyber.pdf) | Ronald Eytchison                              | 2025 |
 | [Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge](presentations/Buttercup:%20The%20Future%20of%20Trail%20of%20Bits'%20Solution%20to%20DARPA's%20AI%20Cyber%20Challenge) | Trent Brunson | 2025 |
