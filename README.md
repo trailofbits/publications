@@ -766,6 +766,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 #### Wallet Reviews
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Otim Smart Wallet](https://otim.com/) | Mar 2025 | 3 | | [📄✅](reviews/2025-03-otim-smart-wallet-securityreview.pdf) |
 | [Gemini Smart Wallet](https://www.gemini.com/wallet/) | Aug 2025 | 4 | | [📄✅](reviews/2025-08-gemini-smartwallet-securityreview.pdf)[🔖](reviews/2025-08-gemini-smartwallet-letterofattestation.pdf) |
 | [Otim Smart Wallet](https://otim.com/) | Mar 2025 | 3 | | [📄✅](reviews/2025-03-otim-smart-wallet-securityreview.pdf) |
 | [dappOS v2 wallet](https://dappos.com/) | Jul 2023 | 3 | | [📄✅](reviews/2023-07-dappos-securityreview.pdf) |
@@ -823,6 +824,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Gensyn Token Minting Cap](https://www.gensyn.ai/) | Sep 2026 | 0.6 | | [📄](reviews/2026-09-gensyn-token-minting-cap-securityreview.pdf) |
 | [Gensyn Automated Settlement and Permit](https://www.gensyn.ai/) | July 2026 | 1.2 | | [📄✅](reviews/2026-08-gensyn-automated-settlement-permit-securityreview.pdf) |
 | [Arcus Labs Rootchain v5 Smart Contracts](https://arcus.xyz) | Jun 2026 | 2 | | [📄✅](reviews/2026-06-arcuslabs-rootchain-securityreview.pdf) |
 | [Kiln Lagoon Vault Diff Review](https://docs.lagoon.finance/resources/audits) | May 2026 | 1 | | [📄✅](reviews/2026-05-kiln-lagoonvaultdiffreview-securityreview.pdf) |
