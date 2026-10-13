@@ -824,6 +824,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Gensyn Delphi LMSR Markets with Automated Settlement](https://www.gensyn.ai/) | Sep 2026 | 2 | | [📄✅](reviews/2026-09-gensyn-delphi-lmsr-markets-automated-settlement-securityreview.pdf) |
 | [Gensyn Token Minting Cap](https://www.gensyn.ai/) | Sep 2026 | 0.6 | | [📄](reviews/2026-09-gensyn-token-minting-cap-securityreview.pdf) |
 | [Gensyn Automated Settlement and Permit](https://www.gensyn.ai/) | July 2026 | 1.2 | | [📄✅](reviews/2026-08-gensyn-automated-settlement-permit-securityreview.pdf) |
 | [Arcus Labs Rootchain v5 Smart Contracts](https://arcus.xyz) | Jun 2026 | 2 | | [📄✅](reviews/2026-06-arcuslabs-rootchain-securityreview.pdf) |
