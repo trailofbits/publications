@@ -570,6 +570,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
 | [MAGIC Grants Monero FCMP ++ Crypto](https://magicgrants.org/) | Jul 2026 | 2 | | [📄✅](reviews/2026-07-magicgrants-monerofcmp++crypto-securityreview.pdf) |
+| [NEAR One Foreign Transaction Validation](https://docs.near.org/chain-abstraction/chain-signatures) | Jun 2026 | 3.5 | | [📄✅](reviews/2026-06-nearone-foreigntransactionvalidation-securityreview.pdf) |
 | [Ripple Labs XRP Ledger Confidential Transfer](https://ripple.com/) | Apr 2026 | 6 | | [📄✅](reviews/2026-04-ripple-labs-xrp-ledger-confidential-transfer-securityreview.pdf) |
 | [HyperLink AWS Nitro TEE](https://hyperlink.xyz/) | Mar 2026 | 2.2 | | [📄✅](reviews/2026-03-hyperlink-awsnitrotee-securityreview.pdf) |
 | [Open Home Foundation SecureTar v3](https://www.openhomefoundation.org/) | Mar 2026 | 1 | | [📄✅](reviews/2026-03-open-home-foundation-securetar-v3-securityreview.pdf) |
