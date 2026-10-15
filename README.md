@@ -634,6 +634,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [sigstore-rust](https://github.com/sigstore/sigstore-rust) | Oct 2026 | 3.5 | | [📄](reviews/2026-10-sigstore-rust-securityreview.pdf) |
 | [Amazon Bee Private Compute](https://bee.computer/) | Sep 2026 | 8 | | [📄✅](reviews/2026-09-amazonbeeprivatecompute-securityreview.pdf) |
 | [Wikimedia Foundation OATHAuth MediaWiki Module](https://wikimediafoundation.org/) | Aug 2026 | 4.6 | | [📄✅](reviews/2026-08-wikimediafoundation-oathauthmediawikimodule-securityreview.pdf) |
 | [Cape Claims Verification](https://cape.co/) | Jul 2026 | | | [🔖](reviews/cape-claimsverification-letterofattestation.pdf) |
