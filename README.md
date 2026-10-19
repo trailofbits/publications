@@ -462,6 +462,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
+| [Offchain Labs Glamsterdam Gas Parameters](https://www.offchainlabs.com/) | Oct 2026 | 0.8 | | [📄](reviews/2026-10-offchain-labs-glamsterdam-gas-parameters-securityreview.pdf) |
 | [Offchain Labs OSP Soundness Guard](https://www.offchainlabs.com/) | Sep 2026 | 1.6 | | [📄](reviews/2026-09-offchain-osp-guard-securityreview.pdf) |
 | [Offchain Labs Arbitrum Chains Genesis File Generator](https://www.offchainlabs.com/) | Aug 2026 | 0.8 | | [📄✅](reviews/2026-08-offchain-genesis-file-generator-securityreview.pdf) |
 | [Offchain Labs Tip Collection Toggler](https://www.offchainlabs.com/) | Aug 2026 | 0.4 | | [📄](reviews/2026-08-offchainlabs-tipcollectiontoggler-securityreview.pdf) |
