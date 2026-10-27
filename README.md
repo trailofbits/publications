@@ -570,6 +570,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Bron CGGMP21](https://bron.org/) | Oct 2026 | 3 | | [📄✅](reviews/2026-10-bron-cggmp21-securityreview.pdf) |
 | [MAGIC Grants Monero FCMP ++ Crypto](https://magicgrants.org/) | Jul 2026 | 2 | | [📄✅](reviews/2026-07-magicgrants-monerofcmp++crypto-securityreview.pdf) |
 | [NEAR One Foreign Transaction Validation](https://docs.near.org/chain-abstraction/chain-signatures) | Jun 2026 | 3.5 | | [📄✅](reviews/2026-06-nearone-foreigntransactionvalidation-securityreview.pdf) |
 | [Ripple Labs XRP Ledger Confidential Transfer](https://ripple.com/) | Apr 2026 | 6 | | [📄✅](reviews/2026-04-ripple-labs-xrp-ledger-confidential-transfer-securityreview.pdf) |
