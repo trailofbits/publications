@@ -811,6 +811,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Stacks Labs PoX-5 Waterfall](https://www.stackslabs.com/) | Aug 2026 | 6 | | [📄✅](reviews/2026-08-stackslabs-pox-5waterfall-securityreview.pdf) |
 | [ZetaChain Bitcoin Inscriptions](https://www.zetachain.com/) | Jan 2025 | 2 | | [📄✅](reviews/2025-01-zetachain-bitcoin-inscriptions-securityreview.pdf) |
 | [Nomic](https://www.nomic.io/) | Nov 2024 | 10 | [Nomic](https://blog.nomic.io/security-audit-trail-of-bits-8ae87ce19bf0) | [📄✅](reviews/2024-11-nomic-securityreview.pdf) |
 | [STAS SDK](https://www.taal.com/) | Oct 2021 | 4 | | |
