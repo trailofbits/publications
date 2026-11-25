@@ -525,7 +525,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | --- | --: | :-: | --- | :-: |
-| [Scroll TVM to Ethereum](https://scroll.io/) | Nov 2026 | 2 | | [📄✅](reviews/2026-11-scrollfoundation-tvltoethereum-securityreview.pdf) |
+| [Scroll TVL to Ethereum](https://scroll.io/) | Nov 2026 | 2 | | [📄✅](reviews/2026-11-scrollfoundation-tvltoethereum-securityreview.pdf) |
 | [Scroll Feynman Upgrade Smart Contract Changes](https://scroll.io/) | Jul 2025 | 1 | | [📄](reviews/2025-07-scroll-feynmanupgradesmartcontractchanges-securityreview.pdf) |
 | [Scroll Euclid Phase 2](https://scroll.io) | Apr 2025 | 4 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase2-securityreview.pdf)[🔖](reviews/2025-03-scroll-euclidphase2-loa.pdf) |
 | [Scroll Euclid Phase 1](https://scroll.io) | Apr 2025 | 3 | [Scroll](https://gov.scroll.io/proposals/81939631158579841171219988954315753236293867421581097385921335841780903893992) | [📄✅](reviews/2025-04-scroll-euclid-phase1-securityreview.pdf)[🔖](reviews/2025-03-scroll-euclidphase1-loa.pdf) |
